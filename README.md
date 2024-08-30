@@ -4,9 +4,9 @@
 
 <h3>Unofficial Internationalization for Mir Korabli PublicTest</h3>
 
-[![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-I18N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/stargazers)
-[![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-I18N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/releases/latest)
-[![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-I18N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/commit)
+[![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest/stargazers)
+[![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest/releases/latest)
+[![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest/commit)
 
 </div>
 
