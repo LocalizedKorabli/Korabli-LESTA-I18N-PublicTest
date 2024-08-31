@@ -16,13 +16,25 @@ Looking for 简体中文 Localization for PublicTest? Check [Korabli-LESTA-L10N-
 
 ### Download
 
-#### Via GitHub
+Via GitHub
+
+I18n Installer: Download the executable attached to the [latest release](https://github.com/LocalizedKorabli/I18nInstallerGUI/releases/latest).
 
 I18n Package: Extract the `global.mo` file from the downloaded archive in the [latest release](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest/releases/latest).
 
-### Installation
+### Installation (Pick one out of two below)
 
-I18n Installer WIP, but you can check out [BingBongBrian's Tutorial](https://www.reddit.com/r/MirKorabley/comments/1c3k3z8/how_to_set_game_client_to_english/) for now to manually install the package. **PublicTest Client won't parse things in the res_mods folder, so you should directly overwrite the global.mo in res\texts\ru\LC_MESSAGES**
+#### Via I18n Installer
+
+1. Place the downloaded executable anywhere you want, better into Mir Korabli's installation directory;
+2. Run and operate the program under its instruction;
+3. In case the built-in download feature goes wrong, please manually download the l10n package and use `Local File`.
+
+#### Manually
+
+Check out [BingBongBrian's Tutorial](https://www.reddit.com/r/MirKorabley/comments/1c3k3z8/how_to_set_game_client_to_english/) to manually install the package.
+
+**PublicTest Client won't parse things in the res_mods folder, so you should directly overwrite the global.mo in res\texts\ru\LC_MESSAGES**
 
 <details><summary style="font-size: 20px;">Optional</summary>
 
