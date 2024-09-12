@@ -16,7 +16,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_TSAR_MOREY_COMPLETED"
 msgstr "Complete the \"Path of Victors\" collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RUSY_VS_LIZARDS_ASYMM_BATTLE_MEMORABLE"
-msgstr "Win a battle against bots that outnumber you and have higher-level ships."
+msgstr "Win a battle against bots that outnumber you and have higher-tier ships."
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_TSAR_MOREY_COMPLETED"
 msgstr "Path of Victors"
@@ -1318,16 +1318,16 @@ msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium Ship Level IX"
+msgstr "Premium Ship Tier IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Level IX"
+msgstr "Tier IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Premium Ship Level VII–VIII"
+msgstr "Premium Ship Tier VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Level VII–VIII"
+msgstr "Tier VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
