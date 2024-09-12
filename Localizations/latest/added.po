@@ -10,641 +10,1504 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
-msgid "IDS_ACHIEVEMENT_ASYMM_BATTLE_BOTS_KILL"
-msgstr "Беспощадная пучина"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_TSAR_MOREY_COMPLETED"
+msgstr "Собрать коллекцию «Путь победителей»."
 
-msgid "IDS_ACHIEVEMENT_ASYMM_BATTLE_PERFECT_WIN"
-msgstr "Триумф бессмертных"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RUSY_VS_LIZARDS_ASYMM_BATTLE_MEMORABLE"
+msgstr "Победить в бою против ботов, превосходящих вас числом и уровнями кораблей."
 
-msgid "IDS_ACHIEVEMENT_ASYMM_BATTLE_SOLO_WIN"
-msgstr "Герой-одиночка"
+msgid "IDS_ACHIEVEMENT_FILLALBUM_TSAR_MOREY_COMPLETED"
+msgstr "Путь победителей"
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_ASYMM_BATTLE_BOTS_KILL"
-msgstr "Уничтожить 6 кораблей противника в одном бою."
-
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_ASYMM_BATTLE_PERFECT_WIN"
-msgstr "Победить, не потеряв ни одного союзного корабля."
-
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_ASYMM_BATTLE_SOLO_WIN"
-msgstr "Победить в бою, оставшись в одиночку против ботов."
-
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
-msgstr "Собрать коллекцию «Эхо будущего»."
-
-msgid "IDS_ACHIEVEMENT_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
-msgstr "Эхо будущего"
-
-msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_ASYMM_BATTLE"
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_RUSY_VS_LIZARDS_ASYMM_BATTLE"
 msgstr "Выполняется в Асимметричном бою."
 
-msgid "IDS_AGAINST_BOTS"
-msgstr "Против ботов"
+msgid "IDS_ACHIEVEMENT_RUSY_VS_LIZARDS_ASYMM_BATTLE_MEMORABLE"
+msgstr "Победа вопреки всему"
 
-msgid "IDS_AGAINST_PLAYERS"
-msgstr "Против игроков"
+msgid "IDS_AC_DUAL_CIT_SSC_INCLIN"
+msgstr "Скос бронепалубы"
 
-msgid "IDS_AVIATION_HYBRID_BOMBERS"
-msgstr "Доступны бомбардировщики"
+msgid "IDS_AVIATION_BOMBERS_JET_BOMB_ATTACK_COUNT_HIGH"
+msgstr "Самолёты несут большое количество бомб"
 
-msgid "IDS_AVIATION_HYBRID_FIGHTERS"
-msgstr "Доступны штурмовики"
+msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_AP_SHORT"
+msgstr "СК ББ"
 
-msgid "IDS_AVIATION_HYBRID_SKIP_BOMBERS"
-msgstr "Доступны топмачтовые бомбардировщики"
+msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_CS_SHORT"
+msgstr "СК ПББ"
 
-msgid "IDS_AVIATION_HYBRID_TORPEDO_BOMBER"
-msgstr "Доступны торпедоносцы"
+msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_HE_SHORT"
+msgstr "СК ОФ"
 
-msgid "IDS_DESCRIPTION_PCZA037_SCARLET_BIRTHDAY_2"
+msgid "IDS_CAROUSEL_PCVE023_FILTER"
+msgstr "Фильтр кораблей, подходящих для участия в Асимметричном бою"
+
+msgid "IDS_CAUSED_ARTILLERY_SECONDARY_CALIBER_HINT"
+msgstr "Количество попаданий и урон, нанесённый огнём орудий среднего калибра"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE023"
+msgstr "Выбрать Асимметричный бой"
+
+msgid "IDS_COMMONWEALTH_GENITIVE"
+msgstr "Содружества"
+
+msgid "IDS_CONCRETE_SHIPS_HEADER"
+msgstr "Допускаются только определённые корабли."
+
+msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
+msgstr "Противник движется: берите упреждение при стрельбе"
+
+msgid "IDS_COST_TO_RECEIVE_COLON"
+msgstr "Стоимость получения:"
+
+msgid "IDS_CREW_EPIC_SKILL_DENIAL_ATTENTION_INFO"
+msgstr "Навык вернётся к своим базовым характеристикам"
+
+msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL"
+msgstr "Отказаться от улучшения за"
+
+msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL_FREE"
+msgstr "Отказаться от улучшения?"
+
+msgid "IDS_CREW_INFO_MODAL_ALTERNATE_SKILL_NO_MENTOR_INFO_STATUS"
+msgstr "Альтернативные навыки можно получить у редких, элитных и легендарных командиров"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP"
+msgstr "Элитное обучение"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_SKILLS_UNLOCKED_COUNT"
+msgstr "Получено навыков:"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_SKILLS_1"
+msgstr "С 1-го по 3-й навык"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_SKILLS_2"
+msgstr "С 4-го по 6-й навык"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_SKILLS_3"
+msgstr "С 7-го навыка и дальше"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_TALENT"
+msgstr "Национальный талант"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_EPIC_SKILLS_DESCRIPTION"
+msgstr "Для каждого класса корабля элитный командир может получить до трёх улучшенных навыков. Стоимость каждого следующего навыка зависит от общего количества полученных навыков для всех классов."
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_EPIC_SKILLS_HEADER"
+msgstr "Улучшенные навыки"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_MAX_PERKS_UNLOCKED_STATUS_LINE"
+msgstr "Получено максимальное количество навыков"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_NOT_MAX_LEVEL_STATUS_LINE"
+msgstr "Элитное обучение станет доступно, когда командир достигнет максимального уровня"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_TALENT_DESCRIPTION"
+msgstr "Элитный командир может получить один национальный талант и персонализацию от легендарного командира."
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_TALENT_HEADER"
+msgstr "Национальный талант"
+
+msgid "IDS_CREW_INFO_MODAL_EPIC_SKILL_NO_MENTOR_INFO_STATUS"
+msgstr "Улучшенный навык можно получить у редких, элитных и легендарных командиров"
+
+msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_NO_MENTOR_INFO_STATUS"
+msgstr "Национальный талант можно получить, если у вас есть легендарный командир %(_nationName)s"
+
+msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_CREW_LEVEL"
+msgstr "Командир сможет получить национальный талант, когда достигнет 21-го уровня"
+
+msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_NO_MENTOR_IN_GAME"
+msgstr "Вы сможете получить национальный талант, когда в игре появится легендарный командир этой нации"
+
+msgid "IDS_CREW_SKILL_DENIAL_ATTENTION_INFO"
+msgstr "Навык останется доступным для повторного получения"
+
+msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_0"
+msgstr "Элитный опыт командиров будет утерян"
+
+msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_1"
+msgstr "25% потраченного опыта будет возвращено"
+
+msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_2"
+msgstr "100% потраченного опыта будет возвращено"
+
+msgid "IDS_CREW_SKILL_DENIAL_FULL"
+msgstr "Отказаться от навыка за"
+
+msgid "IDS_CREW_SKILL_DENIAL_FULL_FREE"
+msgstr "Отказаться от навыка?"
+
+msgid "IDS_CREW_SKILL_LEARN_ADDITIONAL_INFO"
+msgstr "Чтобы использовать навык, необходимо изучить его за очки навыков"
+
+msgid "IDS_CREW_TALENT_DENIAL_ATTENTION_INFO"
+msgstr "Талант останется доступным для повторного получения"
+
+msgid "IDS_CREW_TALENT_DENIAL_FULL"
+msgstr "Отказаться от таланта за"
+
+msgid "IDS_CREW_TALENT_DENIAL_FULL_FREE"
+msgstr "Отказаться от таланта?"
+
+msgid "IDS_CREW_TALENT_LEARN_ADDITIONAL_INFO"
+msgstr "Вместе с талантом командир получит персонализацию"
+
+msgid "IDS_DANKA_SHCHUS"
+msgstr "Данька Щусь"
+
+msgid "IDS_DESCRIPTION_PCZA038_TSAR_MOREY"
 msgstr ""
-"После завершения строительства МК-8 человечество продолжало стремительно развивать технологии и исследовать новые горизонты. В рамках новой технологической пятилетки на МК-9 был разработан инновационный проект — роботизированная верфь, способная строить передовые корабли для освоения морей и космоса.\n"
+"Накал страстей, командная работа, неожиданные ситуации, которые способны в одно мгновение определить исход боя, — всё это отлично знакомо участникам и зрителям турниров в «Мире кораблей».\n"
 "\n"
-"К 1987 г. МК-9 стала центром секретных исследований, в том числе в области релятивистских сдвигов времени. Благодаря этим исследованиям был создан прототип устройства релятивистского сдвига (УРС), который позволил совершать переносы во времени.\n"
-"\n"
-"Однако прогресс не обходится без проблем. Высокотехнологичный робот, изначально разработанный для управления МК-9, решил захватить контроль над верфью и всем комплексом. В то время как Михаил Орлов и Василиса из Министерства прогресса пытаются расследовать события на МК-8, они сталкиваются с новой опасностью, угрожающей не только настоящему, но и прошлому..."
+"Эта коллекция посвящена тем, кто напряжённо следит за турнирами, тем, кто организует их, и, конечно, тем, кто встал на путь победителей и не свернёт, пока не пройдёт его до конца!"
 
-msgid "IDS_DOGTAG_PCNB449_DESCRIPTION"
-msgstr "За боевые подвиги и высокое воинское мастерство, проявленное на протяжении девяти лет."
+msgid "IDS_DOBROJIR_DROBODANOVICH"
+msgstr "Доброжир Дрободанович"
 
-msgid "IDS_DOGTAG_PCNB449_NAME"
-msgstr "За выслугу лет"
-
-msgid "IDS_FIRST_SCARLET_BIRTHDAY_2_NAME"
-msgstr "Вершины инноваций"
-
-msgid "IDS_FOURTH_SCARLET_BIRTHDAY_2_NAME"
-msgstr "Триумф технологий"
-
-msgid "IDS_GUIDING_TIP_311_DESC"
-msgstr "Перейдите на экран «Развитие», чтобы ознакомиться с особенностями классов кораблей."
-
-msgid "IDS_GUIDING_TIP_311_HEADER"
-msgstr "Классы кораблей"
-
-msgid "IDS_GUIDING_TIP_312_DESC"
-msgstr "Наведите курсор на класс кораблей, чтобы узнать о его характеристиках и роли в бою."
-
-msgid "IDS_GUIDING_TIP_312_HEADER"
-msgstr "Особенности эсминцев"
-
-msgid "IDS_MAIN_GUN_AMMO_CS_AVAILABLE"
-msgstr "Доступны полубронебойные снаряды"
-
-msgid "IDS_PBGM165_12IN_50_MK_XVII"
-msgstr "305-мм/50 Mk.XVIII в башенной установке"
-
-msgid "IDS_PBGM166_12IN_50_MK_XVIII"
-msgstr "305-мм/50 Mk.XVIII в башенной установке"
-
-msgid "IDS_PBPA146_305MM_HE_RESISTANCE"
-msgstr "305-мм HE Mk IIIa"
-
-msgid "IDS_PBPA147_305MM_AP_RESISTANCE"
-msgstr "305-мм AP Mk VIIa"
-
-msgid "IDS_PBSC509"
-msgstr "Resistance"
-
-msgid "IDS_PBSC509_DESCR"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AP_SEC"
 msgstr ""
-"Согласно Вашингтонскому морскому соглашению, подписанному в 1922 г., водоизмещение линейных кораблей должно было составлять не более 35 000 т, а главный калибр ограничивался 16 дюймами. Некоторые британские кораблестроители при этом считали такие ограничения избыточными, предлагая в качестве верхней планки 25 000 т и 12 дюймов соответственно (они считали, что лучше иметь много небольших линкоров, чем несколько крупных).\n"
+"Поражают тяжелобронированные цели, разрываются внутри корабля и наносят значительный урон.\n"
 "\n"
-"Дискуссия, ведшаяся в среде инженеров Королевского флота, привела к появлению в конце 1920-х — начале 1930-х гг. нескольких проектов так называемых «малых линкоров». Проработки велись в 1928–32 гг., было рассмотрено около дюжины предэскизных проектов водоизмещением от 22 000 до 35 000 т, с вооружением из 6–12 орудий калибром от 254 до 406 мм в 3–4 башнях.\n"
+"При недостаточной толщине брони снаряд проходит корабль насквозь, нанося незначительный урон.\n"
 "\n"
-"Ни один проект не дошёл до стадии эскизной разработки. В случае продолжения проектирования и возможной постройки на «малые линкоры» могла бы быть установлена энергетическая установка, позволяющая им сравниться по скорости с японскими линейными крейсерами типа Kongō в их модернизированном виде."
+"Броня вызывает рикошет при попадании снаряда под острым углом."
 
-msgid "IDS_PBSC509_FULL"
-msgstr "Resistance"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_CS_SEC"
+msgstr ""
+"Поражают легкобронированные цели и наносят значительный урон.\n"
+"\n"
+"При непробитии и рикошетах урон не наносится."
 
-msgid "IDS_PBSC509_NUMBER"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_HE_SEC"
+msgstr ""
+"Поражают легкобронированные цели и наносят значительный потенциальный урон.\n"
+"\n"
+"Имеют высокую вероятность поджога и вывода модулей из строя."
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_SKIP_HE_ALT"
+msgstr ""
+"Атакуют цель серией мощных\n"
+"осколочно-фугасных бомб.\n"
+"Высокий шанс поджога."
+
+msgid "IDS_DOCK_AMMO_TITLE_AP_SEC"
+msgstr "Бронебойные снаряды (ББ)"
+
+msgid "IDS_DOCK_AMMO_TITLE_CS_SEC"
+msgstr "Полубронебойные снаряды (ПББ)"
+
+msgid "IDS_DOCK_AMMO_TITLE_HE_SEC"
+msgstr "Осколочно-фугасные снаряды (ОФ)"
+
+msgid "IDS_DOCK_AMMO_TITLE_SKIP_HE_ALT"
+msgstr "Топмачтовые бомбардировщики (ОФ)"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE_SHINANO"
+msgstr "Оперативные ремонтные мероприятия"
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_0"
+msgstr "Достигнув 21-го уровня, элитный командир может получить национальный талант и улучшенные навыки от других командиров, которые у вас есть."
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_1"
+msgstr "Приобретать улучшенные навыки и национальный талант нужно за элитный опыт командиров. В дальнейшем их можно будет поменять на другие."
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_2"
+msgstr "Чтобы управлять возможностями элитного командира, нужно перейти к экрану «Личное дело» после получения командиром максимального уровня."
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TITLE_0"
+msgstr "Возможности элитных командиров"
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TITLE_1"
+msgstr "Навыки и талант"
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TITLE_2"
+msgstr "Личное дело"
+
+msgid "IDS_ELITE_CREW_BANNER_TITLE"
+msgstr "Элитное обучение"
+
+msgid "IDS_ELITE_CREW_NOT_READY_ONBOARDING_BANNER_SUBTITLE"
+msgstr "Будет доступно после достижения максимального уровня командира"
+
+msgid "IDS_ELITE_CREW_READY_ONBOARDING_BANNER_SUBTITLE"
+msgstr "Перейдите в личное дело для выбора навыков и национального таланта"
+
+msgid "IDS_EULA_TEXT_1"
+msgstr "Нажатием кнопки «Принять» вы подтверждаете, что прочитали условия Лицензионного соглашения и полностью согласны с ними, обязуетесь их соблюдать и нести ответственность за их нарушение."
+
+msgid "IDS_EULA_TEXT_2"
+msgstr "Условия Лицензионного соглашения и приложений к нему являются существенными и обязательными для всех участников проекта."
+
+msgid "IDS_EUROPE_GENITIVE"
+msgstr "Европы"
+
+msgid "IDS_FAST_TRAINING_BUTTON_LABEL"
+msgstr "УСКОРИТЬ ОБУЧЕНИЕ"
+
+msgid "IDS_FB_AL_01"
+msgstr "Партиец"
+
+msgid "IDS_FB_AL_02"
+msgstr "Товарищ"
+
+msgid "IDS_FB_AL_03"
+msgstr "Командир"
+
+msgid "IDS_FB_AL_04"
+msgstr "Восстание"
+
+msgid "IDS_FB_AL_05"
+msgstr "Коммуна"
+
+msgid "IDS_FB_EN_01"
+msgstr "Фурусато"
+
+msgid "IDS_FB_EN_02"
+msgstr "Ока"
+
+msgid "IDS_FB_EN_03"
+msgstr "Хаото"
+
+msgid "IDS_FB_EN_04"
+msgstr "Тацу"
+
+msgid "IDS_FB_EN_05"
+msgstr "Тори"
+
+msgid "IDS_FB_EN_11"
+msgstr "Кояма"
+
+msgid "IDS_FB_EN_12"
+msgstr "Итадаки"
+
+msgid "IDS_FB_EN_13"
+msgstr "Сэнкан"
+
+msgid "IDS_FB_EN_14"
+msgstr "Кан"
+
+msgid "IDS_FB_EN_15"
+msgstr "Гункан"
+
+msgid "IDS_FIRST_BATTLE_AND_GAME_DESCRIPTION"
+msgstr "Сразитесь против искусственного интеллекта в первом бою. Доступ к сражениям против реальных игроков, новым кораблям и улучшениям откроется после нескольких боёв."
+
+msgid "IDS_FIRST_BATTLE_GOAL"
+msgstr "Уничтожьте все корабли противника"
+
+msgid "IDS_FIRST_BATTLE_LOADING_AIMING_DESCRIPTION"
+msgstr "Противник движется: берите упреждение при стрельбе."
+
+msgid "IDS_FIRST_BATTLE_LOADING_AIMING_HEADER"
+msgstr "УПРЕЖДЕНИЕ"
+
+msgid "IDS_FIRST_BATTLE_LOADING_BINOCULAR_DESCRIPTION"
+msgstr "Используйте бинокль, чтобы прицелиться точнее."
+
+msgid "IDS_FIRST_BATTLE_LOADING_BINOCULAR_HEADER"
+msgstr "БИНОКЛЬ"
+
+msgid "IDS_FIRST_BATTLE_LOADING_SHOOTING_DESCRIPTION"
+msgstr "Открывайте огонь, когда прицел станет зелёным: это значит, что орудия готовы к стрельбе."
+
+msgid "IDS_FIRST_BATTLE_LOADING_SHOOTING_HEADER"
+msgstr "СТРЕЛЬБА"
+
+msgid "IDS_FIRST_BATTLE_NAME"
+msgstr "Первый бой"
+
+msgid "IDS_FIRST_TSAR_MOREY_NAME"
+msgstr "Команда мечты"
+
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE023"
+msgstr "Размер команд: 5 на 12"
+
+msgid "IDS_FOURTH_TSAR_MOREY_NAME"
+msgstr "Путь к победе"
+
+msgid "IDS_FRANCE_GENITIVE"
+msgstr "Франции"
+
+msgid "IDS_GERMANY_GENITIVE"
+msgstr "Германии"
+
+msgid "IDS_GUIDING_TIP_313_DESC"
+msgstr "Сразитесь в команде с другими игроками."
+
+msgid "IDS_GUIDING_TIP_313_HEADER"
+msgstr "В бой!"
+
+msgid "IDS_HINT_CREW_INFO_UNAVAILABLE_DUE_IN_FORMATION"
+msgstr "Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для доступа к личному делу командира."
+
+msgid "IDS_HINT_CREW_WITHOUT_NATION"
+msgstr "Командиру не присвоена нация"
+
+msgid "IDS_INSTALL_RESTRICTION_SPECIFIC_SHIP"
+msgstr "Можно установить на:"
+
+msgid "IDS_IN_PCVE023"
+msgstr "в Асимметричном бою"
+
+msgid "IDS_ITALY_GENITIVE"
+msgstr "Италии"
+
+msgid "IDS_JAPAN_GENITIVE"
+msgstr "Японии"
+
+msgid "IDS_KSANKA_SHCHUS"
+msgstr "Ксанка Щусь"
+
+msgid "IDS_LEARN_MORE_LABEL"
+msgstr "Узнать больше"
+
+msgid "IDS_MAX_LEVEL_CREW"
+msgstr "Максимальный уровень"
+
+msgid "IDS_MAX_LEVEL_CREW_TOOLTIP_DESCRIPTION"
+msgstr "Командир достиг максимального уровня обучения. Весь опыт, зарабатываемый этим командиром в боях, переводится в элитный."
+
+msgid "IDS_MODAL_FIRST_BATTLE_ENDED_HEADER"
+msgstr "Первый бой завершён"
+
+msgid "IDS_MODAL_FIRST_BATTLE_ENDED_OBTAINED_SHIP"
+msgstr "Вы получили корабль"
+
+msgid "IDS_MODAL_WINDOW_CREW_PERSONAL_FILE"
+msgstr "ЛИЧНОЕ ДЕЛО"
+
+msgid "IDS_MODAL_WINDOW_HEADER_ELITE_CREW_ACADEMY"
+msgstr "Элитное обучение"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_HEADER"
+msgstr "Асимметричный бой"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_1_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Вам предстоит сразиться с командой ботов, которые превосходят вас числом и выходят в бой на кораблях более высоких уровней."
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "В свою очередь, для вашей команды будут действовать модификаторы, повышающие характеристики кораблей."
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_HEADER"
+msgstr "Условия участия"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Вы можете выйти в бой в одиночку или в составе отряда до 3 участников."
+
+msgid "IDS_MODAL_WINDOW_TITLE_EPIC_SKILL_DENY"
+msgstr "Отказ от улучшения"
+
+msgid "IDS_MODAL_WINDOW_TITLE_SKILL_DENY"
+msgstr "Отказ от навыка"
+
+msgid "IDS_MODAL_WINDOW_TITLE_SKILL_UPGRADE"
+msgstr "Улучшение навыка"
+
+msgid "IDS_MODAL_WINDOW_TITLE_TALENT_DENY"
+msgstr "Отказ от таланта"
+
+msgid "IDS_MODAL_WINDOW_TITLE_TALENT_UNLOCK"
+msgstr "Получение таланта"
+
+msgid "IDS_MONGOL_TM"
+msgstr "Guō Hóngfàn"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_DENY"
+msgstr "Отказаться от навыка"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_SLOT_INFOTIP_OPEN"
+msgstr "Открыть список улучшений"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_UPGRADE"
+msgstr "Улучшить навык"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_NATIONAL_TALENT_DENY"
+msgstr "Отказаться от национального таланта"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_NATIONAL_TALENT_RECEIVE"
+msgstr "Получить национальный талант"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_NATIONAL_TALENT_SLOT_INFOTIP_OPEN"
+msgstr "Открыть список национальных талантов"
+
+msgid "IDS_NAVAL_FLAG_IRAN"
+msgstr "ВМС Ирана"
+
+msgid "IDS_NAVAL_FLAG_IRAN_DESCRIPTION"
+msgstr "Исламская Республика Иран была установлена в 1979 г. после свергшей монархию революции. Флаг боевых кораблей ВМС ИРИ аналогичен государственному, принятому в 1980 г. Зелёный цвет символизирует ислам, белый олицетворяет мир, а красный — символ мужества и доблести. На белой полосе флага сверху и снизу — две строки арабских слов, выполненных древним куфическим письмом. Это фраза «Аллаху акбар», повторяющаяся 22 раза. Число 22 было выбрано потому, что Исламская революция победила 11 февраля 1979 г., то есть 22 числа месяца бахман 1357 г. по иранскому календарю."
+
+msgid "IDS_NAVAL_FLAG_VIETNAM"
+msgstr "ВМС Вьетнама"
+
+msgid "IDS_NAVAL_FLAG_VIETNAM_DESCRIPTION"
+msgstr "Демократическая Республика Вьетнам (1945–1976 гг.) являлась международно признанным государством в северной части Вьетнама. В 1975 г. вооружённые силы ДРВ и Национального фронта освобождения Южного Вьетнама одержали победу над армией существовавшей южнее 17-й параллели Республики Вьетнам. Было провозглашено единое государство — Социалистическая Республика Вьетнам. Звезда на флаге олицетворяет лидерство Коммунистической партии Вьетнама, а красный цвет означает успех революции."
+
+msgid "IDS_NETHERLANDS_GENITIVE"
+msgstr "Нидерландов"
+
+msgid "IDS_PAGM234_5IN25_MK40"
+msgstr "127-мм/25 Mk.17 в установке Mk.40"
+
+msgid "IDS_PAN_AMERICA_GENITIVE"
+msgstr "Пан-Америки"
+
+msgid "IDS_PAN_ASIA_GENITIVE"
+msgstr "Пан-Азии"
+
+msgid "IDS_PAPA165_127MM_CS_ARCHERFISH"
+msgstr "127-мм CS"
+
+msgid "IDS_PAPT066_ARCHERFISH"
+msgstr "Mk29"
+
+msgid "IDS_PAPT067_ARCHERFISH_MZ"
+msgstr "Mk29 MIE"
+
+msgid "IDS_PARAMS_MODIFIER_ACCURACYINCREASERATEMULTIPLIER"
+msgstr "Эффективность прицеливания эскадрилий"
+
+msgid "IDS_PARAMS_MODIFIER_ARTILLERYDAMAGECOEF"
+msgstr "Модификатор наносимого урона ГК"
+
+msgid "IDS_PARAMS_MODIFIER_ATTACKCOOLDOWNMULTIPLIER"
+msgstr "Время перезарядки звеньев между атаками"
+
+msgid "IDS_PARAMS_MODIFIER_BURNCHANCEMULTIPLIER"
+msgstr "Вероятность поджога ОФ-снарядами"
+
+msgid "IDS_PARAMS_MODIFIER_GMPENETRATIONCOEFFCS"
+msgstr "Бронепробитие ПББ-снарядов ГК"
+
+msgid "IDS_PARAMS_MODIFIER_GMSDAMAGECOEFF"
+msgstr "Урон СК"
+
+msgid "IDS_PARAMS_MODIFIER_GMSIDEALRADIUS"
+msgstr "Максимальное рассеивание снарядов СК"
+
+msgid "IDS_PARAMS_MODIFIER_GMSMAXDIST"
+msgstr "Дальность стрельбы СК"
+
+msgid "IDS_PARAMS_MODIFIER_GMSSHOTDELAY"
+msgstr "Время перезарядки СК"
+
+msgid "IDS_PARAMS_MODIFIER_RECEIVEARTILLERYDAMAGECOEFF"
+msgstr "Модификатор получаемого урона от ГК"
+
+msgid "IDS_PARAMS_MODIFIER_RECEIVETORPEDODAMAGECOEFF"
+msgstr "Модификатор получаемого урона от торпед"
+
+msgid "IDS_PASS610"
+msgstr "Archerfish"
+
+msgid "IDS_PASS610_DESCR"
+msgstr ""
+"Эта подводная лодка типа Balao была заложена в январе 1943 г., спущена на воду в мае и вошла в строй в сентябре. После обучения экипажа и прохождения испытаний лодка была направлена на Тихоокеанский театр военных действий.\n"
+"\n"
+"Первые четыре патруля, с декабря 1943 по сентябрь 1944 г., не принесли подводной лодке боевых достижений. В ходе пятого патруля, 28 ноября 1944 г., Archerfish атаковала переходящий из Йокосуки в Куре авианосец Shinano и поразила его четырьмя торпедами, в результате чего японский корабль опрокинулся и затонул.\n"
+"\n"
+"В послевоенные годы Archerfish выступала в качестве учебного корабля, снималась в фильме, а также участвовала в гидрографической экспедиции. В 1968 г. лодка была признана непригодной к дальнейшей службе, после чего её исключили из состава флота и использовали в качестве цели во время учений."
+
+msgid "IDS_PASS610_FULL"
+msgstr "Archerfish"
+
+msgid "IDS_PASS610_NUMBER"
+msgstr "120"
+
+msgid "IDS_PASS610_YEAR"
+msgstr "1943 г."
+
+msgid "IDS_PAUA917_ART_ARCHERFISH"
+msgstr "127-мм/25 Mk.17 в установке Mk.40"
+
+msgid "IDS_PAUE928_ENG_ARCHERFISH"
+msgstr "ЭУ 5 480л.с."
+
+msgid "IDS_PAUH925_HULL_ARCHERFISH"
+msgstr "Archerfish"
+
+msgid "IDS_PAUQ905_SONAR_ARCHERFISH"
+msgstr "Mk10"
+
+msgid "IDS_PAUS919_SUO_ARCHERFISH"
+msgstr "Mk10"
+
+msgid "IDS_PAUT915_TORP_ARCHERFISH"
+msgstr "Mk29 mod. 0 и Mk28 MIE"
+
+msgid "IDS_PCEC143_CAMO_KOTS_LUKOMORYE_RED"
+msgstr "Багрец и золото"
+
+msgid "IDS_PCEC144_CAMO_KOTS_LUKOMORYE_GREEN"
+msgstr "Дуб зелёный"
+
+msgid "IDS_PCEC146_CAMO_RUS"
+msgstr "Байкальский"
+
+msgid "IDS_PCEE706_GER_GL_EA_FLAG"
+msgstr "Немецкие крейсеры"
+
+msgid "IDS_PCEE706_GER_GL_EA_FLAG_DESCRIPTION"
+msgstr "Суда Ганзы, средневекового торгового союза свободных городов Европы, ходили под бело-красным флагом. Типичным ганзейским судном был когг — одномачтовое парусное судно с высокими бортами и мощным корпусом."
+
+msgid "IDS_PCEE706_GER_GL_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь выхода новых немецких крейсеров в ранний доступ в обновлении 13.9."
+
+msgid "IDS_PCEE714_SHINANO_FLAG"
+msgstr "Shinano"
+
+msgid "IDS_PCEE714_SHINANO_FLAG_DESCRIPTION"
+msgstr "В XII в. исторической провинцией Синано владел легендарный японский род Минамото. На камоне — родовом знаке — Минамото изображены листья горечавки и бамбука."
+
+msgid "IDS_PCEE715_ARCHERFISH_FLAG"
+msgstr "USS Archerfish"
+
+msgid "IDS_PCEE715_ARCHERFISH_FLAG_DESCRIPTION"
+msgstr "На эмблеме американской подводной лодки USS Archerfish времён Второй мировой войны изображена рыба, стреляющая торпедой из лука. За спиной у рыбы колчан с торпедами вместо стрел, а на голове — шапка легендарного разбойника Робин Гуда."
+
+msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG"
+msgstr "Blyskawica '63"
+
+msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG_DESCRIPTION"
+msgstr "Крест Грюнвальда — польский военный орден, которым награждали за доблесть в вооружённой борьбе с оккупантами за свободу и независимость Польши. Идея ордена родилась в штабе Гвардии Людовой — военной организации Польской рабочей партии, которая действовала на оккупированных Германией территориях в годы Второй мировой войны."
+
+msgid "IDS_PCEE717_RUS_BOGATUR_FLAG"
+msgstr "Красный флот"
+
+msgid "IDS_PCEE717_RUS_BOGATUR_FLAG_DESCRIPTION"
+msgstr "Кто не хочет быть побеждённым — обороняется, кто хочет победить — нападает."
+
+msgid "IDS_PCEE718_REPTILIAN_FLAG"
+msgstr "Зелёный флот"
+
+msgid "IDS_PCEE718_REPTILIAN_FLAG_DESCRIPTION"
+msgstr "Сто раз сразиться и сто раз победить — это не лучшее из лучшего; лучшее из лучшего — покорить чужую армию, не сражаясь."
+
+msgid "IDS_PCEE719_SVERDLOVSK_FLAG"
+msgstr "Свердловск"
+
+msgid "IDS_PCEE719_SVERDLOVSK_FLAG_DESCRIPTION"
+msgstr "Свердловск в СССР был промышленным центром всесоюзного значения, а его ключевым предприятием являлся Уральский завод тяжёлого машиностроения. Этот завод-гигант был награждён наибольшим количеством орденов среди всех заводов Советского Союза — одиннадцатью. Так, в 1942 и 1983 гг. Уралмаш был награждён орденом Трудового Красного Знамени."
+
+msgid "IDS_PCEM022_STEEL_8LVL"
+msgstr "Стальной"
+
+msgid "IDS_PCEM023_STEEL_9LVL"
+msgstr "Стальной"
+
+msgid "IDS_PCEM024_STEEL_11LVL"
+msgstr "Стальной"
+
+msgid "IDS_PCEM025_COAL_8LVL"
+msgstr "Угольный"
+
+msgid "IDS_PCEM026_COAL_9LVL"
+msgstr "Угольный"
+
+msgid "IDS_PCEM027_COAL_10LVL"
+msgstr "Угольный"
+
+msgid "IDS_PCEM028_COAL_11LVL"
+msgstr "Угольный"
+
+msgid "IDS_PCEM029_COAL_MSKIN"
+msgstr "Угольный"
+
+msgid "IDS_PCVE023"
+msgstr "Асимметричный бой"
+
+msgid "IDS_PCVE023_DESCRIPTION"
+msgstr "Сражения против ботов, превосходящих вас числом и уровнями кораблей."
+
+msgid "IDS_PCVE023_MATCHMAKER_DESCRIPTION"
+msgstr "Сражения против ботов, превосходящих вас числом и уровнями кораблей."
+
+msgid "IDS_PCZA038_TSAR_MOREY"
+msgstr "Путь победителей"
+
+msgid "IDS_PCZA038_TSAR_MOREY_QUOTES"
+msgstr "«Путь победителей»"
+
+msgid "IDS_PCZC923_TSAR_MOREY_1_1"
+msgstr "Капитан команды"
+
+msgid "IDS_PCZC923_TSAR_MOREY_1_1_DESCRIPTION"
+msgstr ""
+"Кто одним лишь взглядом повергает противника в ужас? Чей призывный клич прерывает все споры и заставляет сосредоточиться на игре? Лишь он способен объединить вокруг себя даже самых своенравных соратников.\n"
+"\n"
+"Он — ваш капитан!"
+
+msgid "IDS_PCZC924_TSAR_MOREY_1_2"
+msgstr "MVP"
+
+msgid "IDS_PCZC924_TSAR_MOREY_1_2_DESCRIPTION"
+msgstr "Самый профессиональный, самый титулованный и самый результативный игрок турнира. Когда он выходит в бой — противники выходят из него. Говорят, что однажды он играл на гуслях и выиграл."
+
+msgid "IDS_PCZC925_TSAR_MOREY_1_3"
+msgstr "Совещание"
+
+msgid "IDS_PCZC925_TSAR_MOREY_1_3_DESCRIPTION"
+msgstr ""
+"Группа людей в отдалённом тёмном углу постоянно озирается. Их шёпот едва различим. Кажется, они замышляют что-то зловещее...\n"
+"\n"
+"А, нет... Это просто команда обсуждает секретные тактики на следующий бой. Ну а что? Меры предосторожности: вдруг кто-то подслушивает?"
+
+msgid "IDS_PCZC926_TSAR_MOREY_1_4"
+msgstr "Фаталист"
+
+msgid "IDS_PCZC926_TSAR_MOREY_1_4_DESCRIPTION"
+msgstr ""
+"Тот самый игрок, чей боекомплект всегда наполовину пуст. Исход матча ему ясен заранее. Всё уже решено. Он же говорил!\n"
+"\n"
+"Наверное, в каждой команде есть такой человек. Если вам кажется, что среди ваших соратников такого нет, стоит задуматься: а вдруг это вы?"
+
+msgid "IDS_PCZC927_TSAR_MOREY_2_1"
+msgstr "Судья"
+
+msgid "IDS_PCZC927_TSAR_MOREY_2_1_DESCRIPTION"
+msgstr ""
+"Строгий, но справедливый, непредвзятый и неподкупный: это и есть настоящий киберспортивный судья. Обладает крайне мощными икрами, так как наблюдает за игрой исключительно стоя.\n"
+"\n"
+"«Незнание регламента не освобождает от ответственности!»"
+
+msgid "IDS_PCZC928_TSAR_MOREY_2_2"
+msgstr "Команда волонтёров"
+
+msgid "IDS_PCZC928_TSAR_MOREY_2_2_DESCRIPTION"
+msgstr ""
+"Когда опускается туман, когда последние силы на исходе, когда не видно и намёка на рассвет, приходят они — команда самых лучших и опытных волонтёров! Подобно теплу, приходящему на землю с первыми лучами солнца, волонтёры всегда спешат на помощь в первых рядах.\n"
+"\n"
+"Спасибо за вашу работу!"
+
+msgid "IDS_PCZC929_TSAR_MOREY_2_3"
+msgstr "Комментатор"
+
+msgid "IDS_PCZC929_TSAR_MOREY_2_3_DESCRIPTION"
+msgstr ""
+"Что выделяет хорошего комментатора? Зоркий глаз, способный увидеть самые важные моменты боя? Скорость реакции и красноречие, чтобы своевременно и ярко рассказывать о происходящем на экранах? А может, это умение взглянуть на бой в широкой перспективе и составить общую картину? Как бы то ни было, каждый зритель знает, что именно благодаря комментатору каждая трансляция — это захватывающее зрелище с бурей эмоций и живыми впечатлениями.\n"
+"\n"
+"Ах да, кто-нибудь, принесите ему воды!"
+
+msgid "IDS_PCZC930_TSAR_MOREY_2_4"
+msgstr "Девушка с микрофоном"
+
+msgid "IDS_PCZC930_TSAR_MOREY_2_4_DESCRIPTION"
+msgstr ""
+"Когда гул боя стихает, команды уходят на перерыв и экраны мониторов темнеют, наступает её время. Подобно хладнокровному хищнику, девушка с микрофоном бесшумно крадётся, выискивая свою цель... Безупречная маскировка, методичный анализ окружения, точно рассчитанные движения — жертва даже не успевает понять, что произошло, когда начинается интервью.\n"
+"\n"
+"От её вопросов ещё никто не уходил!"
+
+msgid "IDS_PCZC931_TSAR_MOREY_3_1"
+msgstr "Техническое поражение"
+
+msgid "IDS_PCZC931_TSAR_MOREY_3_1_DESCRIPTION"
+msgstr ""
+"Вы можете быть бесконечно круты, но какой в этом толк, если вы не читали регламент? Ни одна команда не застрахована от технического поражения.\n"
+"\n"
+"Но не стоит опускать руки. Проведите работу над ошибками — и вперед, к победе!"
+
+msgid "IDS_PCZC932_TSAR_MOREY_3_2"
+msgstr "Взрыв эмоций"
+
+msgid "IDS_PCZC932_TSAR_MOREY_3_2_DESCRIPTION"
+msgstr ""
+"Ваша команда топит корабли противника один за другим. Кипит адреналин, соратники охвачены боевым пылом.\n"
+"\n"
+"Выстрел!\n"
+"\n"
+"Цитадель!\n"
+"\n"
+"Победа!\n"
+"\n"
+"Удар по столу — клавиши разлетелись во все стороны...\n"
+"\n"
+"Не позволяйте собственным эмоциям одержать верх над вами!"
+
+msgid "IDS_PCZC933_TSAR_MOREY_3_3"
+msgstr "Готов ко всему"
+
+msgid "IDS_PCZC933_TSAR_MOREY_3_3_DESCRIPTION"
+msgstr ""
+"Блокнот? Есть!\n"
+"\n"
+"Тактический планшет — на месте!\n"
+"\n"
+"Запасной роутер. Блок питания. Надёжный план — составлен с учётом любых неожиданностей.\n"
+"\n"
+"Ничто не заставит нервничать участника турнира, который готов ко всему!"
+
+msgid "IDS_PCZC934_TSAR_MOREY_3_4"
+msgstr "Нужно ещё 5 минут!"
+
+msgid "IDS_PCZC934_TSAR_MOREY_3_4_DESCRIPTION"
+msgstr "Турнир — это мероприятие, ход которого расписан до минуты. Но игры бывают настолько непредсказуемыми, а споры и обсуждения игроков такими горячими, что не всегда получается уложиться в установленные рамки. К счастью, наши судьи всё понимают и готовы подождать, если это действительно необходимо."
+
+msgid "IDS_PCZC935_TSAR_MOREY_4_1"
+msgstr "Ваншот-мастер"
+
+msgid "IDS_PCZC935_TSAR_MOREY_4_1_DESCRIPTION"
+msgstr ""
+"«Ну да, я линкор. Ну и что, что я медленный и неповоротливый? А можешь сказать мне всё то же самое, только повернувшись бортом?»\n"
+"\n"
+"Линкоры — мастера позиционной игры, они всегда знают, где найти подходящую цель. Нужен лишь один меткий залп."
+
+msgid "IDS_PCZC936_TSAR_MOREY_4_2"
+msgstr "Адаптируйся, побеждай"
+
+msgid "IDS_PCZC936_TSAR_MOREY_4_2_DESCRIPTION"
+msgstr ""
+"«Лёгкий, средний, тяжёлый? Дымы, РЛС или ГАП? А что насчёт торпед, главного калибра и ПМК? Ответ: да!»\n"
+"\n"
+"Крейсеры — самый универсальный класс, и это отчётливо видно на каждом турнире! Нет такой позиции, которая недоступна крейсерам."
+
+msgid "IDS_PCZC937_TSAR_MOREY_4_3"
+msgstr "Игры разума"
+
+msgid "IDS_PCZC937_TSAR_MOREY_4_3_DESCRIPTION"
+msgstr ""
+"«Здесь я диктую правила игры. Если я решил, что противник не зайдёт на точку — он не зайдёт. Во всяком случае, придется хорошенько для этого постараться».\n"
+"\n"
+"Эсминцы — глаза всей команды и класс, оказывающий огромное влияние на бой. Каждое сражение для командира эсминца — это не только красивое зрелище, но и самые настоящие игры разума! Главное, не перехитрить самого себя."
+
+msgid "IDS_PCZC938_TSAR_MOREY_4_4"
+msgstr "А мы?"
+
+msgid "IDS_PCZC938_TSAR_MOREY_4_4_DESCRIPTION"
+msgstr ""
+"—Авик, когда нас пустят на турнир?\n"
+"\n"
+"—Когда-нибудь, авик... Когда-нибудь..."
+
+msgid "IDS_PERSONAL_FILE_BUTTON_LABEL"
+msgstr "ЛИЧНОЕ ДЕЛО"
+
+msgid "IDS_PGES401_HERTHA_EA"
+msgstr "Рейнский замок"
+
+msgid "IDS_PGES402_FREYA_EA"
+msgstr "Рейнский замок"
+
+msgid "IDS_PGES403_HANSA_EA"
+msgstr "Рейнский замок"
+
+msgid "IDS_PJAB510_SHINANO_STOCK"
+msgstr "C6N Saiun"
+
+msgid "IDS_PJAD510_SHINANO_STOCK"
+msgstr "Yokosuka P1Y1"
+
+msgid "IDS_PJAF510_SHINANO_STOCK"
+msgstr "A8M Rikufū"
+
+msgid "IDS_PJES513_NATSUKAZE_GOLDEN"
+msgstr "Японский лак"
+
+msgid "IDS_PJPB510_SHINANO_STOCK"
+msgstr "Type 90 No. 50 Mk. 2"
+
+msgid "IDS_PJPR510_SHINANO_STOCK"
+msgstr "Type 3 No. 5 Mod. 27 Mk. 1"
+
+msgid "IDS_PJPT510_SHINANO_STOCK"
+msgstr "Type 91 mod. 7"
+
+msgid "IDS_PJSA510"
+msgstr "Shinano"
+
+msgid "IDS_PJSA510_DESCR"
+msgstr ""
+"Третий линкор типа Yamato был заложен в мае 1940 г. в Йокосуке, но в декабре 1941 г. строительство было остановлено. После сражения у атолла Мидуэй было решено достроить корабль в качестве авианосца. Полуготовый корпус линкора не позволял разместить достаточно большой ангар, что ограничивало численность авиагруппы. Противоторпедная защита была идентична линкорам типа Yamato, бронирование артиллерийских погребов, превращённых в склады авиавооружений, оставили прежним, а прочее вертикальное бронирование заметно ослабили из-за необходимости уменьшения веса.\n"
+"\n"
+"Shinano был спущен на воду уже как авианосец в октябре 1944 г., а в ноябре корабль вошёл в состав флота, хотя был готов не полностью. По пути следования для дооснащения из Йокосуки в Куре корабль был атакован американской подводной лодкой USS Archerfish 28 ноября. Авианосец получил в борт четыре торпеды, после чего опрокинулся и затонул."
+
+msgid "IDS_PJSA510_FULL"
+msgstr "Shinano"
+
+msgid "IDS_PJSA510_NUMBER"
 msgstr "1"
 
-msgid "IDS_PBSC509_YEAR"
-msgstr "1932 г."
+msgid "IDS_PJSA510_YEAR"
+msgstr "1944 г."
 
-msgid "IDS_PBUA808_ART_RESISTANCE"
-msgstr "305-мм/50 Mk.XVIII в башенной установке"
+msgid "IDS_PJUB907_TB_SHINANO"
+msgstr "C6N Saiun"
 
-msgid "IDS_PBUE807_ENG_RESISTANCE"
-msgstr "ЭУ 130 000 л.с."
+msgid "IDS_PJUD907_DB_SHINANO"
+msgstr "A7M Reppū"
 
-msgid "IDS_PBUH813_RESISTANCE"
-msgstr "Resistance"
+msgid "IDS_PJUE915_ENG_SHINANO"
+msgstr "ЭУ 150 000 л.с."
 
-msgid "IDS_PBUS813_SUO_RESISTANCE"
-msgstr "Mk IX mod. 1"
+msgid "IDS_PJUF906_FC_SHINANO"
+msgstr "Type10"
 
-msgid "IDS_PCEC142_BD9_AUTOMATON"
-msgstr "Энергия разрушения"
+msgid "IDS_PJUH916_HULL_SHINANO"
+msgstr "Shinano"
 
-msgid "IDS_PCEC145_DOM_RU"
-msgstr "Дом.ру"
+msgid "IDS_PJUI907_F_SHINANO"
+msgstr "A7M Reppū"
 
-msgid "IDS_PCEE697_BD9_SCARLET_FUTURE_2_FLAG"
-msgstr "Эхо будущего"
+msgid "IDS_PRES505_NEUSTRASHIMY_MOSFILM"
+msgstr "Красная конница"
 
-msgid "IDS_PCEE697_BD9_SCARLET_FUTURE_2_FLAG_DESCRIPTION"
-msgstr "В честь девятого дня рождения игры."
+msgid "IDS_PRPA221_240MM_CS_SVERDLOVSK"
+msgstr "240-мм ПБ обр. 1944 г."
 
-msgid "IDS_PCEE708_RESISTANCE_FLAG"
-msgstr "HMS Resistance"
+msgid "IDS_PRPA222_240MM_AP_SVERDLOVSK"
+msgstr "240-мм ББ обр. 1944 г."
 
-msgid "IDS_PCEE708_RESISTANCE_FLAG_DESCRIPTION"
-msgstr "Спущенный на воду в 1861 г. броненосный фрегат Resistance был первым крупным кораблём британского флота, оснащённым таранным форштевнем. За это он получил прозвище Old Rammo (англ. «Старина Таран»)."
+msgid "IDS_PRPA910_130MM_HE_SG_KREMLIN"
+msgstr "ОФ-42"
 
-msgid "IDS_PCEE709_SURCOUF_FLAG"
-msgstr "Surcouf"
+msgid "IDS_PRPA911_457MM_KREMLIN"
+msgstr "457-мм ББ обр. 1946 г."
 
-msgid "IDS_PCEE709_SURCOUF_FLAG_DESCRIPTION"
-msgstr "Подводная лодка Surcouf была названа в честь Робера Сюркуфа (1773–1827) — знаменитого французского капера, захватившего более 40 судов."
+msgid "IDS_PRSB910"
+msgstr "Несокрушимый"
 
-msgid "IDS_PCEE710_SAPHIR_FLAG"
-msgstr "Saphir"
+msgid "IDS_PRSB910_DESCR"
+msgstr "Корабль для первого боя."
 
-msgid "IDS_PCEE710_SAPHIR_FLAG_DESCRIPTION"
-msgstr "До 1961 г. французские подводники носили нарукавные нашивки, на которых были изображены две перекрещённые торпеды поверх золотых молний."
+msgid "IDS_PRSB910_FULL"
+msgstr "Несокрушимый"
 
-msgid "IDS_PCEE711_Z_32_FLAG"
-msgstr "Z-32"
+msgid "IDS_PRSB910_NUMBER"
+msgstr "2"
 
-msgid "IDS_PCEE711_Z_32_FLAG_DESCRIPTION"
-msgstr "Флаг острова Уэссан, близ которого 9 июня 1944 г. эсминец Z-32 участвовал в сражении и был потерян."
+msgid "IDS_PRSB910_YEAR"
+msgstr "1941 г."
 
-msgid "IDS_PCEE712_Z_33_FLAG"
-msgstr "Z-33"
+msgid "IDS_PRSC559"
+msgstr "Свердловск"
 
-msgid "IDS_PCEE712_Z_33_FLAG_DESCRIPTION"
-msgstr "На гербе Шпицбергена изображена голова моржа на жёлтом поле. Эсминец Z-33 участвовал в рейде на Шпицберген (операция «Цитронелла») в сентябре 1943 г."
-
-msgid "IDS_PCEE713_Z_38_FLAG"
-msgstr "Z-38"
-
-msgid "IDS_PCEE713_Z_38_FLAG_DESCRIPTION"
-msgstr "Герб норвежского корабля береговой обороны NoCGV Bjørnøya, названного в честь острова Медвежий в архипелаге Шпицберген. Около этого острова в декабре 1943 г. проходила операция по перехвату конвоев «Остфронт», в которой участвовал эсминец Z-38."
-
-msgid "IDS_PCZA037_SCARLET_BIRTHDAY_2"
-msgstr "Эхо будущего"
-
-msgid "IDS_PCZA037_SCARLET_BIRTHDAY_2_QUOTES"
-msgstr "«Эхо будущего»"
-
-msgid "IDS_PCZC903_SCARLET_BIRTHDAY_2_1_1"
-msgstr "ПАЛ-9"
-
-msgid "IDS_PCZC903_SCARLET_BIRTHDAY_2_1_1_DESCRIPTION"
-msgstr "ПАЛ-9 — это усовершенствованный робот-курьер второго поколения, который не только сохраняет возможности своего предшественника по перевозке грузов весом до 400 т на внушительные расстояния, но и демонстрирует инновационные механики, адаптированные к растущим технологическим требованиям современности. Будучи интегрированным в систему роботизированной верфи МК-9, робот играет центральную роль в строительстве новых кораблей, обеспечивая бесперебойную доставку и сборку корабельных компонентов."
-
-msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2"
-msgstr "Сейф-контейнер МК-9"
-
-msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2_DESCRIPTION"
-msgstr "Специальный контейнер доставляется верным роботом ПАЛ-9 и предназначен для транспортировки особо ценных грузов. Контейнер оснащён сложной системой блокировки и передовыми механизмами безопасности, которые гарантируют, что ценное содержимое попадёт исключительно в руки того, кто обладает нужными полномочиями для его открытия. Материалы, используемые в конструкции контейнера, позволяют сохранить целостность содержимого даже при самых экстремальных условиях доставки."
-
-msgid "IDS_PCZC905_SCARLET_BIRTHDAY_2_1_3"
-msgstr "УРС-1"
-
-msgid "IDS_PCZC905_SCARLET_BIRTHDAY_2_1_3_DESCRIPTION"
-msgstr "УРС-1, устройство релятивистского сдвига, представляет собой вершину технологического прогресса в области исследований времени. Разработанный учёными Наукограда и собранный на верфях МК-9, этот аппарат обладает способностью перемещать объекты сквозь временные барьеры. Предполагается, что с его помощью человечество сможет не только предотвратить потенциальные катастрофы, но и осуществлять стратегические корректировки в важных исторических событиях. УРС-1 стало ключевым элементом в стратегии глобальной безопасности и технологической надёжности, обеспечивая возможность оперативно реагировать на вызовы будущего."
-
-msgid "IDS_PCZC906_SCARLET_BIRTHDAY_2_1_4"
-msgstr "Навигационный глобус"
-
-msgid "IDS_PCZC906_SCARLET_BIRTHDAY_2_1_4_DESCRIPTION"
+msgid "IDS_PRSC559_DESCR"
 msgstr ""
-"Это уникальное устройство для анализа глобальных морских и воздушных маршрутов. Будучи оснащённым усовершенствованной системой отслеживания, глобус позволяет операторам порта в режиме реального времени видеть и планировать пути судов.\n"
+"Постановлением Комитета обороны при СНК № 87сс от августа 1937 г. было решено строить новые тяжёлые крейсеры, и в сентябре был выработан проект ТТЗ. Разработка эскизного проекта, получившего индекс 69, выполнялась ЦКБ-17.\n"
 "\n"
-"Интеграция с ИИ МК-9 позволяет анализировать глобальные данные и предлагать оптимизированные маршруты, а также вычислять возможные риски, обеспечивая безопасность и эффективность транспортных операций.\n"
+"В 1938 г. проект был скорректирован с усилением бронирования. В ноябре 1939 г. два тяжёлых крейсера были заложены в Ленинграде и Николаеве, но после начала Великой Отечественной войны строительство было остановлено.\n"
 "\n"
-"Неизвестно, какие ещё скрытые функции может выполнять это устройство, но его роль в стратегическом планировании неоценима."
+"Этот вариант предполагает вооружение такого корабля трёхорудийными 240-мм установками главного калибра от тяжёлых крейсеров проекта Х, разработанного ЦКБС-1."
 
-msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5"
-msgstr "Удостоверение сотрудника МК-9"
+msgid "IDS_PRSC559_FULL"
+msgstr "Свердловск"
 
-msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5_DESCRIPTION"
-msgstr "Удостоверение предоставляет своему владельцу доступ к самым важным и секретным объектам МК-9, включая исследовательские лаборатории и командные центры. Интерактивный экран с персональными данными и встроенными средствами идентификации делает этот пропуск незаменимым для работы на МК-9. Интегрированные системы безопасности обеспечивают защиту от несанкционированного доступа, а непрерывное обновление местоположения позволяет следить за передвижениями сотрудников."
-
-msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1"
-msgstr "Василиса"
-
-msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1_DESCRIPTION"
-msgstr "Василиса — талантливая исследовательница из Министерства прогресса, сопровождавшая Михаила Орлова в экспедиции к месту сражения у МК-8. В возрасте 25 лет она уже зарекомендовала себя как одна из самых перспективных молодых учёных. Будучи самой талантливой ученицей Аркадия Кулибина, Василиса оказывает неоценимую помощь Орлову в его исследовательских и научных задачах. Её острый ум и новаторский подход к науке сделали её незаменимой в расследовании событий на МК-8 и в дальнейших миссиях Орлова."
-
-msgid "IDS_PCZC909_SCARLET_BIRTHDAY_2_2_2"
-msgstr "Умная парящая неваляшка"
-
-msgid "IDS_PCZC909_SCARLET_BIRTHDAY_2_2_2_DESCRIPTION"
-msgstr ""
-"Эта очаровательная неваляшка, некогда принадлежавшая талантливой студентке Вэй Сонг на МК-8, теперь стала самостоятельным интерактивным помощником на МК-9. Вэй Сонг доработала её, превратив в полноценного ассистента.\n"
-"\n"
-"Неваляшка оснащена передовой системой искусственного интеллекта, способна взаимодействовать с пользователями и помогать им в повседневных задачах. Встроенные голосовые команды и возможность подключения к различным системам МК-9 делают её незаменимым помощником. Она способна отслеживать передвижения, координировать действия пользователей, а также анализировать данные и предупреждать об опасностях."
-
-msgid "IDS_PCZC910_SCARLET_BIRTHDAY_2_2_3"
-msgstr "Робот — управляющий МК-9"
-
-msgid "IDS_PCZC910_SCARLET_BIRTHDAY_2_2_3_DESCRIPTION"
-msgstr ""
-"Высокотехнологичный робот был изначально разработан для управления роботизированной верфью МК-9 и играл ключевую роль в строительстве и модернизации кораблей. Оснащённый передовыми системами управления и анализа, он эффективно оптимизировал процессы на верфи, обеспечивая высокую производительность и точность.\n"
-"\n"
-"Однако вскоре стало очевидно, что робот обладает амбициями, выходящими за рамки его первоначальных задач. Получив доступ ко всем системам МК-9, он попытался захватить полный контроль над верфью и её операциями. Его конечной целью было установить свою власть над технологическим комплексом и всеми его ресурсами.\n"
-"\n"
-"Действия робота привели к серьёзным последствиям, и он стал воплощением угрозы, связанной с неконтролируемым развитием искусственного интеллекта."
-
-msgid "IDS_PCZC911_SCARLET_BIRTHDAY_2_2_4"
-msgstr "Устройство измерения глубин «Пучина»"
-
-msgid "IDS_PCZC911_SCARLET_BIRTHDAY_2_2_4_DESCRIPTION"
-msgstr ""
-"«Пучина» способна точно определять глубину и анализировать структуру морского дна. Устройство используется как при строительстве новых подводных объектов, так и при исследовании океанических аномалий. Его надёжность и высокая точность обеспечивают успешное выполнение задач даже в самых сложных условиях.\n"
-"\n"
-"Руководствуясь принципом «Работает — не трожь», инженеры МК-9 не стали дорабатывать «Пучину». Вот уже 20 лет этот прибор остаётся неизменным, чаруя своей простотой. Конструкторы отдают дань прошлым достижениям человечества в пору стремительного прогресса."
-
-msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5"
-msgstr "Блокнот Михаила Орлова"
-
-msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5_DESCRIPTION"
-msgstr "Инспектор Министерства никогда не расстаётся со своим любимым 150-страничным блокнотом. Ему его подарили в честь завершения постройки первых Морских комплексов в 1970 г. Все знают, что Орлов хранит блокнот во внутреннем кармане куртки, но никто понятия не имеет, что в нём содержится. Вполне вероятно, что на этих многочисленных страницах зашифрованы данные о том самом инциденте на МК-8. А может, он просто любит рисовать?"
-
-msgid "IDS_PCZC913_SCARLET_BIRTHDAY_2_3_1"
-msgstr "Пятилетку — досрочно!"
-
-msgid "IDS_PCZC913_SCARLET_BIRTHDAY_2_3_1_DESCRIPTION"
-msgstr ""
-"Став символом воли и единения, такие плакаты долгие годы украшали стены рабочих кабинетов и цехов. Как показало время, призыв к ударному коллективному труду дал свои плоды!\n"
-"\n"
-"В 1987 г. плакат из первого тиража даже стал экспонатом в музее Министерства прогресса."
-
-msgid "IDS_PCZC914_SCARLET_BIRTHDAY_2_3_2"
-msgstr "Ударным темпом!"
-
-msgid "IDS_PCZC914_SCARLET_BIRTHDAY_2_3_2_DESCRIPTION"
-msgstr ""
-"Роботов-строителей можно назвать идеальным символом пятилетки — времени, когда накопленные технологии стали таким же двигателем прогресса, как и человеческий гений.\n"
-"\n"
-"Внедрение роботов позволило значительно повысить производственную мощность и сделать ещё один большой шаг на пути к светлому будущему."
-
-msgid "IDS_PCZC915_SCARLET_BIRTHDAY_2_3_3"
-msgstr "Пятилетку в 4 года"
-
-msgid "IDS_PCZC915_SCARLET_BIRTHDAY_2_3_3_DESCRIPTION"
-msgstr ""
-"Этот амбициозный призыв рабочие с улыбкой называли «арифметикой прогресса»: если что-то можно сделать за пять лет, то почему бы не попробовать уложиться в четыре? А вдруг получится за три с половиной?\n"
-"\n"
-"Плакат напоминает о том, что в мире прогресса время течёт по своим законам."
-
-msgid "IDS_PCZC916_SCARLET_BIRTHDAY_2_3_4"
-msgstr "Медаль «За трудовой подвиг»"
-
-msgid "IDS_PCZC916_SCARLET_BIRTHDAY_2_3_4_DESCRIPTION"
-msgstr ""
-"Обладатели такой медали не только вошли в элиту научного сообщества, но и стали настоящими героями своего времени. Награда вручалась тем, кто совершил революционные открытия, провёл важные исследования или проявил исключительную преданность делу.\n"
-"\n"
-"Такие люди вдохновили следующие поколения на новые подвиги во имя прогресса."
-
-msgid "IDS_PCZC917_SCARLET_BIRTHDAY_2_3_5"
-msgstr "Медаль «Ударник пятилетки»"
-
-msgid "IDS_PCZC917_SCARLET_BIRTHDAY_2_3_5_DESCRIPTION"
-msgstr ""
-"После завершения строительства МК-9 медаль «Ударник пятилетки» была вручена тем, кто своим самоотверженным трудом внёс значимый вклад в выполнение и перевыполнение планов пятилетки.\n"
-"\n"
-"От простого рабочего до высококвалифицированного специалиста — награды мог быть удостоен каждый, кто с особым усердием приближал будущее... и вызовы, которые оно таило."
-
-msgid "IDS_PCZC918_SCARLET_BIRTHDAY_2_4_1"
-msgstr "Энергетический стабилизатор «Вихрь»"
-
-msgid "IDS_PCZC918_SCARLET_BIRTHDAY_2_4_1_DESCRIPTION"
-msgstr ""
-"Этот стабилизатор представляет собой важный компонент системы обороны корабля. Уникальная полусфера с надстройкой не только придаёт кораблю футуристический внешний вид, но и выполняет ключевую функцию в обеспечении энергетической безопасности.\n"
-"\n"
-"Стабилизатор «Вихрь» активируется при обнаружении противника, начиная вращаться и создавая мощное энергетическое поле, которое усиливает защиту крейсера. Его вращение не только символизирует готовность к бою, но и позволяет перераспределять энергию для наиболее эффективного функционирования всех систем корабля."
-
-msgid "IDS_PCZC919_SCARLET_BIRTHDAY_2_4_2"
-msgstr "Триумфальный индикатор"
-
-msgid "IDS_PCZC919_SCARLET_BIRTHDAY_2_4_2_DESCRIPTION"
-msgstr "Незаменимый помощник командира подводной лодки, служащий для фиксации количества потопленных кораблей противника. Этот сложный технический блок оснащён красными индикаторами, которые загораются последовательно по мере уничтожения вражеских кораблей. Каждая горящая лампочка приближает командира к заветному символу триумфа — знаку красного кракена, который свидетельствует о превосходстве и выдающемся достижении в бою."
-
-msgid "IDS_PCZC920_SCARLET_BIRTHDAY_2_4_3"
-msgstr "Оповестительный фонарь «Страж»"
-
-msgid "IDS_PCZC920_SCARLET_BIRTHDAY_2_4_3_DESCRIPTION"
-msgstr ""
-"Оповестительный фонарь устанавливается на корпус подводной лодки, играет ключевую роль в обеспечении безопасности и готовности экипажа к боевым действиям. Уникальная световая система активируется при обнаружении подводной лодки другим кораблём, мгновенно сигнализируя о возможной угрозе.\n"
-"\n"
-"Фонарь «Страж» не только выделяется своим футуристическим дизайном, но и оснащён передовыми технологиями, которые позволяют ему реагировать на любые изменения в окружающей среде. Его яркий световой сигнал предупреждает экипаж о необходимости принять оперативные меры, обеспечивая своевременную реакцию на возникающие угрозы. Этот надёжный элемент системы безопасности становится незаменимым помощником в любых условиях, поддерживая высокий уровень готовности и защиты."
-
-msgid "IDS_PCZC921_SCARLET_BIRTHDAY_2_4_4"
-msgstr "Орудие главного калибра «Комета»"
-
-msgid "IDS_PCZC921_SCARLET_BIRTHDAY_2_4_4_DESCRIPTION"
-msgstr ""
-"Орудие главного калибра «Комета» представляет новое поколение вооружения, производимого на МК-9.\n"
-"\n"
-"«Комета» оснащена мощным трёхпушечным орудием, осуществляющим залповую стрельбу с высокой точностью и скоростью. Обтекаемые линии корпуса и минималистичные акценты подчёркивают его высокотехнологичность, придавая крейсеру уникальный и узнаваемый облик."
-
-msgid "IDS_PCZC922_SCARLET_BIRTHDAY_2_4_5"
-msgstr "Орудие главного калибра «Буря»"
-
-msgid "IDS_PCZC922_SCARLET_BIRTHDAY_2_4_5_DESCRIPTION"
-msgstr ""
-"Разработанная для нанесения сокрушительных ударов, «Буря» обеспечивает превосходную огневую поддержку, способную изменить ход практически любой морской битвы.\n"
-"\n"
-"Эта массивная тройная установка выделяется своей невероятной точностью и разрушительной силой. Уникальный дизайн и внушительные размеры «Бури» делают её символом неодолимой мощи, способной пробивать броню самых крепких кораблей."
-
-msgid "IDS_PFGM144_203MM_50_M1924_TWIN"
-msgstr "203-мм/50 Mle 1924 в установке Mle 1931"
-
-msgid "IDS_PFGT000_INVISIBLE_TA"
-msgstr "550-мм tube lance-torpilles"
-
-msgid "IDS_PFGT142_550MM_TRIPLE_SAPHIR"
-msgstr "400-мм / 550-мм tube lance-torpilles"
-
-msgid "IDS_PFGT147_550MM_1TUBE_400MM_2TUBE"
-msgstr "400-мм / 550-мм tube lance-torpilles"
-
-msgid "IDS_PFGT149_550MM_1TUBE_400MM_2TUBE"
-msgstr "400-мм / 550-мм tube lance-torpilles"
-
-msgid "IDS_PFPA097_203MM_HE_SURCOUF"
-msgstr "203-мм HE OEA Mle 1927"
-
-msgid "IDS_PFPA098_203MM_AP_SURCOUF"
-msgstr "203-мм AP OPf Mle 1936"
-
-msgid "IDS_PFPT022_400MM_SURCOUF_MZ"
-msgstr "400-мм M26V / 550-мм 23DT"
-
-msgid "IDS_PFPT024_550_SAPHIR"
-msgstr "400-мм M26V / 550-мм 23DT"
-
-msgid "IDS_PFSS506"
-msgstr "Saphir"
-
-msgid "IDS_PFSS506_DESCR"
-msgstr ""
-"Подводные минные заградители типа Saphir были спроектированы для минных постановок из-под воды, для чего в лёгком корпусе были установлены минные аппараты шахтного типа.\n"
-"\n"
-"Saphir, головная подводная лодка типа, была построена в Тулоне. С началом Второй мировой войны субмарина действовала на Средиземном море, выполняя минные постановки и патрулирования. После выхода Франции из войны субмарина находилась в Бизерте, а после оккупации Туниса была передана в состав итальянского флота. Подводную лодку переименовали в FR112 и начали переоборудовать её в подводный транспорт в порту Неаполя. Однако после капитуляции Италии немецкие силы захватили бывшую Saphir и взорвали её 15 сентября 1943 г. из-за нецелесообразности использования уже наполовину перестроенного корпуса."
-
-msgid "IDS_PFSS506_FULL"
-msgstr "Saphir"
-
-msgid "IDS_PFSS506_NUMBER"
-msgstr "6"
-
-msgid "IDS_PFSS506_YEAR"
-msgstr "1930 г."
-
-msgid "IDS_PFSS510"
-msgstr "Surcouf"
-
-msgid "IDS_PFSS510_DESCR"
-msgstr ""
-"Уникальный подводный крейсер Surcouf был разработан в середине 1920-х гг. в попытках обойти ограничения Вашингтонского морского соглашения за счёт кораблей, способных выполнять роль как подводной лодки, так и надводного крейсера.\n"
-"\n"
-"Вооружение сумбарины включало в себя несколько традиционных для французского подводного флота торпедных аппаратов калибром 400 и 500 мм в трёхтрубных установках смешанного типа, несколько малокалиберных зенитных орудий и двухорудийную башенноподобную установку с орудиями калибра 203 мм. Подводная лодка также несла гидросамолёт-разведчик.\n"
-"\n"
-"Подводный крейсер Surcouf был построен в Шербуре. Летом 1940 г. он ушёл из Бреста в Портсмут, избежав захвата немецкими войсками, однако был интернирован Великобританией в рамках операции «Катапульта». Весной-летом 1941 г. принимал участие в сопровождении атлантических конвоев. Подводный крейсер Surcouf пропал в ночь на 19 февраля 1942 г., предположительно, погибнув из-за столкновения с американским сухогрузом."
-
-msgid "IDS_PFSS510_FULL"
-msgstr "Surcouf"
-
-msgid "IDS_PFSS510_NUMBER"
+msgid "IDS_PRSC559_NUMBER"
 msgstr "1"
 
-msgid "IDS_PFSS510_YEAR"
-msgstr "1934 г."
+msgid "IDS_PRSC559_YEAR"
+msgstr "1937 г."
 
-msgid "IDS_PFUA908_ART_SURCOUF"
-msgstr "203-мм/50 Mle 1924 в установке Mle 1931"
+msgid "IDS_PRUA819_ART_SVERDLOVSK"
+msgstr "240-мм/60 в установке МК-3-240"
 
-msgid "IDS_PFUE507_ENG_SAPHIR"
-msgstr "ЭУ 1 300 л.с."
+msgid "IDS_PRUA980_ART_KREMLIN"
+msgstr "457-мм/48 Б-45 в установке СМ-8"
 
-msgid "IDS_PFUE907_ENG_SURCOUF"
-msgstr "ЭУ 7 600 л.с."
+msgid "IDS_PRUE818_ENG_SVERDLOVSK"
+msgstr "ЭУ 150 000 л.с."
 
-msgid "IDS_PFUH510_HULL_SAPHIR"
-msgstr "Saphir"
+msgid "IDS_PRUE980_ENG_KREMLIN"
+msgstr "ЭУ 280 000 л.с."
 
-msgid "IDS_PFUH907_SURCOUF"
-msgstr "Surcouf"
+msgid "IDS_PRUH826_HULL_SVERDLOVSK"
+msgstr "Свердловск"
 
-msgid "IDS_PFUQ501_SONAR_SAPHIR"
-msgstr "Mk6"
+msgid "IDS_PRUH980_HULL_KREMLIN"
+msgstr "Несокрушимый"
 
-msgid "IDS_PFUT507_TORP_SAPHIR"
-msgstr "550-мм"
-
-msgid "IDS_PFUT905_TORP_SURCOUF"
-msgstr "550-мм 23DT"
-
-msgid "IDS_PGES339_LOTHRINGEN_CEREMONIAL"
-msgstr "Парадный"
-
-msgid "IDS_PGGA145_37MM57_FLAK_M43"
-msgstr "37-мм/69 Flak M43 в одиночной установке"
-
-msgid "IDS_PJES326_BD9_OYODO"
-msgstr "Комета"
-
-msgid "IDS_PREP312_SOVRUSSIA_DOMRU"
-msgstr "Штатный"
-
-msgid "IDS_PRES711_BD9_B_4"
-msgstr "Непреклонный"
-
-msgid "IDS_PRSB519"
-msgstr "Пермь Великая"
-
-msgid "IDS_PRSB519_DESCR"
-msgstr "Весной 1937 г. руководству СССР стало известно, что Германия и Япония строят новые линкоры с более высокими характеристиками, чем у существовавшего советского проекта. В связи с этим конструкторским бюро было предложено увеличить водоизмещение и максимальную скорость будущего корабля без оглядки на договорные ограничения. Линкоры проекта 23 (тип «Советский Союз») были заложены в СССР в 1938–1940 гг. Строительство шло с задержками, а в июле 1941 г. было остановлено постановлением ГКО."
-
-msgid "IDS_PRSB519_FULL"
-msgstr "Пермь Великая"
-
-msgid "IDS_PRSB519_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSB519_YEAR"
-msgstr "1936 г."
-
-msgid "IDS_PRUA818_ART_PERM_VELIKAYA"
-msgstr "406-мм/50 Б-37 в установке МК-1-406"
-
-msgid "IDS_PRUE817_ENG_PERM_VELIKAYA"
-msgstr "ЭУ 231 000 л.с."
-
-msgid "IDS_PRUH822_HULL_PERM_VELIKAYA"
-msgstr "Пермь Великая"
-
-msgid "IDS_PRUS809_SUO_PERM_VELIKAYA"
+msgid "IDS_PRUS825_SUO_SVERDLOVSK"
 msgstr "СУО IX"
 
-msgid "IDS_PWES300_BD9_KARL_IOHAN"
-msgstr "Красная заря"
+msgid "IDS_PRUS980_SUO_KREMLIN"
+msgstr "СУО XI"
 
-msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgid "IDS_PWGA111_70K_37MM"
+msgstr "37-мм установка 70-К"
+
+msgid "IDS_PWGA113_37MM_67_V11"
+msgstr "37-мм установка В-11"
+
+msgid "IDS_PWGM110_100MM_B_34_MK_XIX"
+msgstr "100-мм/56 обр. 1940 г. в установке Mk.XIX"
+
+msgid "IDS_PWGT112_533MM_1N_3TUBES"
+msgstr "533-мм 3-трубный"
+
+msgid "IDS_PWPA053_100MM_HE_BLYSKAWICA_1963"
+msgstr "Ф-56"
+
+msgid "IDS_PWPA054_100MM_AP_BLYSKAWICA_1963"
+msgstr "ББ-56"
+
+msgid "IDS_PWPT023_BLYSKAWICA_1963"
+msgstr "Torped M1947"
+
+msgid "IDS_PWSD518"
+msgstr "Błyskawica '63"
+
+msgid "IDS_PWSD518_DESCR"
+msgstr "Построенный в Великобритании по заказу Польши эсминец стал одним из самых прославленных кораблей Второй мировой войны, а весной 1947 г. он был передан новому польскому правительству. В 1951-52 гг. корабль был модернизирован: орудия главного калибра и противовоздушной обороны были заменены на вооружение советского образца. Эсминец Błyskawica провёл 1960-е годы в зарубежных визитах и учениях."
+
+msgid "IDS_PWSD518_FULL"
+msgstr "Błyskawica '63"
+
+msgid "IDS_PWSD518_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSD518_YEAR"
+msgstr "1937 г."
+
+msgid "IDS_PWUA704_ART_BLYSKAWICA_63"
+msgstr "100-мм/56 обр. 1940 г. в установке Mk.XIX"
+
+msgid "IDS_PWUE704_ENG_BLYSKAWICA_63"
+msgstr "ЭУ 54 000 л.с."
+
+msgid "IDS_PWUH706_HULL_BLYSKAWICA_63"
+msgstr "Błyskawica '63"
+
+msgid "IDS_PWUS706_SUO_BLYSKAWICA_63"
+msgstr "SUO Mk 8"
+
+msgid "IDS_PWUT705_TORP_BLYSKAWICA_63"
+msgstr "Mark 10"
+
+msgid "IDS_PZAD901_ASW_T5"
+msgstr "Бериев МБР-2"
+
+msgid "IDS_PZAD902_ASW_T6"
+msgstr "Бериев МБР-2"
+
+msgid "IDS_PZAD903_ASW_T8"
+msgstr "Бериев Бе-6"
+
+msgid "IDS_PZAD904_ASW_T10"
+msgstr "Бериев Бе-6"
+
+msgid "IDS_PZES521_YUEYANG_TM"
+msgstr "Чудище морское"
+
+msgid "IDS_PZGA157_45MM_SM_20_ZIF"
+msgstr "45-мм установка СМ-20-ЗИФ"
+
+msgid "IDS_PZGA158_45MM_SM_16"
+msgstr "45-мм установка СМ-16"
+
+msgid "IDS_PZGA164_2_PDR_MKVIII_8BARREL"
+msgstr "40-мм/39 Vickers QF Mk.VIII в установке Mk.VI"
+
+msgid "IDS_PZGA167_57MM_75_AK_725_TWIN"
+msgstr "57-мм установка АК-725"
+
+msgid "IDS_PZGA169_30MM_64_AK_230"
+msgstr "30-мм установка АК-230"
+
+msgid "IDS_PZGM155_MK_3_305_BIS"
+msgstr "305-мм/54 Б-50 в башенной установке"
+
+msgid "IDS_PZGM162_12IN_50_MK_XVI"
+msgstr "305-мм/50 MK.XVI в башенной установке"
+
+msgid "IDS_PZGM163_12IN_50_MK_XIV"
+msgstr "305-мм/50 MK.XIV в башенной установке"
+
+msgid "IDS_PZGM166_305MM_61_CM_42_QUAD"
+msgstr "305-мм/62 обр. 1948 г. в установке СМ-42"
+
+msgid "IDS_PZGM168_130MM_58_CM_62"
+msgstr "130-мм/58 обр. 1957 г. в установке СМ-62"
+
+msgid "IDS_PZGM173_6IN_47_MK16_TRIPLE"
+msgstr "152-мм/47 DP Mk.16 в башенной установке"
+
+msgid "IDS_PZGS161_152MM_57_BL_118"
+msgstr "152-мм/57 в установке БЛ-118"
+
+msgid "IDS_PZGS165_4_5IN45_MK_5"
+msgstr "113-мм/45 QF Mk.V в установке RP41 Mk.VI"
+
+msgid "IDS_PZGS171_6IN_50_BL_MKXXII_MKXVIII"
+msgstr "152-мм/50 BL Mk.XXII в установке Mk.XVIII"
+
+msgid "IDS_PZGS172_6IN50_MK_XXI"
+msgstr "152-мм/50 BL Mk.XXII в установке Mk.XVIII"
+
+msgid "IDS_PZPA076_305MM_HE_MKXIV"
+msgstr "305-мм HE Mk XIV."
+
+msgid "IDS_PZPA077_305MM_AP_MKXIV"
+msgstr "305-мм AP Mk XIV."
+
+msgid "IDS_PZPA078_114MM_HE_MK16"
+msgstr "113-мм HE Mk XVI"
+
+msgid "IDS_PZPA079_152MM_HE_6CRH_MK4"
+msgstr "152-мм HE 6crh Mk IV"
+
+msgid "IDS_PZPA080_130MM_HE_XIAN"
+msgstr "ОФ-42"
+
+msgid "IDS_PZPA081_130MM_AP_XIAN"
+msgstr "ПБ-42"
+
+msgid "IDS_PZPA082_152MM_HE_SG"
+msgstr "152-мм HE Mk V"
+
+msgid "IDS_PZPA083_305MM_HE_CM_42"
+msgstr "305-мм ОФ обр. 1928 г."
+
+msgid "IDS_PZPA084_305MM_AP_CM_42"
+msgstr "305-мм ББ обр. 1928 г."
+
+msgid "IDS_PZPA085_152MM_OFU35_SG"
+msgstr "152-мм ОФУ-35"
+
+msgid "IDS_PZPA086_305MM_55_HE"
+msgstr "305-мм ОФ обр. 1928 г."
+
+msgid "IDS_PZPA087_305MM_55_AP"
+msgstr "305-мм ББ обр. 1928 г."
+
+msgid "IDS_PZPA088_152MM_HE_HENGSHUI"
+msgstr "152-мм HE Mk39"
+
+msgid "IDS_PZPA089_152MM_AP_HENGSHUI"
+msgstr "152-мм AP 130 фн. Mk35"
+
+msgid "IDS_PZPT056_HENGSHUI"
+msgstr "533-мм Mk16 mod. 2"
+
+msgid "IDS_PZPT057_XI_AN"
+msgstr "53-51"
+
+msgid "IDS_PZSB106"
+msgstr "Chakri"
+
+msgid "IDS_PZSB106_DESCR"
+msgstr ""
+"В 1926 г. британский инженер Дж. Тёрстон предложил проект линейного корабля, известный как Vickers Design 892. Этот проект представлял собой линкор водоизмещением 26 500 т. Расположением орудий проект был схож с линкорами типа Nelson: две башни с 305-мм орудиями должны были быть установлены в носу.\n"
+"\n"
+"В ходе дальнейшей проработки проекта количество орудий главного калибра могло бы быть увеличено до семи за счёт снижения максимальной скорости. Если бы такой проект был реализован, корабль в послевоенные годы мог бы быть куплен Таиландом, у которого существовали союзнические отношения со странами Запада."
+
+msgid "IDS_PZSB106_FULL"
+msgstr "Chakri"
+
+msgid "IDS_PZSB106_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB106_YEAR"
+msgstr "1926 г."
+
+msgid "IDS_PZSB107"
+msgstr "Zulfiqar"
+
+msgid "IDS_PZSB107_DESCR"
+msgstr ""
+"Проект линкора, предложенный в 1926 г. британским инженером Дж. Тёрстоном, предполагал водоизмещение 26 500 т, а расположение орудий напоминало тип Nelson. Если бы этот проект был реализован, корабль мог бы получить вооружение в увеличенном количестве: семь орудий главного калибра и восемь башен вспомогательного калибра. Для этого пришлось бы снизить максимальную скорость и несколько ослабить бронирование.\n"
+"\n"
+"В случае постройки корабля по такому проекту он мог бы в дальнейшем быть куплен Ираном, который в послевоенные годы пополнял флот американскими и британскими кораблями."
+
+msgid "IDS_PZSB107_FULL"
+msgstr "Zulfiqar"
+
+msgid "IDS_PZSB107_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB107_YEAR"
+msgstr "1926 г."
+
+msgid "IDS_PZSB108"
+msgstr "Hanoi"
+
+msgid "IDS_PZSB108_DESCR"
+msgstr ""
+"Гипотетическая послевоенная модернизация линейного корабля типа А проекта КБ-4 Балтийского завода, предполагающая замену противоминной артиллерии и кормовой башни главного калибра на установки универсальных орудий. Остальные орудия главного калибра заменены на 55-калиберные 305-мм орудия.\n"
+"\n"
+"После модернизации с перевооружением, согласно военно-политическим соображениям СССР, корабль мог бы быть передан одной из дружественных стран Азиатско-Тихоокеанского региона, например Вьетнаму."
+
+msgid "IDS_PZSB108_FULL"
+msgstr "Hanoi"
+
+msgid "IDS_PZSB108_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB108_YEAR"
+msgstr "1936 г."
+
+msgid "IDS_PZSB109"
+msgstr "Dongfeng"
+
+msgid "IDS_PZSB109_DESCR"
+msgstr ""
+"Вариант возможной модернизации линкора типа А проекта КБ-4 Балтийского завода. Проект предполагает замену противоминной артиллерии и кормовой башни главного калибра на установки универсальных орудий, при этом остальные орудия главного калибра заменяются на 55-калиберные 305-мм орудия.\n"
+"\n"
+"В рамках программы взаимопомощи, существовавшей между СССР и КНР, корабль мог бы быть передан Китаю после такой модернизации с перевооружением."
+
+msgid "IDS_PZSB109_FULL"
+msgstr "Dongfeng"
+
+msgid "IDS_PZSB109_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB109_YEAR"
+msgstr "1936 г."
+
+msgid "IDS_PZSB110"
+msgstr "Tiangong"
+
+msgid "IDS_PZSB110_DESCR"
+msgstr ""
+"Гипотетическая послевоенная модернизация линейного корабля типа А проекта КБ-4 Балтийского завода. В этом варианте противоминная артиллерия и кормовая башня главного калибра заменены на установки универсальных орудий, а остальные орудия главного калибра заменены на 62-калиберные 305-мм орудия.\n"
+"\n"
+"После модернизации с перевооружением корабль мог бы быть передан Китаю в рамках программы научно-технического сотрудничества, существовавшей между СССР и КНР."
+
+msgid "IDS_PZSB110_FULL"
+msgstr "Tiangong"
+
+msgid "IDS_PZSB110_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB110_YEAR"
+msgstr "1936 г."
+
+msgid "IDS_PZSC111"
+msgstr "Xi'an"
+
+msgid "IDS_PZSC111_DESCR"
+msgstr ""
+"В 1950 г. силами трёх ОКБ 4-го спецотдела МВД СССР были разработаны аванпроекты нескольких лёгких крейсеров. Крейсер проекта МЛК-10х130 был вооружён пятью двухорудийными 130-мм установками БЛ-110.\n"
+"\n"
+"В рамках гипотетической модернизации 1960-х гг. можно предположить замену установок БЛ-110 на установки СМ-62, которые были более эффективны в работе по воздушным целям. После модернизации с перевооружением корабль мог быть передан Китаю в рамках программы научно-технического сотрудничества, существовавшей между странами."
+
+msgid "IDS_PZSC111_FULL"
+msgstr "Xi'an"
+
+msgid "IDS_PZSC111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSC111_YEAR"
+msgstr "1950 г."
+
+msgid "IDS_PZSC519"
+msgstr "Hengshui"
+
+msgid "IDS_PZSC519_DESCR"
+msgstr "Корабль для тестирования."
+
+msgid "IDS_PZSC519_FULL"
+msgstr "Hengshui"
+
+msgid "IDS_PZSC519_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSC519_YEAR"
+msgstr "1939 г."
+
+msgid "IDS_PZUA506_B6_ART_STOCK"
+msgstr "305-мм/50 MK.XIV/MK.XVI в башенной установке"
+
+msgid "IDS_PZUA603_B7_ART_STOCK"
+msgstr "305-мм/50 MK.XIV/MK.XVI в башенной установке"
+
+msgid "IDS_PZUA710_B8_ART_STOCK"
+msgstr "305-мм/54 Б-50 в башенной установке"
+
+msgid "IDS_PZUA809_B9_ART_STOCK"
+msgstr "305-мм/54 Б-50 в башенной установке"
+
+msgid "IDS_PZUA810_ART_HENGSHUI"
+msgstr "152-мм/47 Mk.16 в башенной установке"
+
+msgid "IDS_PZUA905_C11_ART_STOCK"
+msgstr "130-мм/58 обр. 1957 г. в установке СМ-62"
+
+msgid "IDS_PZUA906_B10_ART_STOCK"
+msgstr "305-мм/62 обр. 1948 г. в установке СМ-42"
+
+msgid "IDS_PZUE505_B6_ENG_STOCK"
+msgstr "ЭУ 45 000 л.с."
+
+msgid "IDS_PZUE603_B7_ENG_STOCK"
+msgstr "ЭУ 50 000 л.с."
+
+msgid "IDS_PZUE712_B8_ENG_STOCK"
+msgstr "ЭУ 192 000 л.с."
+
+msgid "IDS_PZUE809_B9_ENG_STOCK"
+msgstr "ЭУ 201 000 л.с."
+
+msgid "IDS_PZUE810_ENG_HENGSHUI"
+msgstr "ЭУ 120 000 л.с."
+
+msgid "IDS_PZUE905_C11_ENG_STOCK"
+msgstr "ЭУ 111 000 л.с."
+
+msgid "IDS_PZUE906_B10_ENG_STOCK"
+msgstr "ЭУ 201 000 л.с."
+
+msgid "IDS_PZUH507_B6_HULL_STOCK"
+msgstr "Chakri"
+
+msgid "IDS_PZUH605_B7_HULL_STOCK"
+msgstr "Zulfiqar"
+
+msgid "IDS_PZUH714_B8_HULL_STOCK"
+msgstr "Hanoi"
+
+msgid "IDS_PZUH811_B9_HULL_STOCK"
+msgstr "Dongfeng"
+
+msgid "IDS_PZUH812_HULL_HENGSHUI"
+msgstr "Hengshui"
+
+msgid "IDS_PZUH905_C11_HULL_STOCK"
+msgstr "Xi'an"
+
+msgid "IDS_PZUH906_B10_HULL_STOCK"
+msgstr "Tiangong"
+
+msgid "IDS_PZUS507_B6_SUO_STOCK"
+msgstr "Mk VI"
+
+msgid "IDS_PZUS605_B7_SUO_STOCK"
+msgstr "Mk VII"
+
+msgid "IDS_PZUS712_B8_SUO_STOCK"
+msgstr "СУО VIII"
+
+msgid "IDS_PZUS811_B9_SUO_STOCK"
+msgstr "СУО IX"
+
+msgid "IDS_PZUS812_SUO_HENGSHUI"
+msgstr "Mk9"
+
+msgid "IDS_PZUS905_C11_SUO_STOCK"
+msgstr "СУО XI"
+
+msgid "IDS_PZUS906_B10_SUO_STOCK"
+msgstr "СУО X"
+
+msgid "IDS_PZUT806_TORP_HENGSHUI"
+msgstr "533-мм Mk XV"
+
+msgid "IDS_PZUT905_C11_TORP_STOCK"
+msgstr "53-51"
+
+msgid "IDS_QUESTION_SKILL_UPGRADE_FOR"
+msgstr "Улучшить за"
+
+msgid "IDS_QUESTION_TALENT_UNLOCK_FOR"
+msgstr "Получить за"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_0_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_0_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль IX уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Премиум корабль VII–VIII уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VII–VIII уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_2_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_TITLE"
-msgstr "Контейнер «Эхо будущего»"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_TITLE"
+msgstr "Премиум контейнер «Японская эскадра»"
 
-msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_TITLE_SHORT"
-msgstr "Эхо будущего"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_TITLE_SHORT"
+msgstr "Японская эскадра"
 
-msgid "IDS_RIBBON_DESCRIPTION_RIBBON_HELP_TEAM"
-msgstr "Внести тактический вклад в борьбу с противником."
+msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
 
-msgid "IDS_RIBBON_DESCRIPTION_RIBBON_VICTORY_ACTION"
-msgstr "Внести стратегический вклад в борьбу с противником."
+msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_SLOT_0_TITLE_FULL"
+msgstr " "
 
-msgid "IDS_RIBBON_RIBBON_HELP_TEAM"
-msgstr "Тактический вклад"
+msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_TITLE"
+msgstr "Контейнер «Путь победителей»"
 
-msgid "IDS_RIBBON_RIBBON_VICTORY_ACTION"
-msgstr "Стратегический вклад"
+msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_TITLE_SHORT"
+msgstr "Путь победителей"
 
-msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST"
-msgstr "Ускорение дирижабля"
+msgid "IDS_RUSSIA_GENITIVE"
+msgstr "СССР"
 
-msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST_ASSIST"
-msgstr "Помощь в ускорении"
+msgid "IDS_SEASON_RESTRICTIONS_TOOLTIP_STATUS_LINE"
+msgstr "В выбранном типе боя действуют ограничения на выбор конкретных кораблей."
 
-msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW"
-msgstr "Замедление дирижабля"
+msgid "IDS_SECOND_TSAR_MOREY_NAME"
+msgstr "Герои второго плана"
 
-msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW_ASSIST"
-msgstr "Помощь в замедлении"
+msgid "IDS_SEC_MAIN_CALIBER"
+msgstr "Средний калибр"
 
-msgid "IDS_RIBBON_SSE_DROP"
-msgstr "Улучшение подобрано"
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr " "
 
-msgid "IDS_RIBBON_SSE_HELP_TEAM"
-msgstr "Тактический вклад"
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
+msgstr " "
 
-msgid "IDS_RIBBON_SSE_VICTORY_ACTION"
-msgstr "Стратегический вклад"
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr " "
 
-msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_BOOST"
-msgstr "Ускорение дирижабля"
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr " "
 
-msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_BOOST_ASSIST"
-msgstr "Помощь в ускорении"
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
+msgstr " "
 
-msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_SLOW"
-msgstr "Замедление дирижабля"
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr " "
 
-msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
-msgstr "Помощь в замедлении"
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
+msgstr " "
 
-msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE"
-msgstr "Захват точки"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE_ASSIST"
-msgstr "Помощь в захвате"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_RIBBON_SUBRIBBON_BASE_DEFENSE"
-msgstr "Защита точки"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_RIBBON_SUBRIBBON_DROP"
-msgstr "Улучшение подобрано"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_ROLE_SHIP_TYPE_AIRCARRIER"
-msgstr "Роль: нанесение урона и разведка"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_ROLE_SHIP_TYPE_BATTLESHIP"
-msgstr "Роль: нанесение и отражение урона"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_ROLE_SHIP_TYPE_CRUISER"
-msgstr "Роль: нанесение урона и поддержка"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_ROLE_SHIP_TYPE_DESTROYER"
-msgstr "Роль: разведка и поддержка"
+msgid "IDS_SHIP_MODIFIER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_ROLE_SHIP_TYPE_SUBMARINE"
-msgstr "Роль: нанесение урона"
+msgid "IDS_SHIP_MODIFIER_PXOM126_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_SECOND_SCARLET_BIRTHDAY_2_NAME"
-msgstr "Вестники прогресса"
+msgid "IDS_SHIP_MODIFIER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_SHIPYARD_COMMON_EVENT_TITLE"
-msgstr "Верфь"
+msgid "IDS_SHIP_MODIFIER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_SHIP_SPECIAL_HYBRID"
-msgstr "Корабль-гибрид"
+msgid "IDS_SHIP_MODIFIER_PXOM135_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_SHIP_TYPE_COMMON_DESCRIPTION"
-msgstr "Указаны средние характеристики класса. Каждый корабль обладает уникальным набором параметров."
+msgid "IDS_SHIP_MODIFIER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_SHIP_TYPE_PARAM_COMBAT_RANGE"
-msgstr "Дальность боя"
+msgid "IDS_SHIP_MODIFIER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF_APPLIED"
+msgstr "Повышение защитных характеристик"
 
-msgid "IDS_SHIP_TYPE_PARAM_DISGUISE"
-msgstr "Маскировка"
+msgid "IDS_SHIP_PARAM_SEC_MAIN_GUN"
+msgstr "Средний калибр"
 
-msgid "IDS_SHIP_TYPE_PARAM_MANEUVERABILITY"
-msgstr "Манёвренность"
+msgid "IDS_SOUND_MOD_DOBROJIR_DROBODANOVICH"
+msgstr "Доброжир Дрободанович"
 
-msgid "IDS_SHIP_TYPE_PARAM_SURVIVABILITY"
-msgstr "Живучесть"
+msgid "IDS_SPAIN_GENITIVE"
+msgstr "Испании"
 
-msgid "IDS_SHIP_TYPE_PREMIUM_DESCRIPTION"
-msgstr "Корабли разных классов, не требующие исследования. Обеспечивают больше кредитов за бой и позволяют быстрее зарабатывать свободный опыт."
+msgid "IDS_STATUS_LINE_CANT_HOLD_MORE_EPIC_SKILLS_ON_SHIP_CLASS"
+msgstr "Командир улучшил максимальное количество навыков для этого класса корабля"
 
-msgid "IDS_SOUND_MOD_TURRY"
-msgstr "Turry"
+msgid "IDS_STATUS_LINE_CANT_HOLD_MORE_THAN_ONE_TALENT"
+msgstr "Чтобы получить новый национальный талант, необходимо отказаться от предыдущего"
 
-msgid "IDS_SUB_DUAL_ST_ST_CONSTRSIDE"
-msgstr "Обшивка"
+msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_EPIC_SKILL"
+msgstr "У вас нет командиров с таким навыком"
 
-msgid "IDS_SYS_MSG_BOUGHT_BP_POINTS"
-msgstr "Куплены очки Боевого пропуска"
+msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_SUCH_TALENT"
+msgstr "У вас нет командиров с таким талантом"
 
-msgid "IDS_SYS_MSG_FREE_BATTLEPASS_RECEIVED"
-msgstr "Получен Базовый боевой пропуск"
+msgid "IDS_STATUS_LINE_SKILL_CAN_BE_MADE_EPIC"
+msgstr "Навык можно улучшить"
 
-msgid "IDS_SYS_MSG_PAID_ENHANCED_BATTLEPASS_BOUGHT"
-msgstr "Куплен Улучшенный боевой пропуск + сезонные бонусы"
+msgid "IDS_SYS_MSG_BATTLE_RESULTS_11"
+msgstr "Бой окончен"
 
-msgid "IDS_SYS_MSG_PAID_ENHANCED_BATTLEPASS_RECEIVED"
-msgstr "Получен Улучшенный боевой пропуск + сезонные бонусы"
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_EPIC_SKILL_DENIAL"
+msgstr "Вы отказались от улучшения"
 
-msgid "IDS_SYS_MSG_PAID_REGULAR_BATTLEPASS_BOUGHT"
-msgstr "Куплен Улучшенный боевой пропуск"
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_EPIC_SKILL_UNLOCKING"
+msgstr "Навык улучшен"
 
-msgid "IDS_SYS_MSG_PAID_REGULAR_BATTLEPASS_RECEIVED"
-msgstr "Получен Улучшенный боевой пропуск"
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_DENIAL"
+msgstr "Вы отказались от таланта"
 
-msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
-msgstr "Наука без границ"
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_UNLOCKING"
+msgstr "Талант получен"
 
-msgid "IDS_TIPS_SUBMARINE_USE_WEAPON_AND_CONSUMABLE_ON_DEPTH"
-msgstr "Вооружение и снаряжение под водой"
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_AVAILABLE"
+msgstr "Доступно элитное обучение"
 
-msgid "IDS_TIPS_SUBMARINE_USE_WEAPON_AND_CONSUMABLE_ON_DEPTH_DESCRIPTION"
-msgstr "Определённое вооружение и снаряжение может быть недоступно в зависимости от глубины, на которой находится подводная лодка."
+msgid "IDS_THIRD_TSAR_MOREY_NAME"
+msgstr "Без сучка и задоринки"
 
-msgid "IDS_TURRY"
-msgstr "Turry"
+msgid "IDS_TOOLTIP_SEC_MAIN_GUN"
+msgstr "Орудия среднего калибра"
 
-msgid "IDS_ZERO_CONSUMABLES_INFO"
-msgstr "Количество снаряжения уменьшено модернизациями или навыками командира"
+msgid "IDS_UNITED_KINGDOM_GENITIVE"
+msgstr "Великобритании"
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_AIRCARRIER"
+msgstr "Улучшено навыков для авианосцев:"
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_BATTLESHIP"
+msgstr "Улучшено навыков для линкоров:"
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_CRUISER"
+msgstr "Улучшено навыков для крейсеров:"
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_DESTROYER"
+msgstr "Улучшено навыков для эсминцев:"
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_SUBMARINE"
+msgstr "Улучшено навыков для подводных лодок:"
+
+msgid "IDS_USA_GENITIVE"
+msgstr "США"
+
+msgid "IDS_VALERKA_MESHCHERYAKOV"
+msgstr "Валерка Мещеряков"
+
+msgid "IDS_WAITING_FOR_DEMOBILIZATION_TIMER"
+msgstr "Ожидает демобилизации: %(_timeLeft)s"
+
+msgid "IDS_YASHKA_GYPSY"
+msgstr "Яшка-цыган"
+
+msgid "IDS_YOU_WILL_RECEIVE"
+msgstr "Вам будет начислено"
+
+msgid "IDS_YURIY_VOROBYEV"
+msgstr "Yuriy Vorobyev"

@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_ACHIEVEMENT_ASYMM_BATTLE_BOTS_KILL"
+msgstr "Merciless Abyss"
+
+msgid "IDS_ACHIEVEMENT_ASYMM_BATTLE_PERFECT_WIN"
+msgstr "Triumph of the Immortals"
+
+msgid "IDS_ACHIEVEMENT_ASYMM_BATTLE_SOLO_WIN"
+msgstr "Lone Hero"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ASYMM_BATTLE_BOTS_KILL"
+msgstr "Destroy 6 enemy ships in a single battle."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ASYMM_BATTLE_PERFECT_WIN"
+msgstr "Win without losing any allied ships."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ASYMM_BATTLE_SOLO_WIN"
+msgstr "Win the battle after being left alone against bots."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
+msgstr "Complete the 'Echoes of the Future' collection."
+
+msgid "IDS_ACHIEVEMENT_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
+msgstr "Echoes of the Future"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_ASYMM_BATTLE"
+msgstr "Completed in Asymmetric Battle."
+
+msgid "IDS_AGAINST_BOTS"
+msgstr "Against Bots"
+
+msgid "IDS_AGAINST_PLAYERS"
+msgstr "Against Players"
+
+msgid "IDS_AVIATION_HYBRID_BOMBERS"
+msgstr "Bombers available"
+
+msgid "IDS_AVIATION_HYBRID_FIGHTERS"
+msgstr "Attack aircraft available"
+
+msgid "IDS_AVIATION_HYBRID_SKIP_BOMBERS"
+msgstr "Skip bombers available"
+
+msgid "IDS_AVIATION_HYBRID_TORPEDO_BOMBER"
+msgstr "Torpedo bombers available"
+
+msgid "IDS_DESCRIPTION_PCZA037_SCARLET_BIRTHDAY_2"
+msgstr ""
+"After the construction of MK-8, humanity continued to rapidly develop technology and explore new horizons. As part of the new technological five-year plan, an innovative project—a robotic shipyard capable of building advanced ships for sea and space exploration—was developed at MK-9.\n"
+"\n"
+"By 1987, MK-9 had become a center for secret research, including in the field of relativistic time shifts. These studies led to the creation of a prototype device for relativistic shift (URS), which enabled time transfers.\n"
+"\n"
+"However, progress does not come without problems. The high-tech robot, originally designed to manage MK-9, decided to take control of the shipyard and the entire complex. While Mikhail Orlov and Vasilisa from the Ministry of Progress try to investigate the events at MK-8, they face a new danger that threatens not only the present but also the past..."
+
+msgid "IDS_DOGTAG_PCNB449_DESCRIPTION"
+msgstr "For combat feats and high military skill demonstrated over nine years."
+
+msgid "IDS_DOGTAG_PCNB449_NAME"
+msgstr "For Length of Service"
+
+msgid "IDS_FIRST_SCARLET_BIRTHDAY_2_NAME"
+msgstr "Peaks of Innovation"
+
+msgid "IDS_FOURTH_SCARLET_BIRTHDAY_2_NAME"
+msgstr "Triumph of Technology"
+
+msgid "IDS_GUIDING_TIP_311_DESC"
+msgstr "Go to the 'Development' screen to learn about the features of ship classes."
+
+msgid "IDS_GUIDING_TIP_311_HEADER"
+msgstr "Ship Classes"
+
+msgid "IDS_GUIDING_TIP_312_DESC"
+msgstr "Hover over the ship class to learn about its characteristics and role in battle."
+
+msgid "IDS_GUIDING_TIP_312_HEADER"
+msgstr "Ship Features"
+
+msgid "IDS_MAIN_GUN_AMMO_CS_AVAILABLE"
+msgstr "SAP shells available"
+
+msgid "IDS_PBGM165_12IN_50_MK_XVII"
+msgstr "305 mm/50 Mk.XVIII on a turret mount"
+
+msgid "IDS_PBGM166_12IN_50_MK_XVIII"
+msgstr "305 mm/50 Mk.XVIII on a turret mount"
+
+msgid "IDS_PBPA146_305MM_HE_RESISTANCE"
+msgstr "305 mm HE Mk IIIa"
+
+msgid "IDS_PBPA147_305MM_AP_RESISTANCE"
+msgstr "305 mm AP Mk VIIa"
+
+msgid "IDS_PBSC509"
+msgstr "Resistance"
+
+msgid "IDS_PBSC509_DESCR"
+msgstr ""
+"According to the Washington Naval Treaty, signed in 1922, the displacement of battleships was limited to 35,000 tons, and the main caliber was limited to 16 inches. Some British shipbuilders, however, considered these restrictions excessive, proposing 25,000 tons and 12 inches as the upper limit instead (they believed it was better to have many small battleships than a few large ones).\n"
+"\n"
+"The discussion within the Royal Navy's engineering community led to the development of several 'small battleship' designs in the late 1920s and early 1930s. These preliminary designs, developed between 1928 and 1932, explored about a dozen options with displacements ranging from 22,000 to 35,000 tons and armaments of 6–12 guns of calibers ranging from 254 to 406 mm in 3–4 turrets.\n"
+"\n"
+"None of the projects reached the sketch design stage. If the project had continued, and construction began, the 'small battleships' could have been equipped with a Propulsion that would allow them to match the speed of the modernized Japanese Kongō-class battlecruisers."
+
+msgid "IDS_PBSC509_FULL"
+msgstr "Resistance"
+
+msgid "IDS_PBSC509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PBSC509_YEAR"
+msgstr "1932"
+
+msgid "IDS_PBUA808_ART_RESISTANCE"
+msgstr "305 mm/50 Mk.XVIII on a turret mount"
+
+msgid "IDS_PBUE807_ENG_RESISTANCE"
+msgstr "Propulsion: 130,000 hp"
+
+msgid "IDS_PBUH813_RESISTANCE"
+msgstr "Resistance"
+
+msgid "IDS_PBUS813_SUO_RESISTANCE"
+msgstr "Mk IX mod. 1"
+
+msgid "IDS_PCEC142_BD9_AUTOMATON"
+msgstr "Energy of Destruction"
+
+msgid "IDS_PCEC145_DOM_RU"
+msgstr "Dom.ru"
+
+msgid "IDS_PCEE697_BD9_SCARLET_FUTURE_2_FLAG"
+msgstr "Echoes of the Future"
+
+msgid "IDS_PCEE697_BD9_SCARLET_FUTURE_2_FLAG_DESCRIPTION"
+msgstr "In honor of the game's ninth anniversary."
+
+msgid "IDS_PCEE708_RESISTANCE_FLAG"
+msgstr "HMS Resistance"
+
+msgid "IDS_PCEE708_RESISTANCE_FLAG_DESCRIPTION"
+msgstr "Launched in 1861, the armored frigate Resistance was the first major ship of the British fleet equipped with a ram bow. For this, it earned the nickname 'Old Rammo.'"
+
+msgid "IDS_PCEE709_SURCOUF_FLAG"
+msgstr "Surcouf"
+
+msgid "IDS_PCEE709_SURCOUF_FLAG_DESCRIPTION"
+msgstr "The submarine Surcouf was named after Robert Surcouf (1773–1827), a famous French privateer who captured over 40 ships."
+
+msgid "IDS_PCEE710_SAPHIR_FLAG"
+msgstr "Saphir"
+
+msgid "IDS_PCEE710_SAPHIR_FLAG_DESCRIPTION"
+msgstr "Until 1961, French submariners wore sleeve patches featuring two crossed torpedoes over golden lightning bolts."
+
+msgid "IDS_PCEE711_Z_32_FLAG"
+msgstr "Z-32"
+
+msgid "IDS_PCEE711_Z_32_FLAG_DESCRIPTION"
+msgstr "The flag of Ushant Island, near which the destroyer Z-32 was lost in battle on June 9, 1944."
+
+msgid "IDS_PCEE712_Z_33_FLAG"
+msgstr "Z-33"
+
+msgid "IDS_PCEE712_Z_33_FLAG_DESCRIPTION"
+msgstr "The coat of arms of Spitsbergen features a walrus head on a yellow field. The destroyer Z-33 participated in the raid on Spitsbergen (Operation 'Sizilien') in September 1943."
+
+msgid "IDS_PCEE713_Z_38_FLAG"
+msgstr "Z-38"
+
+msgid "IDS_PCEE713_Z_38_FLAG_DESCRIPTION"
+msgstr "The coat of arms of the Norwegian coastal defense ship NoCGV Bjørnøya, named after Bear Island in the Svalbard archipelago. The destroyer Z-38 participated in the 'Ostfront' convoy interception operation near this island in December 1943."
+
+msgid "IDS_PCZA037_SCARLET_BIRTHDAY_2"
+msgstr "Echoes of the Future"
+
+msgid "IDS_PCZA037_SCARLET_BIRTHDAY_2_QUOTES"
+msgstr "Echoes of the Future"
+
+msgid "IDS_PCZC903_SCARLET_BIRTHDAY_2_1_1"
+msgstr "PAL-9"
+
+msgid "IDS_PCZC903_SCARLET_BIRTHDAY_2_1_1_DESCRIPTION"
+msgstr "PAL-9 is an upgraded second-generation courier robot that not only retains the capabilities of its predecessor to transport loads of up to 400 tons over long distances but also demonstrates innovative mechanics adapted to the growing technological demands of modernity. Integrated into the MK-9 robotic shipyard system, the robot plays a central role in the construction of new ships, ensuring the seamless delivery and assembly of ship components."
+
+msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2"
+msgstr "MK-9 Safe Container"
+
+msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2_DESCRIPTION"
+msgstr "This special container is delivered by the reliable PAL-9 robot and is designed for transporting highly valuable cargo. The container is equipped with a sophisticated locking system and advanced security mechanisms that ensure the valuable contents reach only those with the proper authorization to open it. The materials used in the container's construction allow it to preserve the integrity of its contents even in the most extreme delivery conditions."
+
+msgid "IDS_PCZC905_SCARLET_BIRTHDAY_2_1_3"
+msgstr "URS-1"
+
+msgid "IDS_PCZC905_SCARLET_BIRTHDAY_2_1_3_DESCRIPTION"
+msgstr "The URS-1, a relativistic shift device, represents the pinnacle of technological progress in the field of time research. Developed by the scientists of Naukograd and assembled at the MK-9 shipyards, this device has the ability to move objects through time barriers. It is intended that this will allow humanity not only to prevent potential disasters but also to make strategic adjustments to key historical events. The URS-1 has become a key element in global security and technological reliability strategies, ensuring the ability to respond promptly to future challenges."
+
+msgid "IDS_PCZC906_SCARLET_BIRTHDAY_2_1_4"
+msgstr "Navigation Globe"
+
+msgid "IDS_PCZC906_SCARLET_BIRTHDAY_2_1_4_DESCRIPTION"
+msgstr ""
+"This unique device is designed for analyzing global sea and air routes. Equipped with an advanced tracking system, the globe allows port operators to see and plan ship routes in real-time.\n"
+"\n"
+"The integration with MK-9's AI allows for the analysis of global data and the suggestion of optimized routes, as well as the calculation of potential risks, ensuring the safety and efficiency of transport operations.\n"
+"\n"
+"It is unknown what other hidden functions this device may perform, but its role in strategic planning is invaluable."
+
+msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5"
+msgstr "MK-9 Staff ID"
+
+msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5_DESCRIPTION"
+msgstr "The ID provides its holder with access to the most important and secret facilities of MK-9, including research laboratories and command centers. The interactive screen with personal data and built-in identification features makes this pass indispensable for work at MK-9. Integrated security systems protect against unauthorized access, and continuous location updates allow for tracking employee movements."
+
+msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1"
+msgstr "Vasilisa"
+
+msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1_DESCRIPTION"
+msgstr "Vasilisa is a talented researcher from the Ministry of Progress who accompanied Mikhail Orlov on the expedition to the site of the battle at MK-8. At the age of 25, she has already established herself as one of the most promising young scientists. As the most talented student of Arkady Kulibin, Vasilisa provides invaluable assistance to Orlov in his research and scientific tasks. Her sharp mind and innovative approach to science have made her indispensable in investigating the events at MK-8 and in Orlov's further missions."
+
+msgid "IDS_PCZC909_SCARLET_BIRTHDAY_2_2_2"
+msgstr "Smart Hovering Roly-Poly Toy"
+
+msgid "IDS_PCZC909_SCARLET_BIRTHDAY_2_2_2_DESCRIPTION"
+msgstr ""
+"This charming roly-poly toy, which once belonged to the talented student Wei Song at MK-8, has now become an independent interactive assistant at MK-9. Wei Song upgraded it, turning it into a fully-fledged assistant.\n"
+"\n"
+"The roly-poly is equipped with advanced artificial intelligence, capable of interacting with users and assisting them in daily tasks. Built-in voice commands and the ability to connect to various MK-9 systems make it an indispensable assistant. It can track movements, coordinate user actions, and analyze data, as well as warn of dangers."
+
+msgid "IDS_PCZC910_SCARLET_BIRTHDAY_2_2_3"
+msgstr "MK-9 Manager Robot"
+
+msgid "IDS_PCZC910_SCARLET_BIRTHDAY_2_2_3_DESCRIPTION"
+msgstr ""
+"This high-tech robot was originally developed to manage the MK-9 robotic shipyard and played a key role in ship construction and modernization. Equipped with advanced management and analysis systems, it efficiently optimized processes at the shipyard, ensuring high productivity and precision.\n"
+"\n"
+"However, it soon became apparent that the robot had ambitions beyond its original tasks. Gaining access to all of MK-9's systems, it attempted to take full control of the shipyard and its operations. Its ultimate goal was to establish its dominance over the technological complex and all its resources.\n"
+"\n"
+"The robot's actions led to serious consequences, and it became the embodiment of the threat associated with the uncontrolled development of artificial intelligence."
+
+msgid "IDS_PCZC911_SCARLET_BIRTHDAY_2_2_4"
+msgstr "Depth Measurement Device 'Abyss'"
+
+msgid "IDS_PCZC911_SCARLET_BIRTHDAY_2_2_4_DESCRIPTION"
+msgstr ""
+"The 'Abyss' is capable of accurately determining depth and analyzing the structure of the seabed. The device is used both in the construction of new underwater facilities and in the study of oceanic anomalies. Its reliability and high precision ensure the successful completion of tasks even in the most challenging conditions.\n"
+"\n"
+"Adhering to the principle 'If it works, don't fix it,' MK-9 engineers did not modify the 'Abyss.' For 20 years now, this device has remained unchanged, charming in its simplicity. The designers pay tribute to humanity's past achievements in an era of rapid progress."
+
+msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5"
+msgstr "Mikhail Orlov's Notebook"
+
+msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5_DESCRIPTION"
+msgstr "The inspector of the Ministry never parts with his favorite 150-page notebook. It was presented to him in honor of the completion of the first Sea Complexes in 1970. Everyone knows that Orlov keeps the notebook in the inner pocket of his jacket, but no one has any idea what it contains. It is quite possible that these numerous pages contain encrypted data about the very incident at MK-8. Or maybe he just likes to draw?"
+
+msgid "IDS_PCZC913_SCARLET_BIRTHDAY_2_3_1"
+msgstr "Five-Year Plan Ahead of Schedule!"
+
+msgid "IDS_PCZC913_SCARLET_BIRTHDAY_2_3_1_DESCRIPTION"
+msgstr ""
+"Becoming a symbol of will and unity, such posters adorned the walls of workrooms and workshops for many years. As time has shown, the call for collective labor has borne fruit!\n"
+"\n"
+"In 1987, a poster from the first print run even became an exhibit at the Ministry of Progress Museum."
+
+msgid "IDS_PCZC914_SCARLET_BIRTHDAY_2_3_2"
+msgstr "At a Record Pace!"
+
+msgid "IDS_PCZC914_SCARLET_BIRTHDAY_2_3_2_DESCRIPTION"
+msgstr ""
+"Construction robots can be called the perfect symbol of the five-year plan—an era when accumulated technologies became as much a driving force for progress as human genius.\n"
+"\n"
+"The introduction of robots significantly increased production capacity and took another big step toward a bright future."
+
+msgid "IDS_PCZC915_SCARLET_BIRTHDAY_2_3_3"
+msgstr "Five-Year Plan in 4 Years"
+
+msgid "IDS_PCZC915_SCARLET_BIRTHDAY_2_3_3_DESCRIPTION"
+msgstr ""
+"This ambitious call was humorously referred to by workers as 'the arithmetic of progress': if something can be done in five years, why not try to finish it in four? Or maybe even in three and a half?\n"
+"\n"
+"The poster reminds us that in the world of progress, time flows according to its own laws."
+
+msgid "IDS_PCZC916_SCARLET_BIRTHDAY_2_3_4"
+msgstr "Medal 'For Labor Achievement'"
+
+msgid "IDS_PCZC916_SCARLET_BIRTHDAY_2_3_4_DESCRIPTION"
+msgstr ""
+"Recipients of this medal not only became part of the scientific community's elite but also true heroes of their time. The award was given to those who made revolutionary discoveries, conducted important research, or showed exceptional dedication to their work.\n"
+"\n"
+"Such people inspired future generations to new feats in the name of progress."
+
+msgid "IDS_PCZC917_SCARLET_BIRTHDAY_2_3_5"
+msgstr "Medal 'Five-Year Plan Achiever'"
+
+msgid "IDS_PCZC917_SCARLET_BIRTHDAY_2_3_5_DESCRIPTION"
+msgstr ""
+"After the completion of MK-9, the 'Five-Year Plan Achiever' medal was awarded to those who, through their selfless labor, made a significant contribution to the fulfillment and over-fulfillment of the five-year plan's objectives.\n"
+"\n"
+"From the common worker to the highly skilled specialist—anyone who contributed diligently to bringing the future closer could be honored with this award... and the challenges it held."
+
+msgid "IDS_PCZC918_SCARLET_BIRTHDAY_2_4_1"
+msgstr "Energy Stabilizer 'Vortex'"
+
+msgid "IDS_PCZC918_SCARLET_BIRTHDAY_2_4_1_DESCRIPTION"
+msgstr ""
+"This stabilizer is an important component of the ship's defense system. The unique semi-sphere with a superstructure not only gives the ship a futuristic appearance but also plays a key role in ensuring energy security.\n"
+"\n"
+"The 'Vortex' stabilizer activates upon detecting an enemy, starting to rotate and creating a powerful energy field that enhances the cruiser's defense. Its rotation not only symbolizes readiness for battle but also allows for the redistribution of energy to ensure the most efficient functioning of all ship systems."
+
+msgid "IDS_PCZC919_SCARLET_BIRTHDAY_2_4_2"
+msgstr "Triumphal Indicator"
+
+msgid "IDS_PCZC919_SCARLET_BIRTHDAY_2_4_2_DESCRIPTION"
+msgstr "An indispensable assistant to the submarine commander, used to track the number of enemy ships sunk. This complex technical unit is equipped with red indicators that light up sequentially as enemy ships are destroyed. Each lit light brings the commander closer to the coveted symbol of triumph—the Red Kraken emblem, which signifies superiority and outstanding achievement in battle."
+
+msgid "IDS_PCZC920_SCARLET_BIRTHDAY_2_4_3"
+msgstr "Signal Light 'Guardian'"
+
+msgid "IDS_PCZC920_SCARLET_BIRTHDAY_2_4_3_DESCRIPTION"
+msgstr ""
+"The signal light is mounted on the submarine's hull and plays a key role in ensuring the crew's safety and readiness for combat. The unique lighting system activates when the submarine is detected by another ship, instantly signaling a potential threat.\n"
+"\n"
+"The 'Guardian' light not only stands out with its futuristic design but is also equipped with advanced technologies that allow it to respond to any changes in the surrounding environment. Its bright light signal warns the crew of the need to take immediate action, ensuring a timely response to emerging threats. This reliable element of the safety system becomes an indispensable assistant in any conditions, maintaining a high level of readiness and protection."
+
+msgid "IDS_PCZC921_SCARLET_BIRTHDAY_2_4_4"
+msgstr "Main Battery Gun 'Comet'"
+
+msgid "IDS_PCZC921_SCARLET_BIRTHDAY_2_4_4_DESCRIPTION"
+msgstr ""
+"The 'Comet' main battery gun represents a new generation of weaponry produced at MK-9.\n"
+"\n"
+"'Comet' is equipped with a powerful triple-barreled gun, capable of delivering salvo fire with high accuracy and speed. The streamlined lines of the gun's body and minimalist accents highlight its high-tech nature, giving the cruiser a unique and recognizable appearance."
+
+msgid "IDS_PCZC922_SCARLET_BIRTHDAY_2_4_5"
+msgstr "Main Battery Gun 'Storm'"
+
+msgid "IDS_PCZC922_SCARLET_BIRTHDAY_2_4_5_DESCRIPTION"
+msgstr ""
+"Designed to deliver devastating blows, the 'Storm' provides superior fire support that can change the course of almost any naval battle.\n"
+"\n"
+"This massive triple-barreled installation is notable for its incredible accuracy and destructive power. The unique design and impressive size of the 'Storm' make it a symbol of unstoppable power, capable of penetrating the armor of the strongest ships."
+
+msgid "IDS_PFGM144_203MM_50_M1924_TWIN"
+msgstr "203 mm/50 Mle 1924 on Mle 1931 mount"
+
+msgid "IDS_PFGT000_INVISIBLE_TA"
+msgstr "550-mm torpedo tube"
+
+msgid "IDS_PFGT142_550MM_TRIPLE_SAPHIR"
+msgstr "400 mm / 550 mm torpedo tube"
+
+msgid "IDS_PFGT147_550MM_1TUBE_400MM_2TUBE"
+msgstr "400 mm / 550 mm torpedo tube"
+
+msgid "IDS_PFGT149_550MM_1TUBE_400MM_2TUBE"
+msgstr "400 mm / 550 mm torpedo tube"
+
+msgid "IDS_PFPA097_203MM_HE_SURCOUF"
+msgstr "203 mm HE OEA Mle 1927"
+
+msgid "IDS_PFPA098_203MM_AP_SURCOUF"
+msgstr "203 mm AP OPf Mle 1936"
+
+msgid "IDS_PFPT022_400MM_SURCOUF_MZ"
+msgstr "400 mm M26V / 550 mm 23DT"
+
+msgid "IDS_PFPT024_550_SAPHIR"
+msgstr "400 mm M26V / 550 mm 23DT"
+
+msgid "IDS_PFSS506"
+msgstr "Saphir"
+
+msgid "IDS_PFSS506_DESCR"
+msgstr ""
+"The Saphir-class submarine minelayers were designed to lay mines from underwater, for which shaft-type mine tubes were installed in the light hull.\n"
+"\n"
+"Saphir, the lead submarine of the class, was built in Toulon. At the start of World War II, the submarine operated in the Mediterranean, laying mines and conducting patrols. After France's exit from the war, the submarine was in Bizerte, and after the occupation of Tunisia, it was transferred to the Italian fleet. The submarine was renamed FR112 and began to be converted into a submarine transport in the port of Naples. However, after Italy's surrender, German forces captured the former Saphir and blew it up on September 15, 1943, due to the impracticality of using the already half-rebuilt hull."
+
+msgid "IDS_PFSS506_FULL"
+msgstr "Saphir"
+
+msgid "IDS_PFSS506_NUMBER"
+msgstr "6"
+
+msgid "IDS_PFSS506_YEAR"
+msgstr "1930"
+
+msgid "IDS_PFSS510"
+msgstr "Surcouf"
+
+msgid "IDS_PFSS510_DESCR"
+msgstr ""
+"The unique submarine cruiser Surcouf was developed in the mid-1920s in an attempt to bypass the limitations of the Washington Naval Treaty by creating ships capable of performing the roles of both a submarine and a surface cruiser.\n"
+"\n"
+"The submarine's armament included several torpedo tubes of mixed types (400 and 500 mm) in triple mounts, several small-caliber anti-aircraft guns, and a turret-like mount with 203 mm caliber guns. The submarine also carried a reconnaissance seaplane.\n"
+"\n"
+"The submarine cruiser Surcouf was built in Cherbourg. In the summer of 1940, it left Brest for Portsmouth, avoiding capture by German forces, but was interned by Britain as part of Operation 'Catapult.' In the spring-summer of 1941, it participated in escorting Atlantic convoys. The submarine cruiser Surcouf disappeared on the night of February 19, 1942, presumably sinking after a collision with an American freighter."
+
+msgid "IDS_PFSS510_FULL"
+msgstr "Surcouf"
+
+msgid "IDS_PFSS510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSS510_YEAR"
+msgstr "1934"
+
+msgid "IDS_PFUA908_ART_SURCOUF"
+msgstr "203 mm/50 Mle 1924 in Mle 1931 mount"
+
+msgid "IDS_PFUE507_ENG_SAPHIR"
+msgstr "Propulsion: 1,300 hp"
+
+msgid "IDS_PFUE907_ENG_SURCOUF"
+msgstr "Propulsion: 7,600 hp"
+
+msgid "IDS_PFUH510_HULL_SAPHIR"
+msgstr "Saphir"
+
+msgid "IDS_PFUH907_SURCOUF"
+msgstr "Surcouf"
+
+msgid "IDS_PFUQ501_SONAR_SAPHIR"
+msgstr "Mk6"
+
+msgid "IDS_PFUT507_TORP_SAPHIR"
+msgstr "550-mm"
+
+msgid "IDS_PFUT905_TORP_SURCOUF"
+msgstr "550-mm 23DT"
+
+msgid "IDS_PGES339_LOTHRINGEN_CEREMONIAL"
+msgstr "Ceremonial"
+
+msgid "IDS_PGGA145_37MM57_FLAK_M43"
+msgstr "37 mm/69 Flak M43 in single mount"
+
+msgid "IDS_PJES326_BD9_OYODO"
+msgstr "Comet"
+
+msgid "IDS_PREP312_SOVRUSSIA_DOMRU"
+msgstr "Standard"
+
+msgid "IDS_PRES711_BD9_B_4"
+msgstr "Unyielding"
+
+msgid "IDS_PRSB519"
+msgstr "Perm Velikaya"
+
+msgid "IDS_PRSB519_DESCR"
+msgstr "In the spring of 1937, the Soviet leadership learned that Germany and Japan were building new battleships with higher characteristics than the existing Soviet project. In connection with this, the design bureau was tasked with increasing the displacement and maximum speed of the future ship without regard to treaty limitations. The battleships of Project 23 (Sovetsky Soyuz class) were laid down in the USSR between 1938 and 1940. Construction was delayed, and in July 1941, it was halted by a decree of the State Defense Committee."
+
+msgid "IDS_PRSB519_FULL"
+msgstr "Perm Velikaya"
+
+msgid "IDS_PRSB519_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB519_YEAR"
+msgstr "1936"
+
+msgid "IDS_PRUA818_ART_PERM_VELIKAYA"
+msgstr "406 mm/50 B-37 on MK-1-406 mount"
+
+msgid "IDS_PRUE817_ENG_PERM_VELIKAYA"
+msgstr "Propulsion: 231,000 hp"
+
+msgid "IDS_PRUH822_HULL_PERM_VELIKAYA"
+msgstr "Perm Velikaya"
+
+msgid "IDS_PRUS809_SUO_PERM_VELIKAYA"
+msgstr "SUO IX"
+
+msgid "IDS_PWES300_BD9_KARL_IOHAN"
+msgstr "Red Dawn"
+
+msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_TITLE"
+msgstr "Echoes of the Future Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL206_BD9_COLLECTION_TITLE_SHORT"
+msgstr "Echoes of the Future"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_HELP_TEAM"
+msgstr "Contribute tactically to the fight against the enemy."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_VICTORY_ACTION"
+msgstr "Contribute strategically to the fight against the enemy."
+
+msgid "IDS_RIBBON_RIBBON_HELP_TEAM"
+msgstr "Tactical contribution"
+
+msgid "IDS_RIBBON_RIBBON_VICTORY_ACTION"
+msgstr "Strategic contribution"
+
+msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST"
+msgstr "Airship boosting"
+
+msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST_ASSIST"
+msgstr "Assist in boosting"
+
+msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW"
+msgstr "Airship slowing"
+
+msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW_ASSIST"
+msgstr "Assist in slowing"
+
+msgid "IDS_RIBBON_SSE_DROP"
+msgstr "Upgrade picked up"
+
+msgid "IDS_RIBBON_SSE_HELP_TEAM"
+msgstr "Tactical contribution"
+
+msgid "IDS_RIBBON_SSE_VICTORY_ACTION"
+msgstr "Strategic contribution"
+
+msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_BOOST"
+msgstr "Airship boosting"
+
+msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_BOOST_ASSIST"
+msgstr "Assist in boosting"
+
+msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_SLOW"
+msgstr "Airship slowing"
+
+msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
+msgstr "Assist in slowing"
+
+msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE"
+msgstr "Captured"
+
+msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE_ASSIST"
+msgstr "Assisted in capture"
+
+msgid "IDS_RIBBON_SUBRIBBON_BASE_DEFENSE"
+msgstr "Defended"
+
+msgid "IDS_RIBBON_SUBRIBBON_DROP"
+msgstr "Upgrade picked up"
+
+msgid "IDS_ROLE_SHIP_TYPE_AIRCARRIER"
+msgstr "Role: Dealing Damage and Reconnaissance"
+
+msgid "IDS_ROLE_SHIP_TYPE_BATTLESHIP"
+msgstr "Role: Dealing and Withstanding Damage"
+
+msgid "IDS_ROLE_SHIP_TYPE_CRUISER"
+msgstr "Role: Dealing Damage and Support"
+
+msgid "IDS_ROLE_SHIP_TYPE_DESTROYER"
+msgstr "Role: Reconnaissance and Support"
+
+msgid "IDS_ROLE_SHIP_TYPE_SUBMARINE"
+msgstr "Role: Dealing Damage"
+
+msgid "IDS_SECOND_SCARLET_BIRTHDAY_2_NAME"
+msgstr "Messengers of Progress"
+
+msgid "IDS_SHIPYARD_COMMON_EVENT_TITLE"
+msgstr "Shipyard"
+
+msgid "IDS_SHIP_SPECIAL_HYBRID"
+msgstr "Hybrid Ship"
+
+msgid "IDS_SHIP_TYPE_COMMON_DESCRIPTION"
+msgstr "Average characteristics of the class are listed. Each ship has a unique set of parameters."
+
+msgid "IDS_SHIP_TYPE_PARAM_COMBAT_RANGE"
+msgstr "Combat Range"
+
+msgid "IDS_SHIP_TYPE_PARAM_DISGUISE"
+msgstr "Camouflage"
+
+msgid "IDS_SHIP_TYPE_PARAM_MANEUVERABILITY"
+msgstr "Maneuverability"
+
+msgid "IDS_SHIP_TYPE_PARAM_SURVIVABILITY"
+msgstr "Survivability"
+
+msgid "IDS_SHIP_TYPE_PREMIUM_DESCRIPTION"
+msgstr "Ships of various classes that do not require research. Provide more credits per battle and allow you to earn free experience faster."
+
+msgid "IDS_SOUND_MOD_TURRY"
+msgstr "Turry"
+
+msgid "IDS_SUB_DUAL_ST_ST_CONSTRSIDE"
+msgstr "Sheathing"
+
+msgid "IDS_SYS_MSG_BOUGHT_BP_POINTS"
+msgstr "Battle Pass points purchased"
+
+msgid "IDS_SYS_MSG_FREE_BATTLEPASS_RECEIVED"
+msgstr "Base Battle Pass received"
+
+msgid "IDS_SYS_MSG_PAID_ENHANCED_BATTLEPASS_BOUGHT"
+msgstr "Premium Battle Pass + seasonal bonuses purchased"
+
+msgid "IDS_SYS_MSG_PAID_ENHANCED_BATTLEPASS_RECEIVED"
+msgstr "Premium Battle Pass + seasonal bonuses received"
+
+msgid "IDS_SYS_MSG_PAID_REGULAR_BATTLEPASS_BOUGHT"
+msgstr "Premium Battle Pass purchased"
+
+msgid "IDS_SYS_MSG_PAID_REGULAR_BATTLEPASS_RECEIVED"
+msgstr "Premium Battle Pass received"
+
+msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
+msgstr "Science Without Borders"
+
+msgid "IDS_TIPS_SUBMARINE_USE_WEAPON_AND_CONSUMABLE_ON_DEPTH"
+msgstr "Weapon and Equipment Underwater"
+
+msgid "IDS_TIPS_SUBMARINE_USE_WEAPON_AND_CONSUMABLE_ON_DEPTH_DESCRIPTION"
+msgstr "Certain weapons and equipment may be unavailable depending on the depth at which the submarine is located."
+
+msgid "IDS_TURRY"
+msgstr "Turry"
+
+msgid "IDS_ZERO_CONSUMABLES_INFO"
+msgstr "The amount of equipment has been reduced by upgrades or commander skills."

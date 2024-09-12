@@ -1,0 +1,412 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_DESCRIPTION"
+msgstr "Наставник и соратники в составе отряда должны совместно получить не менее 4 лент «Захват точки» или «Помощь в захвате»."
+
+msgid "IDS_ACOUSTIC_TORPEDO_ALPHA_DAMAGE_HIGH"
+msgstr "Каждая торпеда с акустическим наведением наносит большой урон"
+
+msgid "IDS_ACOUSTIC_TORPEDO_ALPHA_DAMAGE_LOW"
+msgstr "Одна торпеда с акустическим наведением наносит малый урон"
+
+msgid "IDS_AFFECTED_CONSUMABLES_TOOLTIP_TITLE"
+msgstr "Изменение снаряжения:"
+
+msgid "IDS_ASYMM_2POINT_COOP"
+msgstr "Асимметричный бой"
+
+msgid "IDS_ASYMM_3POINT_COOP"
+msgstr "Асимметричный бой"
+
+msgid "IDS_ASYMM_COOP_SPECIAL"
+msgstr "Асимметричный бой"
+
+msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_HIGH"
+msgstr "Каждая авиационная бомба наносит большой урон"
+
+msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_LOW"
+msgstr "Одна авиационная бомба наносит малый урон"
+
+msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_HIGH"
+msgstr "Каждая ракета наносит большой урон"
+
+msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_LOW"
+msgstr "Одна ракета наносит малый урон"
+
+msgid "IDS_AVIATION_TORPEDO_ALPHA_DAMAGE_HIGH"
+msgstr "Каждая авиационная торпеда наносит большой урон"
+
+msgid "IDS_AVIATION_TORPEDO_ALPHA_DAMAGE_LOW"
+msgstr "Одна авиационная торпеда наносит малый урон"
+
+msgid "IDS_BATTLEPASS_PURCHASE_GOLD_TEXT"
+msgstr ""
+"Вы можете приобрести наборы с дублонами для покупки\n"
+"Улучшенного пропуска и сезонных бонусов"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "Можно получить жетонов прогресса"
+
+msgid "IDS_CURRENCY_EVENTUM_2"
+msgstr "Жетоны прогресса"
+
+msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
+msgstr "В качестве бонуса за боевые результаты, за выполнение боевых задач события в течение ограниченного времени и из наборов в Адмиралтействе во время проведения события в обновлениях 13.8 и 13.9, а также за достижение уровней Боевого пропуска и в разделе «Ежедневные награды» до конца обновления 13.8."
+
+msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
+msgstr "На открытие карточек с редкими и элитными сигналами, Суперконтейнерами, контейнерами «Редкие бонусы», «Элитные бонусы», Lesta Games и «Сокровищница флота», на контейнеры «Эхо будущего», на экономические комплекты для кораблей X уровня и суперкораблей, а также на другое имущество во время проведения события в обновлениях 13.8 и 13.9."
+
+msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
+msgstr "Временный ресурс события «Эхо будущего». С выходом обновления 13.10 жетоны будут списаны без компенсации."
+
+msgid "IDS_CURRENCY_EVENTUM_5"
+msgstr "Нефритовые жетоны"
+
+msgid "IDS_CURRENCY_EVENTUM_5_GET_DESCRIPTION"
+msgstr "За выполнение боевых задач в течение ограниченного времени в обновлениях 13.8–25.1."
+
+msgid "IDS_CURRENCY_EVENTUM_5_SPEND_DESCRIPTION"
+msgstr "На случайные наборы с конструкциями линкора VII уровня Collingwood, с контейнерами «Редкие бонусы», «Путешествие на Запад», «Лунный Новый год», с редкими сигналами, а также на Суперконтейнеры до конца обновления 25.1."
+
+msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
+msgstr "Временный ресурс события «Нефритовый сезон». С выходом обновления 25.2 жетоны будут списаны без компенсации."
+
+msgid "IDS_CURRENCY_EVENTUM_7"
+msgstr "Рыцарские жетоны"
+
+msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
+msgstr "За выполнение боевых задач в течение ограниченного времени, а также из наборов в Адмиралтействе во время проведения события в обновлениях 13.8 и 13.9."
+
+msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
+msgstr "На эсминцы VIII уровня Z-32, Z-33 и Z-38, а также на другое имущество во время проведения события в обновлениях 13.8 и 13.9."
+
+msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
+msgstr "Временный ресурс события «Рыцари северных морей». С выходом обновления 13.10 жетоны будут списаны без компенсации."
+
+msgid "IDS_EVENTUM_2_COLON"
+msgstr "Жетоны прогресса:"
+
+msgid "IDS_EVENTUM_5_COLON"
+msgstr "Нефритовые жетоны:"
+
+msgid "IDS_EVENTUM_7_COLON"
+msgstr "Рыцарские жетоны:"
+
+msgid "IDS_INSTALL_RESTRICTION_MSKIN"
+msgstr "Можно установить на большинство кораблей:"
+
+msgid "IDS_MAIN_GUN_AMMO_AP_ALPHA_HIGH"
+msgstr "Каждый ББ-снаряд наносит большой урон"
+
+msgid "IDS_MAIN_GUN_AMMO_AP_ALPHA_LOW"
+msgstr "Один ББ-снаряд наносит малый урон"
+
+msgid "IDS_MAIN_GUN_AMMO_HE_ALPHA_HIGH"
+msgstr "Каждый ОФ-снаряд наносит большой урон"
+
+msgid "IDS_MAIN_GUN_AMMO_HE_ALPHA_LOW"
+msgstr "Один ОФ-снаряд наносит малый урон"
+
+msgid "IDS_MODAL_WINDOW_PCVE020_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Вам предстоит сразиться вместе с другими игроками против ботов. Противник превосходит вас числом, но уступает в боевой мощи."
+
+msgid "IDS_PCQT036_1"
+msgstr "Получите ленту «Захват точки» или «Помощь в захвате»."
+
+msgid "IDS_PCQT067_1"
+msgid_plural "IDS_PCQT067_1"
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT109_1"
+msgstr "Получите ленту «Захват точки»."
+
+msgid "IDS_PCQT122_1"
+msgid_plural "IDS_PCQT122_1"
+msgstr[0] "Получите %(count)s ленту «Захват точки», «Помощь в захвате» или «Защита точки»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT140_1"
+msgid_plural "IDS_PCQT140_1"
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT141_1"
+msgid_plural "IDS_PCQT141_1"
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
+msgid_plural "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
+msgid_plural "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT394_1"
+msgid_plural "IDS_PCQT394_1"
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT396_1"
+msgid_plural "IDS_PCQT396_1"
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT403_1"
+msgid_plural "IDS_PCQT403_1"
+msgstr[0] "Получите %(count)s ленту «Защита точки» и останьтесь в живых."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT417_1"
+msgid_plural "IDS_PCQT417_1"
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT512_1"
+msgid_plural "IDS_PCQT512_1"
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT660_1"
+msgid_plural "IDS_PCQT660_1"
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCVE020_DESCRIPTION"
+msgstr "Сражения против ботов, которые превосходят вас числом, но уступают в боевой мощи."
+
+msgid "IDS_PGPR009_LOTHRINGEN"
+msgstr "Wfr.Gr.8.8E"
+
+msgid "IDS_PGSD548_YEAR"
+msgstr "1943 г."
+
+msgid "IDS_PGSD558_YEAR"
+msgstr "1943 г."
+
+msgid "IDS_REWARD_EVENTUM_2_TITLE"
+msgstr "Жетоны прогресса"
+
+msgid "IDS_REWARD_EVENTUM_5_TITLE"
+msgstr "Нефритовые жетоны"
+
+msgid "IDS_REWARD_EVENTUM_7_TITLE"
+msgstr "Рыцарские жетоны"
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE"
+msgstr "Контейнер «Дом.ру»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE_SHORT"
+msgstr "Дом.ру"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ACID"
+msgstr "Вызвать поражение кислотой на корабле противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ACOUSTIC_HIT"
+msgstr "Попасть акустическим импульсом в корабль противника и повысить эффективность торпедного залпа."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BASE_CAPTURE"
+msgstr "Захватить контрольную точку или базу противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BASE_CAPTURE_ASSIST"
+msgstr "Помочь захватить контрольную точку или базу противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BASE_DEFENSE"
+msgstr "Попасть в противника, захватывающего контрольную точку или союзную базу."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BOMB"
+msgstr "Попасть бомбой в корабль противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BUILDING_KILL"
+msgstr "Уничтожить береговое сооружение противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BURN"
+msgstr "Поджечь корабль противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_CITADEL"
+msgstr "Попасть в цитадель корабля противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_CRIT"
+msgstr "Вывести из строя модуль корабля противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_DBOMB"
+msgstr "Поразить подводную лодку противника глубинной бомбой."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_DBOMB_MINE"
+msgstr "Повредить корабль противника миной."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_DEMINING_MINE"
+msgstr "Уничтожить мину противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_DETECTED"
+msgstr "Обнаружить корабль противника, который ни разу не был замечен в бою либо был незаметен более 90 секунд."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_DROP"
+msgstr "Подобрать улучшение."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_EFFECTIVE_SMOKES"
+msgstr "Прикрыть корабль союзника дымовой завесой."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_FLOOD"
+msgstr "Вызвать затопление на корабле противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_FRAG"
+msgstr "Уничтожить корабль противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MAIN_CALIBER"
+msgstr "Попасть в корабль противника из орудий главного калибра."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MINE"
+msgstr "Повредить корабль противника миной."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_PLANE"
+msgstr "Уничтожить самолёт противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ROCKET"
+msgstr "Попасть ракетой в корабль противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SECONDARY_CALIBER"
+msgstr "Попасть в корабль противника из орудий вспомогательного калибра (ПМК)."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SPLANE"
+msgstr "Уничтожить самолёт противника истребителем."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SUPPRESSED"
+msgstr "Подавить береговое сооружение противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_TORPEDO"
+msgstr "Попасть торпедой в корабль противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_WAVE"
+msgstr "Попасть волной."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DBOMB_FULL_DAMAGE"
+msgstr "Нанести значительный урон подводной лодке противника глубинной бомбой."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DBOMB_PARTIAL_DAMAGE"
+msgstr "Нанести незначительные повреждения подводной лодке противника глубинной бомбой."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
+msgstr "Непробитие корабля противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_OVER_PENETRATION"
+msgstr "Сквозное пробитие корабля противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_PENETRATION"
+msgstr "Пробитие корабля противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_RICOCHET"
+msgstr "Рикошет по кораблю противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_WAVE_CUT_WAVE"
+msgstr "Обрезать волну волной."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_WAVE_HIT_VEHICLE"
+msgstr "Попасть волной в корабль."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_WAVE_KILL_TORPEDO"
+msgstr "Уничтожить торпеду волной."
+
+msgid "IDS_RIBBON_SSE_BASE_CAPTURE"
+msgstr "Захват точки"
+
+msgid "IDS_RIBBON_SSE_BASE_CAPTURE_ASSIST"
+msgstr "Помощь в захвате"
+
+msgid "IDS_RIBBON_SSE_BASE_DEFENSE"
+msgstr "Защита точки"
+
+msgid "IDS_SCENARIO_ASYMM_COOP_SPECIAL"
+msgstr "Асимметричный бой"
+
+msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
+msgstr "Lothringen построен"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DAMAGE_RESIST"
+msgstr "Повышение живучести"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PLANE_SPAWN_TIME"
+msgstr "Усиление авиации"
+
+msgid "IDS_SIMULTANEOUS_RELOAD"
+msgstr "Перезарядка всех видов вооружения одновременно"
+
+msgid "IDS_SIMULTANEOUS_RELOAD_DESCRIPTION"
+msgstr "Одновременно отображать индикаторы перезарядки орудий главного калибра, торпедных аппаратов и авиаудара."
+
+msgid "IDS_SIMULTANEOUS_RELOAD_TOOLTIP_HEADER"
+msgstr "Индикаторы перезарядки всех видов вооружения"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_BASE_DEFENSE_BASE_CAPTURE_BASE_CAPTURE_ASSIST_FULL"
+msgstr "Получите как можно больше лент «Захват точки», «Помощь в захвате» и «Защита точки»"
+
+msgid "IDS_STRATEGIC_ACTIONS_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_DESCRIPTION"
+msgstr ""
+"Наставник и соратники в составе отряда должны совместно получить не менее 4 лент «Захват точки» или «Помощь в захвате».\n"
+"\n"
+"Выполняется в одном бою."
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
+msgstr "Жетоны прогресса куплены"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
+msgstr "Нефритовые жетоны куплены"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
+msgstr "Рыцарские жетоны куплены"
+
+msgid "IDS_SYS_MSG_RECEIVED_BP_POINTS"
+msgstr "Получены очки Боевого пропуска"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
+msgstr "Получены жетоны прогресса"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_5"
+msgstr "Получены нефритовые жетоны"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
+msgstr "Получены рыцарские жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
+msgstr "Списаны жетоны прогресса"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
+msgstr "Списаны нефритовые жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
+msgstr "Списаны рыцарские жетоны"
+
+msgid "IDS_TORPEDO_ALPHA_DAMAGE_HIGH"
+msgstr "Каждая торпеда наносит большой урон"
+
+msgid "IDS_TORPEDO_ALPHA_DAMAGE_LOW"
+msgstr "Одна торпеда наносит малый урон"
