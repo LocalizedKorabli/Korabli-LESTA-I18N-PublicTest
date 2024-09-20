@@ -1,208 +1,70 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Korabli-LESTA-I18N-English\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
-"Language-Team: LocalizedKorabli <localizedkorabli@outlook.com>\n"
-"Language: en\n"
+"Language-Team: \n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_AVIATION_HYBRID_BOMBERS"
-msgstr "Tactical bombers available"
+msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
+msgstr "The enemy is moving — aim ahead when firing"
 
-msgid "IDS_AVIATION_HYBRID_FIGHTERS"
-msgstr "Tactical attack aircraft available"
+msgid "IDS_NAVAL_FLAG_VIETNAM_DESCRIPTION"
+msgstr "The Democratic Republic of Vietnam (1945–1976) was an internationally recognized state in northern Vietnam. In 1975, the armed forces of the DRV and the National Liberation Front of South Vietnam defeated the army of the Republic of Vietnam, a state south of the 17th parallel. A unified state, the Socialist Republic of Vietnam, was proclaimed. The star on the flag symbolizes the leadership of the Communist Party of Vietnam, and the red color represents the success of the revolution."
 
-msgid "IDS_AVIATION_HYBRID_SKIP_BOMBERS"
-msgstr "Tactical skip bombers available"
-
-msgid "IDS_AVIATION_HYBRID_TORPEDO_BOMBER"
-msgstr "Tactical torpedo bombers available"
-
-msgid "IDS_BATTLE_STATS_ALLIES_TECHNICAL_RESULTS"
-msgstr "Our team completed the mission."
-
-msgid "IDS_BATTLE_STATS_ENEMIES_TECHNICAL_RESULTS"
-msgstr "The enemy team completed the mission."
-
-msgid "IDS_BY_DESTOYED_PLANES"
-msgstr "Number of aircraft destroyed"
-
-msgid "IDS_BY_EXPERIENCE"
-msgstr "XP earned"
-
-msgid "IDS_BY_KILLS"
-msgstr "Number of warships destroyed"
-
-msgid "IDS_BY_REWARDS"
-msgstr "Number of achievements received in the battle"
-
-msgid "IDS_CONFIRMATION_AUTO_FIN_BATTLE_AFTER_EXIT"
-msgstr "Only bots remain in action. Victory will be awarded to the team with the best result."
-
-msgid "IDS_CREW_HIRE_PREM_SHIP_TEXT_0"
-msgstr "No preparation needed for special or premium ships."
-
-msgid "IDS_CREW_PROFILE_INFO"
-msgstr "Open personal file"
-
-msgid "IDS_CREW_SKILL_POINTS"
-msgid_plural "IDS_CREW_SKILL_POINTS"
-msgstr[0] "%(count)d point"
-msgstr[1] "%(count)d points"
-
-msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "German tokens"
-
-msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "For completing combat missions until the end of update 13.9 and from sets in the Admiralty until the end of update 13.10."
-
-msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "For thematic items in the Admiralty until the end of update 13.10."
-
-msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "Temporary resource for the 'German Cruisers' event. With the release of update 13.11, tokens will be removed without compensation."
-
-msgid "IDS_CURRENCY_EVENTUM_4"
-msgstr "Japanese Tokens"
-
-msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
-msgstr "For completing combat missions until the end of update 13.9 and from sets in the Admiralty until the end of update 13.10."
-
-msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr "For thematic items in the Admiralty until the end of update 13.10."
-
-msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
-msgstr "Temporary resource. With the release of update 13.11, tokens will be removed without compensation."
-
-msgid "IDS_EVENTUM_3_COLON"
-msgstr "German Tokens:"
-
-msgid "IDS_EVENTUM_4_COLON"
-msgstr "Japanese Tokens:"
-
-msgid "IDS_EXCLUDED_SHIPS_HEADER"
-msgstr "Ships that are not allowed into battle."
-
-msgid "IDS_FIRST_BATTLE_DESCRIPTION"
-msgstr "The first battle"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_AIRCARRIER"
-msgstr "Aircraft carriers are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_BATTLESHIP"
-msgstr "Battleships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_CRUISER"
-msgstr "Cruisers are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_DESTROYER"
-msgstr "Destroyers are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_SUBMARINE"
-msgstr "Submarines are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL_NOT_AVAILABLE"
-msgstr "Tier %(level)s ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL_SUPERSHIP_NOT_AVAILABLE"
-msgstr "Superships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_COMMONWEALTH"
-msgstr "Commonwealth ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_EUROPE"
-msgstr "European ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_FRANCE"
-msgstr "French ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_GERMANY"
-msgstr "German ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_ITALY"
-msgstr "Italian ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_JAPAN"
-msgstr "Japanese ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_NETHERLANDS"
-msgstr "Dutch ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_PAN_AMERICA"
-msgstr "Pan-American ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_PAN_ASIA"
-msgstr "Pan-Asian ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_RUSSIA"
-msgstr "Soviet ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_SPAIN"
-msgstr "Spanish ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_UNITED_KINGDOM"
-msgstr "British ships are not available"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_USA"
-msgstr "U.S. ships are not available"
-
-msgid "IDS_LIMITED_SHIPS_HEADER"
-msgstr "No more than a certain number of ships from each group are allowed in a team."
-
-msgid "IDS_PARAMS_MODIFIER_BOMBKRUPPMULTIPLIER"
-msgstr "AP bomb armor penetration capability"
-
-msgid "IDS_PARAMS_MODIFIER_ROCKETKRUPPMULTIPLIER"
-msgstr "AP rockets armor penetration capability"
-
-msgid "IDS_PARAMS_MODIFIER_VULNERABILITYALL"
-msgstr "Damage received of all types"
+msgid "IDS_PARAMS_MODIFIER_ATTACKCOOLDOWNMULTIPLIER"
+msgstr "Squadron attack cooldown"
 
 msgid "IDS_PAUE900_S10_ENG_STOCK"
 msgstr "Propulsion: 5,480 hp"
 
-msgid "IDS_PJGA195_120MM_LAUNCHER"
-msgstr "120 mm AA Rocket"
+msgid "IDS_PAUE928_ENG_ARCHERFISH"
+msgstr "Propulsion: 5,480 hp"
 
-msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "German tokens"
+msgid "IDS_PCZC927_TSAR_MOREY_2_1_DESCRIPTION"
+msgstr ""
+"Strict but fair, impartial and incorruptible — this is a true eSports judge. He has extremely strong calves because he observes the game while standing at all times.\n"
+"\n"
+"Ignorance of the regulations is no excuse for breaking them!"
 
-msgid "IDS_REWARD_EVENTUM_4_TITLE"
-msgstr "Japanese tokens"
+msgid "IDS_PCZC931_TSAR_MOREY_3_1_DESCRIPTION"
+msgstr ""
+"You may be endlessly cool, but what's the point if you haven't read the rules? No team is immune to technical defeat.\n"
+"\n"
+"But don't give up. Analyze your mistakes and head towards victory!"
 
-msgid "IDS_SEASON_RESTRICTIONS_TOOLTIP_HEADER"
-msgstr "Restrictions"
+msgid "IDS_PCZC937_TSAR_MOREY_4_3_DESCRIPTION"
+msgstr ""
+"“I set the rules here. If I decide the enemy won't take the point, they won't. At least, they'll have to try really hard.”\n"
+"\n"
+"Destroyers are the eyes of the team, and they have a huge impact on the battle. Every fight for a destroyer commander is not only a beautiful spectacle but also a real mind game! Just be careful not to outsmart yourself."
 
-msgid "IDS_SHIP_EXP_DEFICIT"
-msgstr "Go into battle again to earn experience to research a new ship!"
+msgid "IDS_PCZC938_TSAR_MOREY_4_4_DESCRIPTION"
+msgstr ""
+"— CV, when will we be allowed in the tournament?\n"
+"\n"
+"— Someday, CV... Someday..."
 
-msgid "IDS_SHIP_EXP_DESCRIPTION"
-msgstr "Needed to research new ships and modules."
+msgid "IDS_PWSD518_DESCR"
+msgstr "A destroyer built in Great Britain for Poland, it became one of the most famous ships of World War II. In the spring of 1947, it was transferred to the new Polish government. During 1951-52, the ship was modernized: the main battery and anti-aircraft guns were replaced with Soviet-made weapons. Błyskawica spent the 1960s in foreign visits and exercises."
 
-msgid "IDS_SHIP_EXP_FULL"
-msgstr "You can now research a new ship!"
+msgid "IDS_REWARD_UNLOCK_TRACER"
+msgstr "Colored Shell Tracers"
 
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "German tokens purchased"
+msgid "IDS_REWARD_UNLOCK_TRACER_DESCRIPTION"
+msgstr "Main gun tracers change to an alternative color"
 
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
-msgstr "Japanese tokens purchased"
+msgid "IDS_TIPS_AIRCRAFT_AIR_DEFENSE_ENEMY_DESCRIPTION"
+msgstr "Dodge the tracer shells and AA gun shell explosions by changing the speed and direction of the squadron."
 
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "German tokens received"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
-msgstr "Japanese tokens received"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "German tokens written off"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
-msgstr "Japanese tokens written off"
+msgid "IDS_TIPS_AIR_DEFENSE_DESCRIPTION"
+msgstr ""
+"AA defenses and secondary batteries open fire automatically.\n"
+"\n"
+"To prevent the tracers from exposing your position within a smoke screen, you can disable the AA and secondary guns using the [CMD_SWITCH_ATBA_AIRDEFENSE] key."

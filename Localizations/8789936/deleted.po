@@ -1,0 +1,148 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_ACCOUNT_COMPLETION_REWARD_TOOLTIP_HOW_TO_GET_DESC_GOLD_SHOPMERGE"
+msgstr ""
+"Можно приобрести в Адмиралтействе или получить за участие в различных "
+"событиях."
+
+msgid "IDS_ACCOUNT_TRANSFER"
+msgstr "Внимание"
+
+msgid "IDS_ACCOUNT_TRANSFER_BTN_START_TRANSFER"
+msgstr "Перейти на EU"
+
+msgid "IDS_ACCOUNT_TRANSFER_TEXT_CIS_AND_PLATFORM_EGS"
+msgstr ""
+"Аккаунт Epic Games Store больше не может быть использован для игры "
+"на сервере CIS."
+
+msgid "IDS_ACCOUNT_TRANSFER_TEXT_CIS_AND_PLATFORM_MICROSOFT"
+msgstr ""
+"Аккаунт Microsoft Store больше не может быть использован для игры "
+"на сервере CIS."
+
+msgid "IDS_ACCOUNT_TRANSFER_TEXT_CIS_AND_PLATFORM_STEAM"
+msgstr ""
+"Аккаунт Steam больше не может быть использован для игры на сервере CIS."
+
+msgid "IDS_ACCOUNT_TRANSFER_TEXT_START_TRANSFER_EGS"
+msgstr ""
+"Если вы хотите продолжить играть через платформу Epic Games Store, вам "
+"необходимо перенести свой аккаунт на сервер EU"
+
+msgid "IDS_ACCOUNT_TRANSFER_TEXT_START_TRANSFER_MICROSOFT"
+msgstr ""
+"Если вы хотите продолжить играть через платформу Microsoft Store, вам "
+"необходимо перенести свой аккаунт на сервер EU"
+
+msgid "IDS_ACCOUNT_TRANSFER_TEXT_START_TRANSFER_STEAM"
+msgstr ""
+"Если вы хотите продолжить играть через платформу Steam, вам необходимо "
+"перенести свой аккаунт на сервер EU"
+
+msgid "IDS_BY_DAMAGE"
+msgstr "Сортировать по количеству кораблей, уничтоженных с помощью игрока"
+
+msgid "IDS_BY_PLAYER_NAME"
+msgstr "Сортировать по имени игрока"
+
+msgid "IDS_BY_PLAYER_NUMBER"
+msgstr "Сортировать по номеру игрока"
+
+msgid "IDS_BY_SHIP_NAME"
+msgstr "Сортировать по уровню корабля"
+
+msgid "IDS_BY_TROOP_NUMBER"
+msgstr "Сортировать по номеру отряда"
+
+msgid "IDS_CONTEXT_TUTORIAL_MOVEMENT"
+msgstr " "
+
+msgid "IDS_CREW_PROFILE"
+msgstr "Все навыки"
+
+msgid "IDS_CURRENCY_GOLD_GET_DESCRIPTION_SHOPMERGE"
+msgstr ""
+"Можно приобрести в Адмиралтействе или получить за участие в различных "
+"событиях."
+
+msgid "IDS_ELITE_CREW"
+msgstr "Максимальный уровень"
+
+msgid "IDS_ELITE_CREW_TOOLTIP_DESCRIPTION"
+msgstr ""
+"Командир достиг максимального уровня обучения. Весь опыт, зарабатываемый "
+"этим командиром в боях, переводится в элитный."
+
+msgid "IDS_INSTRUCTION_SHIP_PURCHASE"
+msgstr "Перейти в дерево развития для покупки корабля"
+
+msgid "IDS_INSTRUCTION_SLOT_PURCHASE"
+msgstr "Покупка слота даёт возможность купить корабль."
+
+msgid "IDS_MOUSE_INSTRUCTION_SLOT_PURCHASE"
+msgstr "Перейти к покупке слота"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_AIRDEFENSE"
+msgstr "ПВО"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_AIR_SUPPORT"
+msgstr "Авиаудар"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_ATTACK_AIRCRAFT"
+msgstr "Штурмовики"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_ATTACK_AIRCRAFT_ALT"
+msgstr "Тактические штурмовики"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_BATTERY"
+msgstr "Автономность"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_BOMBERS_ALT"
+msgstr "Тактические бомбардировщики"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_BURSTFIRE"
+msgstr "Альтернативный режим стрельбы"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_CONSUMABLES"
+msgstr "Особое"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_DURABILITY"
+msgstr "Живучесть"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_MAIN_CALIBER"
+msgstr "Главный калибр"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_MINE_BOMBERS"
+msgstr "Постановщики мин"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_PINGER"
+msgstr "Сонар"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_RAGEMODE"
+msgstr "Боевые инструкции"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_SECONDARY_CALIBER"
+msgstr "Вспомогательный калибр"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_SKIP_BOMBERS_ALT"
+msgstr "Тактические топмачтовые бомбардировщики"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_TORPEDOES"
+msgstr "Торпеды"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_T_BOMBERS"
+msgstr "Торпедоносцы"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_T_BOMBERS_ALT"
+msgstr "Тактические торпедоносцы"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_VISION"
+msgstr "Маскировка и обнаружение"
+
+msgid "IDS_SHOW_CURSOR_IN_STATS_PANEL_HINT"
+msgstr ""
+"Курсор будет активен без удержания [KEY_CONTROL].\n"
+"Управление камерой будет отключено."
