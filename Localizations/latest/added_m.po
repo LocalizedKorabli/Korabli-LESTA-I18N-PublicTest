@@ -871,7 +871,7 @@ msgid "IDS_PGSB548"
 msgstr "Odin B"
 
 msgid "IDS_PGSB548_DESCR"
-msgstr "In 1932–34, development projects for Deutschland-class ships were considered. The decision was made to add a third main battery turret, significantly increasing displacement. When the characteristics of the French battlecruiser Strasbourg became known, adjustments were made to the caliber of the ships' main armament. A variant with a 305 mm main caliber was considered the most balanced, especially since this caliber was what the British wanted to propose for the future naval conference."
+msgstr "Between 1932 and 1934, various projects were being considered to further develop and enhance the capabilities of the Deutschland-class warships. A decision was made to add a third main battery turret, leading to a significant increase in water displacement. When the characteristics of French battlecruiser Strasbourg became known, adjustments had to be made to the caliber of the ships' main armament. The 305 mm caliber version was deemed the most balanced one, especially since the British wanted to propose it as the main caliber at a forthcoming naval conference."
 
 msgid "IDS_PGSB548_FULL"
 msgstr "Odin B"
@@ -1021,7 +1021,7 @@ msgid "IDS_PJSC509"
 msgstr "Azuma B"
 
 msgid "IDS_PJSC509_DESCR"
-msgstr "Shortly before the outbreak of World War II, Japan learned of the USA's plans to design large Alaska-class cruisers. Almost immediately, Japan began developing a cruiser of this class to counter the American cruisers. The project ships were architecturally similar to the Yamato-class battleships, armed with nine modern 310 mm guns in three turrets. Development was halted in November 1941 and finally canceled after the Battle of Midway."
+msgstr "Shortly before the beginning of World War II, Japan found out that the U.S. had started designing Alaska-class large cruisers. They almost immediately began designing projects for this type of ship to counter the American cruisers. The ships of this project were similar in architecture to the Yamato-class battleships and carried nine new 310 mm guns in three turrets. The development was stopped in November 1941 and eventually canceled after the Battle of Midway."
 
 msgid "IDS_PJSC509_FULL"
 msgstr "Azuma B"
@@ -1349,7 +1349,7 @@ msgid "IDS_PRSC526"
 msgstr "Molotov B"
 
 msgid "IDS_PRSC526_DESCR"
-msgstr "The new Project 26-bis cruiser, launched in 1937, featured a modified superstructure, improved armor, and a new fire control system. The cruiser 'Molotov' was commissioned in June 1941. During the Great Patriotic War, it defended against air attacks on Sevastopol, participated in the Kerch Landing Operation, and helped defend Sevastopol. After being hit by a German torpedo in 1942, 'Molotov' was repaired in Poti and later transferred to the Black Sea Fleet."
+msgstr "In 1937, the new Project 26bis received a modified superstructure, improved armor, and a new fire-control system. Built under this project, cruiser Molotov was commissioned in June 1941. During World War II, she repelled air attacks in Sevastopol, participated in the Kerch landing operation, and played a part in the defense of Sevastopol. After being hit by a German torpedo in 1942, Molotov was repaired in Poti and later transferred to the Black Sea Fleet."
 
 msgid "IDS_PRSC526_FULL"
 msgstr "Molotov B"
@@ -1384,7 +1384,7 @@ msgid "IDS_PRSS518"
 msgstr "S-189 B"
 
 msgid "IDS_PRSS518_DESCR"
-msgstr "The Project 613 submarine was the most mass-produced series of submarines in the Soviet Navy, built based on the experience of World War II. It had the ability to operate submerged for extended periods."
+msgstr "Project 613 is the most-produced series of Soviet Navy submarines and was built based on experience gained during World War II. The boat was capable of operating underwater for extended periods of time."
 
 msgid "IDS_PRSS518_FULL"
 msgstr "S-189 B"
