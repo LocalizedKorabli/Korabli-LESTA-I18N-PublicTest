@@ -12,51 +12,1832 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_NO_NATION"
-msgstr "Командиру должна быть присвоена нация, чтобы он мог получить национальный талант"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DE_JAPAN"
+msgstr "Победить в бою, сражаясь на корабле Японской империи."
 
-msgid "IDS_FAST_TRAINING_DISABLE_REASON_NATION_COMMON"
-msgstr "Командиру не присвоена нация. Ускорение обучения недоступно."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DE_RUSSIA"
+msgstr "Победить в бою, сражаясь на корабле Российской империи."
 
-msgid "IDS_NO_NATION_CREW"
-msgstr "Не присвоена нация"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_ATBA_CALIBER"
+msgstr "Уничтожить корабль противника с нанесением последнего урона огнём орудий ПМК."
 
-msgid "IDS_UNLOCKS_24"
-msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_DOUBLE_KILL"
+msgstr "Уничтожить 2 корабля противника с интервалом не более %(timeInterval)s секунд."
 
-msgid "IDS_UNLOCKS_3103"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_FIRST_BLOOD"
+msgstr "Первым в бою уничтожить корабль противника."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_HEADBUTT"
+msgstr "Уничтожить тараном корабль противника и выжить."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_INSTANT_KILL"
+msgstr "В течение 5 секунд нанести кораблю противника любым вооружением урон, составляющий не менее %(_damageRatio_percent)s от его штатной боеспособности, и уничтожить его."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_IRONCLAD"
+msgstr "Получить от %(damagersCount)s противников или более урон, составляющий не менее %(damageRatio_percent)s от штатной боеспособности вашего корабля, и выжить в бою."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_MAIN_CALIBER"
+msgstr "Повредить %(victimsCount)s корабля противника или более. Нанесённый урон должен составлять не менее %(damageRatio_percent)s от суммарной штатной боеспособности всех кораблей противника. Уничтоженный и вернувшийся в бой эсминец учитывается как один корабль."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_RETRIBUTION"
+msgstr "Уничтожить корабль противника после уничтожения своего корабля."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_SUPPORT"
+msgstr "Повредить %(victimsCount)s кораблей противника или более. Урон, нанесённый каждому кораблю, должен составлять не менее %(damageRatio_percent)s от его штатной боеспособности. Уничтоженный и вернувшийся в бой эсминец учитывается как один корабль."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_UNSINKABLE"
+msgstr "Получить урон от затопления, составляющий не менее %(damageRatio_percent)s от штатной боеспособности корабля, и выжить в бою."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_WARRIOR"
+msgstr "Уничтожить %(victimsCount)s кораблей противника или более."
+
+msgid "IDS_ACHIEVEMENT_DE_JAPAN"
+msgstr "Знак ордена Восходящего солнца"
+
+msgid "IDS_ACHIEVEMENT_DE_RUSSIA"
+msgstr "Крест ордена Св. Георгия"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_ATBA_CALIBER"
+msgstr "Град снарядов"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_DOUBLE_KILL"
+msgstr "Дубль"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_FIRST_BLOOD"
+msgstr "Дебют"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_HEADBUTT"
+msgstr "Таранный форштевень"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_INSTANT_KILL"
+msgstr "Каратель"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_IRONCLAD"
+msgstr "Броненосец"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_MAIN_CALIBER"
+msgstr "Генерал-адмирал"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_RETRIBUTION"
+msgstr "Последний подвиг"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_SUPPORT"
+msgstr "Адъютант"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_UNSINKABLE"
+msgstr "Усмиритель потопа"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_WARRIOR"
+msgstr "Левиафан"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_DREADNOUGHT"
+msgstr "Выполняется в Эпохе броненосцев."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_DREADNOUGHT_BB_CA"
+msgstr "Выполняется в Эпохе броненосцев на линкорах и крейсерах."
+
+msgid "IDS_AVIATION_HYBRID_MINE_BOMBER"
+msgstr "Доступны тактические постановщики мин"
+
+msgid "IDS_CAROUSEL_PCVE027_FILTER"
+msgstr "Фильтр кораблей, подходящих для участия в Эпохе броненосцев"
+
+msgid "IDS_CHANGE_TRAINING_ROOM_SETTINGS_TOOLTIP"
+msgstr "Изменить настройки боя и тренировочной комнаты"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE027"
+msgstr "Выбрать Эпоху броненосцев"
+
+msgid "IDS_CLEAR_MESSAGE_QUEUE"
+msgstr "СКРЫТЬ ВСЕ"
+
+msgid "IDS_CONTEXT_TUTORIAL_DREADNOUGHT_EVENT"
+msgstr "Нажмите [CMD_DE_EVENT_INFO], чтобы изучить особенности боя"
+
+msgid "IDS_DESC_PCM102_T11_DD_CA_BB_SUPGRADE_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM103_T11_DD_CA_BB_SUPGRADE_MOD_II"
+msgstr " "
+
+msgid "IDS_DESC_PCM104_T11_DD_CA_BB_SUPGRADE_MOD_III"
+msgstr " "
+
+msgid "IDS_DESC_PCM105_T11_DD_CA_BB_SUPGRADE_MOD_IV"
+msgstr " "
+
+msgid "IDS_DESC_PCM106_T11_DD_CA_BB_SUPGRADE_MOD_V"
+msgstr " "
+
+msgid "IDS_DESC_PCM107_T11_CV_SUPGRADE_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM108_T11_CV_SUPGRADE_MOD_II"
+msgstr " "
+
+msgid "IDS_DESC_PCM109_T11_CV_SUPGRADE_MOD_III"
+msgstr " "
+
+msgid "IDS_DESC_PCM110_T11_SS_SUPGRADE_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM111_T11_SS_SUPGRADE_MOD_II"
+msgstr " "
+
+msgid "IDS_DESC_PCM112_T11_SS_SUPGRADE_MOD_III"
+msgstr " "
+
+msgid "IDS_DESC_PCM113_MAINGUN_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM114_TORPEDOMOD_MOD_0"
+msgstr " "
+
+msgid "IDS_DESC_PCM115_FLIGHTCONTROL_MOD_0"
+msgstr " "
+
+msgid "IDS_DESC_PCM902_T11_DD_CA_BB_SUPGRADE_MOD_I_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM903_T11_DD_CA_BB_SUPGRADE_MOD_II_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM904_T11_DD_CA_BB_SUPGRADE_MOD_III_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM905_T11_DD_CA_BB_SUPGRADE_MOD_IV_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM906_T11_DD_CA_BB_SUPGRADE_MOD_V_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM907_T11_CV_SUPGRADE_MOD_I_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM908_T11_CV_SUPGRADE_MOD_II_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM909_T11_CV_SUPGRADE_MOD_III_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM910_T11_SS_SUPGRADE_MOD_I_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM911_T11_SS_SUPGRADE_MOD_II_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM912_T11_SS_SUPGRADE_MOD_III_TEST"
+msgstr " "
+
+msgid "IDS_DE_FIGHTER_RESPAWN"
+msgstr "Эпоха броненосцев"
+
+msgid "IDS_DE_FIGHTER_RESPAWN_DOMINATION"
+msgstr "Эпоха броненосцев"
+
+msgid "IDS_DE_IJICHI"
+msgstr "Hikojirō Ijichi"
+
+msgid "IDS_DE_SEREBRENNIKOV"
+msgstr "Пётр Серебренников"
+
+msgid "IDS_DISABLE_SPECTATORS_TOOLTIP"
+msgstr "В группе «Нераспределённые игроки» недостаточно свободных мест для всех наблюдателей"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY900_REGENCREWDE"
+msgstr "Частично восстанавливает боеспособность корабля, устраняя лёгкие повреждения. Восстанавливает бронирование корабля во всех секторах."
+
+msgid "IDS_DOCK_CONSUME_TITLE_PCY900_REGENCREWDE"
+msgstr "Восстановительный ремонт"
+
+msgid "IDS_DOCK_CONSUME_TITLE_REGENERATIONHPSPEED_WORKTIME_YAMAMOTO"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_DOGTAG_PCNB450_DESCRIPTION"
+msgstr "Зевс — бог-громовержец в древнегреческой мифологии, верховный бог Олимпа. Зевс считался отцом многих богов и героев, таких как Гефест, Аполлон, Геракл, Гермес, Персефона."
+
+msgid "IDS_DOGTAG_PCNB450_NAME"
+msgstr "Zeus"
+
+msgid "IDS_ENABLE_TEAM_CUSTOMIZATION"
+msgstr "Персонализация команд"
+
+msgid "IDS_ENABLE_TEAM_CUSTOMIZATION_TOOLTIP"
+msgstr "Изменить названия команд"
+
+msgid "IDS_GO_TO_SSE_MOTIVATOR_TASK"
+msgstr "Перейти к задаче"
+
+msgid "IDS_GUIDING_TIP_314_DESC"
+msgstr "Приоритетные задачи теперь отображаются в вашем Порту."
+
+msgid "IDS_GUIDING_TIP_314_HEADER"
+msgstr "Приоритетные задачи"
+
+msgid "IDS_GUIDING_TIP_315_DESC"
+msgstr "Вам доступна новая приоритетная задача!"
+
+msgid "IDS_GUIDING_TIP_315_HEADER"
+msgstr "Задача сменилась"
+
+msgid "IDS_GUIDING_TIP_316_DESC"
+msgstr "Задачи этого дня выполнены. Пока они обновляются, вы можете выполнить другие задачи."
+
+msgid "IDS_GUIDING_TIP_316_HEADER"
+msgstr "Вызов дня завершён"
+
+msgid "IDS_GUIDING_TIP_317_DESC"
+msgstr "Задачи этой недели выполнены. Пока они обновляются, вы можете выполнить другие задачи."
+
+msgid "IDS_GUIDING_TIP_317_HEADER"
+msgstr "Вызов недели завершён"
+
+msgid "IDS_HELP_ACTIVE_ZONES"
+msgstr "Активные зоны"
+
+msgid "IDS_HELP_AIRCARRIER_CONSUMABLES"
+msgstr "Снаряжение авианосца"
+
+msgid "IDS_HELP_AIRPLANE_THROTTLE_UP"
+msgstr "Реактивное ускорение"
+
+msgid "IDS_HELP_AIRSHIP"
+msgstr "Союзный дирижабль"
+
+msgid "IDS_HELP_AIR_DEFENSE"
+msgstr "Орудие ПВО"
+
+msgid "IDS_HELP_AIR_SUPPORT_SQUADRONS_DEPTHCHARGE"
+msgstr "Авиаудар (ГБ)"
+
+msgid "IDS_HELP_AIR_SUPPORT_SQUADRONS_HE"
+msgstr "Авиаудар (ОФ)"
+
+msgid "IDS_HELP_BATTLE_COMMANDS"
+msgstr "В бою"
+
+msgid "IDS_HELP_BATTLE_DESIGNATIONS"
+msgstr "Обозначения в режиме боя"
+
+msgid "IDS_HELP_BY_PLANE_DETECT"
+msgstr "Обнаружен авиацией"
+
+msgid "IDS_HELP_CALLFIGHTERS_UPGRADE"
+msgstr "Перехватчик"
+
+msgid "IDS_HELP_CAPTURE_CONTROL"
+msgstr "Захват точки"
+
+msgid "IDS_HELP_COMMON_COMMANDS"
+msgstr "Общее"
+
+msgid "IDS_HELP_CROSSHAIR"
+msgstr "Прицел"
+
+msgid "IDS_HELP_DEFINITELY_DETECT"
+msgstr "Обнаружен на расстоянии 2 км или менее"
+
+msgid "IDS_HELP_DEGECTIVE_MODULES"
+msgstr "Выведенные из строя модули"
+
+msgid "IDS_HELP_DETECT"
+msgstr "Обнаружен"
+
+msgid "IDS_HELP_DETECT_DISTANCE"
+msgstr "Дистанция обнаружения вашего корабля"
+
+msgid "IDS_HELP_DIVEBOMBER_AP"
+msgstr "Бомбардировщик (ББ)"
+
+msgid "IDS_HELP_DIVEBOMBER_HE"
+msgstr "Бомбардировщик (ОФ)"
+
+msgid "IDS_HELP_ENEMIES_AIRSHIP"
+msgstr "Дирижабль противника"
+
+msgid "IDS_HELP_ESCADRILLE"
+msgstr "Эскадрилья"
+
+msgid "IDS_HELP_ESCADRILLE_CONSUMABLES"
+msgstr "Снаряжение эскадрильи"
+
+msgid "IDS_HELP_FAST_RELOAD"
+msgstr "Ускорение перезарядки"
+
+msgid "IDS_HELP_FIGHTER_AP"
+msgstr "Штурмовик (ББ)"
+
+msgid "IDS_HELP_FIGHTER_HE"
+msgstr "Штурмовик (ОФ)"
+
+msgid "IDS_HELP_FIRE_ON_AIRCARRIER"
+msgstr "Огонь по вашему авианосцу"
+
+msgid "IDS_HELP_FORSAGE_SQUADRONS"
+msgstr "Форсаж эскадрилий"
+
+msgid "IDS_HELP_GUN_STATES"
+msgstr "Состояние орудий"
+
+msgid "IDS_HELP_HULL_HEALTH"
+msgstr "Увеличение боеспособности"
+
+msgid "IDS_HELP_INDICATORS_DIFFERENT"
+msgstr "Разное"
+
+msgid "IDS_HELP_LANDFALL"
+msgstr "Попадание в сушу"
+
+msgid "IDS_HELP_LOCATION_REVEALED"
+msgstr "Ваше примерное расположение раскрыто"
+
+msgid "IDS_HELP_MAP_BORDER"
+msgstr "Граница карты"
+
+msgid "IDS_HELP_MINEBOMBER"
+msgstr "Постановщик мин"
+
+msgid "IDS_HELP_MINEFIELD"
+msgstr "Минное заграждение"
+
+msgid "IDS_HELP_MINES"
+msgstr "Мины"
+
+msgid "IDS_HELP_OBSTACLE"
+msgstr "Препятствие"
+
+msgid "IDS_HELP_OIL_LEAK"
+msgstr "Разлив топлива"
+
+msgid "IDS_HELP_OIL_LEAK_PENDING"
+msgstr "Повреждение топливной системы"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_1"
+msgstr "Авиация"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_1_DESC_0"
+msgstr "Основное вооружение авианосца — эскадрильи. Они могут быть оснащены ракетами, бомбами, торпедами или минами. Эскадрильи также могут обнаруживать противника."
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2"
+msgstr "Автопилот"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2_DESC_0"
+msgstr "Управляя эскадрильей, вы можете задавать маршрут движения авианосца с помощью автопилота."
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2_DESC_1"
+msgstr "Укажите любую точку на тактическом планшете, чтобы направить к ней авианосец."
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3"
+msgstr "Оснащение"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3_DESC_0"
+msgstr "У авианосцев нет орудий главного калибра, но есть ПМК и снаряжение, которое применяется автоматически в случае необходимости."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1"
+msgstr "Вооружение"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1_DESC_0"
+msgstr "Орудия главного калибра линкоров наносят большой урон, но долго перезаряжаются."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1_DESC_1"
+msgstr "Линкоры обладают большой дальностью стрельбы."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2"
+msgstr "Живучесть"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2_DESC_0"
+msgstr "Линкоры обладают высоким уровнем бронирования и большим запасом боеспособности."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2_DESC_1"
+msgstr "При этом линкоры могут быть уязвимы из-за низких скорости и манёвренности."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_3"
+msgstr "Заметность"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_3_DESC_0"
+msgstr "Линкоры обладают высокой заметностью и быстро раскрывают своё расположение противнику."
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_1"
+msgstr "Вооружение"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_1_DESC_0"
+msgstr "Крейсеры занимают промежуточное положение между линкорами и эсминцами по многим характеристикам."
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_2"
+msgstr "Снаряжение"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_2_DESC_0"
+msgstr "Как правило, крейсерам доступно разнообразное снаряжение, что позволяет им быть эффективными в разных ситуациях."
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_3"
+msgstr "Универсальность"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_3_DESC_0"
+msgstr "Крейсеры могут сильно отличаться друг от друга."
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_3_DESC_1"
+msgstr "Обращайте внимание на оснащение и ТТХ корабля."
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_1"
+msgstr "Вооружение"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_1_DESC_0"
+msgstr "Большинство эсминцев вооружены торпедами."
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_1_DESC_1"
+msgstr "Орудия главного калибра обладают высокой скорострельностью, но низкой дальностью стрельбы."
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_2"
+msgstr "Маскировка"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_2_DESC_0"
+msgstr "Эсминцы обладают низкой заметностью, что позволяет им обнаруживать корабли противника и атаковать неожиданно."
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_3"
+msgstr "Поддержка"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_3_DESC_0"
+msgstr "Большинству эсминцев доступно снаряжение «Дымогенератор», позволяющее им стать ещё более незаметными, а также прикрывать союзников."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1"
+msgstr "Вооружение"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_0"
+msgstr "Большинство подводных лодок вооружены торпедами, которые наводятся на цель с помощью сонара. Двойное попадание импульсом сонара увеличивает манёвренность выпущенных торпед."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_1"
+msgstr "Использование сонара выдаёт примерное расположение подводной лодки."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2"
+msgstr "Уровни глубины"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_0"
+msgstr "У подводных лодок есть три положения: надводное положение, перископная и предельная глубины."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_1"
+msgstr "На предельной глубине подводную лодку сложнее обнаружить, но и её видимость снижена."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3"
+msgstr "Запас автономности"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_0"
+msgstr "Подводная лодка может находиться под водой, пока у неё есть запас автономности. Он расходуется под водой и восстанавливается в надводном положении."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_1"
+msgstr "При полном израсходовании начнётся экстренное всплытие."
+
+msgid "IDS_HELP_PLANE_DETECT"
+msgstr "Обнаружен авиацией"
+
+msgid "IDS_HELP_PMK"
+msgstr "ПМК"
+
+msgid "IDS_HELP_PROJECTILE_FLIGHT_TIME"
+msgstr "Время полёта снаряда"
+
+msgid "IDS_HELP_REGENERATION"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_HELP_SALVO_AT_SHIP"
+msgstr "Залп по вашему кораблю"
+
+msgid "IDS_HELP_SHIP_AT_GUNPOINT"
+msgstr "Противники держат вас под прицелом"
+
+msgid "IDS_HELP_SHIP_DETECT"
+msgstr "Обнаружен кораблём"
+
+msgid "IDS_HELP_SHIP_IN_SMOKE"
+msgstr "Вы скрыты в дымах"
+
+msgid "IDS_HELP_SHIP_THREATS"
+msgstr "Угрозы для корабля"
+
+msgid "IDS_HELP_SHIP_TYPES"
+msgstr "Классы кораблей"
+
+msgid "IDS_HELP_SHIP_WAS_FOUND_BY_RADAR"
+msgstr "Обнаружен РЛС"
+
+msgid "IDS_HELP_SHIP_WAS_FOUND_BY_SUBMARINE_LOCATOR"
+msgstr "Обнаружен подводным поиском"
+
+msgid "IDS_HELP_SKIPBOMBER"
+msgstr "Топмачтовый бомбардировщик"
+
+msgid "IDS_HELP_SONAR"
+msgstr "Сонар"
+
+msgid "IDS_HELP_SPOTTER"
+msgstr "Корректировщик огня"
+
+msgid "IDS_HELP_STATES"
+msgstr "Состояние корабля"
+
+msgid "IDS_HELP_STEERING_MACHINE"
+msgstr "Рулевая машина"
+
+msgid "IDS_HELP_TAB_CONTROLS"
+msgstr "УПРАВЛЕНИЕ"
+
+msgid "IDS_HELP_TAB_INDICATORS"
+msgstr "ИНДИКАЦИЯ"
+
+msgid "IDS_HELP_TAB_MODULES"
+msgstr "ОСНАЩЕНИЕ"
+
+msgid "IDS_HELP_TORPEDOBOMBER"
+msgstr "Торпедоносец"
+
+msgid "IDS_HELP_TORPEDO_FOCUSING"
+msgstr "На вас могут наводиться торпеды"
+
+msgid "IDS_HELP_VOLLEY_RANGE"
+msgstr "Дистанция залпа"
+
+msgid "IDS_HELP_WEAPON_DAMAGE"
+msgstr "Увеличение урона"
+
+msgid "IDS_HELP_ZONE_IN_SMOKE"
+msgstr "Время рассеивания дымов"
+
+msgid "IDS_INSTALL_ALL_RECOMMENDED_BUT_NOT_ALL_MODERNIZATIONS_TOOLTIP"
+msgstr "Для оставшихся слотов не предусмотрены рекомендации"
+
+msgid "IDS_IN_PCVE027"
+msgstr "в Эпохе броненосцев"
+
+msgid "IDS_KILO"
+msgstr "K"
+
+msgid "IDS_MINIMAP_OPTIONS_SHOOTSGRANGEENABLED"
+msgstr "Дальность СК"
+
+msgid "IDS_MININ"
+msgstr "Кузьма Минин"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "РАЗРУШЕНИЕ БРОНИ"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Броня разрушается от урона."
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Если сектор брони уничтожен полностью, снаряд может попасть в уязвимую часть корабля и нанести значительный урон."
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "ГЛАВНЫЙ И СРЕДНИЙ КАЛИБР"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Главный калибр наносит большой урон, но долго перезаряжается."
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "Средний калибр перезаряжается быстрее, но наносит меньше урона."
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "ВОЗВРАЩЕНИЕ В БОЙ"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Уничтоженные эсминцы возвращаются в бой, если в команде остался хотя бы один линкор или крейсер."
+
+msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_HEADER"
+msgstr "Правила"
+
+msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Вам необходимо уничтожить все корабли противника."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_HEADER"
+msgstr "Эпоха броненосцев"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Вам необходимо уничтожить все корабли противника или захватить базу."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Эсминцы, которые были уничтожены, через некоторое время возвращаются в бой. Уничтоженные эсминцы не могут вернуться в бой, если в команде не осталось линкоров и крейсеров."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_HEADER"
+msgstr "Разрушение брони"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Броня разрушается от урона."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "Если элемент брони уничтожен полностью, снаряд может попасть в уязвимую часть корабля и нанести значительный урон."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_HEADER"
+msgstr "Средний калибр"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Помимо главного калибра и ПМК, некоторые броненосные корабли вооружены средним калибром."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "По сравнению с главным калибром, орудия среднего калибра перезаряжаются быстрее, но наносят меньше урона."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_HEADER"
+msgstr "Последний поход «Трансильвании»"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Портал в иное измерение снова открыт! Отряды нечисти прорываются наружу, поле боя целиком охвачено скверной. Находясь в скверне, союзные корабли теряют очки боеспособности, а корабли противника получают повышенное сопротивление урону."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "С помощью магии «Трансильвания» создаёт вокруг себя область, отражающую скверну. Однако магия иссякает, и безопасная область постепенно уменьшается."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_2_HEADER"
+msgstr "Цель"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Только «Трансильвания» может поставить точку в этой истории. Вам нужно сопроводить её к Порталу, чтобы стереть его с лица земли."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_HEADER"
+msgstr "Улучшения"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "В бою к вашему кораблю будет применён модификатор, который изменит его боевые характеристики. Вы также будете получать улучшения за каждого уничтоженного союзника."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "Собирая осколки Великих Башен, вы можете увеличивать сопротивление «Трансильвании» урону."
+
+msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Карта и режим боя подбираются случайным образом."
+
+msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Сезон Ранговых боёв делится на спринты. Ваш прогресс в лиге сбрасывается с началом каждого спринта."
+
+msgid "IDS_NOT_WINNER_TEAM"
+msgstr "Команды завершили бой вничью"
+
+msgid "IDS_PAPA166_203MM_HE_CHANCELLORSVILLE"
+msgstr "203-мм HE/HC Mk25"
+
+msgid "IDS_PAPA167_203MM_AP_CHANCELLORSVILLE"
+msgstr "203-мм AP Mk19"
+
+msgid "IDS_PARAMS_MODIFIER_AAAURADAMAGEBONUS"
+msgstr "Постоянный урон ПВО в зоне действия установок с самой большой дальностью"
+
+msgid "IDS_PARAMS_MODIFIER_AABUBBLEDAMAGEBONUS"
+msgstr "Урон от разрывов снарядов ПВО"
+
+msgid "IDS_PARAMS_MODIFIER_AACRITPROB"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_AAREPAIRTIME"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_CRASHCREWWORKTIMEBONUS"
+msgstr "Время работы снаряжения"
+
+msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_DESTROYER"
+msgstr "Урон ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_GSCRITPROB"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_GSREPAIRTIME"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_PLANEALPHADAMAGECOEFF"
+msgstr "Урон вооружения эскадрилий"
+
+msgid "IDS_PARAMS_MODIFIER_SEGMENTHEALPERCENT"
+msgstr "Броня в секунду"
+
+msgid "IDS_PARAMS_MODIFIER_UWSOURCEDMGREDUCTION"
+msgstr "Урон, получаемый от торпед, мин и глубинных бомб"
+
+msgid "IDS_PARAMS_MODIFIER_WEAPONRYCRITPROB"
+msgstr "Вероятность выхода всего вооружения из строя"
+
+msgid "IDS_PARAMS_MODIFIER_WEAPONRYREPAIRTIME"
+msgstr "Время ремонта всего вооружения"
+
+msgid "IDS_PASC517"
+msgstr "Chancellorsville"
+
+msgid "IDS_PASC517_DESCR"
+msgstr ""
+"Работы по проектированию крейсера-скаута начались в США ещё в 1913 г. и продолжились после окончания Первой мировой войны. К 1919 г. был определён общий облик корабля: водоизмещение составляло 10 000–12 000 т, а вооружение было представлено 8–12 орудиями калибра 203 мм.\n"
+"\n"
+"Всего в 1919–25 гг. было создано более трёх десятков предэскизных проектов такого корабля, в том числе с линейно-возвышенным расположением трёх башен в носовой части. Дальнейшие проработки привели к появлению крейсеров типа Pensacola."
+
+msgid "IDS_PASC517_FULL"
+msgstr "Chancellorsville"
+
+msgid "IDS_PASC517_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASC517_YEAR"
+msgstr "1925 г."
+
+msgid "IDS_PAUA614_ART_CHANCELLORSVILLE"
+msgstr ""
+"203-мм/55 Mk.14 в двухорудийной/\n"
+"трёхорудийной установке"
+
+msgid "IDS_PAUE615_ENG_CHANCELLORSVILLE"
+msgstr "ЭУ 107 000 л.с."
+
+msgid "IDS_PAUH618_HULL_CHANCELLORSVILLE"
+msgstr "Chancellorsville"
+
+msgid "IDS_PAUS615_SUO_CHANCELLORSVILLE"
+msgstr "Mk7"
+
+msgid "IDS_PBES360_ZEUS"
+msgstr "Ослепительный громовержец"
+
+msgid "IDS_PBSB520"
+msgstr "Zeus"
+
+msgid "IDS_PBSB520_DESCR"
+msgstr "Великий Зевс — владыка небесного огня, несущий в себе дух бесстрашия и стремление к победе. Его величественные линии и грозный силуэт вызывают трепет у противников. Врываясь в битву как гром среди ясного неба, Зевс наносит сокрушительные удары по вражеским кораблям. Его орудия, подобно молниям, разрывающим тёмные облака, поражают цели с непогрешимой точностью, оставляя после себя лишь осколки надежды."
+
+msgid "IDS_PBSB520_FULL"
+msgstr "Zeus"
+
+msgid "IDS_PBSB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PBSB520_YEAR"
+msgstr "1949 г."
+
+msgid "IDS_PBUA916_ART_ZEUS"
+msgstr "457-мм/45 Mk.II в башенной установке"
+
+msgid "IDS_PBUE920_ENG_ZEUS"
+msgstr "ЭУ 135 650 л.с."
+
+msgid "IDS_PBUH920_HULL_ZEUS"
+msgstr "Zeus"
+
+msgid "IDS_PBUS915_SUO_ZEUS"
+msgstr "Mk X"
+
+msgid "IDS_PCEE699_ZEUS_FLAG"
+msgstr "Zeus"
+
+msgid "IDS_PCEE699_ZEUS_FLAG_DESCRIPTION"
+msgstr "Зевс — бог-громовержец в древнегреческой мифологии, верховный бог Олимпа. Зевс считался отцом многих богов и героев, таких как Гефест, Аполлон, Геракл, Гермес, Персефона."
+
+msgid "IDS_PCEE700_BLACK_AZUMA_FLAG"
+msgstr "Azuma B"
+
+msgid "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION"
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+
+msgid "IDS_PCEE701_BLACK_S_189_FLAG"
+msgstr "С-189 Ч"
+
+msgid "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION"
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+
+msgid "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG"
+msgstr "Błyskawica B"
+
+msgid "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION"
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+
+msgid "IDS_PCEE703_BLACK_MOLOTOV_FLAG"
+msgstr "Молотов Ч"
+
+msgid "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION"
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+
+msgid "IDS_PCEE704_MOLOTOV_FLAG"
+msgstr "Молотов"
+
+msgid "IDS_PCEE704_MOLOTOV_FLAG_DESCRIPTION"
+msgstr "Вячеслав Михайлович Молотов (1890–1986) — видный государственный и партийный деятель СССР, занимавший пост наркома, а затем министра иностранных дел в 1939–49 и 1953–56 гг. В 1943–54 гг. сотрудники внешнеполитического ведомства носили знаки различия на головных уборах: на околыше крепилась кокарда, представлявшая собой герб СССР с крупной звездой, а на тулье размещалась эмблема с пальмовыми ветвями, означающими мирные намерения."
+
+msgid "IDS_PCEE705_BLACK_ODIN_FLAG"
+msgstr "Odin B"
+
+msgid "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION"
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+
+msgid "IDS_PCEE707_RUSSIAN_EMPIRE_FLAG"
+msgstr "Гербовый флаг Российской империи"
+
+msgid "IDS_PCEE707_RUSSIAN_EMPIRE_FLAG_DESCRIPTION"
+msgstr "Трактовка цветов флага Российской империи была утверждена указом императора Александра II в 1858 г. Две верхние полосы — чёрная и жёлтая (или золотая) — соответствуют чёрному Государственному орлу в жёлтом или золотом поле. Нижняя полоса — белая или серебряная — соответствует кокарде Петра Великого и Екатерины II."
+
+msgid "IDS_PCEE721_KUZURYU_FLAG"
+msgstr "Kuzuryū"
+
+msgid "IDS_PCEE721_KUZURYU_FLAG_DESCRIPTION"
+msgstr "Река Кудзурю протекает в японской префектуре Фукуи и имеет исток в гористой местности недалеко от города Оно. Этот город полностью окружён горами, и попасть туда можно только через тоннели или по горным дорогам."
+
+msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG"
+msgstr "Chancellorsville"
+
+msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG_DESCRIPTION"
+msgstr "Сражение при Чанселорсвилле — крупное сражение американской Гражданской войны, в ходе которого силы Конфедеративных Штатов Америки под командованием генерала Роберта Ли одержали одну из своих самых ярких побед, разбив вдвое превосходящие силы противника. Первый флаг КША был создан по образу австрийского флага, а расположенные по кругу звёзды символизировали присоединившиеся к Конфедерации штаты."
+
+msgid "IDS_PCEE723_FRUNZE_FLAG"
+msgstr "Фрунзе"
+
+msgid "IDS_PCEE723_FRUNZE_FLAG_DESCRIPTION"
+msgstr "Михаил Васильевич Фрунзе (1885–1925) — революционер, советский государственный деятель и полководец. С 26 января и до своей кончины 31 октября 1925 г. занимал должность председателя Революционного военного совета — высшего коллегиального органа управления Вооружёнными Силами РСФСР, а затем СССР."
+
+msgid "IDS_PCEE726_USSR_FLAG"
+msgstr "Государственный флаг СССР"
+
+msgid "IDS_PCEE726_USSR_FLAG_DESCRIPTION"
+msgstr "Согласно Положению о Государственном флаге СССР, утверждённому указом Президиума Верховного Совета СССР от 19 августа 1955 г., Государственный флаг Союза Советских Социалистических Республик является символом государственного суверенитета СССР и нерушимого союза рабочих и крестьян в борьбе за построение коммунистического общества."
+
+msgid "IDS_PCVE027"
+msgstr "Эпоха броненосцев"
+
+msgid "IDS_PCVE027_DESCRIPTION"
+msgstr "Сражения броненосных кораблей начала XX в. с артиллерией разных калибров."
+
+msgid "IDS_PCVE027_MATCHMAKER_DESCRIPTION"
+msgstr "Сражения броненосных кораблей начала XX в. с артиллерией разных калибров."
+
+msgid "IDS_PGES340_ODIN_CEREMONIAL"
+msgstr "Особый церемониальный"
+
+msgid "IDS_PGSB548"
+msgstr "Odin B"
+
+msgid "IDS_PGSB548_DESCR"
+msgstr "В 1932–34 гг. рассматривались проекты развития кораблей типа Deutschland. Было решено добавить третью башню главного калибра, что привело к значительному росту водоизмещения. Когда стали известны характеристики французского линейного крейсера Strasbourg, пришлось внести коррективы в калибр основного вооружения кораблей. Вариант с главным калибром 305 мм считался наиболее сбалансированным, тем более что именно такой калибр англичане хотели предложить в качестве основного на будущей военно-морской конференции."
+
+msgid "IDS_PGSB548_FULL"
+msgstr "Odin B"
+
+msgid "IDS_PGSB548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB548_YEAR"
+msgstr "1935 г."
+
+msgid "IDS_PGUA724_ART_BLACK_ODIN"
+msgstr "305-мм/56 SK C/39 в башенной установке"
+
+msgid "IDS_PGUE729_ENG_BLACK_ODIN"
+msgstr "ЭУ 137 300 л.с."
+
+msgid "IDS_PGUH737_HULL_BLACK_ODIN"
+msgstr "Odin B"
+
+msgid "IDS_PGUS726_SUO_BLACK_ODIN"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUT726_TORP_BLACK_ODIN"
+msgstr "G7a T1"
+
+msgid "IDS_PIPA082_254MM_HE_T11"
+msgstr "254-мм proiettili HE"
+
+msgid "IDS_PJAM510_SHINANO_STOCK"
+msgstr "Yokosuka P1Y1"
+
+msgid "IDS_PJAM530_KUZURYU_TOP"
+msgstr "Aichi M6A1 B Nanzan"
+
+msgid "IDS_PJES429_BLACK_AZUMA"
+msgstr "Особый"
+
+msgid "IDS_PJGM215_152MM40_COLOR_BLACK"
+msgstr "152-мм/40 QF EOC Pattern Z в казематной установке"
+
+msgid "IDS_PJGM216_152MM40_COLOR_WHITE"
+msgstr "152-мм/40 QF EOC Pattern Z в казематной установке"
+
+msgid "IDS_PJGM218_76MM40_SINGLE"
+msgstr "76-мм/40 Elswick Pattern N в одиночной установке"
+
+msgid "IDS_PJGM219_203MM_45_TWIN"
+msgstr "203-мм/45 EOC Pattern U в двухорудийной башне"
+
+msgid "IDS_PJGM220_152MM40"
+msgstr "152-мм/40 EOC Pattern Z в одиночной установке"
+
+msgid "IDS_PJGM233_152MM40_CASEMATE"
+msgstr "152-мм/40 EOC Pattern Z в казематной установке"
+
+msgid "IDS_PJGM991_305MM_MIKASA"
+msgstr "305-мм/40 EOC Pattern G в двухорудийной башне"
+
+msgid "IDS_PJGS209_47MM_33_HOTCHKISS"
+msgstr "47-мм OQF 3-pounder Hotchkiss"
+
+msgid "IDS_PJGS210_47MM_40_HOTCHKISS"
+msgstr "47-мм OQF 3-pounder Hotchkiss"
+
+msgid "IDS_PJGS221_76MM40"
+msgstr "76-мм/40 41st Year Type в одиночной установке"
+
+msgid "IDS_PJGS222_57MM40_HOTCHKISS"
+msgstr "57-мм OQF 6-pdr Hotchkiss"
+
+msgid "IDS_PJGS234_76MM40"
+msgstr "76-мм/40 Elswick Pattern N в одиночной установке"
+
+msgid "IDS_PJGT001_INVISIBLE_TA_MIKASA"
+msgstr "457-мм"
+
+msgid "IDS_PJGT154_450MM"
+msgstr "450-мм 1-трубный"
+
+msgid "IDS_PJPA153_150MM_HE_KUZURYU"
+msgstr "150-мм HE Type 0"
+
+msgid "IDS_PJPA154_150MM_AP_KUZURYU"
+msgstr "150-мм AP Type 0"
+
+msgid "IDS_PJPA155_76MM_CS_SAZANAMI"
+msgstr "76-мм CS Elswick Pattern N"
+
+msgid "IDS_PJPA156_305MM_CS_MIKASA"
+msgstr "305-мм CS EOC Pattern G"
+
+msgid "IDS_PJPA157_203_PPB"
+msgstr "203-мм CS EOC Pattern U"
+
+msgid "IDS_PJPA158_152_PPB"
+msgstr "152-мм CS EOC Pattern Z"
+
+msgid "IDS_PJPA159_152_CS_MIKASA"
+msgstr "152-мм CS EOC Pattern Z"
+
+msgid "IDS_PJPA160_76MM_CS_MIKASA"
+msgstr "76-мм CS Elswick Pattern N"
+
+msgid "IDS_PJPA161_47MM_CS_MIKASA"
+msgstr "47-мм CS"
+
+msgid "IDS_PJPA162_57MM_CS"
+msgstr "57-мм CS"
+
+msgid "IDS_PJPB530_KUZURYU_TOP"
+msgstr "No. 25 Mod. 2"
+
+msgid "IDS_PJPM510_SHINANO_STOCK"
+msgstr "Type JJ"
+
+msgid "IDS_PJPM530_KUZURYU_TOP"
+msgstr "Type JI Mod. 2"
+
+msgid "IDS_PJPT042_SAZANAMI"
+msgstr "457-мм"
+
+msgid "IDS_PJPT124_MIKASA"
+msgstr "457-мм"
+
+msgid "IDS_PJPT125_ASAMA"
+msgstr "457-мм"
+
+msgid "IDS_PJSB502"
+msgstr "Mikasa '04"
+
+msgid "IDS_PJSB502_DESCR"
+msgstr ""
+"Последний из четырёх линкоров, заказанных в рамках десятилетней программы 1896 г. С точки зрения конструкции похож на предшественников, а основным отличием было улучшенное бронирование казематов противоминных орудий.\n"
+"\n"
+"Линкор был разработан и построен фирмой Armstrong, причём этот корабль превосходил новейшие британские броненосцы. Заложен в Элсвике в январе 1899, спущен на воду в ноябре 1900 и вошёл в строй в марте 1902 г. Был флагманом адмирала Того во время Русско-японской войны, принимал участие в бою в Жёлтом море и в Цусимском сражении."
+
+msgid "IDS_PJSB502_FULL"
+msgstr "Mikasa '04"
+
+msgid "IDS_PJSB502_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB502_YEAR"
+msgstr "1902 г."
+
+msgid "IDS_PJSC509"
+msgstr "Azuma B"
+
+msgid "IDS_PJSC509_DESCR"
+msgstr "Незадолго до начала Второй мировой войны в Японии узнали о старте проектирования в США больших крейсеров типа Alaska. Практически сразу началось проектирование корабля этого класса для противодействия американским крейсерам. Корабли этого проекта по архитектуре были близки к линкорам типа Yamato, несли девять новейших 310-мм орудий в трёх башнях. Разработка была остановлена в ноябре 1941 г. и окончательно отменена после сражения за Мидуэй."
+
+msgid "IDS_PJSC509_FULL"
+msgstr "Azuma B"
+
+msgid "IDS_PJSC509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC509_YEAR"
+msgstr "1940 г."
+
+msgid "IDS_PJSC512"
+msgstr "Asama"
+
+msgid "IDS_PJSC512_DESCR"
+msgstr ""
+"В 1896 г. была принята программа пополнения флота, включавшая в себя постройку четырёх броненосных крейсеров, а год спустя количество планируемых кораблей увеличилось до шести. Первые два крейсера — Asama и Tokiwa — были заказаны в Англии. Корабли представляли собой улучшенную версию крейсера O'Higgins, построенного для Чили. На испытаниях крейсеры превысили проектную скорость на полтора узла. Оба корабля принимали участие в Русско-японской и Первой мировой войнах.\n"
+"\n"
+"Asama был заложен в Элсвике в ноябре 1896, спущен на воду в марте 1898 и вошёл в строй в марте 1899 г. Во время Русско-японской войны крейсер находился в составе соединения адмирала Камимура, принимал участие в боях у Чемульпо, в Жёлтом море, при Цусиме. Во время Первой мировой войны Asama был тяжело повреждён, сев на мель в 1915 г. у побережья Мексики.\n"
+"\n"
+"В годы Второй мировой войны Asama исполнял обязанности учебного корабля для морских артиллеристов в Симоносеки."
+
+msgid "IDS_PJSC512_FULL"
+msgstr "Asama"
+
+msgid "IDS_PJSC512_NUMBER"
+msgstr "2"
+
+msgid "IDS_PJSC512_YEAR"
+msgstr "1899 г."
+
+msgid "IDS_PJSC530"
+msgstr "Kuzuryū"
+
+msgid "IDS_PJSC530_DESCR"
+msgstr ""
+"В конце 1930-х гг. в Японии прорабатывался проект крейсера — лидера флотилий подводных лодок. Корабль должен был нести на борту авиацию и универсальные орудия главного калибра.\n"
+"\n"
+"В одном из вариантов проекта между носовой и кормовой группами башен располагался довольно крупный ангар, как у авианосца, с полноценной полётной палубой и надстройкой островного типа."
+
+msgid "IDS_PJSC530_FULL"
+msgstr "Kuzuryū"
+
+msgid "IDS_PJSC530_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC530_YEAR"
+msgstr "1944 г."
+
+msgid "IDS_PJSD512"
+msgstr "Sazanami"
+
+msgid "IDS_PJSD512_DESCR"
+msgstr ""
+"Миноносцы типа Ikazuchi были построены в 1897–99 гг. британской фирмой Yarrow. Корабли участвовали в подавлении Боксёрского восстания в Китае, затем в Русско-японской войне.\n"
+"\n"
+"Sazanami был заложен в июне 1897, спущен на воду и вошёл в строй в августе 1899 г. В 1900 г. прибыл в Японию. Участвовал в Русско-японской войне, сражался в бою с миноносцем «Стерегущий», в Цусимском сражении пленил тяжело раненого адмирала З. Рожественского, находившегося на эсминце «Бедовый»."
+
+msgid "IDS_PJSD512_FULL"
+msgstr "Sazanami"
+
+msgid "IDS_PJSD512_NUMBER"
+msgstr "6"
+
+msgid "IDS_PJSD512_YEAR"
+msgstr "1899 г."
+
+msgid "IDS_PJUA102_ART_MIKASA"
+msgstr "305-мм/40 EOC Pattern G в двухорудийной башне"
+
+msgid "IDS_PJUA103_ART_ASAMA"
+msgstr "203-мм/45 EOC Pattern U в двухорудийной башне"
+
+msgid "IDS_PJUA104_ART_SAZANAMI"
+msgstr "76-мм/40 Elswick Pattern N в одиночной установке"
+
+msgid "IDS_PJUA809_ART_BLACK_AZUMA"
+msgstr "310-мм/50 Type 0 в трёхорудийной башне"
+
+msgid "IDS_PJUA913_ART_KUZURYU"
+msgstr "150-мм/60 5th Year Type в трёхорудийной башне"
+
+msgid "IDS_PJUE104_ENG_MIKASA"
+msgstr "ЭУ 16 000 л.с."
+
+msgid "IDS_PJUE105_ENG_ASAMA"
+msgstr "ЭУ 13 000 л.с."
+
+msgid "IDS_PJUE106_ENG_SAZANAMI"
+msgstr "ЭУ 6 000 л.с."
+
+msgid "IDS_PJUE810_ENG_BLACK_AZUMA"
+msgstr "ЭУ 170 000 л.с."
+
+msgid "IDS_PJUE916_ENG_KUZURYU"
+msgstr "ЭУ 212 000 л.с."
+
+msgid "IDS_PJUF907_FC_KUZURYU"
+msgstr "Type8 mod. 1"
+
+msgid "IDS_PJUH102_MIKASA_1904"
+msgstr "Mikasa"
+
+msgid "IDS_PJUH103_HULL_ASAMA"
+msgstr "Asama"
+
+msgid "IDS_PJUH104_HULL_SAZANAMI"
+msgstr "Sazanami"
+
+msgid "IDS_PJUH815_HULL_BLACK_AZUMA"
+msgstr "Azuma B."
+
+msgid "IDS_PJUH917_HULL_KUZURYU"
+msgstr "Kuzuryū"
+
+msgid "IDS_PJUO900_MB_KUZURYU"
+msgstr "Aichi M6A1 B Nanzan"
+
+msgid "IDS_PJUS105_SUO_MIKASA"
+msgstr "Type2 mod. 1"
+
+msgid "IDS_PJUS106_SUO_ASAMA"
+msgstr "Type2"
+
+msgid "IDS_PJUS107_SUO_SAZANAMI"
+msgstr "Type2"
+
+msgid "IDS_PJUS823_SUO_BLACK_AZUMA"
+msgstr "Type9"
+
+msgid "IDS_PJUS916_SUO_KUZURYU"
+msgstr "Type10"
+
+msgid "IDS_PJUT105_TORP_ASAMA"
+msgstr "457-мм"
+
+msgid "IDS_PJUT108_TORP_MIKASA"
+msgstr "457-мм"
+
+msgid "IDS_PJUT109_TORP_SAZANAMI"
+msgstr "457-мм"
+
+msgid "IDS_PRES406_BLACK_MOLOTOV"
+msgstr "Особый"
+
+msgid "IDS_PRES608_BLACK_S_189"
+msgstr "Особый"
+
+msgid "IDS_PRGM221_12IN52_MOD4"
+msgstr "305-мм/52 обр. 1907 г. в установке МК-3-12"
+
+msgid "IDS_PRGM223_75MM_50_CANET_CS"
+msgstr "75-мм/50 обр. 1892 г. на станке Меллера"
+
+msgid "IDS_PRGM225_12IN52_MOD5"
+msgstr "305-мм/52 обр. 1907 г. в установке МК-3-12"
+
+msgid "IDS_PRGM226_203MM_45_CANET"
+msgstr "203-мм/45 обр. 1892 г. в одиночной установке"
+
+msgid "IDS_PRGM227_152MM_45_CASEMATE_SHIELD"
+msgstr "152-мм/45 обр. 1892 г. на станке Канэ"
+
+msgid "IDS_PRGM231_203MM_45_CANET_CASEMATE"
+msgstr "203-мм/45 обр. 1892 г. в казематной установке"
+
+msgid "IDS_PRGM236_305MM40_TWIN"
+msgstr "305-мм/40 обр. 1895 г. в башенной установке"
+
+msgid "IDS_PRGS227_152MM_45_CASEMATE_SHIELD"
+msgstr "152-мм/45 обр. 1892 г. в казематной установке"
+
+msgid "IDS_PRGS228_37MM_23_HOTCHKISS"
+msgstr "37-мм «Гочкис» в одиночной установке"
+
+msgid "IDS_PRGS233_47MM_43_5_HOTCHKISS_SHIELD"
+msgstr "47-мм «Гочкис» в одиночной установке"
+
+msgid "IDS_PRGS234_47MM_43_5_HOTCHKISS"
+msgstr "47-мм «Гочкис» в одиночной установке"
+
+msgid "IDS_PRGS235_47MM43_5_HOTCHKISS"
+msgstr "47-мм «Гочкис» в одиночной установке"
+
+msgid "IDS_PRGS239_152MM_45_CANET"
+msgstr "152-мм/45 обр. 1892 г. в одиночной установке"
+
+msgid "IDS_PRGS240_152MM_45_CANET"
+msgstr "152-мм/45 обр. 1892 г. в одиночной установке"
+
+msgid "IDS_PRGS242_152MM_45_TWIN"
+msgstr "152-мм/45 обр. 1892 г. в башенной установке"
+
+msgid "IDS_PRGS900_152MM_45_TWIN_BORODINO"
+msgstr "152-мм/45 обр. 1892 г. в башенной установке"
+
+msgid "IDS_PRGT003_INVISIBLE_TA_7M"
+msgstr "381-мм"
+
+msgid "IDS_PRGT222_381MM_SINGLE_TUBE"
+msgstr "381-мм"
+
+msgid "IDS_PRGT900_INVISIBLE_TA_BORODINO"
+msgstr "381-мм"
+
+msgid "IDS_PRPA154_305MM_HE_FRUNZE"
+msgstr "305-мм ОФ обр. 1930 г."
+
+msgid "IDS_PRPA155_305MM_AP_FRUNZE"
+msgstr "305-мм ББ обр. 1930 г."
+
+msgid "IDS_PRPA227_152MM_BORODINO"
+msgstr "152-мм ПББ обр. 1892 г."
+
+msgid "IDS_PRPA228_75MM_CS_CANE"
+msgstr "75-мм ПББ патрон"
+
+msgid "IDS_PRPA229_203MM_CS_GROMOBOY"
+msgstr "203-мм ПББ обр. 1892 г."
+
+msgid "IDS_PRPA230_152MM_CS_CROMOBOY"
+msgstr "152-мм ПББ обр. 1892 г."
+
+msgid "IDS_PRPA231_37MM_CS"
+msgstr "37-мм ПББ патрон"
+
+msgid "IDS_PRPA232_47MM_CS_HOTCHKISS"
+msgstr "47-мм ПББ патрон"
+
+msgid "IDS_PRPA233_305MM_BORODINO"
+msgstr "305-мм ПББ обр. 1895 г."
+
+msgid "IDS_PRPA234_75MM_CS_BOYKIY"
+msgstr "75-мм ПББ обр. 1892 г."
+
+msgid "IDS_PRPT071_STOROJEVOY"
+msgstr "Торпеда обр. 1910 г."
+
+msgid "IDS_PRPT072_DERZKY"
+msgstr "Торпеда обр. 1910 г."
+
+msgid "IDS_PRPT073_PODVOISKY"
+msgstr "53-38"
+
+msgid "IDS_PRPT074_PR_7"
+msgstr "53-39 мод. 1"
+
+msgid "IDS_PRPT075_MINSK"
+msgstr "53-38У"
+
+msgid "IDS_PRPT076_PR_48"
+msgstr "53-36 мод. 2"
+
+msgid "IDS_PRPT077_IZYASLAV"
+msgstr "Торпеда обр. 1912 г."
+
+msgid "IDS_PRPT078_FRUNZE"
+msgstr "53-31"
+
+msgid "IDS_PRPT079_BORODINO"
+msgstr "Торпеда обр. 1895 г."
+
+msgid "IDS_PRPT080_GROMOBOY"
+msgstr "Торпеда обр. 1895 г."
+
+msgid "IDS_PRPT081_BOYKIY"
+msgstr "Торпеда обр. 1895 г."
+
+msgid "IDS_PRSB502"
+msgstr "Бородино '04"
+
+msgid "IDS_PRSB502_DESCR"
+msgstr ""
+"Серия кораблей, построенных по улучшенному проекту на основе броненосца «Цесаревич», была заложена в Санкт-Петербурге в 1900–02 гг. От прототипа корабли отличались более массивной энергетической установкой и более тяжёлыми башнями, что потребовало от конструкторов увеличить водоизмещение при некотором облегчении бронирования. Броненосцы принимали участие в переходе Второй Тихоокеанской эскадры на Дальний Восток и в Цусимском сражении.\n"
+"\n"
+"«Бородино» был заложен на верфях Нового Адмиралтейства в мае 1900, спущен на воду в сентябре 1901 и вступил в строй в сентябре 1904 г. Под командованием капитана 1-го ранга П. Серебренникова броненосец совершил переход из Кронштадта в Японское море. В ходе Цусимского сражения корабль получил тяжёлые повреждения и затонул."
+
+msgid "IDS_PRSB502_FULL"
+msgstr "Бородино '04"
+
+msgid "IDS_PRSB502_NUMBER"
+msgstr "5"
+
+msgid "IDS_PRSB502_YEAR"
+msgstr "1904 г."
+
+msgid "IDS_PRSB548"
+msgstr "Фрунзе"
+
+msgid "IDS_PRSB548_DESCR"
+msgstr ""
+"Линейный корабль «Полтава» был сильно повреждён при пожаре в ноябре 1919 г.: полностью выгорела электропроводка, были повреждены котлы и электростанции. В условиях крайне ограниченного финансирования корабль было решено разоружить и законсервировать. В 1926 г. линкор получил новое имя — «Фрунзе». В этом же году восстановление корабля включили в программу строительства морских сил РККА.\n"
+"\n"
+"Проекты ремонта корабля продолжали прорабатываться в 1928 и 1930 гг. Наконец, в 1931 г. появилось предложение о перестройке «Фрунзе» в трёхбашенный линейный крейсер с использованием исходных башен. В следующем году Управление кораблестроения выдало заказ на разработку эскизного проекта, и в 1933 г. конструкторское бюро Балтийского завода подготовило два варианта, различающиеся между собой компоновкой дымовых труб и расположением зенитной артиллерии. Модернизация линкора была включена в программу военно-морского строительства на 1933–38 гг. Однако уже в следующем году модернизация была отложена, а затем отменена."
+
+msgid "IDS_PRSB548_FULL"
+msgstr "Фрунзе"
+
+msgid "IDS_PRSB548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB548_YEAR"
+msgstr "1933 г."
+
+msgid "IDS_PRSC512"
+msgstr "Громобой"
+
+msgid "IDS_PRSC512_DESCR"
+msgstr ""
+"«Громобой» стал дальнейшим развитием броненосных крейсеров — истребителей торговли «Рюрик» и «Россия», получив совершенно новую энергетическую установку из трёх одинаковых паровых машин тройного расширения и переработанное бронирование.\n"
+"\n"
+"Крейсер был заложен на Балтийском заводе в мае 1898, спущен на воду год спустя и вошёл в строй в ноябре 1899 г. Сразу после сдаточных испытаний корабль был переведён на Дальний Восток, где вошёл в состав Эскадры Тихого океана.\n"
+"\n"
+"Во время Русско-японской войны входил в состав Владивостокского отряда крейсеров. Участвовал в бою в Корейском проливе в августе 1904 г. В октябре 1904 г. получил повреждения в заливе Посьета. После окончания ремонта в мае 1905 г. подорвался на мине и простоял на ремонте до конца войны. В 1906 г. вернулся на Балтику. Участвовал в Первой мировой войне, с конца 1917 г. находился в Кронштадте."
+
+msgid "IDS_PRSC512_FULL"
+msgstr "Громобой"
+
+msgid "IDS_PRSC512_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC512_YEAR"
+msgstr "1899 г."
+
+msgid "IDS_PRSC526"
+msgstr "Молотов Ч"
+
+msgid "IDS_PRSC526_DESCR"
+msgstr "Новый проект 26-бис в 1937 г. получил изменённую надстройку, улучшенное бронирование и новую систему управления огнём. Построенный по нему крейсер «Молотов» вступил в строй в июне 1941 г. В период Великой Отечественной войны он противодействовал воздушным атакам в Севастополе, участвовал в Керченской десантной операции и обороне Севастополя. После поражения немецкой торпедой в 1942 г. «Молотов» был отремонтирован в г. Поти и позже переведён в состав Черноморского флота."
+
+msgid "IDS_PRSC526_FULL"
+msgstr "Молотов Ч"
+
+msgid "IDS_PRSC526_NUMBER"
+msgstr "4"
+
+msgid "IDS_PRSC526_YEAR"
+msgstr "1941 г."
+
+msgid "IDS_PRSD502"
+msgstr "Бойкий"
+
+msgid "IDS_PRSD502_DESCR"
+msgstr ""
+"Проект 350-тонных миноносцев типа «Буйный» был заказан британской фирме Yarrow в 1897 г. Разработанный проект был основан на построенной для Японии серии миноносцев типа Ikazuchi. Корабли строились в Санкт-Петербурге в 1901–02 гг.\n"
+"\n"
+"«Бойкий» являлся головным кораблём серии из десяти миноносцев, заложен в июне 1901 г. и спущен на воду в августе того же года. В Русско-японскую войну принимал участие в боях с миноносцами, сражался в битве в Жёлтом море. В декабре 1904 г., перед сдачей Порт-Артура, прорвался в Чифу, где был интернирован. Входил в состав Сибирской флотилии, в перерыве между войнами прошёл ремонт с модернизацией.\n"
+"\n"
+"В 1914–22 гг. находился в порту Владивостока на хранении. Во время оккупации Владивостока войсками Антанты корабль был захвачен французскими силами и переименован в Quentin Roosevelt. После ухода интервентов крейсер больше не вводился в строй."
+
+msgid "IDS_PRSD502_FULL"
+msgstr "Бойкий"
+
+msgid "IDS_PRSD502_NUMBER"
+msgstr "10"
+
+msgid "IDS_PRSD502_YEAR"
+msgstr "1902 г."
+
+msgid "IDS_PRSS518"
+msgstr "С-189 Ч"
+
+msgid "IDS_PRSS518_DESCR"
+msgstr "Подводная лодка проекта 613 — самой массовой серии субмарин ВМФ СССР, строившихся с учётом опыта Второй мировой войны. Обладала способностью длительно действовать в подводном положении."
+
+msgid "IDS_PRSS518_FULL"
+msgstr "С-189 Ч"
+
+msgid "IDS_PRSS518_NUMBER"
+msgstr "236"
+
+msgid "IDS_PRSS518_YEAR"
+msgstr "1955 г."
+
+msgid "IDS_PRUA102_ART_BORODINO"
+msgstr "305-мм/40 обр. 1895 г. в башенной установке"
+
+msgid "IDS_PRUA103_ART_GROMOBOY"
+msgstr "203-мм/45 обр. 1892 г. в одиночной установке"
+
+msgid "IDS_PRUA104_ART_BOYKIY"
+msgstr "75-мм/50 обр. 1892 г. на станке Меллера"
+
+msgid "IDS_PRUA506_ART_BLACK_MOLOTOV"
+msgstr "180-мм/57 обр. 1932 г. в установке МК-3-180"
+
+msgid "IDS_PRUA714_ART_FRUNZE"
+msgstr "305-мм/52 обр. 1907 г. в установке МК-3-12"
+
+msgid "IDS_PRUE102_ENG_BORODINO"
+msgstr "ЭУ 16 300 л.с."
+
+msgid "IDS_PRUE103_ENG_GROMOBOY"
+msgstr "ЭУ 14 500 л.с."
+
+msgid "IDS_PRUE104_ENG_BOYKIY"
+msgstr "ЭУ 5 700 л.с."
+
+msgid "IDS_PRUE508_ENG_BLACK_MOLOTOV"
+msgstr "ЭУ 110 000 л.с."
+
+msgid "IDS_PRUE720_ENG_BLACK_S_189"
+msgstr "ЭУ 4000 л.с."
+
+msgid "IDS_PRUE722_ENG_FRUNZE"
+msgstr "ЭУ 130 000 л.с."
+
+msgid "IDS_PRUH102_HULL_BORODINO"
+msgstr "Бородино"
+
+msgid "IDS_PRUH103_HULL_GROMOBOY"
+msgstr "Громобой"
+
+msgid "IDS_PRUH104_HULL_BOYKIY"
+msgstr "Бойкий"
+
+msgid "IDS_PRUH515_HULL_BLACK_MOLOTOV"
+msgstr "Молотов Ч."
+
+msgid "IDS_PRUH729_HULL_BLACK_S_189"
+msgstr "С-189 Ч."
+
+msgid "IDS_PRUH730_HULL_FRUNZE"
+msgstr "Фрунзе"
+
+msgid "IDS_PRUQ704_SONAR_BLACK_S_189"
+msgstr "ГАП 8"
+
+msgid "IDS_PRUS102_SUO_BORODINO"
+msgstr "СУО II"
+
+msgid "IDS_PRUS103_SUO_GROMOBOY"
+msgstr "СУО II"
+
+msgid "IDS_PRUS104_SUO_BOYKIY"
+msgstr "СУО II"
+
+msgid "IDS_PRUS507_SUO_BLACK_MOLOTOV"
+msgstr "СУО VI"
+
+msgid "IDS_PRUS709_SUO_FRUNZE"
+msgstr "СУО VIII"
+
+msgid "IDS_PRUT103_TORP_BORODINO"
+msgstr "Торпеда обр. 1895 г."
+
+msgid "IDS_PRUT104_TORP_GROMOBOY"
+msgstr "Торпеда обр. 1895 г."
+
+msgid "IDS_PRUT105_TORP_BOYKIY"
+msgstr "Торпеда обр. 1895 г."
+
+msgid "IDS_PRUT503_TORP_BLACK_MOLOTOV"
+msgstr "53-38"
+
+msgid "IDS_PRUT709_TORP_BLACK_S_189"
+msgstr "533-мм"
+
+msgid "IDS_PRUT710_TORP_FRUNZE"
+msgstr "533-мм"
+
+msgid "IDS_PWES507_BLACK_BLYSKAWICA"
+msgstr "Особый"
+
+msgid "IDS_PWSD517"
+msgstr "Błyskawica B"
+
+msgid "IDS_PWSD517_DESCR"
+msgstr "Согласно планам операции «Пекин», ORP Błyskawica со своим систершипом ORP Grom прорвался в сентябре 1939 г. в Великобританию, где прошёл модернизацию для действий в Северной Атлантике. В 1940 г. корабль участвовал в Норвежской кампании и в Дюнкеркской эвакуации. Эсминец принимал участие в конвойных и патрульных операциях в Атлантике, сопровождал войсковые транспорты. В 1944 г. корабль Błyskawica сражался с немецкими эсминцами в бою у острова Уэссан, прикрывая высаживавшиеся в Нормандии войска. После передачи новому польскому правительству эсминец был модернизирован, орудия главного калибра и противовоздушной обороны были заменены на вооружение советского образца. В мае 1976 г. Błyskawica стал кораблём-музеем в Гдыне."
+
+msgid "IDS_PWSD517_FULL"
+msgstr "Błyskawica B"
+
+msgid "IDS_PWSD517_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSD517_YEAR"
+msgstr "1937 г."
+
+msgid "IDS_PWUA605_ART_BLACK_BLYSKAWICA"
+msgstr "120-мм/50 wz.36 Bofors в щитовой установке"
+
+msgid "IDS_PWUE605_ENG_BLACK_BLYSKAWICA"
+msgstr "ЭУ 54 000 л.с."
+
+msgid "IDS_PWUH607_HULL_BLACK_BLYSKAWICA"
+msgstr "Błyskawica B."
+
+msgid "IDS_PWUS607_SUO_BLACK_BLYSKAWICA"
+msgstr "SKO Mod. 7"
+
+msgid "IDS_PWUT606_TORP_BLACK_BLYSKAWICA"
+msgstr "Mark 10"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Особый командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Особый командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Особый командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Особый командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Особый командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Командир"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Особый или премиум корабль VI–X уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VI–X уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE"
+msgstr "Контейнер «Чёрная пятница 2024»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE_SHORT"
+msgstr "Чёрная пятница 2024"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Ослепительный корабль X уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Особый или премиум корабль VI–X уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VI–X уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_TITLE"
+msgstr "Премиум контейнер «Чёрная пятница 2024»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_TITLE_SHORT"
+msgstr "Чёрная пятница 2024"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_HIT_SEGMENT"
+msgstr "Попасть в броню корабля противника из орудий главного калибра, среднего калибра или торпедами."
+
+msgid "IDS_RIBBON_RIBBON_HIT_SEGMENT"
+msgstr "Попал в броню"
+
+msgid "IDS_RIBBON_SUBRIBBON_DAMAGED_SEGMENT"
+msgstr "Броня повреждена"
+
+msgid "IDS_RIBBON_SUBRIBBON_DESTROYED_SEGMENT"
+msgstr "Броня разрушена"
+
+msgid "IDS_SCENARIO_DE_FIGHTER_RESPAWN"
+msgstr "Эпоха броненосцев — Стандартный"
+
+msgid "IDS_SCENARIO_DE_FIGHTER_RESPAWN_DOMINATION"
+msgstr "Эпоха броненосцев — Превосходство"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM147_CRUISERBUFF_DE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM148_DESTROYERBUFF_DE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM149_BATTLESHIPBUFF_DE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM147_CRUISERBUFF_DE"
+msgstr "Усиление вооружения"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM148_DESTROYERBUFF_DE"
+msgstr "Усиление вооружения"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM149_BATTLESHIPBUFF_DE"
+msgstr "Усиление вооружения"
+
+msgid "IDS_SHIP_MODIFIER_PXOM147_CRUISERBUFF_DE_APPLIED"
+msgstr "Усиление вооружения"
+
+msgid "IDS_SHIP_MODIFIER_PXOM148_DESTROYERBUFF_DE_APPLIED"
+msgstr "Усиление вооружения"
+
+msgid "IDS_SHIP_MODIFIER_PXOM149_BATTLESHIPBUFF_DE_APPLIED"
+msgstr "Усиление вооружения"
+
+msgid "IDS_SHOW_HELP_INSTRUCTION"
+msgstr "Нажмите [CMD_HELP] для перехода к экрану помощи в бою"
+
+msgid "IDS_SHOW_HELP_TUTORIAL_HINT"
+msgstr "Нажмите, чтобы перейти к экрану помощи"
+
+msgid "IDS_SHOW_NICKNAME_IN_EARS"
+msgstr "Имена игроков в составах команд"
+
+msgid "IDS_SHOW_NICKNAME_IN_EARS_DESCRIPTION"
+msgstr "Отображать имена игроков в колонках с составами команд."
+
+msgid "IDS_SKIP_PRESENTATION_HINT"
+msgstr "Нажмите [ESC], чтобы пропустить"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_ARCHIPELAGO"
+msgstr "Сахалин 1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_ARCHIPELAGO_DESCR"
+msgstr "Сахалин 1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_KAMCHATKA"
+msgstr "Камчатка 1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_KAMCHATKA_DESCR"
+msgstr "Камчатка 1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NEIGHBORS"
+msgstr "Морская граница"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NEIGHBORS_DESCR"
+msgstr "Морская граница"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NE_PASSAGE"
+msgstr "Южный пролив"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NE_PASSAGE_DESCR"
+msgstr "Южный пролив"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_OC_ISLANDS"
+msgstr "Далёкий архипелаг"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_OC_ISLANDS_DESCR"
+msgstr "Далёкий архипелаг"
+
+msgid "IDS_SSE_MOTIVATOR_BP_DAILY_TASKS_COMPLETED"
+msgstr "Вызов дня завершён"
+
+msgid "IDS_SSE_MOTIVATOR_BP_WEEKLY_TASKS_COMPLETED"
+msgstr "Вызов недели завершён"
+
+msgid "IDS_SSE_MOTIVATOR_TASKS_COMPLETED"
+msgstr "Текущие вызовы завершены"
+
+msgid "IDS_SSE_MOTIVATOR_TASK_COMMON_TITLE"
+msgstr "Приоритетная задача"
+
+msgid "IDS_SSE_MOTIVATOR_TASK_COMMON_TITLE_COLON"
+msgstr "Приоритетная задача:"
+
+msgid "IDS_SUBST_SSE_MOTIVATOR_RESET_IN"
+msgstr "Обновление через %(timeLeft)s"
+
+msgid "IDS_SWAP_SPAWN"
+msgstr "СМЕНИТЬ СТОРОНЫ"
+
+msgid "IDS_SWAP_SPAWN_TOOLTIP"
+msgstr "Изменить стартовые позиции команд"
+
+msgid "IDS_SWAP_SPAWN_WAITING"
+msgstr "Дождитесь смены стартовых позиций команд"
+
+msgid "IDS_TITLE_PCM102_T11_DD_CA_BB_SUPGRADE_MOD_I"
+msgstr "Боеприпасы повышенной эффективности"
+
+msgid "IDS_TITLE_PCM103_T11_DD_CA_BB_SUPGRADE_MOD_II"
+msgstr "Система защиты в ближнем бою"
+
+msgid "IDS_TITLE_PCM104_T11_DD_CA_BB_SUPGRADE_MOD_III"
+msgstr "Система поддержания боеспособности"
+
+msgid "IDS_TITLE_PCM105_T11_DD_CA_BB_SUPGRADE_MOD_IV"
+msgstr "Система управления огнём Модификация 3"
+
+msgid "IDS_TITLE_PCM106_T11_DD_CA_BB_SUPGRADE_MOD_V"
+msgstr "Система ПВО повышенной эффективности"
+
+msgid "IDS_TITLE_PCM107_T11_CV_SUPGRADE_MOD_I"
+msgstr "Система контроля воздушного боя"
+
+msgid "IDS_TITLE_PCM108_T11_CV_SUPGRADE_MOD_II"
+msgstr "Система наведения авиационных боеприпасов"
+
+msgid "IDS_TITLE_PCM109_T11_CV_SUPGRADE_MOD_III"
+msgstr "Усовершенствованная полётная палуба"
+
+msgid "IDS_TITLE_PCM110_T11_SS_SUPGRADE_MOD_I"
+msgstr "Система подводного боя"
+
+msgid "IDS_TITLE_PCM111_T11_SS_SUPGRADE_MOD_II"
+msgstr "Вспомогательное оборудование подводной лодки"
+
+msgid "IDS_TITLE_PCM112_T11_SS_SUPGRADE_MOD_III"
+msgstr "Сонар Модификация 2"
+
+msgid "IDS_TITLE_PCM113_MAINGUN_MOD_I"
+msgstr "Орудия главного калибра Модификация 1"
+
+msgid "IDS_TITLE_PCM114_TORPEDOMOD_MOD_0"
+msgstr "Торпедные аппараты Модификация 1"
+
+msgid "IDS_TITLE_PCM115_FLIGHTCONTROL_MOD_0"
+msgstr "Полётный контроль Модификация 1"
+
+msgid "IDS_TITLE_PCM902_T11_DD_CA_BB_SUPGRADE_MOD_I_TEST"
+msgstr "Боеприпасы повышенной эффективности (Т)"
+
+msgid "IDS_TITLE_PCM903_T11_DD_CA_BB_SUPGRADE_MOD_II_TEST"
+msgstr "Система защиты в ближнем бою (Т)"
+
+msgid "IDS_TITLE_PCM904_T11_DD_CA_BB_SUPGRADE_MOD_III_TEST"
+msgstr "Система поддержания боеспособности (Т)"
+
+msgid "IDS_TITLE_PCM905_T11_DD_CA_BB_SUPGRADE_MOD_IV_TEST"
+msgstr "Система управления огнём Модификация 3 (Т)"
+
+msgid "IDS_TITLE_PCM906_T11_DD_CA_BB_SUPGRADE_MOD_V_TEST"
+msgstr "Система ПВО повышенной эффективности (Т)"
+
+msgid "IDS_TITLE_PCM907_T11_CV_SUPGRADE_MOD_I_TEST"
+msgstr "Система контроля воздушного боя (Т)"
+
+msgid "IDS_TITLE_PCM908_T11_CV_SUPGRADE_MOD_II_TEST"
+msgstr "Система наведения авиационных боеприпасов (Т)"
+
+msgid "IDS_TITLE_PCM909_T11_CV_SUPGRADE_MOD_III_TEST"
+msgstr "Усовершенствованная полётная палуба (Т)"
+
+msgid "IDS_TITLE_PCM910_T11_SS_SUPGRADE_MOD_I_TEST"
+msgstr "Система подводного боя (Т)"
+
+msgid "IDS_TITLE_PCM911_T11_SS_SUPGRADE_MOD_II_TEST"
+msgstr "Вспомогательное оборудование подводной лодки (Т)"
+
+msgid "IDS_TITLE_PCM912_T11_SS_SUPGRADE_MOD_III_TEST"
+msgstr "Сонар Модификация 2 (Т)"
+
+msgid "IDS_TRAINING_ROOM_TEAM_NAME_WRONG_CHARACTERS"
+msgstr "Введён недопустимый символ"
+
+msgid "IDS_UNLOCKS_3"
 msgstr "Сражайтесь против реальных игроков."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
-msgstr "В Операциях вашей команде необходимо выполнять различные задания, сражаясь с ботами. Каждая Операция обладает уникальными сюжетными элементами."
+msgid "IDS_UNLOCKS_3117"
+msgstr "Исследуйте и покупайте новые корабли."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
-msgstr "Достигните основной цели, чтобы одержать победу. Выполнение дополнительных задач увеличит количество заработанных за бой ресурсов."
+msgid "IDS_UNLOCKS_DESCRIPTION_3117_0"
+msgstr "В игре представлены корабли разных наций и классов: универсальные крейсеры, незаметные эсминцы, тяжелобронированные линкоры, авианосцы, вооружённые быстрой и сокрушительной авиацией. Выберите свою роль в бою."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
-msgstr "Сложность Операции зависит от уровней и классов кораблей в вашей команде."
+msgid "IDS_UNLOCKS_DESCRIPTION_3117_1"
+msgstr "После каждого боя вам начисляются опыт и кредиты для исследования и покупки кораблей. Также вы можете исследовать и покупать модули для улучшения кораблей."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
 msgstr "Сражайтесь против реальных игроков. Составы команд подбираются случайным образом."
 
-msgid "IDS_UNLOCKS_LEVEL_UP_24"
-msgstr ""
-"<body>Вам стали доступны\n"
-"<h3>Операции</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_3103"
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
 msgstr ""
 "<body>Вам стали доступны\n"
 "<h3>Случайные бои</h3></body>"
 
-msgid "IDS_UNLOCKS_LOCATION_24"
-msgstr "Доступно на экране выбора типа боя."
+msgid "IDS_UNLOCKS_LEVEL_UP_3117"
+msgstr ""
+"<body>Вам стало доступно\n"
+"<h3>Исследование и улучшение кораблей</h3></body>"
 
-msgid "IDS_UNLOCKS_LOCATION_3103"
+msgid "IDS_UNLOCKS_LOCATION_3"
 msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
 
-msgid "IDS_UNLOCKS_TITLE_24"
-msgstr "Операции"
+msgid "IDS_UNLOCKS_LOCATION_3117"
+msgstr "Новые корабли доступны на вкладке «Развитие». Улучшения доступны на вкладке «Оснащение»."
 
-msgid "IDS_UNLOCKS_TITLE_3103"
+msgid "IDS_UNLOCKS_TITLE_3"
 msgstr "Случайные бои"
+
+msgid "IDS_UNLOCKS_TITLE_3117"
+msgstr "Исследование и улучшение кораблей"
+
+msgid "IDS_WINNER_TEAM"
+msgstr "Победила команда «%(_teamName)s»"

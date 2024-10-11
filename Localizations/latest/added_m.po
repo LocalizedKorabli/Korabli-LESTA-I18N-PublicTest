@@ -12,51 +12,1830 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_NO_NATION"
-msgstr "A commander should be assigned a nation to get national talent"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DE_JAPAN"
+msgstr "Win a battle while fighting on a ship of the Empire of Japan."
 
-msgid "IDS_FAST_TRAINING_DISABLE_REASON_NATION_COMMON"
-msgstr "The commander has not been assigned a nation. Training acceleration is not available."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DE_RUSSIA"
+msgstr "Win a battle while fighting on a ship of the Russian Empire."
 
-msgid "IDS_NO_NATION_CREW"
-msgstr "No nation assigned"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_ATBA_CALIBER"
+msgstr "Destroy an enemy ship by dealing the final damage with secondary battery guns."
 
-msgid "IDS_UNLOCKS_24"
-msgstr "Complete story missions with your team, battling against bots."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_DOUBLE_KILL"
+msgstr "Destroy 2 enemy ships within %(timeInterval)s seconds."
 
-msgid "IDS_UNLOCKS_3103"
-msgstr "Battle against real players."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_FIRST_BLOOD"
+msgstr "Be the first to destroy an enemy ship in battle."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
-msgstr "In Operations, your team must complete various tasks while fighting bots. Each Operation features unique story elements."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_HEADBUTT"
+msgstr "Destroy an enemy ship by ramming and survive."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
-msgstr "Achieve the main objective to secure victory. Completing additional tasks increases the resources earned in battle."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_INSTANT_KILL"
+msgstr "Within 5 seconds, deal damage to an enemy ship amounting to at least %(_damageRatio_percent)s of its standard health and destroy it."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
-msgstr "The difficulty of an Operation depends on the levels and classes of ships in your team."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_IRONCLAD"
+msgstr "Take damage from %(damagersCount)s or more enemies, amounting to at least %(damageRatio_percent)s of your ship's standard health, and survive the battle."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
-msgstr "Fight against real players. Teams are selected randomly."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_MAIN_CALIBER"
+msgstr "Damage %(victimsCount)s or more enemy ships. The damage dealt must be at least %(damageRatio_percent)s of the total standard health of all enemy ships. Destroyed and respawned destroyers are counted as one ship."
 
-msgid "IDS_UNLOCKS_LEVEL_UP_24"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_RETRIBUTION"
+msgstr "Destroy an enemy ship after your own ship has been destroyed."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_SUPPORT"
+msgstr "Damage %(victimsCount)s or more enemy ships. The damage dealt to each ship must be at least %(damageRatio_percent)s of its standard health. Destroyed and respawned destroyers are counted as one ship."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_UNSINKABLE"
+msgstr "Take flooding damage amounting to at least %(damageRatio_percent)s of your ship's standard health and survive the battle."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_WARRIOR"
+msgstr "Destroy %(victimsCount)s or more enemy ships."
+
+msgid "IDS_ACHIEVEMENT_DE_JAPAN"
+msgstr "Order of the Rising Sun"
+
+msgid "IDS_ACHIEVEMENT_DE_RUSSIA"
+msgstr "Order of St. George Cross"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_ATBA_CALIBER"
+msgstr "Hail of Shells"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_DOUBLE_KILL"
+msgstr "Double Strike"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_FIRST_BLOOD"
+msgstr "First Blood"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_HEADBUTT"
+msgstr "Ramming Stem"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_INSTANT_KILL"
+msgstr "Punisher"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_IRONCLAD"
+msgstr "Ironclad"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_MAIN_CALIBER"
+msgstr "Grand Admiral"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_RETRIBUTION"
+msgstr "Final Act"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_SUPPORT"
+msgstr "Adjutant"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_UNSINKABLE"
+msgstr "Floodbreaker"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_WARRIOR"
+msgstr "Leviathan"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_DREADNOUGHT"
+msgstr "Completed in the Era of Dreadnoughts."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_DREADNOUGHT_BB_CA"
+msgstr "Completed in the Era of Dreadnoughts on battleships and cruisers."
+
+msgid "IDS_AVIATION_HYBRID_MINE_BOMBER"
+msgstr "Tactical Minelayers Available"
+
+msgid "IDS_CAROUSEL_PCVE027_FILTER"
+msgstr "Filter ships eligible for the Era of Dreadnoughts"
+
+msgid "IDS_CHANGE_TRAINING_ROOM_SETTINGS_TOOLTIP"
+msgstr "Change battle and training room settings"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE027"
+msgstr "Select Era of Dreadnoughts"
+
+msgid "IDS_CLEAR_MESSAGE_QUEUE"
+msgstr "HIDE ALL"
+
+msgid "IDS_CONTEXT_TUTORIAL_DREADNOUGHT_EVENT"
+msgstr "Press [CMD_DE_EVENT_INFO] to learn about the battle features."
+
+msgid "IDS_DESC_PCM102_T11_DD_CA_BB_SUPGRADE_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM103_T11_DD_CA_BB_SUPGRADE_MOD_II"
+msgstr " "
+
+msgid "IDS_DESC_PCM104_T11_DD_CA_BB_SUPGRADE_MOD_III"
+msgstr " "
+
+msgid "IDS_DESC_PCM105_T11_DD_CA_BB_SUPGRADE_MOD_IV"
+msgstr " "
+
+msgid "IDS_DESC_PCM106_T11_DD_CA_BB_SUPGRADE_MOD_V"
+msgstr " "
+
+msgid "IDS_DESC_PCM107_T11_CV_SUPGRADE_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM108_T11_CV_SUPGRADE_MOD_II"
+msgstr " "
+
+msgid "IDS_DESC_PCM109_T11_CV_SUPGRADE_MOD_III"
+msgstr " "
+
+msgid "IDS_DESC_PCM110_T11_SS_SUPGRADE_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM111_T11_SS_SUPGRADE_MOD_II"
+msgstr " "
+
+msgid "IDS_DESC_PCM112_T11_SS_SUPGRADE_MOD_III"
+msgstr " "
+
+msgid "IDS_DESC_PCM113_MAINGUN_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM114_TORPEDOMOD_MOD_0"
+msgstr " "
+
+msgid "IDS_DESC_PCM115_FLIGHTCONTROL_MOD_0"
+msgstr " "
+
+msgid "IDS_DESC_PCM902_T11_DD_CA_BB_SUPGRADE_MOD_I_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM903_T11_DD_CA_BB_SUPGRADE_MOD_II_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM904_T11_DD_CA_BB_SUPGRADE_MOD_III_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM905_T11_DD_CA_BB_SUPGRADE_MOD_IV_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM906_T11_DD_CA_BB_SUPGRADE_MOD_V_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM907_T11_CV_SUPGRADE_MOD_I_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM908_T11_CV_SUPGRADE_MOD_II_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM909_T11_CV_SUPGRADE_MOD_III_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM910_T11_SS_SUPGRADE_MOD_I_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM911_T11_SS_SUPGRADE_MOD_II_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM912_T11_SS_SUPGRADE_MOD_III_TEST"
+msgstr " "
+
+msgid "IDS_DE_FIGHTER_RESPAWN"
+msgstr "Era of Dreadnoughts"
+
+msgid "IDS_DE_FIGHTER_RESPAWN_DOMINATION"
+msgstr "Era of Dreadnoughts – Domination"
+
+msgid "IDS_DE_IJICHI"
+msgstr "Hikojirō Ijichi"
+
+msgid "IDS_DE_SEREBRENNIKOV"
+msgstr "Pyotr Serebrennikov"
+
+msgid "IDS_DISABLE_SPECTATORS_TOOLTIP"
+msgstr "There are not enough available slots in the 'Unassigned Players' group for all spectators"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY900_REGENCREWDE"
+msgstr "Partially restores the ship's health by repairing light damage. Restores armor in all sectors of the ship."
+
+msgid "IDS_DOCK_CONSUME_TITLE_PCY900_REGENCREWDE"
+msgstr "Restoration Repair"
+
+msgid "IDS_DOCK_CONSUME_TITLE_REGENERATIONHPSPEED_WORKTIME_YAMAMOTO"
+msgstr "Health Recovery"
+
+msgid "IDS_DOGTAG_PCNB450_DESCRIPTION"
+msgstr "Zeus – the god of thunder in ancient Greek mythology, the supreme deity of Olympus. Zeus was considered the father of many gods and heroes, such as Hephaestus, Apollo, Heracles, Hermes, and Persephone."
+
+msgid "IDS_DOGTAG_PCNB450_NAME"
+msgstr "Zeus"
+
+msgid "IDS_ENABLE_TEAM_CUSTOMIZATION"
+msgstr "Team Personalization"
+
+msgid "IDS_ENABLE_TEAM_CUSTOMIZATION_TOOLTIP"
+msgstr "Change team names"
+
+msgid "IDS_GO_TO_SSE_MOTIVATOR_TASK"
+msgstr "Go to Task"
+
+msgid "IDS_GUIDING_TIP_314_DESC"
+msgstr "Priority tasks are now displayed in your Port."
+
+msgid "IDS_GUIDING_TIP_314_HEADER"
+msgstr "Priority Tasks"
+
+msgid "IDS_GUIDING_TIP_315_DESC"
+msgstr "A new priority task is now available for you!"
+
+msgid "IDS_GUIDING_TIP_315_HEADER"
+msgstr "New Task Available"
+
+msgid "IDS_GUIDING_TIP_316_DESC"
+msgstr "You have completed today's tasks. While they are refreshing, you can take on other tasks."
+
+msgid "IDS_GUIDING_TIP_316_HEADER"
+msgstr "Daily Challenge Completed"
+
+msgid "IDS_GUIDING_TIP_317_DESC"
+msgstr "You have completed this week's tasks. While they are refreshing, you can take on other tasks."
+
+msgid "IDS_GUIDING_TIP_317_HEADER"
+msgstr "Weekly Challenge Completed"
+
+msgid "IDS_HELP_ACTIVE_ZONES"
+msgstr "Active Zones"
+
+msgid "IDS_HELP_AIRCARRIER_CONSUMABLES"
+msgstr "Carrier Equipment"
+
+msgid "IDS_HELP_AIRPLANE_THROTTLE_UP"
+msgstr "Jet Boost"
+
+msgid "IDS_HELP_AIRSHIP"
+msgstr "Allied Airship"
+
+msgid "IDS_HELP_AIR_DEFENSE"
+msgstr "AA Gun"
+
+msgid "IDS_HELP_AIR_SUPPORT_SQUADRONS_DEPTHCHARGE"
+msgstr "Airstrike (Depth Charge)"
+
+msgid "IDS_HELP_AIR_SUPPORT_SQUADRONS_HE"
+msgstr "Airstrike (HE)"
+
+msgid "IDS_HELP_BATTLE_COMMANDS"
+msgstr "In Battle"
+
+msgid "IDS_HELP_BATTLE_DESIGNATIONS"
+msgstr "Battle Mode Designations"
+
+msgid "IDS_HELP_BY_PLANE_DETECT"
+msgstr "Detected by Aircraft"
+
+msgid "IDS_HELP_CALLFIGHTERS_UPGRADE"
+msgstr "Interceptor"
+
+msgid "IDS_HELP_CAPTURE_CONTROL"
+msgstr "Capture Point"
+
+msgid "IDS_HELP_COMMON_COMMANDS"
+msgstr "Common"
+
+msgid "IDS_HELP_CROSSHAIR"
+msgstr "Crosshair"
+
+msgid "IDS_HELP_DEFINITELY_DETECT"
+msgstr "Detected at a distance of 2 km or less"
+
+msgid "IDS_HELP_DEGECTIVE_MODULES"
+msgstr "Disabled Modules"
+
+msgid "IDS_HELP_DETECT"
+msgstr "Detected"
+
+msgid "IDS_HELP_DETECT_DISTANCE"
+msgstr "Detection Distance of Your Ship"
+
+msgid "IDS_HELP_DIVEBOMBER_AP"
+msgstr "Dive Bomber (AP)"
+
+msgid "IDS_HELP_DIVEBOMBER_HE"
+msgstr "Dive Bomber (HE)"
+
+msgid "IDS_HELP_ENEMIES_AIRSHIP"
+msgstr "Enemy Airship"
+
+msgid "IDS_HELP_ESCADRILLE"
+msgstr "Squadron"
+
+msgid "IDS_HELP_ESCADRILLE_CONSUMABLES"
+msgstr "Squadron Equipment"
+
+msgid "IDS_HELP_FAST_RELOAD"
+msgstr "Reload Boost"
+
+msgid "IDS_HELP_FIGHTER_AP"
+msgstr "Attack Aircraft (AP)"
+
+msgid "IDS_HELP_FIGHTER_HE"
+msgstr "Attack Aircraft (HE)"
+
+msgid "IDS_HELP_FIRE_ON_AIRCARRIER"
+msgstr "Fire on Your Carrier"
+
+msgid "IDS_HELP_FORSAGE_SQUADRONS"
+msgstr "Squadron Afterburner"
+
+msgid "IDS_HELP_GUN_STATES"
+msgstr "Gun Status"
+
+msgid "IDS_HELP_HULL_HEALTH"
+msgstr "Hull Health Increase"
+
+msgid "IDS_HELP_INDICATORS_DIFFERENT"
+msgstr "Miscellaneous"
+
+msgid "IDS_HELP_LANDFALL"
+msgstr "Ground Impact"
+
+msgid "IDS_HELP_LOCATION_REVEALED"
+msgstr "Your approximate location is revealed"
+
+msgid "IDS_HELP_MAP_BORDER"
+msgstr "Map Border"
+
+msgid "IDS_HELP_MINEBOMBER"
+msgstr "Minelayer"
+
+msgid "IDS_HELP_MINEFIELD"
+msgstr "Minefield"
+
+msgid "IDS_HELP_MINES"
+msgstr "Mines"
+
+msgid "IDS_HELP_OBSTACLE"
+msgstr "Obstacle"
+
+msgid "IDS_HELP_OIL_LEAK"
+msgstr "Oil Spill"
+
+msgid "IDS_HELP_OIL_LEAK_PENDING"
+msgstr "Fuel System Damage"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_1"
+msgstr "Aviation"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_1_DESC_0"
+msgstr "The primary weapon of an aircraft carrier is squadrons. They can be equipped with rockets, bombs, torpedoes, or mines. Squadrons can also spot enemies."
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2"
+msgstr "Autopilot"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2_DESC_0"
+msgstr "While controlling a squadron, you can set the course for your carrier using the autopilot."
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2_DESC_1"
+msgstr "Select any point on the tactical map to direct your carrier to it."
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3"
+msgstr "Equipment"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3_DESC_0"
+msgstr "Aircraft carriers do not have main battery guns but are equipped with secondary armament and consumables that are used automatically when necessary."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1"
+msgstr "Armament"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1_DESC_0"
+msgstr "Battleship main guns deal significant damage but have a long reload time."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1_DESC_1"
+msgstr "Battleships have long-range firepower."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2"
+msgstr "Survivability"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2_DESC_0"
+msgstr "Battleships have strong armor and a large health pool."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2_DESC_1"
+msgstr "However, they can be vulnerable due to their low speed and maneuverability."
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_3"
+msgstr "Detection"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_3_DESC_0"
+msgstr "Battleships are highly visible and quickly reveal their location to the enemy."
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_1"
+msgstr "Armament"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_1_DESC_0"
+msgstr "Cruisers are intermediate between battleships and destroyers in many characteristics."
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_2"
+msgstr "Equipment"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_2_DESC_0"
+msgstr "Cruisers typically have a wide range of equipment, allowing them to be effective in various situations."
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_3"
+msgstr "Versatility"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_3_DESC_0"
+msgstr "Cruisers can vary significantly from one another."
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_3_DESC_1"
+msgstr "Pay attention to the ship's equipment and specifications."
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_1"
+msgstr "Armament"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_1_DESC_0"
+msgstr "Most destroyers are armed with torpedoes."
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_1_DESC_1"
+msgstr "Their main guns have a high rate of fire but short range."
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_2"
+msgstr "Concealment"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_2_DESC_0"
+msgstr "Destroyers have low visibility, allowing them to spot enemy ships and strike unexpectedly."
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_3"
+msgstr "Support"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_3_DESC_0"
+msgstr "Most destroyers have access to 'Smoke Generator' equipment, which makes them even harder to detect and can also cover allies."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1"
+msgstr "Armament"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_0"
+msgstr "Most submarines are armed with torpedoes, which can be guided to their target using sonar. A double sonar ping improves the maneuverability of launched torpedoes."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_1"
+msgstr "Using sonar reveals the approximate location of the submarine."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2"
+msgstr "Depth Levels"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_0"
+msgstr "Submarines have three positions: surfaced, periscope depth, and maximum depth."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_1"
+msgstr "At maximum depth, submarines are harder to detect but also have limited visibility."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3"
+msgstr "Autonomy Reserve"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_0"
+msgstr "A submarine can stay submerged as long as it has autonomy reserve. This reserve is consumed underwater and replenished at the surface."
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_1"
+msgstr "When completely depleted, emergency surfacing will occur."
+
+msgid "IDS_HELP_PLANE_DETECT"
+msgstr "Detected by Aircraft"
+
+msgid "IDS_HELP_PMK"
+msgstr "Secondary Battery"
+
+msgid "IDS_HELP_PROJECTILE_FLIGHT_TIME"
+msgstr "Projectile Flight Time"
+
+msgid "IDS_HELP_REGENERATION"
+msgstr "Health Recovery"
+
+msgid "IDS_HELP_SALVO_AT_SHIP"
+msgstr "Salvo Fired at Your Ship"
+
+msgid "IDS_HELP_SHIP_AT_GUNPOINT"
+msgstr "Enemies Are Targeting You"
+
+msgid "IDS_HELP_SHIP_DETECT"
+msgstr "Detected by Ship"
+
+msgid "IDS_HELP_SHIP_IN_SMOKE"
+msgstr "You Are Concealed in Smoke"
+
+msgid "IDS_HELP_SHIP_THREATS"
+msgstr "Ship Threats"
+
+msgid "IDS_HELP_SHIP_TYPES"
+msgstr "Ship Types"
+
+msgid "IDS_HELP_SHIP_WAS_FOUND_BY_RADAR"
+msgstr "Detected by Radar"
+
+msgid "IDS_HELP_SHIP_WAS_FOUND_BY_SUBMARINE_LOCATOR"
+msgstr "Detected by Submarine Locator"
+
+msgid "IDS_HELP_SKIPBOMBER"
+msgstr "Skip Bomber"
+
+msgid "IDS_HELP_SONAR"
+msgstr "Sonar"
+
+msgid "IDS_HELP_SPOTTER"
+msgstr "Spotting Aircraft"
+
+msgid "IDS_HELP_STATES"
+msgstr "Ship Status"
+
+msgid "IDS_HELP_STEERING_MACHINE"
+msgstr "Steering Gear"
+
+msgid "IDS_HELP_TAB_CONTROLS"
+msgstr "CONTROLS"
+
+msgid "IDS_HELP_TAB_INDICATORS"
+msgstr "INDICATORS"
+
+msgid "IDS_HELP_TAB_MODULES"
+msgstr "MODULES"
+
+msgid "IDS_HELP_TORPEDOBOMBER"
+msgstr "Torpedo Bomber"
+
+msgid "IDS_HELP_TORPEDO_FOCUSING"
+msgstr "Torpedoes Are Being Aimed at You"
+
+msgid "IDS_HELP_VOLLEY_RANGE"
+msgstr "Volley Range"
+
+msgid "IDS_HELP_WEAPON_DAMAGE"
+msgstr "Damage Boost"
+
+msgid "IDS_HELP_ZONE_IN_SMOKE"
+msgstr "Smoke Duration"
+
+msgid "IDS_INSTALL_ALL_RECOMMENDED_BUT_NOT_ALL_MODERNIZATIONS_TOOLTIP"
+msgstr "No recommendations provided for the remaining slots."
+
+msgid "IDS_IN_PCVE027"
+msgstr "in the Era of Dreadnoughts"
+
+msgid "IDS_KILO"
+msgstr "K"
+
+msgid "IDS_MINIMAP_OPTIONS_SHOOTSGRANGEENABLED"
+msgstr "Secondary Battery Range"
+
+msgid "IDS_MININ"
+msgstr "Kuzma Minin"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_HEADER"
+msgstr "Battle Features"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "ARMOR DESTRUCTION"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Armor is destroyed by damage."
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "If a section of armor is completely destroyed, a shell may hit the vulnerable part of the ship and deal significant damage."
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "MAIN AND SECONDARY BATTERY"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "The main battery deals heavy damage but has a long reload time."
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "The secondary battery reloads faster but deals less damage."
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "RETURN TO BATTLE"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Destroyed destroyers return to battle as long as at least one battleship or cruiser remains in the team."
+
+msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_HEADER"
+msgstr "Rules"
+
+msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "Battle Features"
+
+msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "You need to destroy all enemy ships."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_HEADER"
+msgstr "Era of Dreadnoughts"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_HEADER"
+msgstr "Battle Features"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "You need to destroy all enemy ships or capture the base."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Destroyed destroyers return to battle after a certain period of time. They cannot return if no battleships or cruisers remain in the team."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_HEADER"
+msgstr "Armor Destruction"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Armor is destroyed by damage."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "If an armor element is completely destroyed, a shell may hit the vulnerable part of the ship and deal significant damage."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_HEADER"
+msgstr "Secondary Battery"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "In addition to the main battery and secondary battery, some dreadnoughts are equipped with medium-caliber guns."
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "Compared to the main battery, medium-caliber guns reload faster but deal less damage."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_HEADER"
+msgstr "The Final Voyage of Transylvania"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_HEADER"
+msgstr "Battle Features"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "The portal to another dimension has reopened! Hordes of monsters are pouring out, and the battlefield is engulfed in corruption. Allied ships in the corruption zone lose health, while enemy ships gain resistance to damage."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Using magic, 'Transylvania' creates an area around itself that repels corruption. However, the magic fades over time, and the safe zone gradually shrinks."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_2_HEADER"
+msgstr "Objective"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Only 'Transylvania' can bring an end to this story. You must escort it to the portal to erase it from existence."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_HEADER"
+msgstr "Upgrades"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "During the battle, a modifier will be applied to your ship, altering its combat characteristics. You will also gain upgrades for each destroyed ally."
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "Collecting fragments of the Great Towers allows you to increase 'Transylvania's' resistance to damage."
+
+msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Map and battle mode are selected randomly."
+
+msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "The Ranked Battle season is divided into sprints. Your league progress is reset at the start of each sprint."
+
+msgid "IDS_NOT_WINNER_TEAM"
+msgstr "Teams finished the battle in a draw."
+
+msgid "IDS_PAPA166_203MM_HE_CHANCELLORSVILLE"
+msgstr "203 mm HE/HC Mk25"
+
+msgid "IDS_PAPA167_203MM_AP_CHANCELLORSVILLE"
+msgstr "203 mm AP Mk19"
+
+msgid "IDS_PARAMS_MODIFIER_AAAURADAMAGEBONUS"
+msgstr "Continuous AA damage in the sector with the longest range"
+
+msgid "IDS_PARAMS_MODIFIER_AABUBBLEDAMAGEBONUS"
+msgstr "Damage from AA shell bursts"
+
+msgid "IDS_PARAMS_MODIFIER_AACRITPROB"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_AAREPAIRTIME"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_CRASHCREWWORKTIMEBONUS"
+msgstr "Consumable work time"
+
+msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_DESTROYER"
+msgstr "Secondary Battery Damage"
+
+msgid "IDS_PARAMS_MODIFIER_GSCRITPROB"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_GSREPAIRTIME"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_PLANEALPHADAMAGECOEFF"
+msgstr "Squadron Weapon Damage"
+
+msgid "IDS_PARAMS_MODIFIER_SEGMENTHEALPERCENT"
+msgstr "Armor per second"
+
+msgid "IDS_PARAMS_MODIFIER_UWSOURCEDMGREDUCTION"
+msgstr "Damage received from torpedoes, mines, and depth charges"
+
+msgid "IDS_PARAMS_MODIFIER_WEAPONRYCRITPROB"
+msgstr "Probability of all weapons being disabled"
+
+msgid "IDS_PARAMS_MODIFIER_WEAPONRYREPAIRTIME"
+msgstr "Repair time for all weapons"
+
+msgid "IDS_PASC517"
+msgstr "Chancellorsville"
+
+msgid "IDS_PASC517_DESCR"
 msgstr ""
-"<body>You now have access to\n"
-"<h3>Operations</h3></body>"
+"Work on designing a scout cruiser began in the USA in 1913 and continued after the end of World War I. By 1919, the ship's general characteristics were determined: displacement was 10,000–12,000 tons, and armament included 8–12 guns of 203 mm caliber.\n"
+"\n"
+"Between 1919 and 1925, over thirty preliminary designs of such a ship were created, including versions with a raised linear arrangement of three turrets in the bow. Further development led to the appearance of the Pensacola-class cruisers."
 
-msgid "IDS_UNLOCKS_LEVEL_UP_3103"
+msgid "IDS_PASC517_FULL"
+msgstr "Chancellorsville"
+
+msgid "IDS_PASC517_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASC517_YEAR"
+msgstr "1925"
+
+msgid "IDS_PAUA614_ART_CHANCELLORSVILLE"
+msgstr "203 mm/55 Mk.14 in twin/triple mounts"
+
+msgid "IDS_PAUE615_ENG_CHANCELLORSVILLE"
+msgstr "Propulsion: 107,000 hp"
+
+msgid "IDS_PAUH618_HULL_CHANCELLORSVILLE"
+msgstr "Chancellorsville"
+
+msgid "IDS_PAUS615_SUO_CHANCELLORSVILLE"
+msgstr "Mk7"
+
+msgid "IDS_PBES360_ZEUS"
+msgstr "Dazzling Thunder God"
+
+msgid "IDS_PBSB520"
+msgstr "Zeus"
+
+msgid "IDS_PBSB520_DESCR"
+msgstr "The great Zeus, lord of the celestial fire, embodies the spirit of fearlessness and the pursuit of victory. His majestic lines and formidable silhouette strike fear into opponents. Like thunder from a clear sky, Zeus enters battle, delivering crushing blows to enemy ships. His guns, like lightning tearing through dark clouds, strike targets with unerring precision, leaving behind only shattered fragments of hope."
+
+msgid "IDS_PBSB520_FULL"
+msgstr "Zeus"
+
+msgid "IDS_PBSB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PBSB520_YEAR"
+msgstr "1949"
+
+msgid "IDS_PBUA916_ART_ZEUS"
+msgstr "457 mm/45 Mk.II in turret mounts"
+
+msgid "IDS_PBUE920_ENG_ZEUS"
+msgstr "Propulsion: 135,650 hp"
+
+msgid "IDS_PBUH920_HULL_ZEUS"
+msgstr "Zeus"
+
+msgid "IDS_PBUS915_SUO_ZEUS"
+msgstr "Mk X"
+
+msgid "IDS_PCEE699_ZEUS_FLAG"
+msgstr "Zeus"
+
+msgid "IDS_PCEE699_ZEUS_FLAG_DESCRIPTION"
+msgstr "Zeus – the god of thunder in ancient Greek mythology, the supreme deity of Olympus. Zeus was considered the father of many gods and heroes, such as Hephaestus, Apollo, Heracles, Hermes, and Persephone."
+
+msgid "IDS_PCEE700_BLACK_AZUMA_FLAG"
+msgstr "Azuma B"
+
+msgid "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE701_BLACK_S_189_FLAG"
+msgstr "S-189 B"
+
+msgid "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG"
+msgstr "Błyskawica B"
+
+msgid "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE703_BLACK_MOLOTOV_FLAG"
+msgstr "Molotov B"
+
+msgid "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE704_MOLOTOV_FLAG"
+msgstr "Molotov"
+
+msgid "IDS_PCEE704_MOLOTOV_FLAG_DESCRIPTION"
+msgstr "Vyacheslav Mikhailovich Molotov (1890–1986) was a prominent Soviet politician and statesman, serving as the People's Commissar, and later Minister of Foreign Affairs from 1939 to 1949 and from 1953 to 1956. In 1943–54, employees of the foreign policy department wore insignia on their hats: a cockade with the USSR emblem on the band and a palm branch symbolizing peaceful intentions on the crown."
+
+msgid "IDS_PCEE705_BLACK_ODIN_FLAG"
+msgstr "Odin B"
+
+msgid "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE707_RUSSIAN_EMPIRE_FLAG"
+msgstr "Imperial Russian Coat of Arms Flag"
+
+msgid "IDS_PCEE707_RUSSIAN_EMPIRE_FLAG_DESCRIPTION"
+msgstr "The color interpretation of the Russian Empire's flag was approved by Emperor Alexander II's decree in 1858. The top two stripes, black and yellow (or gold), represent the black State Eagle in a yellow or gold field. The bottom stripe, white or silver, corresponds to the cockade of Peter the Great and Catherine II."
+
+msgid "IDS_PCEE721_KUZURYU_FLAG"
+msgstr "Kuzuryū"
+
+msgid "IDS_PCEE721_KUZURYU_FLAG_DESCRIPTION"
+msgstr "The Kuzuryū River flows through Fukui Prefecture, Japan, originating in the mountainous region near the city of Ōno. The city is completely surrounded by mountains and can only be accessed through tunnels or mountain roads."
+
+msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG"
+msgstr "Chancellorsville"
+
+msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG_DESCRIPTION"
+msgstr "The Battle of Chancellorsville was a major battle of the American Civil War, where Confederate forces under General Robert E. Lee won one of their most brilliant victories, defeating an enemy force that was twice as large. The first flag of the Confederacy was modeled after the Austrian flag, and the stars arranged in a circle symbolized the states that joined the Confederacy."
+
+msgid "IDS_PCEE723_FRUNZE_FLAG"
+msgstr "Frunze"
+
+msgid "IDS_PCEE723_FRUNZE_FLAG_DESCRIPTION"
+msgstr "Mikhail Vasilyevich Frunze (1885–1925) was a revolutionary, Soviet statesman, and military leader. From January 26 until his death on October 31, 1925, he served as the Chairman of the Revolutionary Military Council, the supreme collective body in charge of the Armed Forces of the RSFSR and later the USSR."
+
+msgid "IDS_PCEE726_USSR_FLAG"
+msgstr "State Flag of the USSR"
+
+msgid "IDS_PCEE726_USSR_FLAG_DESCRIPTION"
+msgstr "According to the Statute on the State Flag of the USSR, approved by the decree of the Presidium of the Supreme Soviet of the USSR on August 19, 1955, the State Flag of the Union of Soviet Socialist Republics symbolizes the state sovereignty of the USSR and the indissoluble union of workers and peasants in the fight for the construction of a communist society."
+
+msgid "IDS_PCVE027"
+msgstr "Era of Dreadnoughts"
+
+msgid "IDS_PCVE027_DESCRIPTION"
+msgstr "Battles of early 20th-century dreadnought ships with artillery of various calibers."
+
+msgid "IDS_PCVE027_MATCHMAKER_DESCRIPTION"
+msgstr "Battles of early 20th-century dreadnought ships with artillery of various calibers."
+
+msgid "IDS_PGES340_ODIN_CEREMONIAL"
+msgstr "Special Ceremonial"
+
+msgid "IDS_PGSB548"
+msgstr "Odin B"
+
+msgid "IDS_PGSB548_DESCR"
+msgstr "In 1932–34, development projects for Deutschland-class ships were considered. The decision was made to add a third main battery turret, significantly increasing displacement. When the characteristics of the French battlecruiser Strasbourg became known, adjustments were made to the caliber of the ships' main armament. A variant with a 305 mm main caliber was considered the most balanced, especially since this caliber was what the British wanted to propose for the future naval conference."
+
+msgid "IDS_PGSB548_FULL"
+msgstr "Odin B"
+
+msgid "IDS_PGSB548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB548_YEAR"
+msgstr "1935"
+
+msgid "IDS_PGUA724_ART_BLACK_ODIN"
+msgstr "305 mm/56 SK C/39 in turret mounts"
+
+msgid "IDS_PGUE729_ENG_BLACK_ODIN"
+msgstr "Propulsion: 137,300 hp"
+
+msgid "IDS_PGUH737_HULL_BLACK_ODIN"
+msgstr "Odin B"
+
+msgid "IDS_PGUS726_SUO_BLACK_ODIN"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUT726_TORP_BLACK_ODIN"
+msgstr "G7a T1"
+
+msgid "IDS_PIPA082_254MM_HE_T11"
+msgstr "254 mm HE shells"
+
+msgid "IDS_PJAM510_SHINANO_STOCK"
+msgstr "Yokosuka P1Y1"
+
+msgid "IDS_PJAM530_KUZURYU_TOP"
+msgstr "Aichi M6A1 B Nanzan"
+
+msgid "IDS_PJES429_BLACK_AZUMA"
+msgstr "Special"
+
+msgid "IDS_PJGM215_152MM40_COLOR_BLACK"
+msgstr "152 mm/40 QF EOC Pattern Z in casemate mount"
+
+msgid "IDS_PJGM216_152MM40_COLOR_WHITE"
+msgstr "152 mm/40 QF EOC Pattern Z in casemate mount"
+
+msgid "IDS_PJGM218_76MM40_SINGLE"
+msgstr "76 mm/40 Elswick Pattern N in single mount"
+
+msgid "IDS_PJGM219_203MM_45_TWIN"
+msgstr "203 mm/45 EOC Pattern U in twin turret"
+
+msgid "IDS_PJGM220_152MM40"
+msgstr "152 mm/40 EOC Pattern Z in single mount"
+
+msgid "IDS_PJGM233_152MM40_CASEMATE"
+msgstr "152 mm/40 EOC Pattern Z in casemate mount"
+
+msgid "IDS_PJGM991_305MM_MIKASA"
+msgstr "305 mm/40 EOC Pattern G in twin turret"
+
+msgid "IDS_PJGS209_47MM_33_HOTCHKISS"
+msgstr "47 mm OQF 3-pounder Hotchkiss"
+
+msgid "IDS_PJGS210_47MM_40_HOTCHKISS"
+msgstr "47 mm OQF 3-pounder Hotchkiss"
+
+msgid "IDS_PJGS221_76MM40"
+msgstr "76 mm/40 41st Year Type in single mount"
+
+msgid "IDS_PJGS222_57MM40_HOTCHKISS"
+msgstr "57 mm OQF 6-pounder Hotchkiss"
+
+msgid "IDS_PJGS234_76MM40"
+msgstr "76 mm/40 Elswick Pattern N in single mount"
+
+msgid "IDS_PJGT001_INVISIBLE_TA_MIKASA"
+msgstr "457 mm"
+
+msgid "IDS_PJGT154_450MM"
+msgstr "450 mm single-tube"
+
+msgid "IDS_PJPA153_150MM_HE_KUZURYU"
+msgstr "150 mm HE Type 0"
+
+msgid "IDS_PJPA154_150MM_AP_KUZURYU"
+msgstr "150 mm AP Type 0"
+
+msgid "IDS_PJPA155_76MM_CS_SAZANAMI"
+msgstr "76 mm CS Elswick Pattern N"
+
+msgid "IDS_PJPA156_305MM_CS_MIKASA"
+msgstr "305 mm CS EOC Pattern G"
+
+msgid "IDS_PJPA157_203_PPB"
+msgstr "203 mm CS EOC Pattern U"
+
+msgid "IDS_PJPA158_152_PPB"
+msgstr "152 mm CS EOC Pattern Z"
+
+msgid "IDS_PJPA159_152_CS_MIKASA"
+msgstr "152 mm CS EOC Pattern Z"
+
+msgid "IDS_PJPA160_76MM_CS_MIKASA"
+msgstr "76 mm CS Elswick Pattern N"
+
+msgid "IDS_PJPA161_47MM_CS_MIKASA"
+msgstr "47 mm CS"
+
+msgid "IDS_PJPA162_57MM_CS"
+msgstr "57 mm CS"
+
+msgid "IDS_PJPB530_KUZURYU_TOP"
+msgstr "No. 25 Mod. 2"
+
+msgid "IDS_PJPM510_SHINANO_STOCK"
+msgstr "Type JJ"
+
+msgid "IDS_PJPM530_KUZURYU_TOP"
+msgstr "Type JI Mod. 2"
+
+msgid "IDS_PJPT042_SAZANAMI"
+msgstr "457 mm"
+
+msgid "IDS_PJPT124_MIKASA"
+msgstr "457 mm"
+
+msgid "IDS_PJPT125_ASAMA"
+msgstr "457 mm"
+
+msgid "IDS_PJSB502"
+msgstr "Mikasa '04"
+
+msgid "IDS_PJSB502_DESCR"
 msgstr ""
-"<body>You now have access to\n"
+"The last of the four battleships ordered under the ten-year program of 1896. In terms of design, it was similar to its predecessors, with its main difference being improved casemate armor for the anti-torpedo guns.\n"
+"\n"
+"The battleship was designed and built by Armstrong, surpassing the latest British battleships. Laid down in Elswick in January 1899, launched in November 1900, and commissioned in March 1902. It was Admiral Togo's flagship during the Russo-Japanese War, taking part in the battles in the Yellow Sea and the Battle of Tsushima."
+
+msgid "IDS_PJSB502_FULL"
+msgstr "Mikasa '04"
+
+msgid "IDS_PJSB502_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB502_YEAR"
+msgstr "1902"
+
+msgid "IDS_PJSC509"
+msgstr "Azuma B"
+
+msgid "IDS_PJSC509_DESCR"
+msgstr "Shortly before the outbreak of World War II, Japan learned of the USA's plans to design large Alaska-class cruisers. Almost immediately, Japan began developing a cruiser of this class to counter the American cruisers. The project ships were architecturally similar to the Yamato-class battleships, armed with nine modern 310 mm guns in three turrets. Development was halted in November 1941 and finally canceled after the Battle of Midway."
+
+msgid "IDS_PJSC509_FULL"
+msgstr "Azuma B"
+
+msgid "IDS_PJSC509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC509_YEAR"
+msgstr "1940"
+
+msgid "IDS_PJSC512"
+msgstr "Asama"
+
+msgid "IDS_PJSC512_DESCR"
+msgstr ""
+"In 1896, a fleet expansion program was adopted, which included the construction of four armored cruisers. A year later, the number of planned ships was increased to six. The first two cruisers—Asama and Tokiwa—were ordered from Britain. These ships were an improved version of the cruiser O'Higgins, built for Chile. During trials, the cruisers exceeded their design speed by one and a half knots. Both ships participated in the Russo-Japanese War and World War I.\n"
+"\n"
+"Asama was laid down in Elswick in November 1896, launched in March 1898, and commissioned in March 1899. During the Russo-Japanese War, the cruiser was part of Admiral Kamimura's squadron, taking part in the battles of Chemulpo, the Yellow Sea, and Tsushima. In World War I, Asama was heavily damaged after running aground off the coast of Mexico in 1915.\n"
+"\n"
+"During World War II, Asama served as a training ship for naval gunners in Shimonoseki."
+
+msgid "IDS_PJSC512_FULL"
+msgstr "Asama"
+
+msgid "IDS_PJSC512_NUMBER"
+msgstr "2"
+
+msgid "IDS_PJSC512_YEAR"
+msgstr "1899"
+
+msgid "IDS_PJSC530"
+msgstr "Kuzuryū"
+
+msgid "IDS_PJSC530_DESCR"
+msgstr ""
+"In the late 1930s, Japan developed a project for a cruiser designed to lead submarine flotillas. The ship was supposed to carry aircraft and have versatile main battery guns.\n"
+"\n"
+"In one version of the project, a sizable hangar, similar to an aircraft carrier, was positioned between the bow and stern turret groups, with a full-fledged flight deck and island-type superstructure."
+
+msgid "IDS_PJSC530_FULL"
+msgstr "Kuzuryū"
+
+msgid "IDS_PJSC530_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC530_YEAR"
+msgstr "1944"
+
+msgid "IDS_PJSD512"
+msgstr "Sazanami"
+
+msgid "IDS_PJSD512_DESCR"
+msgstr ""
+"The Ikazuchi-class torpedo boats were built between 1897 and 1899 by the British firm Yarrow. The ships participated in the suppression of the Boxer Rebellion in China and then fought in the Russo-Japanese War.\n"
+"\n"
+"Sazanami was laid down in June 1897, launched and commissioned in August 1899, and arrived in Japan in 1900. It participated in the Russo-Japanese War, engaging in battle with the Russian torpedo boat Steregushchy and capturing the severely wounded Admiral Z. Rozhestvensky, who was aboard the destroyer Bedovy during the Battle of Tsushima."
+
+msgid "IDS_PJSD512_FULL"
+msgstr "Sazanami"
+
+msgid "IDS_PJSD512_NUMBER"
+msgstr "6"
+
+msgid "IDS_PJSD512_YEAR"
+msgstr "1899"
+
+msgid "IDS_PJUA102_ART_MIKASA"
+msgstr "305 mm/40 EOC Pattern G in twin turret"
+
+msgid "IDS_PJUA103_ART_ASAMA"
+msgstr "203 mm/45 EOC Pattern U in twin turret"
+
+msgid "IDS_PJUA104_ART_SAZANAMI"
+msgstr "76 mm/40 Elswick Pattern N in single mount"
+
+msgid "IDS_PJUA809_ART_BLACK_AZUMA"
+msgstr "310 mm/50 Type 0 in triple turret"
+
+msgid "IDS_PJUA913_ART_KUZURYU"
+msgstr "150 mm/60 5th Year Type in triple turret"
+
+msgid "IDS_PJUE104_ENG_MIKASA"
+msgstr "Propulsion: 16,000 hp"
+
+msgid "IDS_PJUE105_ENG_ASAMA"
+msgstr "Propulsion: 13,000 hp"
+
+msgid "IDS_PJUE106_ENG_SAZANAMI"
+msgstr "Propulsion: 6,000 hp"
+
+msgid "IDS_PJUE810_ENG_BLACK_AZUMA"
+msgstr "Propulsion: 170,000 hp"
+
+msgid "IDS_PJUE916_ENG_KUZURYU"
+msgstr "Propulsion: 212,000 hp"
+
+msgid "IDS_PJUF907_FC_KUZURYU"
+msgstr "Type 8 mod. 1"
+
+msgid "IDS_PJUH102_MIKASA_1904"
+msgstr "Mikasa"
+
+msgid "IDS_PJUH103_HULL_ASAMA"
+msgstr "Asama"
+
+msgid "IDS_PJUH104_HULL_SAZANAMI"
+msgstr "Sazanami"
+
+msgid "IDS_PJUH815_HULL_BLACK_AZUMA"
+msgstr "Azuma B"
+
+msgid "IDS_PJUH917_HULL_KUZURYU"
+msgstr "Kuzuryū"
+
+msgid "IDS_PJUO900_MB_KUZURYU"
+msgstr "Aichi M6A1 B Nanzan"
+
+msgid "IDS_PJUS105_SUO_MIKASA"
+msgstr "Type 2 mod. 1"
+
+msgid "IDS_PJUS106_SUO_ASAMA"
+msgstr "Type 2"
+
+msgid "IDS_PJUS107_SUO_SAZANAMI"
+msgstr "Type 2"
+
+msgid "IDS_PJUS823_SUO_BLACK_AZUMA"
+msgstr "Type 9"
+
+msgid "IDS_PJUS916_SUO_KUZURYU"
+msgstr "Type 10"
+
+msgid "IDS_PJUT105_TORP_ASAMA"
+msgstr "457 mm"
+
+msgid "IDS_PJUT108_TORP_MIKASA"
+msgstr "457 mm"
+
+msgid "IDS_PJUT109_TORP_SAZANAMI"
+msgstr "457 mm"
+
+msgid "IDS_PRES406_BLACK_MOLOTOV"
+msgstr "Special"
+
+msgid "IDS_PRES608_BLACK_S_189"
+msgstr "Special"
+
+msgid "IDS_PRGM221_12IN52_MOD4"
+msgstr "305 mm/52 Model 1907 in MK-3-12 mount"
+
+msgid "IDS_PRGM223_75MM_50_CANET_CS"
+msgstr "75 mm/50 Model 1892 on Meller mount"
+
+msgid "IDS_PRGM225_12IN52_MOD5"
+msgstr "305 mm/52 Model 1907 in MK-3-12 mount"
+
+msgid "IDS_PRGM226_203MM_45_CANET"
+msgstr "203 mm/45 Model 1892 in single mount"
+
+msgid "IDS_PRGM227_152MM_45_CASEMATE_SHIELD"
+msgstr "152 mm/45 Model 1892 on Canet mount"
+
+msgid "IDS_PRGM231_203MM_45_CANET_CASEMATE"
+msgstr "203 mm/45 Model 1892 in casemate mount"
+
+msgid "IDS_PRGM236_305MM40_TWIN"
+msgstr "305 mm/40 Model 1895 in turret mount"
+
+msgid "IDS_PRGS227_152MM_45_CASEMATE_SHIELD"
+msgstr "152 mm/45 Model 1892 in casemate mount"
+
+msgid "IDS_PRGS228_37MM_23_HOTCHKISS"
+msgstr "37 mm Hotchkiss in single mount"
+
+msgid "IDS_PRGS233_47MM_43_5_HOTCHKISS_SHIELD"
+msgstr "47 mm Hotchkiss in single mount"
+
+msgid "IDS_PRGS234_47MM_43_5_HOTCHKISS"
+msgstr "47 mm Hotchkiss in single mount"
+
+msgid "IDS_PRGS235_47MM43_5_HOTCHKISS"
+msgstr "47 mm Hotchkiss in single mount"
+
+msgid "IDS_PRGS239_152MM_45_CANET"
+msgstr "152 mm/45 Model 1892 in single mount"
+
+msgid "IDS_PRGS240_152MM_45_CANET"
+msgstr "152 mm/45 Model 1892 in single mount"
+
+msgid "IDS_PRGS242_152MM_45_TWIN"
+msgstr "152 mm/45 Model 1892 in twin turret"
+
+msgid "IDS_PRGS900_152MM_45_TWIN_BORODINO"
+msgstr "152 mm/45 Model 1892 in twin turret"
+
+msgid "IDS_PRGT003_INVISIBLE_TA_7M"
+msgstr "381 mm"
+
+msgid "IDS_PRGT222_381MM_SINGLE_TUBE"
+msgstr "381 mm single tube"
+
+msgid "IDS_PRGT900_INVISIBLE_TA_BORODINO"
+msgstr "381 mm"
+
+msgid "IDS_PRPA154_305MM_HE_FRUNZE"
+msgstr "305 mm HE Model 1930"
+
+msgid "IDS_PRPA155_305MM_AP_FRUNZE"
+msgstr "305 mm AP Model 1930"
+
+msgid "IDS_PRPA227_152MM_BORODINO"
+msgstr "152 mm CS Model 1892"
+
+msgid "IDS_PRPA228_75MM_CS_CANE"
+msgstr "75 mm CS cartridge"
+
+msgid "IDS_PRPA229_203MM_CS_GROMOBOY"
+msgstr "203 mm CS Model 1892"
+
+msgid "IDS_PRPA230_152MM_CS_GROMOBOY"
+msgstr "152 mm CS Model 1892"
+
+msgid "IDS_PRPA231_37MM_CS"
+msgstr "37 mm CS cartridge"
+
+msgid "IDS_PRPA232_47MM_CS_HOTCHKISS"
+msgstr "47 mm CS cartridge"
+
+msgid "IDS_PRPA233_305MM_BORODINO"
+msgstr "305 mm CS Model 1895"
+
+msgid "IDS_PRPA234_75MM_CS_BOYKIY"
+msgstr "75 mm CS Model 1892"
+
+msgid "IDS_PRPT071_STOROJEVOY"
+msgstr "Torpedo Model 1910"
+
+msgid "IDS_PRPT072_DERZKY"
+msgstr "Torpedo Model 1910"
+
+msgid "IDS_PRPT073_PODVOISKY"
+msgstr "53-38"
+
+msgid "IDS_PRPT074_PR_7"
+msgstr "53-39 Mod. 1"
+
+msgid "IDS_PRPT075_MINSK"
+msgstr "53-38U"
+
+msgid "IDS_PRPT076_PR_48"
+msgstr "53-36 Mod. 2"
+
+msgid "IDS_PRPT077_IZYASLAV"
+msgstr "Torpedo Model 1912"
+
+msgid "IDS_PRPT078_FRUNZE"
+msgstr "53-31"
+
+msgid "IDS_PRPT079_BORODINO"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRPT080_GROMOBOY"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRPT081_BOYKIY"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRSB502"
+msgstr "Borodino '04"
+
+msgid "IDS_PRSB502_DESCR"
+msgstr ""
+"A series of ships built under an improved design based on the battleship 'Tsesarevich,' laid down in St. Petersburg in 1900–1902. The ships differed from the prototype in their more powerful power plants and heavier turrets, requiring designers to increase displacement while slightly reducing armor weight. The battleships took part in the voyage of the Second Pacific Squadron to the Far East and in the Battle of Tsushima.\n"
+"\n"
+"Borodino was laid down at the New Admiralty Shipyards in May 1900, launched in September 1901, and commissioned in September 1904. Under the command of Captain 1st Rank P. Serebrennikov, the battleship made the voyage from Kronstadt to the Sea of Japan. During the Battle of Tsushima, the ship suffered heavy damage and sank."
+
+msgid "IDS_PRSB502_FULL"
+msgstr "Borodino '04"
+
+msgid "IDS_PRSB502_NUMBER"
+msgstr "5"
+
+msgid "IDS_PRSB502_YEAR"
+msgstr "1904"
+
+msgid "IDS_PRSB548"
+msgstr "Frunze"
+
+msgid "IDS_PRSB548_DESCR"
+msgstr ""
+"The battleship 'Poltava' was severely damaged by fire in November 1919: the wiring was completely destroyed, and the boilers and power stations were damaged. With extremely limited funding, the decision was made to disarm and mothball the ship. In 1926, the battleship was renamed 'Frunze.' That same year, the ship's restoration was included in the Red Army's naval construction program.\n"
+"\n"
+"Restoration projects were developed in 1928 and 1930. In 1931, a proposal was made to convert 'Frunze' into a three-turret battlecruiser using the original turrets. The following year, the Shipbuilding Directorate placed an order for the development of a preliminary design, and in 1933, the Baltic Shipyard Design Bureau prepared two variants, differing in smokestack configuration and anti-aircraft artillery layout. The battleship's modernization was included in the naval construction program for 1933–38. However, in the following year, the modernization was postponed and later canceled."
+
+msgid "IDS_PRSB548_FULL"
+msgstr "Frunze"
+
+msgid "IDS_PRSB548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB548_YEAR"
+msgstr "1933"
+
+msgid "IDS_PRSC512"
+msgstr "Gromoboy"
+
+msgid "IDS_PRSC512_DESCR"
+msgstr ""
+"Gromoboy was a further development of the armored cruisers—commerce raiders 'Rurik' and 'Rossiya,' featuring a completely new power plant with three identical triple-expansion steam engines and improved armor.\n"
+"\n"
+"The cruiser was laid down at the Baltic Shipyard in May 1898, launched a year later, and commissioned in November 1899. Immediately after acceptance trials, the ship was transferred to the Far East, where it joined the Pacific Squadron.\n"
+"\n"
+"During the Russo-Japanese War, Gromoboy was part of the Vladivostok Cruiser Squadron. It took part in the Battle of the Korea Strait in August 1904. In October 1904, the ship was damaged in Posyet Bay. After repairs were completed in May 1905, it struck a mine and remained under repair until the end of the war. In 1906, the cruiser returned to the Baltic. It participated in World War I and remained in Kronstadt from the end of 1917."
+
+msgid "IDS_PRSC512_FULL"
+msgstr "Gromoboy"
+
+msgid "IDS_PRSC512_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC512_YEAR"
+msgstr "1899"
+
+msgid "IDS_PRSC526"
+msgstr "Molotov B"
+
+msgid "IDS_PRSC526_DESCR"
+msgstr "The new Project 26-bis cruiser, launched in 1937, featured a modified superstructure, improved armor, and a new fire control system. The cruiser 'Molotov' was commissioned in June 1941. During the Great Patriotic War, it defended against air attacks on Sevastopol, participated in the Kerch Landing Operation, and helped defend Sevastopol. After being hit by a German torpedo in 1942, 'Molotov' was repaired in Poti and later transferred to the Black Sea Fleet."
+
+msgid "IDS_PRSC526_FULL"
+msgstr "Molotov B"
+
+msgid "IDS_PRSC526_NUMBER"
+msgstr "4"
+
+msgid "IDS_PRSC526_YEAR"
+msgstr "1941"
+
+msgid "IDS_PRSD502"
+msgstr "Boykiy"
+
+msgid "IDS_PRSD502_DESCR"
+msgstr ""
+"The 350-ton torpedo boat project of the 'Buyny' class was ordered from the British firm Yarrow in 1897. The design was based on the series of torpedo boats of the 'Ikazuchi' type built for Japan. The ships were built in St. Petersburg in 1901–1902.\n"
+"\n"
+"Boykiy was the lead ship in a series of ten torpedo boats, laid down in June 1901 and launched in August of the same year. It took part in the Russo-Japanese War, engaging in battles with torpedo boats and fighting in the Battle of the Yellow Sea. In December 1904, before the surrender of Port Arthur, it broke through to Chefoo, where it was interned. The ship was part of the Siberian Flotilla and underwent modernization between the wars.\n"
+"\n"
+"From 1914 to 1922, it was in storage in Vladivostok. During the occupation of Vladivostok by Allied forces, the ship was captured by French forces and renamed 'Quentin Roosevelt.' After the departure of the interventionist forces, the cruiser was not reactivated."
+
+msgid "IDS_PRSD502_FULL"
+msgstr "Boykiy"
+
+msgid "IDS_PRSD502_NUMBER"
+msgstr "10"
+
+msgid "IDS_PRSD502_YEAR"
+msgstr "1902"
+
+msgid "IDS_PRSS518"
+msgstr "S-189 B"
+
+msgid "IDS_PRSS518_DESCR"
+msgstr "The Project 613 submarine was the most mass-produced series of submarines in the Soviet Navy, built based on the experience of World War II. It had the ability to operate submerged for extended periods."
+
+msgid "IDS_PRSS518_FULL"
+msgstr "S-189 B"
+
+msgid "IDS_PRSS518_NUMBER"
+msgstr "236"
+
+msgid "IDS_PRSS518_YEAR"
+msgstr "1955"
+
+msgid "IDS_PRUA102_ART_BORODINO"
+msgstr "305 mm/40 Model 1895 in turret mount"
+
+msgid "IDS_PRUA103_ART_GROMOBOY"
+msgstr "203 mm/45 Model 1892 in single mount"
+
+msgid "IDS_PRUA104_ART_BOYKIY"
+msgstr "75 mm/50 Model 1892 on Meller mount"
+
+msgid "IDS_PRUA506_ART_BLACK_MOLOTOV"
+msgstr "180 mm/57 Model 1932 in MK-3-180 mount"
+
+msgid "IDS_PRUA714_ART_FRUNZE"
+msgstr "305 mm/52 Model 1907 in MK-3-12 mount"
+
+msgid "IDS_PRUE102_ENG_BORODINO"
+msgstr "Propulsion: 16,300 hp"
+
+msgid "IDS_PRUE103_ENG_GROMOBOY"
+msgstr "Propulsion: 14,500 hp"
+
+msgid "IDS_PRUE104_ENG_BOYKIY"
+msgstr "Propulsion: 5,700 hp"
+
+msgid "IDS_PRUE508_ENG_BLACK_MOLOTOV"
+msgstr "Propulsion: 110,000 hp"
+
+msgid "IDS_PRUE720_ENG_BLACK_S_189"
+msgstr "Propulsion: 4,000 hp"
+
+msgid "IDS_PRUE722_ENG_FRUNZE"
+msgstr "Propulsion: 130,000 hp"
+
+msgid "IDS_PRUH102_HULL_BORODINO"
+msgstr "Borodino"
+
+msgid "IDS_PRUH103_HULL_GROMOBOY"
+msgstr "Gromoboy"
+
+msgid "IDS_PRUH104_HULL_BOYKIY"
+msgstr "Boykiy"
+
+msgid "IDS_PRUH515_HULL_BLACK_MOLOTOV"
+msgstr "Molotov B"
+
+msgid "IDS_PRUH729_HULL_BLACK_S_189"
+msgstr "S-189 B"
+
+msgid "IDS_PRUH730_HULL_FRUNZE"
+msgstr "Frunze"
+
+msgid "IDS_PRUQ704_SONAR_BLACK_S_189"
+msgstr "GAP 8"
+
+msgid "IDS_PRUS102_SUO_BORODINO"
+msgstr "SUO II"
+
+msgid "IDS_PRUS103_SUO_GROMOBOY"
+msgstr "SUO II"
+
+msgid "IDS_PRUS104_SUO_BOYKIY"
+msgstr "SUO II"
+
+msgid "IDS_PRUS507_SUO_BLACK_MOLOTOV"
+msgstr "SUO VI"
+
+msgid "IDS_PRUS709_SUO_FRUNZE"
+msgstr "SUO VIII"
+
+msgid "IDS_PRUT103_TORP_BORODINO"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRUT104_TORP_GROMOBOY"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRUT105_TORP_BOYKIY"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRUT503_TORP_BLACK_MOLOTOV"
+msgstr "53-38"
+
+msgid "IDS_PRUT709_TORP_BLACK_S_189"
+msgstr "533 mm"
+
+msgid "IDS_PRUT710_TORP_FRUNZE"
+msgstr "533 mm"
+
+msgid "IDS_PWES507_BLACK_BLYSKAWICA"
+msgstr "Special"
+
+msgid "IDS_PWSD517"
+msgstr "Błyskawica B"
+
+msgid "IDS_PWSD517_DESCR"
+msgstr "According to the plans of Operation 'Peking,' ORP Błyskawica, along with its sister ship ORP Grom, broke through to Great Britain in September 1939, where it underwent modernization to operate in the North Atlantic. In 1940, the ship took part in the Norwegian campaign and the Dunkirk evacuation. The destroyer participated in convoy and patrol operations in the Atlantic, escorting troop transports. In 1944, Błyskawica fought against German destroyers in the Battle of Ushant, covering the landing troops in Normandy. After being handed over to the new Polish government, the destroyer was modernized, with its main and anti-aircraft guns replaced by Soviet-made weapons. In May 1976, Błyskawica became a museum ship in Gdynia."
+
+msgid "IDS_PWSD517_FULL"
+msgstr "Błyskawica B"
+
+msgid "IDS_PWSD517_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSD517_YEAR"
+msgstr "1937"
+
+msgid "IDS_PWUA605_ART_BLACK_BLYSKAWICA"
+msgstr "120 mm/50 wz.36 Bofors in shielded mount"
+
+msgid "IDS_PWUE605_ENG_BLACK_BLYSKAWICA"
+msgstr "Propulsion: 54,000 hp"
+
+msgid "IDS_PWUH607_HULL_BLACK_BLYSKAWICA"
+msgstr "Błyskawica B"
+
+msgid "IDS_PWUS607_SUO_BLACK_BLYSKAWICA"
+msgstr "SKO Mod. 7"
+
+msgid "IDS_PWUT606_TORP_BLACK_BLYSKAWICA"
+msgstr "Mark 10"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_TITLE_FULL"
+msgstr "Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Special or Premium Ship VI–X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VI–X tier"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE"
+msgstr "Black Friday 2024 Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE_SHORT"
+msgstr "Black Friday 2024"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_TITLE_FULL"
+msgstr "Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Dazzling Tier X Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Special or Premium Ship VI–X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VI–X tier"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_TITLE"
+msgstr "Black Friday 2024 Premium Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_TITLE_SHORT"
+msgstr "Black Friday 2024"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_HIT_SEGMENT"
+msgstr "Hit the enemy ship's armor with main battery, secondary battery, or torpedoes."
+
+msgid "IDS_RIBBON_RIBBON_HIT_SEGMENT"
+msgstr "Armor Hit"
+
+msgid "IDS_RIBBON_SUBRIBBON_DAMAGED_SEGMENT"
+msgstr "Armor Damaged"
+
+msgid "IDS_RIBBON_SUBRIBBON_DESTROYED_SEGMENT"
+msgstr "Armor Destroyed"
+
+msgid "IDS_SCENARIO_DE_FIGHTER_RESPAWN"
+msgstr "Dreadnought Era - Standard"
+
+msgid "IDS_SCENARIO_DE_FIGHTER_RESPAWN_DOMINATION"
+msgstr "Dreadnought Era - Domination"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM147_CRUISERBUFF_DE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM148_DESTROYERBUFF_DE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM149_BATTLESHIPBUFF_DE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM147_CRUISERBUFF_DE"
+msgstr "Weaponry Enhancement"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM148_DESTROYERBUFF_DE"
+msgstr "Weaponry Enhancement"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM149_BATTLESHIPBUFF_DE"
+msgstr "Weaponry Enhancement"
+
+msgid "IDS_SHIP_MODIFIER_PXOM147_CRUISERBUFF_DE_APPLIED"
+msgstr "Weaponry Enhancement Applied"
+
+msgid "IDS_SHIP_MODIFIER_PXOM148_DESTROYERBUFF_DE_APPLIED"
+msgstr "Weaponry Enhancement Applied"
+
+msgid "IDS_SHIP_MODIFIER_PXOM149_BATTLESHIPBUFF_DE_APPLIED"
+msgstr "Weaponry Enhancement Applied"
+
+msgid "IDS_SHOW_HELP_INSTRUCTION"
+msgstr "Press [CMD_HELP] to access the battle help screen"
+
+msgid "IDS_SHOW_HELP_TUTORIAL_HINT"
+msgstr "Press to access the help screen"
+
+msgid "IDS_SHOW_NICKNAME_IN_EARS"
+msgstr "Player names in team compositions"
+
+msgid "IDS_SHOW_NICKNAME_IN_EARS_DESCRIPTION"
+msgstr "Display player names in the team composition columns."
+
+msgid "IDS_SKIP_PRESENTATION_HINT"
+msgstr "Press [ESC] to skip"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_ARCHIPELAGO"
+msgstr "Sakhalin 1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_ARCHIPELAGO_DESCR"
+msgstr "Sakhalin 1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_KAMCHATKA"
+msgstr "Kamchatka 1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_KAMCHATKA_DESCR"
+msgstr "Kamchatka 1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NEIGHBORS"
+msgstr "Maritime Border"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NEIGHBORS_DESCR"
+msgstr "Maritime Border"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NE_PASSAGE"
+msgstr "Southern Strait"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NE_PASSAGE_DESCR"
+msgstr "Southern Strait"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_OC_ISLANDS"
+msgstr "Distant Archipelago"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_OC_ISLANDS_DESCR"
+msgstr "Distant Archipelago"
+
+msgid "IDS_SSE_MOTIVATOR_BP_DAILY_TASKS_COMPLETED"
+msgstr "Daily Challenge Completed"
+
+msgid "IDS_SSE_MOTIVATOR_BP_WEEKLY_TASKS_COMPLETED"
+msgstr "Weekly Challenge Completed"
+
+msgid "IDS_SSE_MOTIVATOR_TASKS_COMPLETED"
+msgstr "Current challenges completed"
+
+msgid "IDS_SSE_MOTIVATOR_TASK_COMMON_TITLE"
+msgstr "Priority Task"
+
+msgid "IDS_SSE_MOTIVATOR_TASK_COMMON_TITLE_COLON"
+msgstr "Priority Task:"
+
+msgid "IDS_SUBST_SSE_MOTIVATOR_RESET_IN"
+msgstr "Resets in %(timeLeft)s"
+
+msgid "IDS_SWAP_SPAWN"
+msgstr "SWAP SIDES"
+
+msgid "IDS_SWAP_SPAWN_TOOLTIP"
+msgstr "Change the starting positions of the teams"
+
+msgid "IDS_SWAP_SPAWN_WAITING"
+msgstr "Waiting for the swap of starting positions"
+
+msgid "IDS_TITLE_PCM102_T11_DD_CA_BB_SUPGRADE_MOD_I"
+msgstr "High-Efficiency Ammunition"
+
+msgid "IDS_TITLE_PCM103_T11_DD_CA_BB_SUPGRADE_MOD_II"
+msgstr "Close-Quarters Combat Defense System"
+
+msgid "IDS_TITLE_PCM104_T11_DD_CA_BB_SUPGRADE_MOD_III"
+msgstr "Sustainability Support System"
+
+msgid "IDS_TITLE_PCM105_T11_DD_CA_BB_SUPGRADE_MOD_IV"
+msgstr "Gun Fire Control System Modification 3"
+
+msgid "IDS_TITLE_PCM106_T11_DD_CA_BB_SUPGRADE_MOD_V"
+msgstr "Enhanced AA Defense System"
+
+msgid "IDS_TITLE_PCM107_T11_CV_SUPGRADE_MOD_I"
+msgstr "Air Combat Control System"
+
+msgid "IDS_TITLE_PCM108_T11_CV_SUPGRADE_MOD_II"
+msgstr "Aerial Ordnance Guidance System"
+
+msgid "IDS_TITLE_PCM109_T11_CV_SUPGRADE_MOD_III"
+msgstr "Advanced Flight Deck"
+
+msgid "IDS_TITLE_PCM110_T11_SS_SUPGRADE_MOD_I"
+msgstr "Submarine Combat System"
+
+msgid "IDS_TITLE_PCM111_T11_SS_SUPGRADE_MOD_II"
+msgstr "Submarine Auxiliary Equipment"
+
+msgid "IDS_TITLE_PCM112_T11_SS_SUPGRADE_MOD_III"
+msgstr "Sonar Modification 2"
+
+msgid "IDS_TITLE_PCM113_MAINGUN_MOD_I"
+msgstr "Main Battery Modification 1"
+
+msgid "IDS_TITLE_PCM114_TORPEDOMOD_MOD_0"
+msgstr "Torpedo Tubes Modification 1"
+
+msgid "IDS_TITLE_PCM115_FLIGHTCONTROL_MOD_0"
+msgstr "Flight Control Modification 1"
+
+msgid "IDS_TITLE_PCM902_T11_DD_CA_BB_SUPGRADE_MOD_I_TEST"
+msgstr "High-Efficiency Ammunition (T)"
+
+msgid "IDS_TITLE_PCM903_T11_DD_CA_BB_SUPGRADE_MOD_II_TEST"
+msgstr "Close-Quarters Combat Defense System (T)"
+
+msgid "IDS_TITLE_PCM904_T11_DD_CA_BB_SUPGRADE_MOD_III_TEST"
+msgstr "Sustainability Support System (T)"
+
+msgid "IDS_TITLE_PCM905_T11_DD_CA_BB_SUPGRADE_MOD_IV_TEST"
+msgstr "Gun Fire Control System Modification 3 (T)"
+
+msgid "IDS_TITLE_PCM906_T11_DD_CA_BB_SUPGRADE_MOD_V_TEST"
+msgstr "Enhanced AA Defense System (T)"
+
+msgid "IDS_TITLE_PCM907_T11_CV_SUPGRADE_MOD_I_TEST"
+msgstr "Air Combat Control System (T)"
+
+msgid "IDS_TITLE_PCM908_T11_CV_SUPGRADE_MOD_II_TEST"
+msgstr "Aerial Ordnance Guidance System (T)"
+
+msgid "IDS_TITLE_PCM909_T11_CV_SUPGRADE_MOD_III_TEST"
+msgstr "Advanced Flight Deck (T)"
+
+msgid "IDS_TITLE_PCM910_T11_SS_SUPGRADE_MOD_I_TEST"
+msgstr "Submarine Combat System (T)"
+
+msgid "IDS_TITLE_PCM911_T11_SS_SUPGRADE_MOD_II_TEST"
+msgstr "Submarine Auxiliary Equipment (T)"
+
+msgid "IDS_TITLE_PCM912_T11_SS_SUPGRADE_MOD_III_TEST"
+msgstr "Sonar Modification 2 (T)"
+
+msgid "IDS_TRAINING_ROOM_TEAM_NAME_WRONG_CHARACTERS"
+msgstr "Invalid character entered"
+
+msgid "IDS_UNLOCKS_3"
+msgstr "Fight against real players."
+
+msgid "IDS_UNLOCKS_3117"
+msgstr "Research and purchase new ships."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3117_0"
+msgstr "The game features ships from various nations and classes: versatile cruisers, stealthy destroyers, heavily armored battleships, and carriers equipped with swift and devastating aircraft. Choose your role in battle."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3117_1"
+msgstr "After each battle, you earn experience and credits to research and purchase ships. You can also research and purchase modules to improve your ships."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgstr "Fight against real players. Team compositions are randomly selected."
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
+msgstr ""
+"<body>Random battles are now available to you.\n"
 "<h3>Random Battles</h3></body>"
 
-msgid "IDS_UNLOCKS_LOCATION_24"
-msgstr "Available on the battle type selection screen."
+msgid "IDS_UNLOCKS_LEVEL_UP_3117"
+msgstr ""
+"<body>You can now research and upgrade ships.\n"
+"<h3>Research and Upgrade Ships</h3></body>"
 
-msgid "IDS_UNLOCKS_LOCATION_3103"
-msgstr "Battle type selection is next to the \"Battle!\" button."
+msgid "IDS_UNLOCKS_LOCATION_3"
+msgstr "The battle type selection is located next to the 'Battle!' button."
 
-msgid "IDS_UNLOCKS_TITLE_24"
-msgstr "Operations"
+msgid "IDS_UNLOCKS_LOCATION_3117"
+msgstr "New ships are available in the 'Tech Tree' tab. Upgrades are available in the 'Modules' tab."
 
-msgid "IDS_UNLOCKS_TITLE_3103"
+msgid "IDS_UNLOCKS_TITLE_3"
 msgstr "Random Battles"
+
+msgid "IDS_UNLOCKS_TITLE_3117"
+msgstr "Research and Upgrade Ships"
+
+msgid "IDS_WINNER_TEAM"
+msgstr "The team '%(_teamName)s' won"
