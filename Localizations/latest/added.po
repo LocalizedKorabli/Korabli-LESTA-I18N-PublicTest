@@ -10,52 +10,991 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_PINGER_OVERRIDE_FOR_WEB"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SMF_1STPLACE"
+msgstr "Занять 1-е место в состязании по ловле яиц."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SMF_2NDPLACE"
+msgstr "Занять 2-е место в состязании по ловле яиц."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SMF_3RDPLACE"
+msgstr "Занять 3-е место в состязании по ловле яиц."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR2025_FULL"
+msgstr "Украсить всю комнату в событии «Новогодняя гостиная»."
+
+msgid "IDS_ACHIEVEMENT_EV24SMF_1STPLACE"
+msgstr "Золотая скорлупа"
+
+msgid "IDS_ACHIEVEMENT_EV24SMF_2NDPLACE"
+msgstr "Серебряная скорлупа"
+
+msgid "IDS_ACHIEVEMENT_EV24SMF_3RDPLACE"
+msgstr "Бронзовая скорлупа"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_SMF"
+msgstr "Выполняется в «Ловля яиц»."
+
+msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR2025_FULL"
+msgstr "Новогодняя гостиная"
+
+msgid "IDS_AC_DUAL_SSC_BOW_HANG"
+msgstr "Обшивка ангара"
+
+msgid "IDS_AC_DUAL_SSC_SS_DECK"
+msgstr "Палуба"
+
+msgid "IDS_AC_DUAL_SSC_ST_HANG"
+msgstr "Обшивка ангара"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_EV24SMF"
+msgstr "Отображение камуфляжей «Ловля яиц» отключено"
+
+msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_BONUS"
+msgstr "Отфильтровать по категории «Бонусы»"
+
+msgid "IDS_CAROUSEL_PCVE028_FILTER"
+msgstr "Фильтр кораблей, подходящих для участия в «Ловля яиц»"
+
+msgid "IDS_CATCH_EGG_HINT"
+msgstr "Ловите яйца, чтобы получать очки. Золотые яйца приносят больше очков."
+
+msgid "IDS_CATCH_SHARK_HINT"
+msgstr "Акула! Вы потеряли очки, но скорость корабля повысилась."
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE028"
+msgstr "Выбрать «Ловля яиц»"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_CONSUMABLE_CALLFIGHTER"
+msgstr "%(player)s! Нужна поддержка с воздуха!"
+
+msgid "IDS_CMD_QUICK_RLS_SMALLWINDOW"
+msgstr "Использую РЛС!"
+
+msgid "IDS_CMD_QUICK_RLS_WINDOW"
+msgstr "Использую РЛС!"
+
+msgid "IDS_CMD_QUICK_SONAR_SMALLWINDOW"
+msgstr "Использую ГАП!"
+
+msgid "IDS_CMD_QUICK_SONAR_WINDOW"
+msgstr "Использую ГАП!"
+
+msgid "IDS_CMD_QUICK_SUBMARINE_LOCATOR_SMALLWINDOW"
+msgstr "Провожу подводный поиск!"
+
+msgid "IDS_CMD_QUICK_SUBMARINE_LOCATOR_WINDOW"
+msgstr "Провожу подводный поиск!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_CALLFIGHTER"
+msgstr "Прикройте союзные перехватчики!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_CALLFIGHTER_NO_OWNER"
+msgstr "Прикройте союзные перехватчики!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_CONSUMABLE_CALLFIGHTER"
+msgstr "Внимание на перехватчики противника!"
+
+msgid "IDS_CUSTOM_MAP_PCVE028"
+msgstr "Деревня Урожайная"
+
+msgid "IDS_DEMO_SHIP"
+msgstr "Тестовый корабль"
+
+msgid "IDS_DISCIPLINE_CATCHING_EGGS"
+msgstr "ЗА ЯЙЦАМИ!"
+
+msgid "IDS_DISCIPLINE_CATCHING_EGGS_DESCRIPTION"
+msgstr "Ловите яйца"
+
+msgid "IDS_DISCIPLINE_CATCHING_EGGS_FULL_DESCRIPTION"
+msgstr "Поймайте как можно больше яиц"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_DRUM_MODE"
+msgstr "Режим «Серия залпов» позволяет сделать несколько выстрелов подряд с коротким интервалом."
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_SECTOR_WAVE_SMF_WAVE_GUN"
+msgstr "Волны топят яйца и акул, а также уничтожают волны, пущенные с кораблей соперников."
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_DEEPWATER_SUBCRIT"
 msgstr ""
-"Попадание импульсом сонара по кораблю противника отмечает на нём сектор для наведения акустических торпед.\n"
+"Наносят значительный урон и могут вызвать затопление.\n"
 "\n"
-"Повторное попадание по отмеченному сектору продлевает время его действия и увеличивает манёвренность наводящихся на него торпед.\n"
+"Имеют низкую заметность, но поражают корабли только с большой осадкой."
+
+msgid "IDS_DOCK_AMMO_TITLE_SECTOR_WAVE_SMF_WAVE_GUN"
+msgstr "Волномёт"
+
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_DEEPWATER_SUBCRIT"
+msgstr "Глубоководные торпеды (ГТ)"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY509_SPEEDBOOSTER_SMF2024"
+msgstr "Увеличивает максимальную скорость корабля, уменьшает время разгона и торможения."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY510_TURNAROUND_SMF2024"
+msgstr "Моментально разворачивает ваш корабль на 180°, чтобы вы могли быстро уйти от опасности."
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY509_SPEEDBOOSTER_SMF2024"
+msgstr "Форсаж"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY510_TURNAROUND_SMF2024"
+msgstr "Разворот"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_MANEUVERABILITY_ACCURACY"
+msgstr "Оперативные манёвры уклонения"
+
+msgid "IDS_DOGTAG_PCNB451_DESCRIPTION"
+msgstr "Ярость холодным блеском играет в глазах, стальной оскал несёт смертельную угрозу, уши сосредоточенно напряжены: такой маленький, а уже настоящий хищник. И он готов к бою!"
+
+msgid "IDS_DOGTAG_PCNB451_NAME"
+msgstr "Грозный корги"
+
+msgid "IDS_DRUM_MODE_AVAILABLE"
+msgstr "Доступна серия залпов"
+
+msgid "IDS_DUAL_SSC_BOW_HANG"
+msgstr "Обшивка ангара"
+
+msgid "IDS_DUAL_SSC_ST_HANG"
+msgstr "Обшивка ангара"
+
+msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_1"
+msgstr "Стандартные"
+
+msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_2"
+msgstr "Особые"
+
+msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_3"
+msgstr "Редкие"
+
+msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_4"
+msgstr "Элитные"
+
+msgid "IDS_ENTER_BATTLE_WARNING_HEADER_EXPENDABLES_FINISHED"
+msgstr "Расходуемое имущество закончилось"
+
+msgid "IDS_ENTER_BATTLE_WARNING_HEADER_EXPENDABLES_REPLACED"
+msgstr "Установлено другое расходуемое имущество"
+
+msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_PVEBATTLE"
+msgstr "Специальные корабли не допускаются в Операции"
+
+msgid "IDS_FOLLOWING_EXPENDABLES_REPLACED_CAMOBOOST"
+msgstr "Установлены экономические бонусы другой степени редкости"
+
+msgid "IDS_FOLLOWING_EXPENDABLES_REPLACED_CAMOBOOST_FLAGS"
+msgstr "Установлены сигналы и экономические бонусы другой степени редкости"
+
+msgid "IDS_FOLLOWING_EXPENDABLES_REPLACED_FLAGS"
+msgstr "Установлены сигналы другой степени редкости"
+
+msgid "IDS_HANG"
+msgstr "Стенка ангара"
+
+msgid "IDS_HELP_TAB_EVENT_INFO"
+msgstr "ОСОБЕННОСТИ БОЯ"
+
+msgid "IDS_INSTALL_ECONOMIC_BOOSTS_RARITY_LEVEL_HINT"
+msgstr "Установить на корабль все экономические бонусы определённой степени редкости"
+
+msgid "IDS_IN_PCVE028"
+msgstr "в «Ловля яиц»"
+
+msgid "IDS_MAP_MULT_FILM"
+msgstr "Деревня Урожайная"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "Обратите внимание: некоторые задачи события учитывают только половину результата в операциях."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_HEADER"
+msgstr "Задачи"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "Для получения наград нужно выполнять задачи, которые постепенно выдаются всем участникам события. Задачи обновляются каждые 2 часа."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_TEXT_2"
+msgstr "Если результаты не успели засчитаться в конце боя, то они будут учтены в задаче следующего двухчасового периода."
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_EXPENDABLE_INSTALL"
+msgstr "Установить все"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_HEADER"
+msgstr "Ловля яиц"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "НАЧИСЛЕНИЕ ОЧКОВ"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"Золотое яйцо: +30\n"
+"Белое яйцо: +10\n"
+"Акула: -20"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "ВОЛНОМЁТ"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Волны топят яйца и акул, а также уничтожают волны, пущенные с кораблей соперников."
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_HEADER"
+msgstr "Ловля яиц"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_1_HEADER"
+msgstr "Задача"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Вам необходимо набрать как можно больше очков, ловя яйца."
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Золотые яйца приносят больше очков, чем белые. Если в вас врежется акула, вы потеряете очки."
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_2_HEADER"
+msgstr "Волномёт"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Каждый корабль оснащён волномётом."
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "С его помощью вы можете топить яйца и акул, а также уничтожать волны, пущенные с других кораблей."
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_HEADER"
+msgstr "Награды"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "За 1-е, 2-е и 3-е места выдаются памятные достижения."
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "Чем выше ваш результат, тем больше ресурсов вы получите по итогам боя."
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_HEADER"
+msgstr "Количество наград"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "50 кораблей: +1 за 350 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "100 кораблей: +2 за 400 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_3"
+msgstr "200 кораблей: +3 за 500 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_4"
+msgstr "300 кораблей: +4 за 600 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_5"
+msgstr "400 кораблей: +5 за 700 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_6"
+msgstr "500 кораблей: +6 за 800 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_7"
+msgstr "600 кораблей: +7 за 1 000 ед. опыта"
+
+msgid "IDS_MULT_FILM"
+msgstr "Деревня Урожайная — «Ловля яиц»"
+
+msgid "IDS_PARAMS_MODIFIER_PROGRESS_STAY_VISIBLE"
+msgstr "Прогресс за интервал"
+
+msgid "IDS_PARAMS_MODIFIER_SMOKEGENERATORWORKTIMECOEFF_COMBINED"
+msgstr "Время работы снаряжения"
+
+msgid "IDS_PCEE720_SOUZMULTFILM_FLAG"
+msgstr "Союзмультфильм"
+
+msgid "IDS_PCEE720_SOUZMULTFILM_FLAG_DESCRIPTION"
+msgstr "«Союзмультфильм» — советская и российская мультипликационная студия, основанная в 1936 г. Несколько поколений зрителей объединены любовью к мультфильмам студии, среди которых «Ну, погоди!», «Винни-Пух», «Трое из Простоквашино», «Крокодил Гена», «Малыш и Карлсон». За всю историю «Союзмультфильма» его работы получили более 400 международных наград, а в 1970–80 гг. он считался крупнейшей анимационной студией в Европе."
+
+msgid "IDS_PCEE728_YURI_DOLGORUKIY_FLAG"
+msgstr "Юрий Долгорукий"
+
+msgid "IDS_PCEE728_YURI_DOLGORUKIY_FLAG_DESCRIPTION"
+msgstr "Юрий Долгорукий — древнерусский князь, с которым связано первое упоминание Москвы в летописях. В 1954 г. был установлен памятник Юрию Долгорукому: привстав на стременах, всадник указывает рукой на место для нового города."
+
+msgid "IDS_PCEE729_NANI_FLAG"
+msgstr "R.Smg. Giacomo Nani"
+
+msgid "IDS_PCEE729_NANI_FLAG_DESCRIPTION"
+msgstr "Джакомо Нани (1725–1797) — адмирал и государственный деятель позднего периода Венецианской республики. На родовом гербе Нани изображено круглое зеркало, разделённое на золотую и красную половины."
+
+msgid "IDS_PCVE028"
+msgstr "Ловля яиц"
+
+msgid "IDS_PCVE028_DESCRIPTION"
+msgstr "Состязания по ловле яиц."
+
+msgid "IDS_PCVE028_MATCHMAKER_DESCRIPTION"
+msgstr "Состязания по ловле яиц."
+
+msgid "IDS_PECULARITY_FILTER_EV24SMF"
+msgstr "«Ловля яиц»"
+
+msgid "IDS_PECULARITY_FILTER_EV24SMF_SET_SKIN_TOOLTIP"
+msgstr "Отображать внешний вид камуфляжей и командиров категории «Ловля яиц» в бою и в Порту"
+
+msgid "IDS_PECULARITY_FILTER_EV24SMF_TAKE_OFF_SKIN_TOOLTIP"
+msgstr "Заменить внешний вид камуфляжей и командиров категории «Ловля яиц» в бою и в Порту"
+
+msgid "IDS_PFES602_SURCOUF_CEREMONIAL"
+msgstr "Парадный"
+
+msgid "IDS_PIES300_PIEMONTE_NEWYEAR"
+msgstr "Альпийский форт"
+
+msgid "IDS_PIGM118_100MM_47_OTO1931"
+msgstr "100-мм/47 Model 1931 в установке OTO 1932"
+
+msgid "IDS_PIGT000_INVISIBLE_TA"
+msgstr "533-мм"
+
+msgid "IDS_PIPA091_100MM_CS_NANI"
+msgstr "100-мм proiettili CS"
+
+msgid "IDS_PIPT024_NANI_SUB"
+msgstr "533-мм Si 270 M2"
+
+msgid "IDS_PIPT025_NANI_MZ"
+msgstr "533-мм Si 270 M"
+
+msgid "IDS_PISS508"
+msgstr "G. Nani"
+
+msgid "IDS_PISS508_DESCR"
+msgstr ""
+"Типа Marcello являлся развитием больших подводных лодок типа Glauco, заказанных Португалией, но вошедших в состав итальянского флота из-за расторжения контракта. Проект оказался удачным — подводные лодки отличались хорошей манёвренностью, скоростью и количеством вооружения, — поэтому всего было заказано 11 кораблей этого типа. Это были однокорпусные подводные лодки с бортовыми булями. По итальянской классификации они принадлежали к «большим крейсерским» (или «океанским») подводным лодкам.\n"
 "\n"
-"Выпущенные торпеды наводятся на приоритетную цель — последний отмеченный сектор."
+"Giacomo Nani была построена на верфи CRDA в Монфальконе и вошла в состав флота в сентябре 1938 г., будучи приписанной ко 2-й эскадре подводных лодок. С началом Второй мировой войны Nani провела три безуспешных похода в Средиземном море, после чего осенью 1940 г. её перевели в Атлантику. Во время своего четвёртого похода подводная потопила шведский угольный транспорт. Giacomo Nani пропала без вести во время своего пятого похода в начале января 1941 г."
 
-msgid "IDS_RAGE_MODE_DESCRIPTION_ADJUSTMENTSHOTACTIVATOR_OVERRIDE_FOR_WEB"
-msgstr ""
-"Попадайте снарядами ГК по области нахождения корабля противника, увеличивая прогресс выполнения с каждым попаданием.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян."
+msgid "IDS_PISS508_FULL"
+msgstr "Giacomo Nani"
 
-msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS_OVERRIDE_FOR_WEB"
-msgstr ""
-"Попадайте снарядами ПМК по кораблям противника, увеличивая прогресс выполнения условия.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян."
+msgid "IDS_PISS508_NUMBER"
+msgstr "11"
 
-msgid "IDS_RAGE_MODE_DESCRIPTION_MAIN_GUN_ACCURACY_OVERRIDE_FOR_WEB"
-msgstr ""
-"Попадайте снарядами ГК по области нахождения корабля противника, увеличивая прогресс выполнения с каждым попаданием.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян."
+msgid "IDS_PISS508_YEAR"
+msgstr "1938 г."
 
-msgid "IDS_RAGE_MODE_DESCRIPTION_MAIN_GUN_HIT_OVERRIDE_FOR_WEB"
-msgstr ""
-"Попадайте снарядами ГК по кораблям противника, увеличивая прогресс выполнения с каждым попаданием.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян."
+msgid "IDS_PIUA709_ART_NANI"
+msgstr "100-мм/47 Model 1931 в установке OTO 1932"
 
-msgid "IDS_RAGE_MODE_DESCRIPTION_PLANE_RELOADING_BOOST_OVERRIDE_FOR_WEB"
-msgstr ""
-"Прогресс выполнения увеличивается по мере получения потенциального урона.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян."
+msgid "IDS_PIUE709_ENG_NANI"
+msgstr "ЭУ 3 600 л.с."
 
-msgid "IDS_RAGE_MODE_DESCRIPTION_POTENTIAL_DAMAGE_OVERRIDE_FOR_WEB"
-msgstr ""
-"Прогресс выполнения увеличивается по мере получения потенциального урона.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян."
+msgid "IDS_PIUH710_HULL_NANI"
+msgstr "Giacomo Nani"
 
-msgid "IDS_RAGE_MODE_DESCRIPTION_STAY_INVISIBLE_OVERRIDE_FOR_WEB"
-msgstr ""
-"Оставайтесь незамеченным, увеличивая прогресс выполнения с каждым интервалом.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян."
+msgid "IDS_PIUQ700_SONAR_NANI"
+msgstr "Mk8"
 
-msgid "IDS_RAGE_MODE_TRIGGER_DESCRIPTION_RIBBONACTIVATOR_OVERRIDE_FOR_WEB"
+msgid "IDS_PIUT706_TORP_NANI"
+msgstr "533-мм"
+
+msgid "IDS_PL_STRATEGIC_ACTIONS_POINTS_TILL_NEXT_REWARD"
+msgid_plural "IDS_PL_STRATEGIC_ACTIONS_POINTS_TILL_NEXT_REWARD"
+msgstr[0] "До следующей стадии: %(_pointsTillNext)s очко"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PRES334_NUPOGODI_ISTOMIN"
+msgstr "Ловля яиц"
+
+msgid "IDS_PRES419_RADIOTAPOK"
+msgstr "RADIO TAPOK"
+
+msgid "IDS_PRGA216_76MM_59_AK_726"
+msgstr "76,2-мм установка АК-726"
+
+msgid "IDS_PRGA217_30MM_64_AK_230"
+msgstr "30-мм установка АК-230"
+
+msgid "IDS_PRGM215_180MM_65_CM_50_TRIPLE"
+msgstr "180-мм/65 СМ-45 в установке СМ-50"
+
+msgid "IDS_PRPA156_180MM_HE_Y_DOLGORUKIY"
+msgstr "ОФ-32"
+
+msgid "IDS_PRPA157_180MM_AP_Y_DOLGORUKIY"
+msgstr "ББ-32"
+
+msgid "IDS_PRSC539"
+msgstr "Ю. Долгорукий"
+
+msgid "IDS_PRSC539_DESCR"
 msgstr ""
-"Попадайте снарядами ГК по кораблям противника, увеличивая прогресс выполнения с каждым попаданием.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян."
+"Крейсеры проекта 68К и 68-бис, которые достраивались в СССР в 1945 г., значительно уступали по своим показателям современным и перспективным американским крейсерам типов Worcester и Des Moines. В сентябре 1945 г. нарком ВМФ Н. Кузнецов утвердил общее техническое задание, по которому ЦКБ-17 и ЦНИИ ВК приступили к разработке крейсера с вооружением из 152-мм или 180-мм орудий, в том числе универсальных. Дальнейшее развитие задания привело к появлению эскизов КРЛ-22 и среднего крейсера проекта 66 с 220-мм артиллерией.\n"
+"\n"
+"По итогам тактической игры, проведённой весной 1954 г., указывалось, что необходимо усилить универсальную артиллерию, при этом желательным будет облегчить корпус корабля. Этого возможно было добиться, заменив 220-мм неуниверсальные орудия на 180-мм универсальные. 130-мм артиллерия в таком случае была бы заменена на универсальные орудия меньшего калибра."
+
+msgid "IDS_PRSC539_FULL"
+msgstr "Юрий Долгорукий"
+
+msgid "IDS_PRSC539_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC539_YEAR"
+msgstr "1954 г."
+
+msgid "IDS_PRUA814_ART_YURI_DOLGORUKIY"
+msgstr "180-мм/65 СМ-45 в установке СМ-50"
+
+msgid "IDS_PRUE819_ENG_YURI_DOLGORUKIY"
+msgstr "ЭУ 210 000 л.с."
+
+msgid "IDS_PRUH827_HULL_YURI_DOLGORUKIY"
+msgstr "Юрий Долгорукий"
+
+msgid "IDS_PRUS826_SUO_YURI_DOLGORUKIY"
+msgstr "СУО IX"
+
+msgid "IDS_PXSC103"
+msgstr "Шустрый"
+
+msgid "IDS_PXSC103_DESCR"
+msgstr "Прославленный корабль, отметившийся долгой и блистательной службой. Говорят, на нём когда-то начинал свою морскую карьеру капитан Морж! У крейсера есть один волномёт, который пускает широкие и медленные волны. Корабль также оснащён «Форсажем» с большим временем действия."
+
+msgid "IDS_PXSC103_FULL"
+msgstr "Шустрый"
+
+msgid "IDS_PXSC103_NUMBER"
+msgstr "22"
+
+msgid "IDS_PXSC103_YEAR"
+msgstr "1969 г."
+
+msgid "IDS_PXSC104"
+msgstr "Неожиданный"
+
+msgid "IDS_PXSC104_DESCR"
+msgstr "Новейшая разработка, на которую возлагаются большие надежды: первый корабль в стране, целиком и полностью предназначенный для нужд сельского хозяйства. Крейсер оснащён двумя скорострельными волномётами, пускающими узкие и быстрые волны. Снаряжение «Форсаж» значительно увеличивает скорость корабля, но действует недолго."
+
+msgid "IDS_PXSC104_FULL"
+msgstr "Неожиданный"
+
+msgid "IDS_PXSC104_NUMBER"
+msgstr "22"
+
+msgid "IDS_PXSC104_YEAR"
+msgstr "1969 г."
+
+msgid "IDS_PXSC105"
+msgstr "Изворотливый"
+
+msgid "IDS_PXSC105_DESCR"
+msgstr "Разработка этого проекта долгое время держалась в строгой секретности. Лучшие умы Дома юного техника трудились над снаряжением, благодаря которому корабль может мгновенно развернуться на 180 градусов и стремительно уйти вдаль. Крейсер оснащён двумя волномётами с медленной перезарядкой."
+
+msgid "IDS_PXSC105_FULL"
+msgstr "Изворотливый"
+
+msgid "IDS_PXSC105_NUMBER"
+msgstr "22"
+
+msgid "IDS_PXSC105_YEAR"
+msgstr "1969 г."
+
+msgid "IDS_PXSD026"
+msgstr "Gearing"
+
+msgid "IDS_PXSD026_DESCR"
+msgstr "Прожорливый корабль-удильщик, готовый забрать всё, что помещается в его зубастый трюм."
+
+msgid "IDS_PXSD026_FULL"
+msgstr "Gearing"
+
+msgid "IDS_PXSD026_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSD026_YEAR"
+msgstr "2024 г."
+
+msgid "IDS_PXUE956_ENG_TEST"
+msgstr " "
+
+msgid "IDS_PXUE957_ENG_TEST"
+msgstr " "
+
+msgid "IDS_PXUE958_ENG_TEST"
+msgstr " "
+
+msgid "IDS_PXUE959_GEARING_H19_ENG"
+msgstr "GRN-272"
+
+msgid "IDS_PXUH956_TEST"
+msgstr "Test Ship"
+
+msgid "IDS_PXUH957_TEST"
+msgstr "Test Ship"
+
+msgid "IDS_PXUH958_TEST"
+msgstr "Test Ship"
+
+msgid "IDS_PXUH959_GEARING_H19_HULL"
+msgstr "Lancet"
+
+msgid "IDS_PXUM194_FRANCE_H2020_A_TEST"
+msgstr "Test Ship"
+
+msgid "IDS_PXUM195_FRANCE_H2020_A_TEST"
+msgstr "Test Ship"
+
+msgid "IDS_PXUM196_FRANCE_H2020_A_TEST"
+msgstr "Test Ship"
+
+msgid "IDS_PXUS936_SUO_TEST"
+msgstr "Iamassist"
+
+msgid "IDS_PXUS937_SUO_TEST"
+msgstr "Iamassist"
+
+msgid "IDS_PXUS938_SUO_TEST"
+msgstr "Iamassist"
+
+msgid "IDS_PXUS939_GEARING_H19_SUO"
+msgstr "Eagle eye"
+
+msgid "IDS_PXUT925_GEARING_H19_TORP"
+msgstr "Claw 533"
+
+msgid "IDS_PZAB518_XIAN_DENG_STOCK"
+msgstr "Ta 152C-1/R14"
+
+msgid "IDS_PZAD518_XIAN_DENG_STOCK"
+msgstr "Ta 152C-1/R14"
+
+msgid "IDS_PZAD519_XIAN_DENG_TACT"
+msgstr "Bf 110C"
+
+msgid "IDS_PZAF518_XIAN_DENG_STOCK"
+msgstr "F8F Bearcat"
+
+msgid "IDS_PZPA090_234MM_HE_DOU_JIAN"
+msgstr "234-мм HE 6 CRH"
+
+msgid "IDS_PZPA091_234MM_AP_DOU_JIAN"
+msgstr "234-мм AP 6 CRH"
+
+msgid "IDS_PZPA092_105MM_HE_XIAN_DENG"
+msgstr "105-мм Spr.Gr. Kz."
+
+msgid "IDS_PZPA093_150MM_HE_XIAN_DENG"
+msgstr "150-мм Spr.Gr. L/4.5"
+
+msgid "IDS_PZPB518_XIAN_DENG_STOCK"
+msgstr "SC 1000"
+
+msgid "IDS_PZPR518_XIAN_DENG_STOCK"
+msgstr "Wfr.Gr.21E"
+
+msgid "IDS_PZPT058_DOU_JIAN"
+msgstr "533-мм Mk IXM"
+
+msgid "IDS_PZPT518_XIAN_DENG_STOCK"
+msgstr "LT F5b"
+
+msgid "IDS_PZSA518"
+msgstr "Xian Deng"
+
+msgid "IDS_PZSA518_DESCR"
+msgstr "Корабль для тестирования."
+
+msgid "IDS_PZSA518_FULL"
+msgstr "Xian Deng"
+
+msgid "IDS_PZSA518_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSA518_YEAR"
+msgstr "1946 г."
+
+msgid "IDS_PZSC528"
+msgstr "Dou Jian"
+
+msgid "IDS_PZSC528_DESCR"
+msgstr "Корабль для тестирования."
+
+msgid "IDS_PZSC528_FULL"
+msgstr "Dou Jian"
+
+msgid "IDS_PZSC528_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSC528_YEAR"
+msgstr "1945 г."
+
+msgid "IDS_PZUA711_ART_DOU_JIAN"
+msgstr "234-мм/50 Mk.XII в башенной установке"
+
+msgid "IDS_PZUB702_TB_XIAN_DENG"
+msgstr "Ta 152C-1/R14"
+
+msgid "IDS_PZUD702_DB_XIAN_DENG"
+msgstr "Ta 152C-1/R14"
+
+msgid "IDS_PZUE713_ENG_XIAN_DENG"
+msgstr "ЭУ 200 000 л.с."
+
+msgid "IDS_PZUE714_ENG_DOU_JIAN"
+msgstr "ЭУ 110 000 л.с."
+
+msgid "IDS_PZUF702_FC_XIAN_DENG"
+msgstr "Mk8 mod. 1"
+
+msgid "IDS_PZUH715_HULL_XIAN_DENG"
+msgstr "Xian Deng"
+
+msgid "IDS_PZUH716_HULL_DOU_JIAN"
+msgstr "Dou Jian"
+
+msgid "IDS_PZUS713_SUO_DOU_JIAN"
+msgstr "Mk VIII"
+
+msgid "IDS_PZUT714_TORP_DOU_JIAN"
+msgstr "533-мм Mk IXM"
+
+msgid "IDS_RADIOTAPOK"
+msgstr "Олег Абрамов"
+
+msgid "IDS_RAGE_MODE_AVAILABLE"
+msgstr "Доступна боевая инструкция"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_MANEUVERABILITY"
+msgstr ""
+"Прогресс выполнения увеличивается, пока ваш корабль обнаружен противником.\n"
+"Будучи незамеченным, вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян. Для активации боевых инструкций нажмите [CMD_ACTIVATE_RAGE_MODE]."
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_MANEUVERABILITY_OVERRIDE_FOR_WEB"
+msgstr ""
+"Прогресс выполнения увеличивается, пока ваш корабль обнаружен противником.\n"
+"Будучи незамеченным, вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян."
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль X уровня или редкий корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X или редкий"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль VIII–IX уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VIII–IX уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Корабль V–VII уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "V–VII уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE"
+msgstr "Контейнер «Подарок от Снегурочки»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE_SHORT"
+msgstr "Подарок от Снегурочки"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль X уровня или редкий корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X или редкий"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль VIII–IX уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VIII–IX уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Корабль V–VII уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "V–VII уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE"
+msgstr "Премиум контейнер «Подарок от Деда Мороза»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE_SHORT"
+msgstr "Подарок от Деда Мороза"
+
+msgid "IDS_REWARD_SHIPCREWFREEXPCOEFF_TITLE"
+msgstr "Новогодний бонус к опыту"
+
+msgid "IDS_RIBBON_SSE_DBOMB_FULL_DAMAGE"
+msgstr "Прямое попадание глубинной бомбой"
+
+msgid "IDS_RIBBON_SSE_DBOMB_PARTIAL_DAMAGE"
+msgstr "Взрыв глубинной бомбы вблизи цели"
+
+msgid "IDS_SCENARIO_MULT_FILM"
+msgstr "Ловля яиц"
+
+msgid "IDS_SET_SIGNALS_RARITY_LEVEL"
+msgstr "Установить все"
+
+msgid "IDS_SHIP_BONUS"
+msgstr "Бонусы"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM165_SMF_ENGINE_BUFF"
+msgstr "Скорость корабля повышена, пока вы не на первом месте."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM169_SMF_ENGINE_DEBUFF"
+msgstr "Скорость корабля снижена из-за большого количества яиц на борту."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM165_SMF_ENGINE_BUFF"
+msgstr "Помощь отстающим"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM169_SMF_ENGINE_DEBUFF"
+msgstr "Полная корзина"
+
+msgid "IDS_SHIP_MODIFIER_PXOM165_SMF_ENGINE_BUFF_APPLIED"
+msgstr "Помощь отстающим"
+
+msgid "IDS_SHIP_MODIFIER_PXOM169_SMF_ENGINE_DEBUFF_APPLIED"
+msgstr "Полная корзина"
+
+msgid "IDS_SHIP_PARAM_WAVES"
+msgstr "Волномёт"
+
+msgid "IDS_SHIP_PARAM_WAVE_GUN_SECTOR_WIDTH"
+msgstr "Ширина волны"
+
+msgid "IDS_SHIP_PARAM_WAVE_GUN_SHOT_DELAY"
+msgstr "Время перезарядки"
+
+msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_1"
+msgstr "Стандартные"
+
+msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_2"
+msgstr "Особые"
+
+msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_3"
+msgstr "Редкие"
+
+msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_4"
+msgstr "Элитные"
+
+msgid "IDS_SIGNALS_RARITY_LEVEL_HINT"
+msgstr "Установить все сигналы одной степени редкости"
+
+msgid "IDS_SMF_HARE"
+msgstr "Заяц"
+
+msgid "IDS_SMF_MODERN_HARE"
+msgstr "Заяц '21"
+
+msgid "IDS_SMF_MODERN_WOLF"
+msgstr "Волк '21"
+
+msgid "IDS_SMF_WOLF"
+msgstr "Волк"
+
+msgid "IDS_SOUND_MOD_RADIOTAPOK"
+msgstr "Олег Абрамов"
+
+msgid "IDS_SPACES/AS03_NEWYEAR_2025"
+msgstr "Новогодняя гостиная"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_BURN_FULL"
+msgstr "Получите как можно больше лент «Поджёг»"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_FLOOD_FULL"
+msgstr "Получите как можно больше лент «Затопил»"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_FRAG_FULL"
+msgstr "Получите как можно больше лент «Уничтожил»"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_MAIN_CALIBER_FULL"
+msgstr "Получите как можно больше лент «Попал»"
+
+msgid "IDS_STRATEGIC_ACTIONS_NOTIFICATION_BONUS_STATUS"
+msgstr "Действует во время проведения события «Новогодняя гостиная» в обновлении 13.11"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_REWARDS"
+msgstr "Собрано наград"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_SUBTITLE"
+msgstr "Событие завершено. Теперь вы можете увидеть сводку своих результатов."
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_STATUS_DONE"
+msgstr "Уголок украшен"
+
+msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_BONUS"
+msgstr "Получены бонусы"
+
+msgid "IDS_TASK_UPPER"
+msgstr "ЗАДАЧА"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHAIR"
+msgstr "Готовится к Новому году"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE"
+msgstr "Готовится к Новому году"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TREE"
+msgstr "Готовится к Новому году"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TV"
+msgstr "Готовится к Новому году"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_WINDOW"
+msgstr "Готовится к Новому году"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CHAIR_0"
+msgstr "Кресло, в котором дедушка любил читать книги. Сядет, поставит чаёк на стол, и всё — пропал в переплетениях детективных историй. А на Новый год это место всегда приобретало особенный лоск."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CHAIR_1"
+msgstr "Мандарины на столе делают своё дело. Дедушка доволен, а читать ему что-то расхотелось. Что бы ещё украсить? Для ребёнка всё, что выше него, — ёлка, а ёлку нужно украшать!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CHAIR_2"
+msgstr "Украшено всё, до чего можно дотянуться! А за стол нужно обязательно садиться в самой красивой и нарядной одежде. На время кресло превращается в гардероб..."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CHAIR_3"
+msgstr "Не на каждый праздник одеваются так, как на Новый год. Только самое лучшее! Теперь, когда мы такие нарядные, можно идти к ёлке!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_0"
+msgstr "Та самая гостиная! Стол, тумба под телевизор, дедушкино кресло, царица-ёлка! Так, стоп... А где гирлянда? Где звезда? Непорядок! Давайте вместе вдохнём новогоднее настроение в эту комнату!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_1"
+msgstr "Всё ближе бой курантов, тосты и тёплые слова! И, конечно, мы загадаем желания. Я с самого детства прошу одного: пусть всё будет хорошо и все будут счастливы. С Новым годом!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_0"
+msgstr "Стол — основа любого праздника, особенно Нового года! Роскошный, легендарный стол-книжка! Он весь год ждал своего часа, а сегодня стал главным героем!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_1"
+msgstr "Накрыть новогодний стол — дело нелёгкое. Никогда до конца не знаешь, сколько тарелок понадобится... В любой момент могут прийти гости!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_2"
+msgstr "Пять тарелок на столе, десять в уме — место найдётся для всех. Блюд наготовили столько, что доедать будем всю ближайшую неделю!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_3"
+msgstr "Фраза «не трогай, это на Новый год» уже в прошлом, а впереди — шумное застолье. Ещё немного, и сядем провожать старый год!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TREE_0"
+msgstr "Ещё вчера это был пустой угол, а сегодня как по волшебству здесь появилась красивая душистая ёлочка. Время украшать!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TREE_1"
+msgstr "Коробку с игрушками бережно ставим у ёлки. Они хрупкие, стеклянные, каждая со своей историей. Наряжать ёлку — целое приключение!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TREE_2"
+msgstr "Раз, два, три, ёлочка, гори! Особое место на новогодней ёлке занимает красная звезда. Куда же без неё? Остаётся только ждать, когда Дед Мороз положит под ёлку подарки."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TREE_3"
+msgstr "Какая красота получилась! Теперь можно и Новый год встречать!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_0"
+msgstr "Одним из главных символов Нового года можно смело назвать телевизор. Подождите... А телевизора-то и нет!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_1"
+msgstr "Другое дело! Ещё немного, и с экрана нам споют. Телевизор есть, а вот тумба какая-то непраздничная... Думаю, мандарины исправят положение."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_2"
+msgstr "Готово, тумба приобрела праздничный вид. А пока родители заняты на кухне, можно запустить приставку!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_3"
+msgstr "В эту ночь можно не спать аж до трёх часов! А родители и не против: по телевизору столько всего идёт..."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_WINDOW_0"
+msgstr "В детстве я очень любил смотреть на салюты в новогоднюю ночь: так шумно становится, и светло как днём... А на окне обязательно должны быть бумажные снежинки!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_WINDOW_1"
+msgstr "Вырезал снежинки — и сразу ощущается праздник! В Новый год игрушки должны быть в каждом углу. Поставим к окошку снеговика, пусть вдохнёт зимнюю атмосферу в нашу комнату!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_WINDOW_2"
+msgstr "Сразу видно: снеговик точно на своём месте. Пусть морозный воздух наполнит всю комнату!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_WINDOW_3"
+msgstr "Вы только посмотрите! Наш снеговик узорами стекло разрисовал. Чудеса, не иначе!"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CHAIR"
+msgstr "Павел Поляков"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_TABLE"
+msgstr "Александр Харитонов"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_TREE"
+msgstr "Тимур Джабраилов"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_TV"
+msgstr "Павел Поляков"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_WINDOW"
+msgstr "Тимур Джабраилов"
+
+msgid "IDS_TERRITORY_TITLE_CHAIR"
+msgstr "Дедушкино кресло"
+
+msgid "IDS_TERRITORY_TITLE_TABLE"
+msgstr "Праздничный стол"
+
+msgid "IDS_TERRITORY_TITLE_TREE"
+msgstr "Новогодняя ёлка"
+
+msgid "IDS_TERRITORY_TITLE_TV"
+msgstr "Тумба с телевизором"
+
+msgid "IDS_TERRITORY_TITLE_WINDOW"
+msgstr "Окно во двор"
+
+msgid "IDS_TOOLTIP_WAVE_GUN_SECTOR_WIDTH"
+msgstr "Ширина волны, пускаемой волномётом."
+
+msgid "IDS_TOOLTIP_WAVE_GUN_SHOT_DELAY"
+msgstr "Время перезарядки волномёта."
+
+msgid "IDS_TOOLTIP_WAVE_GUN_WAVE_SPEED"
+msgstr "Скорость распространения волны."
+
+msgid "IDS_UNDER_INTERCEPTOR_ATTACK"
+msgstr "ПЕРЕХВАТЧИКИ"
+
+msgid "IDS_UNIQUE_SHIP"
+msgstr "Уникальный корабль"
+
+msgid "IDS_UNLOCKS_17"
+msgstr "Исследуйте и покупайте новые корабли."
+
+msgid "IDS_UNLOCKS_3103"
+msgstr "Сражайтесь против реальных игроков."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_17_0"
+msgstr "В игре представлены корабли разных наций и классов: универсальные крейсеры, незаметные эсминцы, тяжелобронированные линкоры, авианосцы, вооружённые быстрой и сокрушительной авиацией. Выберите свою роль в бою."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_17_1"
+msgstr "После каждого боя вам начисляются опыт и кредиты для исследования и покупки кораблей. Также вы можете исследовать и покупать модули для улучшения кораблей."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
+msgstr "Сражайтесь против реальных игроков. Составы команд подбираются случайным образом."
+
+msgid "IDS_UNLOCKS_LEVEL_UP_17"
+msgstr ""
+"<body>Вам стало доступно\n"
+"<h3>Исследование и улучшение кораблей</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3103"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Случайные бои</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_17"
+msgstr "Новые корабли доступны на вкладке «Развитие». Улучшения доступны на вкладке «Оснащение»."
+
+msgid "IDS_UNLOCKS_LOCATION_3103"
+msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
+
+msgid "IDS_UNLOCKS_TITLE_17"
+msgstr "Исследование и улучшение кораблей"
+
+msgid "IDS_UNLOCKS_TITLE_3103"
+msgstr "Случайные бои"
