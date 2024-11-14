@@ -1,0 +1,399 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_DAILY_STATS_TITLE"
+msgstr "Статистика команд за день"
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_DAILY_STATS_VALUE_TOOLTIP_DESCRIPTION"
+msgstr "Очки начисляются после подведения командных итогов по каждой задаче."
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_DAILY_STATS_VALUE_TOOLTIP_TITLE"
+msgstr "Очки команды за день"
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_POINTS_TEAM"
+msgstr "Прогресс команды"
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARD_TOOLTIP_STATUS_LOCKED_DESCRIPTION"
+msgstr ""
+"Чтобы разблокировать награду, ваш личный и командный прогресс должен достичь"
+" этой отметки на шкале прогресса."
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_STATUS_PREVIOUS_DAY_WINNER"
+msgstr "Победитель по результатам предыдущего дня"
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_TASK_RATINGS"
+msgstr "Рейтинг команд"
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_TASK_RATING_TOOLTIP_DESCRIPTION"
+msgstr "За место в рейтинге команд"
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_TASK_TOOLTIP_LINE_SUBHEADER_TEAM_POINTS"
+msgstr "Очки прогресса команды"
+
+msgid "IDS_ARC_EVENT_TEAM_POINTS_DETAILS_TOOLTIP_HEADER"
+msgstr "Правила начисления командных очков"
+
+msgid "IDS_CONTEXT_TUTORIAL_DREADNOUGHT_EVENT"
+msgstr "Нажмите [CMD_DE_EVENT_INFO], чтобы изучить особенности боя"
+
+msgid "IDS_ENTER_BATTLE_WARNING_HEADER_EXPENDABLES"
+msgstr "Закончилось расходуемое имущество"
+
+msgid "IDS_INSTALL_BEST_ECONOMIC_BOOSTS_HINT"
+msgstr "Установить лучшие расходуемые бонусы на этот корабль"
+
+msgid "IDS_INSTALL_BEST_SIGNALS"
+msgstr "Установить лучшие"
+
+msgid "IDS_INSTALL_BEST_SIGNALS_HINT"
+msgstr "Установить лучшие сигналы на этот корабль"
+
+msgid "IDS_MINIMAP_OPTIONS_AVIAVISIONRADIUSENABLED"
+msgstr "Зона обнаружения авиацией"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_3"
+msgstr ""
+"Результат выполнения задач учитывается в личном и командном прогрессе. Чем "
+"активнее вы выполняете задачи, тем быстрее вы получите личные награды. "
+"В свою очередь, ваша активность отражается на рейтинге команды: чем он выше,"
+" тем больше ваша команда получит очков, с помощью которых можно "
+"разблокировать командные награды. Очки прогресса команды начисляются после "
+"завершения задачи."
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_EXPENDABLE_INSTALL_BEST"
+msgstr "Установить лучшие"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_3"
+msgstr "100 кораблей: +1 награда за 400 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_4"
+msgstr "200 кораблей: +2 награды за 600 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_5"
+msgstr "300 кораблей: +3 награды за 1000 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_6"
+msgstr "400 кораблей: +4 награды за 1100 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_7"
+msgstr "500 кораблей: +5 наград за 1200 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_8"
+msgstr "600 кораблей: +6 наград за 1300 ед. опыта"
+
+msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_IN_AVIA_SPOTTING_RANGE"
+msgstr "Зона обнаружения авиацией"
+
+msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_IN_AVIA_SPOTTING_RANGE"
+msgstr ""
+"В этой области ваш корабль может быть обнаружен авиацией противника, даже "
+"если у вас отключена ПВО."
+
+msgid "IDS_SHIP_RENT_UNTIL_DAYS"
+msgid_plural "IDS_SHIP_RENT_UNTIL_DAYS"
+msgstr[0] "До конца аренды: %(_rentUntil)s день"
+
+msgid "IDS_SHIP_RENT_UNTIL_DAYS"
+msgid_plural "IDS_SHIP_RENT_UNTIL_DAYS"
+msgstr[0] "До конца аренды: %(_rentUntil)s день"
+
+msgid "IDS_SHIP_RENT_UNTIL_HOURS"
+msgid_plural "IDS_SHIP_RENT_UNTIL_HOURS"
+msgstr[0] "До конца аренды: %(_rentUntil)s час"
+
+msgid "IDS_SHIP_RENT_UNTIL_HOURS"
+msgid_plural "IDS_SHIP_RENT_UNTIL_HOURS"
+msgstr[0] "До конца аренды: %(_rentUntil)s час"
+
+msgid "IDS_SHIP_RENT_UNTIL_MINUTES"
+msgid_plural "IDS_SHIP_RENT_UNTIL_MINUTES"
+msgstr[0] "До конца аренды: %(_rentUntil)s минута"
+
+msgid "IDS_SHIP_RENT_UNTIL_MINUTES"
+msgid_plural "IDS_SHIP_RENT_UNTIL_MINUTES"
+msgstr[0] "До конца аренды: %(_rentUntil)s минута"
+
+msgid "IDS_SHIP_RENT_UNTIL_SECONDS"
+msgid_plural "IDS_SHIP_RENT_UNTIL_SECONDS"
+msgstr[0] "До конца аренды: %(_rentUntil)s секунда"
+
+msgid "IDS_SHIP_RENT_UNTIL_SECONDS"
+msgid_plural "IDS_SHIP_RENT_UNTIL_SECONDS"
+msgstr[0] "До конца аренды: %(_rentUntil)s секунда"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_COMMON_SUBTITLE"
+msgstr "Общие результаты"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_REWARDS_SUBTITLE"
+msgstr "Полученные награды"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_CASUAL"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_HARD"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_MIDDLE"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_CASUAL"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_HARD"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_MIDDLE"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_CASUAL"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_HARD"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_MIDDLE"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_START"
+msgstr "Офицер военно-морской разведки"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL"
+msgstr ""
+"Итак, мы подошли к «Новой Вестфалии». Нам докладывают о скоплении нескольких"
+" крейсерских соединений противника у этой базы."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL_COMPLETED"
+msgstr ""
+"Отличная работа, соединения противника уничтожены! На базе также были "
+"обнаружены чертежи энергетической установки линкора Pfalz."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD"
+msgstr ""
+"Выдвигаемся к базе «Новый Дюссельдорф». Похоже, что именно здесь затаился "
+"один из лидеров пиратов."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD_COMPLETED"
+msgstr ""
+"Бой был не из лёгких, но вы отлично справились с заданием! Ещё один комплект"
+" чертежей линкора Pfalz в наших руках."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE"
+msgstr ""
+"Наша следующая цель — база «Новый Бремен». Здесь должны храниться схемы "
+"бронирования линкора Pfalz."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE_COMPLETED"
+msgstr ""
+"База перешла под наш контроль! Здесь нам удалось получить важную зацепку "
+"о местонахождении остальных чертежей."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL"
+msgstr ""
+"В годы Второй мировой в Антарктике действовал немецкий военно-научный "
+"комплекс, где тайно разрабатывали линкор-рейдер Pfalz. Теперь этот комплекс "
+"захвачен пиратами, которые хотят построить Pfalz и атаковать торговые пути "
+"в Южной Атлантике. Не допустите, чтобы линкор оказался в руках разбойников!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_COMPLETED"
+msgstr ""
+"Все поставленные цели достигнуты: силы пиратов полностью уничтожены, "
+"а чертежи линкора Pfalz в надёжных руках. Командование выражает вам особую "
+"благодарность!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL"
+msgstr ""
+"Чтобы противник не смог поднять тревогу, необходимо уничтожить главную "
+"радиостанцию на базе «Новый Гамбург». Там же находятся чертежи орудий "
+"линкора Pfalz."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL_COMPLETED"
+msgstr ""
+"Отлично, нам удалось нарушить коммуникацию между островами. Теперь базы "
+"не смогут прийти друг другу на помощь."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD"
+msgstr ""
+"База «Новый Бранденбург» — это логово одного из предводителей пиратов, "
+"поэтому нас ждёт серьёзное сопротивление. Соберитесь с силами, мы выступаем!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD_COMPLETED"
+msgstr ""
+"Превосходно! Задание выполнено, наши специалисты уже изучают новые чертежи."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE"
+msgstr ""
+"Впереди «Новый Мекленбург». По последней информации, здесь базируется "
+"подводный флот пиратов."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE_COMPLETED"
+msgstr ""
+"На этой базе хранились чертежи торпедных аппаратов линкора Pfalz. "
+"Предполагается, что это девять однотрубных аппаратов, расположенных ниже "
+"ватерлинии. Линкоры с таким вооружением — большая редкость!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL"
+msgstr ""
+"Подходим к базе «Новая Саксония». Когда-то тут занимались активной "
+"разработкой боевых самолётов и средств противовоздушной обороны."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL_COMPLETED"
+msgstr ""
+"На этом острове работали специалисты одной из ведущих немецких военно-"
+"промышленных фирм: ничего удивительного, что именно здесь мы обнаружили "
+"чертежи зенитных установок линкора Pfalz!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD"
+msgstr ""
+"Это «Новый Дортмунд», один из главарей пиратов скрывается именно тут. "
+"Приготовьтесь к серьёзному отпору!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD_COMPLETED"
+msgstr ""
+"Отличная работа, чертежи линкора у нас! В них хранится информация "
+"об экипаже, модулях и о потенциальной модернизации."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE"
+msgstr ""
+"Похоже, что часть кораблей противника отошла к «Новому Кёльну». Будьте "
+"готовы к любым неприятностям."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE_COMPLETED"
+msgstr ""
+"Превосходно, нам удалось обнаружить новые чертежи линкора Pfalz! Здесь "
+"хранились данные об артиллерийских погребах и снарядах."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_START"
+msgstr ""
+"Комплекс «Новый Берлин» состоит из девяти баз, расположенных на островах. "
+"Подойти к ним непросто: акваторию охраняет патруль из нескольких кораблей. "
+"Потопите их, чтобы добраться до комплекса!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_START_COMPLETED"
+msgstr ""
+"Патруль противника успешно потоплен, путь к комплексу «Новый Берлин» открыт!"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_CASUAL"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_HARD"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_MIDDLE"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_CASUAL"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_HARD"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_MIDDLE"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_CASUAL"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_HARD"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_MIDDLE"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_START"
+msgstr "Александр Уваров"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_CASUAL"
+msgstr "Новая Вестфалия"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_HARD"
+msgstr "Новый Дюссельдорф"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_MIDDLE"
+msgstr "Новый Бремен"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_CASUAL"
+msgstr "Новый Гамбург"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_HARD"
+msgstr "Новый Бранденбург"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_MIDDLE"
+msgstr "Новый Мекленбург"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_CASUAL"
+msgstr "Новая Саксония"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_HARD"
+msgstr "Новый Дортмунд"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_MIDDLE"
+msgstr "Новый Кёльн"
+
+msgid "IDS_TERRITORY_TITLE_START"
+msgstr "Море Беллинсгаузена"
+
+msgid "IDS_TIPS_AVIA_ZONE_AIR_DEFENSE"
+msgstr "Отключение ПВО"
+
+msgid "IDS_TIPS_AVIA_ZONE_AIR_DEFENSE_DESCRIPTION"
+msgstr ""
+"Если в зону действия вашей ПВО залетит самолёт противника, то он обнаружит ваш корабль.\n"
+"\n"
+"Нажмите [CMD_SWITCH_ATBA_AIRDEFENSE], чтобы отключить ПВО и ПМК."
+
+msgid "IDS_TIPS_AVIA_ZONE_BASIC"
+msgstr "Зона обнаружения авиацией"
+
+msgid "IDS_TIPS_AVIA_ZONE_BASIC_DESCRIPTION"
+msgstr ""
+"Самолёты могут обнаружить корабль противника только в области вокруг авианосца или корабля-гибрида, с которого эти самолёты были подняты в воздух.\n"
+"\n"
+"Вдали от авианесущего корабля самолёты могут обнаружить корабль противника, только если они залетят в область действия его ПВО."
+
+msgid "IDS_UNLOCKS_3"
+msgstr "Сражайтесь против реальных игроков."
+
+msgid "IDS_UNLOCKS_3117"
+msgstr "Исследуйте и покупайте новые корабли."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3117_0"
+msgstr ""
+"В игре представлены корабли разных наций и классов: универсальные крейсеры, "
+"незаметные эсминцы, тяжелобронированные линкоры, авианосцы, вооружённые "
+"быстрой и сокрушительной авиацией. Выберите свою роль в бою."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3117_1"
+msgstr ""
+"После каждого боя вам начисляются опыт и кредиты для исследования и покупки "
+"кораблей. Также вы можете исследовать и покупать модули для улучшения "
+"кораблей."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgstr ""
+"Сражайтесь против реальных игроков. Составы команд подбираются случайным "
+"образом."
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Случайные бои</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3117"
+msgstr ""
+"<body>Вам стало доступно\n"
+"<h3>Исследование и улучшение кораблей</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_3"
+msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
+
+msgid "IDS_UNLOCKS_LOCATION_3117"
+msgstr ""
+"Новые корабли доступны на вкладке «Развитие». Улучшения доступны на вкладке "
+"«Оснащение»."
+
+msgid "IDS_UNLOCKS_TITLE_3"
+msgstr "Случайные бои"
+
+msgid "IDS_UNLOCKS_TITLE_3117"
+msgstr "Исследование и улучшение кораблей"

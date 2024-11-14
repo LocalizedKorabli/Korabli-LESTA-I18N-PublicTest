@@ -10,312 +10,61 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_ARC_EVENT_CHANGE_SIDE_IN_NEXT_SPRINT"
-msgstr ""
-"Team change will be available\n"
-"in the next stage."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR2025_FULL"
+msgstr "Decorate the entire room in the 'New Year at Home' event."
 
-msgid "IDS_ARC_EVENT_FINAL_STAT_TYPE_REWARDS"
-msgstr "Rewards Collected"
-
-msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARDS_LINK_TEXT"
-msgstr "Rewards for Tokens"
-
-msgid "IDS_ARC_EVENT_MAIN_SCREEN_TASK_TOOLTIP_LINE_SUBHEADER_PERSONAL_POINTS"
-msgstr "Progress Points"
-
-msgid "IDS_AUTOPURCHASE_TOOLTIP_DESCRIPTION_EXPENDABLE_SIGNAL"
-msgstr "If you enter a battle with your last standard signals, they will be automatically purchased."
-
-msgid "IDS_AUTOPURCHASE_TOOLTIP_NO_INSTALLED_PURCHASABLE_ECONOMIC_BOOSTS"
-msgstr "No bonuses installed"
-
-msgid "IDS_AUTOPURCHASE_TOOLTIP_NO_INSTALLED_PURCHASABLE_SIGNAL"
-msgstr "No signals installed"
-
-msgid "IDS_BATTLE_CHALLENGES_DESCRIPTION"
-msgstr "Score as many points as possible by catching eggs."
-
-msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "New Year's Certificates"
+msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR2025_FULL"
+msgstr "New Year at Home"
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "Awarded for battle performance on Tier X ships and super ships until the end of update 13.11."
+msgstr "As a reward for combat results on Tier X ships and super ships, for completing combat missions, for reaching Premium Battle Pass levels, and for completing the tasks of the ‘New Year at Home’ event until the end of Update 13.11."
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "For New Year's containers in the Admiralty until the end of update 13.11."
+msgstr "For the ‘Wish Wharf’ awards in the ‘That New Year's Eve’ category in the Armory, including the special supercruiser Piemonte, Tier X aircraft carrier Shinano, Tier X submarine Archerfish, Tier X cruiser Kitakami, Tier X battleship Ruggiero di Lauria, Tier X cruiser Puerto Rico, Tier IX cruiser Admiral Schröder, Tier VIII battleship Atlântico, containers and premium containers ‘New Year's Eve’, as well as other assets until the end of update 13.11."
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "Temporary resource. Certificates will expire without compensation with the release of update 25.1."
-
-msgid "IDS_ECONOMIC_BOOSTS_EXPENDABLE_AUTOPURCHASE_TOOLTIP_DESCRIPTION"
-msgstr "If you enter a battle with your last standard or special bonuses, they will be automatically purchased."
-
-msgid "IDS_EVENTS"
-msgstr "Catch the Eggs"
-
-msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_BOOSTS_PREINTSTALLING"
-msgstr "If the installed bonus runs out, it will automatically be replaced with a bonus of a lower rarity."
+msgstr "Temporary resource. With the release of update 25.1, New Year certificates will be exchanged for New Year containers at an 1:1 ratio."
 
 msgid "IDS_GO_TO_STRATEGIC_ACTIONS_MOUSE_INSTRUCTION"
-msgstr "Go to the 'New Year's Lounge' event screen"
+msgstr "Go to the 'New Year at Home' event screen"
 
 msgid "IDS_GUIDING_TIP_272_DESC"
 msgstr "Time to decorate the room for New Year: complete tasks and earn rewards!"
 
-msgid "IDS_GUIDING_TIP_273_DESC"
-msgstr "The current task changes with each battle. You can view the task list on the event screen."
+msgid "IDS_PFSB510_DESCR"
+msgstr "One project that was developed in the late 1930s in response to intel about the German Navy's development plans included the armament of three quadruple-gun turrets with 380 mm guns. Two battleships of that project were to be ordered and laid down in 1941. The program accommodated a total of four battleships. If the ship had been completed after the war, the battleships would have been equipped with the most modern AA guns of the time: American long-barreled 127 mm guns and new 57 mm ACAD mounts."
 
-msgid "IDS_GUIDING_TIP_274_DESC"
-msgstr "A reward is available: collect it and keep decorating the room!"
-
-msgid "IDS_GUIDING_TIP_274_HEADER"
-msgstr "Corner Decorated"
-
-msgid "IDS_GUIDING_TIP_276_DESC"
-msgstr "Go to the corner to see progress, current task, and rewards."
-
-msgid "IDS_GUIDING_TIP_276_HEADER"
-msgstr "Selected Corner"
-
-msgid "IDS_GUIDING_TIP_277_DESC"
-msgstr "Each corner has a task list; only one task can be completed per battle. The current task changes with each battle."
-
-msgid "IDS_GUIDING_TIP_278_DESC"
-msgstr "To decorate a corner, earn progress points by completing tasks."
-
-msgid "IDS_GUIDING_TIP_279_DESC"
-msgstr "You can collect corner rewards once it's fully decorated."
-
-msgid "IDS_GUIDING_TIP_282_DESC"
-msgstr "Click to install all signals of the same rarity. When any signal runs out, it will be automatically replaced with a signal of a lower rarity."
-
-msgid "IDS_GUIDING_TIP_30_DESC"
-msgstr "Click to install all economic bonuses of the same rarity. When any bonus runs out, it will be automatically replaced with a bonus of a lower rarity."
-
-msgid "IDS_GUIDING_TIP_95_DESC"
-msgstr "Click to install all economic bonuses of the same rarity. When any bonus runs out, it will be automatically replaced with a bonus of a lower rarity."
-
-msgid "IDS_HELP_CAPTURE_CONTROL"
-msgstr "The enemy is blocking the capture point"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "'Three Kingdoms' is a competition between 3 teams held over 4 stages, each lasting a week."
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_HEADER"
-msgstr "Rewards"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "For participating, you can earn Three Kingdoms tokens as well as unique rewards depending on the team you fought for in the given stage. When the next stage begins, you can switch teams to earn other rewards."
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "In addition, you can earn a commemorative achievement for participating in the event."
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_HEADER"
-msgstr "Participation Requirements"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "The event is available for Tier V and above ships in Co-op, Random, Ranked battles, and Operations."
-
-msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "If you earn more base XP in a battle on a ship with a reward, you can collect rewards from other ships without entering battle with them."
-
-msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "The more ships in your Port, the greater the maximum number of rewards you can collect from a single battle."
-
-msgid "IDS_PAPT059_MK_17_J_HUMP"
-msgstr "Mk17 mod. 1"
-
-msgid "IDS_PARAMS_MODIFIER_AAEXTRABUBBLES"
-msgstr "Number of Flak Explosions per Salvo"
-
-msgid "IDS_PARAMS_MODIFIER_GMALPHAFACTOR"
-msgstr "Main Battery Shell Damage"
-
-msgid "IDS_PARAMS_MODIFIER_GMDAMAGECOEFF"
-msgstr "Main Battery Shell Damage"
-
-msgid "IDS_PARAMS_MODIFIER_GMSDAMAGECOEFF"
-msgstr "Secondary Battery Shell Damage"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR"
-msgstr "Secondary Battery Shell Damage"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_AIRCARRIER"
-msgstr "Secondary Battery Shell Damage"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_BATTLESHIP"
-msgstr "Secondary Battery Shell Damage"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_CRUISER"
-msgstr "Secondary Battery Shell Damage"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_DESTROYER"
-msgstr "Secondary Battery Shell Damage"
-
-msgid "IDS_PJAD510_SHINANO_STOCK"
-msgstr "B7A Ryūsei"
-
-msgid "IDS_PJAF510_SHINANO_STOCK"
-msgstr "A7M Reppū"
-
-msgid "IDS_PJPB510_SHINANO_STOCK"
-msgstr "Type 99 No. 80 Mk. 5"
-
-msgid "IDS_PJUD907_DB_SHINANO"
-msgstr "B7A Ryūsei"
-
-msgid "IDS_RENT_STATUS_TIME_LEFT"
-msgstr "Rental ends in: %(_timeLeft)s"
-
-msgid "IDS_REWARD_CREDITSCOEFF_TITLE"
-msgstr "New Year's Credit Bonus"
-
-msgid "IDS_REWARD_EVENTUM_1_TITLE"
-msgstr "New Year's Certificates"
-
-msgid "IDS_REWARD_STRATEGIC_POINTS_TITLE"
-msgstr "Progress Points"
-
-msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
-msgstr "Surcouf Constructed"
-
-msgid "IDS_SHIP_MODIFIER_PXOM009_GMALPHA_H2020_APPLIED"
-msgstr "Main Battery, Wave Weapons, and Laser Damage Increased"
-
-msgid "IDS_SHIP_MODIFIER_PXOM022_GSALPHA_H2020_APPLIED"
-msgstr "Secondary Battery Shell Damage Increased"
-
-msgid "IDS_SHIP_PARAM_WAVE_GUN_MAX_DIST"
-msgstr "Maximum Range"
-
-msgid "IDS_SHIP_PARAM_WAVE_GUN_SPEED"
-msgstr "Wave Speed"
-
-msgid "IDS_SIGNALS_TOOLTIP_INFO_TEXT"
+msgid "IDS_PISS508_DESCR"
 msgstr ""
-"Installed signals are not consumed in Clan and Training battles.\n"
+"The Marcello class was an evolution of the Glauco class large submarines originally ordered by Portugal but incorporated into the Italian fleet after the contract was canceled. They were highly maneuverable, fast, and well-armed, with a total of 11 submarines of this class ordered. The Marcello submarines had a single-hull design with side blisters and were classified as 'large cruiser' or 'ocean-going' submarines by Italian standards.\n"
 "\n"
-"If an installed signal runs out, it will automatically be replaced with a signal of a lower rarity."
+"The Giacomo Nani was built at the CRDA shipyard in Monfalcone and joined the fleet in September 1938, assigned to the 2nd Submarine Squadron. With the start of WWII, Nani undertook three unsuccessful patrols in the Mediterranean before being transferred to the Atlantic in autumn 1940. During her fourth patrol, she sank a Swedish coal transport. Giacomo Nani was reported missing during her fifth patrol in early January 1941."
 
-msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_DAMAGE_MAIN_SHORT"
-msgstr "Main Battery Shell Damage"
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE"
+msgstr "'New Year' Container"
 
-msgid "IDS_STRATEGIC_ACTIONS_BANNER_TEXT_TERRITORY"
-msgstr "Select a Corner"
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE_SHORT"
+msgstr "New Year"
 
-msgid "IDS_STRATEGIC_ACTIONS_BUTTON_TOOLTIP_MESSAGE"
-msgstr "Read Message"
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE"
+msgstr "'New Year' Premium Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE_SHORT"
+msgstr "New Year"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_MAIN_CALIBER_FULL"
+msgstr "Earn as many 'Main battery hits' ribbons as possible"
 
 msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE"
-msgstr "New Year's Lounge"
+msgstr "New Year at Home"
 
-msgid "IDS_STRATEGIC_ACTIONS_INFO_POINTS"
-msgstr "Progress Points"
-
-msgid "IDS_STRATEGIC_ACTIONS_INFO_POINTS_TOOLTIP_TEXT"
-msgstr "To decorate a corner, earn progress points by completing tasks."
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING"
-msgstr "About the Event"
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_0"
-msgstr "Decorate each corner of the room for New Year by completing tasks."
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_1"
-msgstr "To complete a corner, you need to finish 3 progress stages."
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_2"
-msgstr "Rewards are given after decorating each corner, and a final reward is earned by decorating the whole room!"
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TITLE_1"
-msgstr "Corners"
-
-msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_TERRITORY"
-msgstr "Go to the Corner"
-
-msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TERRITORIES"
-msgstr "Corners Decorated"
-
-msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TITLE"
-msgstr "Thank You for Participating!"
-
-msgid "IDS_STRATEGIC_ACTIONS_STATUS_TASK"
-msgstr "You can continue completing tasks in other corners to earn more rewards."
-
-msgid "IDS_STRATEGIC_ACTIONS_STATUS_TERRITORY"
-msgstr "Select a corner to start completing tasks"
-
-msgid "IDS_STRATEGIC_ACTIONS_TASK"
-msgstr "Tasks"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_ACTIVE_TASK_COLON"
-msgstr "Current:"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_ACTIVE_TASK_TOOLTIP_TEXT"
-msgstr "Each corner has a list of tasks; only one task can be completed per battle. The current task changes with each battle."
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_AVAILABLE"
-msgstr "Select a Corner"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_LOCKED"
-msgstr "Need to decorate the adjacent corner"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_MARKER_TOOLTIP_STATUS_LOCKED"
-msgstr "Corner unavailable. Decorate the adjacent corner first."
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TITLE"
-msgstr "Corner Decoration Rewards"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TOOLTIP"
-msgstr "Corner Rewards"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SCORE"
-msgstr "Progress Points"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SELECTED"
-msgstr "Selected Corner"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_TASKS_LIST"
-msgstr "Corner Tasks"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_TASKS_LIST_TITLE"
-msgstr "Tasks"
-
-msgid "IDS_STRATEGIC_ACTIONS_TOOLTIP_PROGRESSBAR_TITLE"
-msgstr "Until Next Reward"
-
-msgid "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
-msgid_plural "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
-msgstr[0] "Need to decorate %(_count)s corner"
-msgstr[1] "Need to decorate %(_count)s corners"
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
-msgstr "New Year's Certificates purchased"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
-msgstr "New Year's Certificates received"
-
-msgid "IDS_SYS_MSG_RECEIVED_STRATEGIC_POINTS"
-msgstr "Progress points received"
+msgid "IDS_STRATEGIC_ACTIONS_NOTIFICATION_BONUS_STATUS"
+msgstr "Active during the 'New Year at Home' event in update 13.11"
 
 msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARDS_CLAIM"
-msgstr "'New Year's Lounge' Event Rewards"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
-msgstr "New Year's Certificates written off"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL"
-msgstr "Preparing for New Year"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL"
-msgstr "Alexander Kharitonov"
-
-msgid "IDS_TOOLTIP_WAVE_GUN_MAX_DIST"
-msgstr "Maximum wave propagation distance."
+msgstr "'New Year at Home' Event Rewards"
 
 msgid "IDS_UNLOCKS_14"
-msgstr "Click to install all signals of the same rarity. When any signal runs out, it will be automatically replaced with a signal of a lower rarity."
+msgstr "Install signals on your ship to improve its combat performance."
