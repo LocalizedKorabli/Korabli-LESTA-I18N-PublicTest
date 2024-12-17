@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR2025_FULL"
+msgstr "Decorate the entire room in the 'New Year at Home' event."
+
+msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR2025_FULL"
+msgstr "New Year at Home"
+
+msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
+msgstr "As a reward for combat results on Tier X ships and super ships, for completing combat missions, for reaching Premium Battle Pass levels, and for completing the tasks of the ‘New Year at Home’ event until the end of Update 13.11."
+
+msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
+msgstr "For the ‘Wish Wharf’ awards in the ‘That New Year's Eve’ category in the Armory, including the special supercruiser Piemonte, Tier X aircraft carrier Shinano, Tier X submarine Archerfish, Tier X cruiser Kitakami, Tier X battleship Ruggiero di Lauria, Tier X cruiser Puerto Rico, Tier IX cruiser Admiral Schröder, Tier VIII battleship Atlântico, containers and premium containers ‘New Year's Eve’, as well as other assets until the end of update 13.11."
+
+msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
+msgstr "Temporary resource. With the release of update 25.1, New Year certificates will be exchanged for New Year containers at an 1:1 ratio."
+
+msgid "IDS_GO_TO_STRATEGIC_ACTIONS_MOUSE_INSTRUCTION"
+msgstr "Go to the 'New Year at Home' event screen"
+
+msgid "IDS_GUIDING_TIP_272_DESC"
+msgstr "Time to decorate the room for New Year: complete tasks and earn rewards!"
+
+msgid "IDS_PFSB510_DESCR"
+msgstr "One project that was developed in the late 1930s in response to intel about the German Navy's development plans included the armament of three quadruple-gun turrets with 380 mm guns. Two battleships of that project were to be ordered and laid down in 1941. The program accommodated a total of four battleships. If the ship had been completed after the war, the battleships would have been equipped with the most modern AA guns of the time: American long-barreled 127 mm guns and new 57 mm ACAD mounts."
+
+msgid "IDS_PISS508_DESCR"
+msgstr ""
+"The Marcello class was an evolution of the Glauco class large submarines originally ordered by Portugal but incorporated into the Italian fleet after the contract was canceled. They were highly maneuverable, fast, and well-armed, with a total of 11 submarines of this class ordered. The Marcello submarines had a single-hull design with side blisters and were classified as 'large cruiser' or 'ocean-going' submarines by Italian standards.\n"
+"\n"
+"The Giacomo Nani was built at the CRDA shipyard in Monfalcone and joined the fleet in September 1938, assigned to the 2nd Submarine Squadron. With the start of WWII, Nani undertook three unsuccessful patrols in the Mediterranean before being transferred to the Atlantic in autumn 1940. During her fourth patrol, she sank a Swedish coal transport. Giacomo Nani was reported missing during her fifth patrol in early January 1941."
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE"
+msgstr "'New Year' Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE_SHORT"
+msgstr "New Year"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE"
+msgstr "'New Year' Premium Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE_SHORT"
+msgstr "New Year"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_MAIN_CALIBER_FULL"
+msgstr "Earn as many 'Main battery hits' ribbons as possible"
+
+msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE"
+msgstr "New Year at Home"
+
+msgid "IDS_STRATEGIC_ACTIONS_NOTIFICATION_BONUS_STATUS"
+msgstr "Active during the 'New Year at Home' event in update 13.11"
+
+msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARDS_CLAIM"
+msgstr "'New Year at Home' Event Rewards"
+
+msgid "IDS_UNLOCKS_14"
+msgstr "Install signals on your ship to improve its combat performance."

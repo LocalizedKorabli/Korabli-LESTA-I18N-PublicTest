@@ -1,46 +1,1857 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
-"Language-Team: \n"
-"Language: ru\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
 
-msgid "IDS_EVENT_SMF_EQUIPMENT_REVERSAL"
-msgstr "Доступно снаряжение «Разворот»"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_UTOPIA_COMPLETED"
+msgstr "Собрать коллекцию Utopia Show."
 
-msgid "IDS_EVENT_SMF_FORSAGE_HIGH"
-msgstr "«Форсаж» с большим временем действия"
+msgid "IDS_ACHIEVEMENT_FILLALBUM_UTOPIA_COMPLETED"
+msgstr "Utopia Show"
 
-msgid "IDS_EVENT_SMF_FORSAGE_LOW"
-msgstr "«Форсаж» с малым временем действия"
+msgid "IDS_AIRCARRIER_PL_GENITIVE"
+msgstr "авианосцев"
 
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_FAST_RELOAD"
-msgstr "Быстрая перезарядка волномёта"
+msgid "IDS_ALL_CREW_BUTTON"
+msgstr "ВСЕ КОМАНДИРЫ"
 
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_NARROW_AND_FAST"
-msgstr "Волномёт пускает узкие и быстрые волны"
+msgid "IDS_ARC_EVENT_COMMON_STATUS_ALL_PRIMETIMES_ENDED"
+msgstr "Задачи завершены"
 
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_SLOW_RELOAD"
-msgstr "Медленная перезарядка волномёта"
+msgid "IDS_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_SHORT"
+msgstr "До начала: %(_timeStart)s"
 
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_WIDE_AND_SLOW"
-msgstr "Волномёт пускает широкие и медленные волны"
+msgid "IDS_ARC_EVENT_PORT_STATUS_ALL_REWARDS_RECEIVED"
+msgstr "Все награды получены"
 
-msgid "IDS_SOUND_MOD_SMF_SMF_HARE"
-msgstr "Заяц"
+msgid "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgid_plural "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgstr[0] "До награды: %(_pointsNext)s очко"
 
-msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_HARE"
-msgstr "Заяц '21"
+msgid "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgid_plural "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgstr[0] "До награды: %(_pointsNext)s очко"
 
-msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_WOLF"
-msgstr "Волк '21"
+msgid "IDS_BATTLEPASS_IMPROVED_ACTIVE_STATUS"
+msgstr "Действуют бонусы Боевого пропуска"
 
-msgid "IDS_SOUND_MOD_SMF_SMF_WOLF"
-msgstr "Волк"
+msgid "IDS_BATTLESHIP_PL_GENITIVE"
+msgstr "линкоров"
+
+msgid "IDS_BATTLE_STATS_TRIAL_ROUNDS_PASSED"
+msgstr "Пройдено этапов: %(successRoundsCount)s/%(totalRoundsCount)s"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_1"
+msgstr "2-я стадия начнётся через:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_2"
+msgstr "3-я стадия начнётся через:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_3"
+msgstr "4-я стадия начнётся через:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_4"
+msgstr "5-я стадия начнётся через:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_5"
+msgstr "6-я стадия начнётся через:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_6"
+msgstr "7-я стадия не начнётся через:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_1"
+msgstr "Стадия 1. Наносите урон:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_2"
+msgstr "Стадия 2. Наносите урон:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_3"
+msgstr "Стадия 3. Наносите урон:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_4"
+msgstr "Стадия 4. Наносите урон:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_5"
+msgstr "Стадия 5. Наносите урон:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_6"
+msgstr "Стадия 6. Наносите урон:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_1"
+msgstr "1-я стадия:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_2"
+msgstr "2-я стадия:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_3"
+msgstr "3-я стадия:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_4"
+msgstr "4-я стадия:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_5"
+msgstr "5-я стадия:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_6"
+msgstr "6-я стадия:"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_1"
+msgstr "Первый этап: нанесите 20 000 ед. урона"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_2"
+msgstr "Второй этап: нанесите 40 000 ед. урона"
+
+msgid "IDS_BATTLE_TRIALS_DESCRIPTION"
+msgstr "Наберите как можно больше очков."
+
+msgid "IDS_BATTLE_TRIALS_TITLE"
+msgstr "Учебные испытания"
+
+msgid "IDS_BONUS_SCORES"
+msgstr "Бонусные очки"
+
+msgid "IDS_BUFF_ACTIVE_IN_BATTLE"
+msgstr "Активируется в бою"
+
+msgid "IDS_BULLET"
+msgstr "•"
+
+msgid "IDS_CANCEL_ACTION"
+msgstr "Отменить"
+
+msgid "IDS_CHOOSE_TRIAL"
+msgstr "Перейти к выбору испытания"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_MINEFIELD"
+msgstr "Установлено союзное минное заграждение"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_MINEFIELD"
+msgstr "Остерегайтесь минного заграждения противника"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_MINEFIELD"
+msgstr "Союзное минное заграждение"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_MINEFIELD"
+msgstr "Минное заграждение противника"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_MINEFIELD"
+msgstr "Союзное минное заграждение"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_MINEFIELD"
+msgstr "Минное заграждение противника"
+
+msgid "IDS_COMMON_OVERRIDE_FOR_WEB"
+msgstr "Без нации"
+
+msgid "IDS_CONDITIONS"
+msgstr "Условия участия"
+
+msgid "IDS_CONSPIROLOGIST"
+msgstr "Дункан Ч."
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_NEXT_SKILL_PRICE_LABEL"
+msgstr "Следующий навык:"
+
+msgid "IDS_CREW_IN_RESERVE_LIST_TITLE"
+msgstr "В резерве"
+
+msgid "IDS_CREW_SORT_DEFAULT"
+msgstr "По умолчанию"
+
+msgid "IDS_CREW_SORT_LEVEL"
+msgstr "По уровню"
+
+msgid "IDS_CREW_SORT_TYPE"
+msgstr "По степени редкости"
+
+msgid "IDS_CREW_TYPE"
+msgstr "Степень редкости"
+
+msgid "IDS_CREW_TYPE_ADVANCED"
+msgstr "Редкие"
+
+msgid "IDS_CREW_TYPE_COMMON"
+msgstr "Стандартные"
+
+msgid "IDS_CREW_TYPE_ELITE"
+msgstr "Элитные"
+
+msgid "IDS_CREW_TYPE_SPECIAL"
+msgstr "Особые"
+
+msgid "IDS_CREW_TYPE_UNIQUE"
+msgstr "Легендарные"
+
+msgid "IDS_CRUISER_PL_GENITIVE"
+msgstr "крейсеров"
+
+msgid "IDS_DESCRIPTION_PCZA039_UTOPIA"
+msgstr ""
+"Utopia Show — интернет-шоу, которое выпускает ролики на научно-популярную "
+"тематику. Основной целью создателя является развеивание распространённых "
+"мифов о загадочных явлениях и разоблачение конспирологических теорий. Эта "
+"коллекция посвящена темам некоторых популярных выпусков Utopia Show."
+
+msgid "IDS_DESTROYER_PL_GENITIVE"
+msgstr "эсминцев"
+
+msgid "IDS_DOGTAG_PCNB453_DESCRIPTION"
+msgstr ""
+"Да это ж бобёр, слышишь? Бобёр, настоящий бобр. Чш-ш-ш, тише, спугнёшь."
+
+msgid "IDS_DOGTAG_PCNB453_NAME"
+msgstr "Бобр"
+
+msgid "IDS_EARLY_EXIT_BATTLE_BATTLE_TRIALS"
+msgstr ""
+"Испытание ещё не окончено! Вы не получите награды за текущий этап, если "
+"покинете испытание сейчас."
+
+msgid "IDS_ECONOMIC_BOOSTS_INSTALL_BTN"
+msgstr "Установить"
+
+msgid "IDS_ECONOMIC_BOOSTS_TYPE_EXPENDABLE_CATEGORY_TOOLTIP"
+msgstr "Расходуемый"
+
+msgid "IDS_ECONOMIC_BOOSTS_TYPE_OTHER_CATEGORY_TOOLTIP"
+msgstr "Прочие"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_1"
+msgstr "Стандартный бонус"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_2"
+msgstr "Особый бонус"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_3"
+msgstr "Редкий бонус"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_4"
+msgstr "Элитный бонус"
+
+msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREDITS"
+msgstr "Кредиты"
+
+msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREW_EXP"
+msgstr "Опыт командира"
+
+msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_EXP"
+msgstr "Опыт корабля"
+
+msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_FREE_EXP"
+msgstr "Свободный опыт"
+
+msgid "IDS_EVAVALENTINE"
+msgstr "Eva Valentine"
+
+msgid "IDS_EV_SA24_DAMAGE_RULES_1"
+msgstr "В этом испытании вам необходимо нанести как можно больше урона"
+
+msgid "IDS_EV_SA24_FRAGS_RULES"
+msgstr "В этом испытании вам необходимо уничтожить как можно больше кораблей"
+
+msgid "IDS_FAST_TRAINING_DISABLE_REASON_IN_DEMOBILIZATION"
+msgstr "Отмените демобилизацию командира для ускоренного обучения."
+
+msgid "IDS_FIRST_UTOPIA_NAME"
+msgstr "Доска расследований № 1"
+
+msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_SHIPCLASS_TOOLTIP_TEXT"
+msgstr "Свободных очков навыков для %(shipClass)s: %(skillPoints)s"
+
+msgid "IDS_GNIDOVSKY"
+msgstr "Руперт Г."
+
+msgid "IDS_GUIDING_TIP_318_DESC"
+msgstr ""
+"Испытайте свои силы в бою на кораблях разных наций. Сложность возрастает "
+"с каждым выполнением!"
+
+msgid "IDS_GUIDING_TIP_318_HEADER"
+msgstr "Личные испытания: нации"
+
+msgid "IDS_GUIDING_TIP_319_DESC"
+msgstr ""
+"Испытайте свои силы в бою на кораблях разных классов. Сложность возрастает "
+"с каждым выполнением!"
+
+msgid "IDS_GUIDING_TIP_319_HEADER"
+msgstr "Личные испытания: классы"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION"
+msgstr "Показать командиров %(_nationName)s"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION_NOT_AVAILABLE"
+msgstr "Командиры %(_nationName)s недоступны"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION"
+msgstr "Показать командиров без присвоенной нации"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION_NOT_AVAILABLE"
+msgstr "Командиры без присвоенной нации недоступны"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ADVANCED"
+msgstr "Показать редких командиров"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_COMMON"
+msgstr "Показать стандартных командиров"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE"
+msgstr "Показать элитных командиров"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ADVANCED"
+msgstr "Редкие командиры недоступны"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_COMMON"
+msgstr "Стандартные командиры недоступны"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ELITE"
+msgstr "Элитные командиры недоступны"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_SPECIAL"
+msgstr "Особые командиры недоступны"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNIQUE"
+msgstr "Легендарные командиры недоступны"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_SPECIAL"
+msgstr "Показать особых командиров"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_UNIQUE"
+msgstr "Показать легендарных командиров"
+
+msgid "IDS_HINT_CREW_FILTERING_SORT"
+msgstr "Выберите порядок отображения командиров"
+
+msgid "IDS_HINT_CREW_FILTERING_SORT_SET_REVERSE"
+msgstr "Отобразить командиров в обратном порядке"
+
+msgid "IDS_HRENSBERG"
+msgstr "Дик Х."
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_DESC"
+msgstr "Установленные расходуемые бонусы списываются за каждый бой."
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_HEADER"
+msgstr "Расходуемые бонусы"
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_DESC"
+msgstr "Бонусы за первую победу в день на корабле, а также другие бонусы."
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_HEADER"
+msgstr "Прочие бонусы"
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_PERMANENT_DESC"
+msgstr "Устанавливается на корабль один раз и не расходуется в бою."
+
+msgid "IDS_MODAL_WINDOW_PCVT001_DAMAGE_PRIME_BATTLE_RULES_HEADER"
+msgstr "Огневая мощь"
+
+msgid "IDS_MODAL_WINDOW_PCVT002_CITADEL_PRIME_BATTLE_RULES_HEADER"
+msgstr "Меткость стрельбы"
+
+msgid "IDS_MODAL_WINDOW_PCVT003_FRAGS_PRIME_BATTLE_RULES_HEADER"
+msgstr "Ликвидация целей"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "ЭТАПЫ"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"Выполните задачу текущего этапа, чтобы перейти в следующий. Чем больше "
+"этапов вы пройдёте, тем больше ресурсов получите по итогам испытания."
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "ПРАВИЛА"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr ""
+"В испытаниях могут действовать ограничения на использование вооружения "
+"и снаряжения, а также на управление кораблём."
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "ОТМЕТКИ"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr ""
+"Ведите огонь по целям с отметками, чтобы получить больше очков. Используйте "
+"указанный тип вооружения или наносите указанный вид урона."
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_HEADER"
+msgstr "Учебные испытания"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"В Учебных испытаниях вы можете оттачивать свои боевые навыки, выполняя "
+"задания."
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
+msgstr ""
+"Каждое испытание состоит из 5 этапов. Чтобы перейти в следующий этап, нужно "
+"выполнить задачу текущего."
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_HEADER"
+msgstr "Бонусные очки"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_1"
+msgstr ""
+"Если вы выполните задачу раньше конца этапа, вы сможете набрать бонусные "
+"очки."
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "Бонусные очки будут учтены в следующем этапе."
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_HEADER"
+msgstr "Награды"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
+msgstr ""
+"Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам "
+"испытания."
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_2"
+msgstr ""
+"Награды выдаются за каждый пройденный этап. Вы не получите награду за этап, "
+"если покинете его преждевременно."
+
+msgid "IDS_MODAL_WINDOW_TRIAL_BATTLE_RULES_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MULTIPLIER_TAG_AP"
+msgstr "Бронебойные снаряды (ББ)"
+
+msgid "IDS_MULTIPLIER_TAG_CS"
+msgstr "Полубронебойные снаряды (ПББ)"
+
+msgid "IDS_MULTIPLIER_TAG_FIRE"
+msgstr "Поджог"
+
+msgid "IDS_MULTIPLIER_TAG_HE"
+msgstr "Осколочно-фугасные снаряды (ОФ)"
+
+msgid "IDS_MULTIPLIER_TAG_TORPEDOES"
+msgstr "Торпеды"
+
+msgid "IDS_NAME01"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME02"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME03"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME04"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME05"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME06"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME07"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME08"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME09"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME10"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME15"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME16"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME17"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME18"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME19"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME1D"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME1F"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME20"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME25"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME26"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME27"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME28"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME29"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME2D"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME2F"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME30"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME35"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME36"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME37"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME38"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME39"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME3D"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME3F"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME40"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME41"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME42"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME43"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME44"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME45"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME46"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME47"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME48"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME49"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME4D"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME4F"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME50"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME51"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME52"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME53"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME54"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME55"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME56"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME57"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME58"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME59"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME5D"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME5F"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME_ALLY_1"
+msgstr "Союзник"
+
+msgid "IDS_NAME_ALLY_2"
+msgstr "Союзник"
+
+msgid "IDS_NAME_ALLY_3"
+msgstr "Союзник"
+
+msgid "IDS_NAME_ALLY_4"
+msgstr "Союзник"
+
+msgid "IDS_NAME_ALLY_5"
+msgstr "Союзник"
+
+msgid "IDS_NAME_ALLY_6"
+msgstr "Союзник"
+
+msgid "IDS_NAME_ALLY_7"
+msgstr "Союзник"
+
+msgid "IDS_NAME_ALLY_8"
+msgstr "Союзник"
+
+msgid "IDS_NO_CREW_FOUND_WITH_APPLIED_FILTERING"
+msgstr ""
+"Нет командиров,\n"
+"подходящих по условиям фильтрации"
+
+msgid "IDS_NO_MORE_PLACE_IN_RESERVE_TO_CANCEL_DEMOBILIZATION"
+msgstr "Для отмены демобилизации освободите место в резерве."
+
+msgid "IDS_NO_SPECIALIZATION_CREW"
+msgstr "Не подготовлен"
+
+msgid "IDS_NO_SPECIALIZATION_REQUIRED_FOR_SHIP_STATUS_LINE"
+msgstr "Можно назначить командира без переподготовки"
+
+msgid "IDS_PARAMS_BONUS_FOR_VICTORY"
+msgstr "Бонус за победу"
+
+msgid "IDS_PBPA148_381MM_HE_ANSON"
+msgstr "381-мм HE Mk VIIIb SC"
+
+msgid "IDS_PBPA149_381MM_AP_ANSON"
+msgstr "381-мм AP Mk XXIIb SC"
+
+msgid "IDS_PBPT046_ANSON"
+msgstr "533-мм Mk IX*"
+
+msgid "IDS_PBSB518"
+msgstr "Anson"
+
+msgid "IDS_PBSB518_DESCR"
+msgstr ""
+"Гипотетический вариант модернизации линейного крейсера типа Admiral, "
+"проведённой в конце 1930-х гг. по образцу модернизации линейного крейсера "
+"Renown и линкоров типа Queen Elizabeth. В таком случае корабль получил бы "
+"десять 113-мм спаренных установок универсальных орудий и значительное "
+"количество малокалиберной зенитной артиллерии."
+
+msgid "IDS_PBSB518_FULL"
+msgstr "Anson"
+
+msgid "IDS_PBSB518_NUMBER"
+msgstr "1"
+
+msgid "IDS_PBSB518_YEAR"
+msgstr "1940 г."
+
+msgid "IDS_PBUA715_ART_ANSON"
+msgstr "381-мм/42 Mk.I в установке Mk.I/N RP 12"
+
+msgid "IDS_PBUE719_ENG_ANSON"
+msgstr "ЭУ 144 000 л.с."
+
+msgid "IDS_PBUH727_HULL_ANSON"
+msgstr "Anson"
+
+msgid "IDS_PBUS720_SUO_ANSON"
+msgstr "Mk VIII"
+
+msgid "IDS_PBUT715_TORP_ANSON"
+msgstr "533-мм Mk IXM"
+
+msgid "IDS_PCEC147_CAMO_PRORYV_RED"
+msgstr "Прорыв — Красный"
+
+msgid "IDS_PCEC148_CAMO_PRORYV_GREEN"
+msgstr "Прорыв — Зелёный"
+
+msgid "IDS_PCEC990_TRIALS_BUDENY"
+msgstr "Мишень"
+
+msgid "IDS_PCEC991_TRIALS_PYOTR_VELIKIY"
+msgstr "Мишень"
+
+msgid "IDS_PCEC993_TRIALS_SENYAVIN"
+msgstr "Мишень"
+
+msgid "IDS_PCEC994_TRIALS_OMAHA"
+msgstr "Мишень"
+
+msgid "IDS_PCEE724_HENGSHUI_FLAG"
+msgstr "Hengshui"
+
+msgid "IDS_PCEE724_HENGSHUI_FLAG_DESCRIPTION"
+msgstr ""
+"Бумажные подвесные фонарики занимают важную роль в праздновании китайского "
+"Нового года, которое завершается Праздником фонарей. Обряды празднования "
+"Нового года по лунно-солнечному календарю были описаны Цуй Ши — учёным "
+"и государственным деятелем империи Хань, происходившим из местности, которая"
+" сейчас является частью городского округа Хэншуй."
+
+msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG"
+msgstr "Линкоры Пан-Азии"
+
+msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_DESCRIPTION"
+msgstr ""
+"Образ тигра объединяет большинство культур Востока, причём зачастую "
+"в мифологии это животное связано с исцелением и защитой от злых сил. "
+"В Древнем Китае тигр считался «царём леса» и олицетворял власть императора."
+
+msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь выхода линкоров Пан-Азии в ранний доступ в обновлении 25.1."
+
+msgid "IDS_PCEE730_MADRID_FLAG"
+msgstr "Madrid"
+
+msgid "IDS_PCEE730_MADRID_FLAG_DESCRIPTION"
+msgstr ""
+"Военно-морской флаг Испании, который использовался в 1701–85 гг. В этот "
+"период испанские короли проводили реорганизацию и модернизацию флота, чтобы "
+"вернуть утраченные территории и укрепить влияние в Новом Свете."
+
+msgid "IDS_PCEE731_ANSON_FLAG"
+msgstr "HMS Anson"
+
+msgid "IDS_PCEE731_ANSON_FLAG_DESCRIPTION"
+msgstr ""
+"Джордж Ансон (1697–1762) — британский флотоводец, совершивший кругосветное "
+"путешествие. Будучи адмиралом флота, Ансон являлся командиром Красной "
+"эскадры — важнейшего формирования, обычно занимавшего центральное положение "
+"в строе."
+
+msgid "IDS_PCEE732_SOVREMENNY_FLAG"
+msgstr "Современный"
+
+msgid "IDS_PCEE732_SOVREMENNY_FLAG_DESCRIPTION"
+msgstr ""
+"На эмблеме 7-й оперативной («Атлантической») эскадры Северного флота семь "
+"звёзд означают номер эскадры, крылатый якорь является знаком личного состава"
+" авианесущих кораблей, а три меча символизируют три составных части эскадры "
+"(авианесущие, ракетные и артиллерийские корабли)."
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_0"
+msgstr "ваш корабль будет обездвижен;"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_1"
+msgstr ""
+"за нанесение урона целям со специальными отметками вы получите больше очков."
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_DESCRIPTION"
+msgstr ""
+"Испытание состоит из 5 этапов, каждый из которых длится 3 минуты. Если вы "
+"выполните задачу раньше, вы сможете набрать бонусные очки, которые будут "
+"учтены в следующем этапе."
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_EXTRA_DESCRIPTION"
+msgstr ""
+"Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам "
+"испытания."
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_GOAL"
+msgstr "Нанесите как можно больше урона кораблям противника."
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_NAME"
+msgstr "Огневая мощь"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_TASK_DESCR"
+msgstr "Наносите урон кораблям противника."
+
+msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_0"
+msgstr "ваш корабль будет обездвижен;"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_1"
+msgstr ""
+"за поражение цитадели кораблей со специальными отметками вы получите больше "
+"очков."
+
+msgid "IDS_PCVT002_CITADEL_PRIME_DESCRIPTION"
+msgstr ""
+"Испытание состоит из 5 этапов, каждый из которых длится 3 минуты. Если вы "
+"выполните задачу раньше, вы сможете набрать бонусные очки, которые будут "
+"учтены в следующем этапе."
+
+msgid "IDS_PCVT002_CITADEL_PRIME_EXTRA_DESCRIPTION"
+msgstr ""
+"Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам "
+"испытания."
+
+msgid "IDS_PCVT002_CITADEL_PRIME_GOAL"
+msgstr "Попадите в цитадель кораблей противника как можно больше раз."
+
+msgid "IDS_PCVT002_CITADEL_PRIME_NAME"
+msgstr "Меткость стрельбы"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_TASK_DESCR"
+msgstr "Попадайте в цитадели кораблей противника."
+
+msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_0"
+msgstr "ваш корабль будет обездвижен;"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_1"
+msgstr ""
+"за уничтожение целей со специальными отметками вы получите больше очков."
+
+msgid "IDS_PCVT003_FRAGS_PRIME_DESCRIPTION"
+msgstr ""
+"Испытание состоит из 5 этапов, каждый из которых длится 3 минуты. Если вы "
+"выполните задачу раньше, вы сможете набрать бонусные очки, которые будут "
+"учтены в следующем этапе."
+
+msgid "IDS_PCVT003_FRAGS_PRIME_EXTRA_DESCRIPTION"
+msgstr ""
+"Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам "
+"испытания."
+
+msgid "IDS_PCVT003_FRAGS_PRIME_GOAL"
+msgstr "Уничтожьте как можно больше кораблей противника."
+
+msgid "IDS_PCVT003_FRAGS_PRIME_NAME"
+msgstr "Ликвидация целей"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_TASK_DESCR"
+msgstr "Уничтожайте корабли противника."
+
+msgid "IDS_PCZA039_UTOPIA"
+msgstr "Utopia Show"
+
+msgid "IDS_PCZA039_UTOPIA_QUOTES"
+msgstr "Utopia Show"
+
+msgid "IDS_PCZC939_UTOPIA_1_1"
+msgstr "Человек, который убил Санта-Клауса"
+
+msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
+msgstr ""
+"В 1932 г., в разгар Великой депрессии, владельцы магазинов в городе Меса (штат Аризона) переживали непростые времена. Приближался ежегодный рождественский парад, и предприниматели искали способ привлечь посетителей на него, и, следовательно, к магазинам на его маршруте.\n"
+"\n"
+"Редактор местной газеты Джон Макфи предложил интересную идею: нанять парашютиста, чтобы он в костюме Санта-Клауса спрыгнул из самолёта и приземлился в поле за городом, после чего полиция должна была отвезти его к параду, где он раздал бы подарки.\n"
+"\n"
+"План столкнулся с первым препятствием, когда нанятый парашютист в день парада оказался не в состоянии совершить прыжок. Однако изобретательный Макфи не растерялся: он позаимствовал манекен из одного из магазинов, нарядил его в костюм Санты и посадил в самолёт вместо парашютиста. Поскольку Санта должен был приземлиться за городом, Макфи полагал, что издалека никто не заметит подмены. Когда самолёт набрал достаточную высотку, манекен в костюме Санты вытолкнули наружу, дёрнув кольцо парашюта. В этот ответственный момент парашют не раскрылся, и Санта камнем упал на землю на глазах у собравшихся детей.\n"
+"\n"
+"Макфи снова попытался спасти праздник: он сам надел костюм Санта-Клауса и вышел к детям, чтобы успокоить их. Однако дети были безутешны: они были уверены, что Санта только что разбился насмерть. Макфи даже уехал из города на несколько дней, надеясь, что со временем всё утрясётся. Но ситуация не была забыта, и с тех пор Джон Макфи был известен как «человек, который убил Санта-Клауса»."
+
+msgid "IDS_PCZC940_UTOPIA_1_2"
+msgstr "Автополо"
+
+msgid "IDS_PCZC940_UTOPIA_1_2_DESCRIPTION"
+msgstr ""
+"Автомобильное поло — вид спорта, в котором правила и инвентарь совпадают с конным поло, но вместо лошадей используются автомобили. Автополо появилось в США и было популярно в 1910–20-е гг.\n"
+"\n"
+"Изобретателем автополо считается Ральф Хэнкинсон, агент по продаже автомобилей Ford. Хэнкинсон придумал этот вид спорта в качестве рекламного трюка в 1911 г., чтобы увеличить продажи автомобилей Ford Model T. Первый официальный матч автополо прошёл в люцерновом поле в Уичито (штат Канзас) 20 июля 1912 г., в нём приняли участие восемь игроков на четырёх автомобилях. За игрой наблюдали 5000 зрителей. После этого по всей стране были образованы местные лиги под эгидой Ассоциации автополо, а к 1920-м гг. Нью-Йорк и Чикаго стали основными центрами автополо в США.\n"
+"\n"
+"К концу 1920-х гг. популярность автополо сошла на нет, потому что этот вид спорта оказался крайне опасным для участников и зрителей, а также приводил к дорогостоящему ущербу машинам. Автомобили часто сталкивались, цеплялись друг за друга, игроков выбрасывало из машин на землю, где они попадали под колёса других машин. Как правило, большинство автомобилей были серьёзно повреждены или полностью разрушены к концу матча."
+
+msgid "IDS_PCZC941_UTOPIA_1_3"
+msgstr "Евльский козёл"
+
+msgid "IDS_PCZC941_UTOPIA_1_3_DESCRIPTION"
+msgstr ""
+"В странах Северной Европы одним из символов Рождества является козёл. Празднующие надевают маски козлов и украшают рождественскую ёлку маленькими соломенными фигурками этого животного. В 1966 г. в шведском городе Евле решили построить гигантского рождественского козла из соломы. Фигура была готова 1 декабря: 13 м в высоту, 7 м в длину, вес составил 3 т.\n"
+"\n"
+"В канун Нового года фигура козла сгорела.\n"
+"\n"
+"С тех пор евльский козёл прославился тем, что почти каждый год его поджигают или пытаются уничтожить каким-либо другим образом. С каждым годом городские власти предпринимали всё более строгие меры безопасности, что встречало всё более изобретательные способы вандализма.\n"
+"\n"
+"Однажды козла поджёг 51-летний американский турист — по его словам, он был уверен, что принимает участие в абсолютно законной местной традиции. За козлом было установлено круглосуточное видеонаблюдение, но однажды сайт с видеокамерами был взломан. В один из годов к козлу были приставлены охранники, но из-за сильного холода им пришлось зайти в соседний ресторан, чтобы погреться, — вандалы не упустили эту возможность. На фигуру была установлена мощная противопожарная защита, применяемая в самолётах, но вандалам снова удалось поджечь козла с помощью бензина."
+
+msgid "IDS_PCZC942_UTOPIA_1_4"
+msgstr "Чумной доктор"
+
+msgid "IDS_PCZC942_UTOPIA_1_4_DESCRIPTION"
+msgstr ""
+"Чумной доктор — врач, лечивший бубонную чуму во время эпидемий в Европе XVI–XVII вв. Таких докторов нанимали городские власти для лечения горожан, в особенности бедняков, которым нечем было платить за лечение.\n"
+"\n"
+"У этих врачей сложилась неоднозначная репутация: некоторые горожане воспринимали их появление как знак приближения смерти. Зачастую чумные доктора были не опытными и образованными врачами, а добровольцами или начинающими медиками.\n"
+"\n"
+"Чумные доктора лечили кровопусканием, лягушками и пиявками. Они редко вылечивали больных, их основная задача заключалась в записи количества умерших от чумы для статистики. В некоторых городах чумные доктора производили вскрытие, чтобы установить причину смерти. Иногда чумные доктора записывали последнюю волю умирающих.\n"
+"\n"
+"Неизменными атрибутами образа чумного доктора в культуре стали плащ, маска с длинным клювом, широкополая шляпа и перчатки. Считалось, что болезнь переносится с дурным запахом, а длинный клюв на маске поможет очистить воздух, которым дышит доктор. Однако такой костюм носили далеко не все врачи, лечившие чуму."
+
+msgid "IDS_PCZC943_UTOPIA_2_1"
+msgstr "Гусь в кроссовках"
+
+msgid "IDS_PCZC943_UTOPIA_2_1_DESCRIPTION"
+msgstr ""
+"Энди (1987–1991) — гусь, родившийся без перепончатых частей лап и носивший кроссовки, чтобы иметь возможность стоять и ходить.\n"
+"\n"
+"Гусь Энди родился в 1987 г. и жил на ферме в Небраске. О нём узнал изобретатель и благотворитель Джин Флеминг, который решил помочь гусю. Сначала Флеминг пробовал установить ему протезы, напоминающие скейтборды, но опыт оказался неуспешным. Затем изобретатель попробовал надеть на гуся специально модифицированные детские кроссовки, и в них Энди научился ходить.\n"
+"\n"
+"История Энди привлекла внимание общественности, и крупный производитель обуви предложил гусю пожизненный запас кроссовок — птица изнашивала одну пару в месяц. Считалось, что Энди вдохновлял и вселял надежду в людей с ограниченными возможностями.\n"
+"\n"
+"Энди пропал 19 октября 1991 г. и был найден мёртвым на следующий день в местном парке. Происшествие вызвало общественный резонанс, но злоумышленника найти не удалось. Позже появилась информация, что полиция нашла преступника, но не стала раскрывать его личность, поскольку он был признан неспособным нести ответственность за совершённое."
+
+msgid "IDS_PCZC944_UTOPIA_2_2"
+msgstr "Пальмовый вор"
+
+msgid "IDS_PCZC944_UTOPIA_2_2_DESCRIPTION"
+msgstr ""
+"Пальмовый вор (лат. Birgus latro) — сухопутный рак-отшельник, крупнейшее членистоногое в мире. Его вес может превышать 4 кг, а расстояние между кончиками ног достигает 1 м. Пальмовый вор обитает на островах Индийского и Тихого океанов.\n"
+"\n"
+"Пальмовый вор питается фруктами, орехами, семенами, а также падалью. Этот рак может схватить и утащить оставленную без присмотра пищу. Когда-то считалось, что пальмовый вор может забираться на пальмы и срезать с них кокосы, чтобы затем съесть их мякоть, — именно так он получил своё название. Однако это поверье не нашло научного подтверждения."
+
+msgid "IDS_PCZC945_UTOPIA_2_3"
+msgstr "Гигантская золотая рыбка"
+
+msgid "IDS_PCZC945_UTOPIA_2_3_DESCRIPTION"
+msgstr ""
+"В 2021 г. в озере Онтарио выловили гигантскую золотую рыбку — размером с футбольный мяч. Позже подобные случаи стали происходить и в других озёрах Канады.\n"
+"\n"
+"Самое интересное в том, что эти гигантские золотые рыбки не бывшие питомцы, выпущенные хозяевами в водоёмы, а, скорее всего, их потомки. Естественная среда оказалась крайне благоприятной для золотых рыбок, при этом у них нет природного хищника в местных водах. Учёные говорят, что эти рыбы быстро размножаются: женские особи мечут до 50 000 икринок три раза в год. Золотые рыбки увеличивают свой ареал в водоёмах страны, нанося ущерб местным популяциям рыб и экологии. Они переносят болезни и паразитов, конкурируют с другими рыбами за пищу и пространство.\n"
+"\n"
+"Местным властям пришлось выступить с призывом к канадцам не выпускать своих золотых рыбок в озёра страны."
+
+msgid "IDS_PCZC946_UTOPIA_2_4"
+msgstr "Кот-мэр"
+
+msgid "IDS_PCZC946_UTOPIA_2_4_DESCRIPTION"
+msgstr ""
+"Стаббс — кот, почётный мэр поселения Талкитна (штат Аляска) в США в 1997–2017 гг.\n"
+"\n"
+"В 1997 г. Лори Стек, управляющая магазином «Нэглиз», обнаружила на парковке коробку с котятами. Стек выбрала Стаббса, потому что у него не было хвоста. Котёнок поселился в магазине, и вскоре о нём узнали многие жители этого маленького города.\n"
+"\n"
+"Легенда гласит, что Стаббс стал мэром после того, как ряд избирателей вписали его имя в бюллетени на выборах. Скептики ставят эту версию под сомнение: Талкитна, будучи маленьким поселением, официально не имеет позиции мэра. Магазин «Нэглиз» служил коту офисом на протяжении всего срока на посту мэра. Каждый день Саббс ходил в соседний ресторан, где пил воду с кошачьей мятой из винного бокала."
+
+msgid "IDS_PCZC947_UTOPIA_3_1"
+msgstr "Камень-питомец"
+
+msgid "IDS_PCZC947_UTOPIA_3_1_DESCRIPTION"
+msgstr ""
+"Камень-питомец — игрушка, созданная в 1975 г. американским копирайтером и предпринимателем Гэри Далом. Камни продавались в специальных упаковках, напоминающих переноски для питомцев — с отверстиями для воздуха и подстилкой из соломы.\n"
+"\n"
+"Идея камня-питомца появилась у Гэри Дала, когда он сидел в баре с друзьями, которые жаловались на сложности ухода за своими домашними животными. Дал предложил продавать камни в качестве идеальных питомцев: их не нужно кормить, выгуливать и мыть, камень не может заболеть и не будет плохо себя вести.\n"
+"\n"
+"Популярность камней-питомцев продлилась полгода, включая рождественский сезон в 1975 г., а уже к февралю следующего года игрушка вышла из производства. Всего Далу удалось продать более миллиона камней-питомцев по четыре доллара за штуку, в результате чего он стал миллионером."
+
+msgid "IDS_PCZC948_UTOPIA_3_2"
+msgstr "Шоколад с рыбой"
+
+msgid "IDS_PCZC948_UTOPIA_3_2_DESCRIPTION"
+msgstr ""
+"Сложно представить себе два продукта, которые так же плохо сочетались бы друг с другом, как шоколад и рыба. Но это только на первый взгляд. Оказывается, даже у такого «невозможного» сочетания есть свои поклонники.\n"
+"\n"
+"Многие производители шоколада добавляют в свою продукцию соль — этим уже сложно кого-то удивить. А некоторые кондитеры идут дальше и выпускают шоколад с солёной рыбой, причём производят такие необычные изделия в нескольких странах. А для тех, кто пока не решился попробовать настоящую шоколадку с рыбой, есть альтернатива: приготовить рыбу с шоколадным соусом."
+
+msgid "IDS_PCZC949_UTOPIA_3_3"
+msgstr "Амбра"
+
+msgid "IDS_PCZC949_UTOPIA_3_3_DESCRIPTION"
+msgstr ""
+"Амбра — твёрдое и воскообразное вещество серого цвета, образующееся в пищеварительной системе кашалотов. Это вещество получило широкое распространение в парфюмерии как фиксатор запаха. В средневековой Европе амбру использовали как лекарство от головной боли, простуды, эпилепсии, а также считалось, что она защищает от чумы.\n"
+"\n"
+"Амбра образуется в желчном пути кашалота. В кусках этого вещества находят клювы гигантских кальмаров, из-за чего считается, что пищеварительная система кашалота образует амбру, чтобы облегчить прохождение твёрдых и острых предметов, попавших в желудок.\n"
+"\n"
+"Это очень редкое вещество: образуется годами, причём только у одного процента кашалотов. При этом она может находиться в океане годами, прежде чем попадёт на берег. Из-за редкости амбры и юридических ограничений на китобойный промысел амбру в парфюмерии вытеснил её синтетический аналог."
+
+msgid "IDS_PCZC950_UTOPIA_3_4"
+msgstr "Васаби"
+
+msgid "IDS_PCZC950_UTOPIA_3_4_DESCRIPTION"
+msgstr ""
+"Васаби — растение из семейства капустных, характерное для Японии, российского Дальнего Востока и Корейского полуострова.\n"
+"\n"
+"Острый вкус васаби напоминает родственные растения — хрен и горчицу. Корень васаби измельчают до состояния пасты, которая имеет характерный зелёный цвет и резкий запах. Полученную приправу подают с суши и другими блюдами.\n"
+"\n"
+"Уникальный вкус васаби — результат сложного сочетания веществ, получающегося при разрушении клеток растения (считается, что эта особенность появилась в процессе эволюции как защитный механизм). Острота васаби больше стимулирует обоняние, чем вкусовые рецепторы, при этом запах этого растения имеет эффект, аналогичный нашатырю. Исследователи использовали это свойство васаби при создании пожарной сигнализации для людей с нарушениями слуха. Один участник эксперимента проснулся через 10 секунд после того, как в помещении начал распространяться запах васаби."
+
+msgid "IDS_PRES316_TOP_SECRET"
+msgstr "Utopia Show"
+
+msgid "IDS_PRGM101_130MM_B31_TWIN"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-31"
+
+msgid "IDS_PRGM244_130MM_58_CM_62"
+msgstr "130-мм/58 обр. 1957 г. в установке СМ-61"
+
+msgid "IDS_PRGM246_100MM_TWIN_CM_52"
+msgstr "100-мм/70 в установке СМ-51"
+
+msgid "IDS_PRPA158_130MM_58_HE"
+msgstr "ОФ-42"
+
+msgid "IDS_PRPA159_130MM_58_AP"
+msgstr "ПБ-42"
+
+msgid "IDS_PRPA160_100MM_HE_SOVREMENNY"
+msgstr "ОФ-52"
+
+msgid "IDS_PRPA161_100MM_AP_SOVREMENNY"
+msgstr "ББ-52"
+
+msgid "IDS_PRPT082_SOOBRAZITELNY"
+msgstr "53-38 мод. 1"
+
+msgid "IDS_PRPT083_OSMOTRITELNY"
+msgstr "53-38 мод. 2"
+
+msgid "IDS_PRPT084_SMELY"
+msgstr "53-39 мод. 2"
+
+msgid "IDS_PRPT085_SPOKOINY"
+msgstr "53-50 мод. 1"
+
+msgid "IDS_PRPT086_GORDELIVY"
+msgstr "53-50 мод. 2"
+
+msgid "IDS_PRPT087_SOVREMENNY"
+msgstr "53-39 мод. 5"
+
+msgid "IDS_PRSB526"
+msgstr "Топ Сикрет"
+
+msgid "IDS_PRSB526_DESCR"
+msgstr ""
+"28 октября 1943 г. ВМС США провели в Филадельфии секретный эксперимент под кодовым названием «Проект „Радуга“», в ходе которого эсминец USS Eldridge переместился в пространстве на несколько десятков километров. Секретные службы пытаются заставить нас поверить, что история о Филадельфийском эксперименте — всего лишь мистификация, но мы знаем ПРАВДУ.\n"
+"\n"
+"В 1947 г., вскоре после инцидента в Розуэлле, правительство продолжило эксперименты. Мы обладаем многочисленными свидетельствами очевидцев (которых мы не будем раскрывать в целях их безопасности), что у побережья Филадельфии, в сухом озере Грум-Лейк, а также близ Бермудского треугольника был замечен линейный крейсер советского проекта, который якобы никогда не был построен.\n"
+"\n"
+"Мы можем предполагать, что правительство, используя технологии пришельцев в Зоне 51, смогло обнаружить нечто невообразимое... И скрывает от нас.\n"
+"\n"
+"Хотелось бы верить. Но верится с трудом."
+
+msgid "IDS_PRSB526_FULL"
+msgstr "Топ Сикрет"
+
+msgid "IDS_PRSB526_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB526_YEAR"
+msgstr "???"
+
+msgid "IDS_PRSC916"
+msgstr "Макаров У"
+
+msgid "IDS_PRSC916_DESCR"
+msgstr "Копия корабля «Адмирал Макаров» для Учебных испытаний и Операций."
+
+msgid "IDS_PRSC916_FULL"
+msgstr "Макаров (учебный)"
+
+msgid "IDS_PRSC916_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC916_YEAR"
+msgstr "1935 г."
+
+msgid "IDS_PRSD218"
+msgstr "Опытный"
+
+msgid "IDS_PRSD218_DESCR"
+msgstr ""
+"Ознакомившись с опытом немецких кораблестроителей, начальник ЦКБС-1 В. Бжезинский предложил построить корабль, на котором использовались бы котлы с повышенными параметрами пара, что значительно снижает вес котлотурбинной установки. Прямоточные котлы спроектировал профессор Л. Рамзин — давление пара в них должно было втрое превышать показатели котлов эсминцев проекта 7. За счёт снижения веса КТУ было решено усилить вооружение корабля, для чего были спроектированы спаренные артустановки Б-31. Эскизный проект получил индекс 45.\n"
+"\n"
+"Корабль строился на заводе им. Жданова в Ленинграде под именем «Серго Орджоникидзе», а в 1940 г. ещё не достроенный корабль переименовали в «Опытный». Артиллерийские установки Б-31 не вышли из стадии эскизного проектирования, и эсминец вооружили тремя установками Б-13. С началом войны корабль в срочном порядке ввели в строй и в сентябре 1941 г. зачислили в состав флота. В октябре корабль получил повреждения от вражеского огня и встал на ремонт. В 1942–44 гг. «Опытный» поддерживал огнём войска Ленинградского фронта."
+
+msgid "IDS_PRSD218_FULL"
+msgstr "Опытный"
+
+msgid "IDS_PRSD218_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSD218_YEAR"
+msgstr "1941 г."
+
+msgid "IDS_PRSD306"
+msgstr "Сообразительный"
+
+msgid "IDS_PRSD306_DESCR"
+msgstr ""
+"В процессе постройки эскадренных миноносцев проекта 7 перед руководством ВМС встал вопрос об уязвимости кораблей с линейным расположением котлотурбинной установки, которая могла выйти из строя из-за попадания единственного снаряда или торпеды. В 1938 г. специалистами ЦКБ-17 и Северной верфи им. Жданова был разработан улучшенный проект с индексом 7У: линейное расположение КТУ заменялось на эшелонное. В течение 1938–39 гг. корабли, строившиеся в Ленинграде и Николаеве, были перезаложены по новому проекту.\n"
+"\n"
+"Эсминец был заложен по проекту 7 в октябре 1936 г. на Судостроительном заводе № 200 имени 61 коммунара в Николаеве. В марте 1939 г. корабль был перезаложен по проекту 7У, получив имя «Сообразительный». В начале Великой Отечественной войны корабль участвовал в набеге на Констанцу, в обороне Одессы и в Керченско-Феодосийской десантной операции. В 1942 г. эсминец сражался при обороне Севастополя, а в 1943 г. участвовал в набеговых операциях. «Сообразительный» был удостоен звания гвардейского корабля, а после войны служил в составе Черноморского флота."
+
+msgid "IDS_PRSD306_FULL"
+msgstr "Сообразительный"
+
+msgid "IDS_PRSD306_NUMBER"
+msgstr "18"
+
+msgid "IDS_PRSD306_YEAR"
+msgstr "1941 г."
+
+msgid "IDS_PRSD317"
+msgstr "Осмотрительный"
+
+msgid "IDS_PRSD317_DESCR"
+msgstr ""
+"В начале августа 1937 г. на совещании Комитета обороны было решено отказаться от дальнейшего строительства эсминцев проекта 7, а вместо них спроектировать новый эсминец с учётом опыта войны в Испании. Тактико-техническое задание на проект эсминца, получивший индекс 30, было утверждено в ноябре 1937 г. Разработка велась КБ завода № 190 в Ленинграде. Корабль должен был быть частично унифицирован с лидером проекта 48, в том числе в плане артиллерии (лидер нёс три спаренные установки, эсминец — две).\n"
+"\n"
+"«Осмотрительный» был заложен в Северодвинске 5 мая 1940 г., спущен на воду в августе 1944 г. Корабль вступил в строй 29 сентября 1947 г., войдя в состав Северного флота, в котором прослужил 11 лет."
+
+msgid "IDS_PRSD317_FULL"
+msgstr "Осмотрительный"
+
+msgid "IDS_PRSD317_NUMBER"
+msgstr "10"
+
+msgid "IDS_PRSD317_YEAR"
+msgstr "1947 г."
+
+msgid "IDS_PRSD318"
+msgstr "Смелый"
+
+msgid "IDS_PRSD318_DESCR"
+msgstr ""
+"После окончания Второй мировой войны была принята новая программа военного кораблестроения. После ряда корректировок планов к постройке были заказаны эсминцы проекта 30-бис, являвшегося улучшенной вариацией проекта 30. От исходного проекта 30-бис отличался увеличенными размерами, улучшенной мореходностью и усиленной зенитной артиллерией. Насчитывая 70 эсминцев, проект 30-бис является самой крупной серией советских надводных боевых кораблей.\n"
+"\n"
+"«Смелый» был заложен в мае 1948 г. в Ленинграде, спущен на воду в сентябре того же года и в марте 1951 г. вступил в строй. В 1953–55 гг. годах корабль служил в составе 8-го флота, а после его расформирования — в Балтийском флоте. В феврале 1960 г. «Смелый» был переведён на Северный флот."
+
+msgid "IDS_PRSD318_FULL"
+msgstr "Смелый"
+
+msgid "IDS_PRSD318_NUMBER"
+msgstr "70"
+
+msgid "IDS_PRSD318_YEAR"
+msgstr "1951 г."
+
+msgid "IDS_PRSD319"
+msgstr "Спокойный"
+
+msgid "IDS_PRSD319_DESCR"
+msgstr ""
+"В 1952 г. было решено отказаться от серийной постройки кораблей по проекту 41, а в качестве альтернативы был предложен проект модернизированного эсминца меньшего водоизмещения. В 1951–53 гг. был разработан эскизный проект, получивший индекс 56, отличавшийся от прототипа прежде всего формой корпуса и уменьшенным водоизмещением.\n"
+"\n"
+"«Спокойный» был заложен в марте 1953 г. на заводе им. Жданова в Ленинграде, спущен на воду в ноябре того же года и вступил в строй в июне 1956 г. После прохождения испытаний корабль был переведён в состав Северного флота. После ремонта 1964–66 гг. эсминец служил на Балтике, в 1970 г. принимал участие в крупных военных учениях «Океан-70». C 1978 г. служил в составе 7-й оперативной (Атлантической) эскадры ВМФ СССР."
+
+msgid "IDS_PRSD319_FULL"
+msgstr "Спокойный"
+
+msgid "IDS_PRSD319_NUMBER"
+msgstr "27"
+
+msgid "IDS_PRSD319_YEAR"
+msgstr "1956 г."
+
+msgid "IDS_PRSD320"
+msgstr "Горделивый"
+
+msgid "IDS_PRSD320_DESCR"
+msgstr ""
+"Вступившие в строй в середине 1950-х гг. эскадренные миноносцы проекта 56, хоть и отличались хорошей мореходностью, были не вполне удовлетворительны по ходкости, а надстройки, выполненные из дюралюминия, страдали от вибрации и деформаций. Кроме того, проект 56 отличался плохими условиями обитаемости, а из-за стеснённости помещений он обладал низким модернизационным потенциалом.\n"
+"\n"
+"Самым рациональным путём устранения этих недостатков было проектирование нового эсминца в размерениях корабля проекта 41, но на новом техническом уровне и с применением новейших радиотехнических средств и вооружения. Это позволило бы сократить экипаж и повысить энергетическую эффективность корабля. Но к середине 1960-х гг. все передовые державы уже строили корабли с управляемым ракетным вооружением, и СССР не стал проектировать исключительно артиллерийский корабль, отдав предпочтение ракетному проекту 57-бис."
+
+msgid "IDS_PRSD320_FULL"
+msgstr "Горделивый"
+
+msgid "IDS_PRSD320_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSD320_YEAR"
+msgstr "1957 г."
+
+msgid "IDS_PRSD509"
+msgstr "Современный"
+
+msgid "IDS_PRSD509_DESCR"
+msgstr ""
+"Из восьми заложенных лидеров проекта 48 только два были спущены на воду. В 1944–50 гг. в ЦКБ-17 и в конструкторском бюро завода № 444 велись работы по эскизному проектированию корабля с индексом 48-К, но в 1950 г. Министерство судостроения СССР приняло решение отменить достройку лидеров и переоборудовать корпуса в корабли-мишени. К этому времени корабли уже классифицировались как эскадренные миноносцы, а не лидеры.\n"
+"\n"
+"Корпус «Еревана» был потоплен в 1957 г. на испытаниях ракеты КСЩ, но корпус «Киева» в начале 1960-х гг. перевели с Каспия, где он находился в качестве опытового судна, обратно в Николаев. По некоторым данным, рассматривались разные концепции достройки корабля: от эсминца с управляемым ракетным оружием до опытного носителя испытываемых систем вооружения. В случае достройки корпуса бывшего «Киева» как артиллерийского эсминца он мог бы получить современное вооружение из универсальных 100-мм артустановок, новейших РБУ и т. д."
+
+msgid "IDS_PRSD509_FULL"
+msgstr "Современный"
+
+msgid "IDS_PRSD509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSD509_YEAR"
+msgstr "1962 г."
+
+msgid "IDS_PRUA500_ART_TOP_SECRET"
+msgstr "356-мм/52 обр. 1913 г. в башне Металлического з-да"
+
+msgid "IDS_PRUA507_D6_ART_STOCK"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-13-IIc"
+
+msgid "IDS_PRUA508_ART_MAKAROV_CHALLENGE"
+msgstr "150-мм/60 SK C/25 в установке Drh Tr C/28"
+
+msgid "IDS_PRUA605_D7_ART_STOCK"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-2ЛМ"
+
+msgid "IDS_PRUA715_D8_ART_STOCK"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-2ЛМ"
+
+msgid "IDS_PRUA716_D8_ART_STOCK"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-31"
+
+msgid "IDS_PRUA820_D9_ART_STOCK"
+msgstr "130-мм/58 обр. 1957 г. в установке СМ-2-1"
+
+msgid "IDS_PRUA824_ART_SOVREMENNY"
+msgstr "100-мм/70 в установке СМ-51"
+
+msgid "IDS_PRUA922_D10_ART_STOCK"
+msgstr "130-мм/58 обр. 1957 г. в установке СМ-61"
+
+msgid "IDS_PRUE500_ENG_TOP_SECRET"
+msgstr "ЭУ 75 000 л.с."
+
+msgid "IDS_PRUE507_D6_ENG_STOCK"
+msgstr "ЭУ 54 000 л.с."
+
+msgid "IDS_PRUE509_ENG_MAKAROV_CHALLENGE"
+msgstr "ЭУ 60 000 л.с."
+
+msgid "IDS_PRUE606_D7_ENG_STOCK"
+msgstr "ЭУ 60 810 л.с."
+
+msgid "IDS_PRUE723_D8_ENG_STOCK"
+msgstr "ЭУ 62 100 л.с."
+
+msgid "IDS_PRUE724_D8_ENG_STOCK"
+msgstr "ЭУ 70 000 л.с."
+
+msgid "IDS_PRUE820_D9_ENG_STOCK"
+msgstr "ЭУ 72 000 л.с."
+
+msgid "IDS_PRUE821_ENG_SOVREMENNY"
+msgstr "ЭУ 90 000 л.с."
+
+msgid "IDS_PRUE924_D10_ENG_STOCK"
+msgstr "ЭУ 76 000 л.с."
+
+msgid "IDS_PRUH516_HULL_TOP_SECRET"
+msgstr "Топ Сикрет"
+
+msgid "IDS_PRUH517_D6_HULL_STOCK"
+msgstr "Сообразительный"
+
+msgid "IDS_PRUH518_HULL_MAKAROV_CHALLENGE"
+msgstr "Адмирал Макаров"
+
+msgid "IDS_PRUH610_D7_HULL_STOCK"
+msgstr "Осмотрительный"
+
+msgid "IDS_PRUH731_D8_HULL_STOCK"
+msgstr "Смелый"
+
+msgid "IDS_PRUH732_D8_HULL_STOCK"
+msgstr "Опытный"
+
+msgid "IDS_PRUH828_D9_HULL_STOCK"
+msgstr "Спокойный"
+
+msgid "IDS_PRUH829_HULL_SOVREMENNY"
+msgstr "Современный"
+
+msgid "IDS_PRUH924_D10_HULL_STOCK"
+msgstr "Горделивый"
+
+msgid "IDS_PRUS508_SUO_TOP_SECRET"
+msgstr "СУО VI"
+
+msgid "IDS_PRUS509_D6_SUO_STOCK"
+msgstr "СУО VI"
+
+msgid "IDS_PRUS510_SUO_MAKAROV_CHALLENGE"
+msgstr "СУО VI мод. 1"
+
+msgid "IDS_PRUS608_D7_SUO_STOCK"
+msgstr "СУО VII"
+
+msgid "IDS_PRUS710_D8_SUO_STOCK"
+msgstr "СУО VIII"
+
+msgid "IDS_PRUS724_D8_SUO_STOCK"
+msgstr "СУО VIII"
+
+msgid "IDS_PRUS827_D9_SUO_STOCK"
+msgstr "СУО IX"
+
+msgid "IDS_PRUS828_SUO_SOVREMENNY"
+msgstr "СУО IX"
+
+msgid "IDS_PRUS920_D10_SUO_STOCK"
+msgstr "СУО X"
+
+msgid "IDS_PRUT504_D6_TORP_STOCK"
+msgstr "53-39"
+
+msgid "IDS_PRUT505_TORP_MAKAROV_CHALLENGE"
+msgstr "G7a T1"
+
+msgid "IDS_PRUT606_D7_TORP_STOCK"
+msgstr "53-39 мод. 4"
+
+msgid "IDS_PRUT713_D8_TORP_STOCK"
+msgstr "53-51"
+
+msgid "IDS_PRUT714_D8_TORP_STOCK"
+msgstr "53-38"
+
+msgid "IDS_PRUT814_TORP_SOVREMENNY"
+msgstr "53-51"
+
+msgid "IDS_PRUT815_D9_TORP_STOCK"
+msgstr "53-51"
+
+msgid "IDS_PRUT918_D10_TORP_STOCK"
+msgstr "53-51"
+
+msgid "IDS_PSGA062_40MM_BOFORS_MARK_IV_HAZEMEYER"
+msgstr "40-мм/56 OQF Mk.1/2 в установке Mk.IV"
+
+msgid "IDS_PSGA063_20MM_OERLIKON_MK4"
+msgstr "20-мм Oerlikon Mk.I в установке Mk.IIA"
+
+msgid "IDS_PSGA065_2_PDR_MKVII_QUAD"
+msgstr "40-мм/39 Vickers QF Mk.VIII в установке Mk.VII"
+
+msgid "IDS_PSGA066_20MM_OERLIKON_MK_V"
+msgstr "20-мм Oerlikon Mk.II в установке Mk.V"
+
+msgid "IDS_PSGM061_12IN50_MK_XV"
+msgstr "305-мм/50 VSM Mark H в башенной установке"
+
+msgid "IDS_PSGS064_114MM_45_MKIII"
+msgstr "113-мм/45 QF Mk.I/III в установке RP10 Mark II BD"
+
+msgid "IDS_PSPA031_305MM_HE_MADRID"
+msgstr "305-мм HE Mk IIb"
+
+msgid "IDS_PSPA032_305MM_AP_MADRID"
+msgstr "305-мм AP Mk VIb"
+
+msgid "IDS_PSPA033_114MM_MII_HE"
+msgstr "113-мм HE 5crh"
+
+msgid "IDS_PSPT009_MADRID"
+msgstr "533-мм Mk VIII ES"
+
+msgid "IDS_PSSC510"
+msgstr "Madrid"
+
+msgid "IDS_PSSC510_DESCR"
+msgstr ""
+"После гражданской войны испанские кораблестроители, в частности верфь "
+"в Ферроле, занимались разработкой новых кораблей. В 1938 г. было проработано"
+" пять проектов эсминцев и несколько проектов крейсеров водоизмещением "
+"от 7 920 до 19 000 т. Крупнейшим из них был проект 138, причём у него было "
+"несколько вариантов, которые различались главным калибром орудий. Одним "
+"из основных был вариант постройки крейсера с двухорудийными башнями "
+"от линкора España, погибшего у берегов Сантандера во время гражданской "
+"войны. Линкор был поднят — корпус восстановлению не подлежал, но его 305-мм "
+"орудия планировалось использовать либо в целях береговой обороны, либо "
+"для постройки новых крейсеров."
+
+msgid "IDS_PSSC510_FULL"
+msgstr "Madrid"
+
+msgid "IDS_PSSC510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PSSC510_YEAR"
+msgstr "1938 г."
+
+msgid "IDS_PSUA904_ART_MADRID"
+msgstr "305-мм/50 VSM Mark H в башенной установке"
+
+msgid "IDS_PSUE904_ENG_MADRID"
+msgstr "ЭУ 135 560 л.с."
+
+msgid "IDS_PSUH904_HULL_MADRID"
+msgstr "Madrid"
+
+msgid "IDS_PSUS904_SUO_MADRID"
+msgstr "SCI Mk X"
+
+msgid "IDS_PSUT903_TORP_MADRID"
+msgstr "533-мм Vierling"
+
+msgid "IDS_PZES301_HANOI_EA"
+msgstr "Пламенный воин"
+
+msgid "IDS_PZES302_DONGFENG_EA"
+msgstr "Пламенный воин"
+
+msgid "IDS_PZES303_TIANGONG_EA"
+msgstr "Пламенный воин"
+
+msgid "IDS_PZES411_HENGSHUI_LNY"
+msgstr "Пробуждение Востока"
+
+msgid "IDS_RESET_CREW_FILTERS_BUTTON_LABEL"
+msgstr "Сбросить фильтры"
+
+msgid "IDS_REST_REWARDS_HINT"
+msgstr "И ещё %(_count)s"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE"
+msgstr "Премиум контейнер Błyskawica '63"
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE_SHORT"
+msgstr "Błyskawica '63"
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE"
+msgstr "Контейнер Utopia Show"
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE_SHORT"
+msgstr "Utopia Show"
+
+msgid "IDS_SCENARIO_PCVT001_DAMAGE_PRIME"
+msgstr "Огневая мощь"
+
+msgid "IDS_SCENARIO_PCVT002_CITADEL_PRIME"
+msgstr "Меткость стрельбы"
+
+msgid "IDS_SCENARIO_PCVT003_FRAGS_PRIME"
+msgstr "Ликвидация целей"
+
+msgid "IDS_SCENARIO_TRIALS_TEST"
+msgstr "Наладочный сценарий"
+
+msgid "IDS_SECOND_UTOPIA_NAME"
+msgstr "Доска расследований № 2"
+
+msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TRIAL"
+msgstr ""
+"Выберите один из кораблей, допущенных для участия в Учебных испытаниях."
+
+msgid "IDS_SHIP_ACES_NATION_TITLE"
+msgstr "Личные испытания: нации"
+
+msgid "IDS_SHIP_ACES_SHIP_TYPE_TITLE"
+msgstr "Личные испытания: классы"
+
+msgid "IDS_SHIP_FEATURES_PVE_SHIP"
+msgstr "Ограничения по типу боя"
+
+msgid "IDS_SHIP_FEATURES_PVE_SHIP_DESCRIPTION"
+msgstr ""
+"Вы можете выбрать этот корабль только для участия в Операциях и Учебных "
+"испытаниях."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
+msgstr ""
+"Боевые характеристики кораблей изменены. Набор изменений зависит от класса "
+"корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_WEAPON_DAMAGE_H2023"
+msgstr ""
+"Уменьшает получаемый урон и увеличивает урон, который вы наносите "
+"противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ACCURACY"
+msgstr "Уменьшение точности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_CONSUMABLES"
+msgstr "Ослабление характеристик снаряжения"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_DAMAGE_RESIST"
+msgstr "Уменьшение живучести"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ENGINE"
+msgstr "Ослабление манёвренности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_HEALTH_REGENERATION"
+msgstr "Замедленное восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_WEAPONS_RELOAD_FACTOR"
+msgstr "Замедление перезарядки"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INTANIA_MAGIC"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_RUSY_VS_LIZARDS"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_WEAPON_DAMAGE_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SOUND_MOD_EVAVALENTINE"
+msgstr "Eva Valentine"
+
+msgid "IDS_SOUND_MOD_UTOPIASHOW_CONSPIROLOGIST"
+msgstr "Дункан Ч."
+
+msgid "IDS_SOUND_MOD_UTOPIASHOW_GNIDOVSKY"
+msgstr "Руперт Г."
+
+msgid "IDS_SOUND_MOD_UTOPIASHOW_HRENSBERG"
+msgstr "Дик Х."
+
+msgid "IDS_SPACES/E13_TRIALS_MAPPRIME"
+msgstr "Испытательная база"
+
+msgid "IDS_SPACES/E13_TRIALS_MAPPRIME_DESCR"
+msgstr "Испытательная база"
+
+msgid "IDS_START_BATTLE_DENY_PVE_ONLY"
+msgstr ""
+"Выбранный корабль может участвовать только в Учебных испытаниях и Операциях."
+
+msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_EPIC_SKILL_FOR_SLOT"
+msgstr ""
+"Вы сможете улучшить этот навык, когда у вас будет командир с таким "
+"улучшенным навыком"
+
+msgid "IDS_SUBMARINE_PL_GENITIVE"
+msgstr "подводных лодок"
+
+msgid "IDS_SYS_MSG_HINT_LEFT_CLICK_FOR_CREW_INFO_TRANSITION"
+msgstr "Открыть личное дело"
+
+msgid "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
+msgid_plural "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
+msgstr[0] "В резерве осталось %(count)d место"
+
+msgid "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
+msgid_plural "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
+msgstr[0] "В резерве осталось %(count)d место"
+
+msgid "IDS_TAB_HINT_CREW_RESERVE_NO_SPACE_LEFT"
+msgstr "В резерве не осталось мест. Демобилизуйте лишних командиров."
+
+msgid "IDS_THIRD_UTOPIA_NAME"
+msgstr "Доска расследований № 3"
+
+msgid "IDS_THIS_SHIP_IS_NOT_ALLOWED_FOR_TRIAL"
+msgstr "Выбранный корабль не может участвовать в Учебных испытаниях."
+
+msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TRIAL"
+msgstr ""
+"Выбранный корабль не подходит по уровню для участия в Учебных испытаниях."
+
+msgid "IDS_TOOLTIP_CREW_FILTERS"
+msgstr "Открыть панель фильтров командиров"
+
+msgid "IDS_TRIAL"
+msgstr "Учебные испытания"
+
+msgid "IDS_TRIALBATTLE"
+msgstr "Учебные испытания"
+
+msgid "IDS_TRIALS_BRIEFING_COMMON"
+msgstr "Брифинг"
+
+msgid "IDS_TRIALS_MULTIPLIERS_LEGEND"
+msgstr "Условные обозначения"
+
+msgid "IDS_TRIALS_OBJECTIVE_COMMON"
+msgstr "Задача"
+
+msgid "IDS_TRIAL_BONUS_POINTS_ACCUMULATING"
+msgstr "БОНУСНЫЕ ОЧКИ!"
+
+msgid "IDS_TRIAL_CITADELS"
+msgstr "МЕТКОСТЬ СТРЕЛЬБЫ"
+
+msgid "IDS_TRIAL_CITADELS_DESCRIPTION"
+msgstr "Попадайте в цитадели"
+
+msgid "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
+msgid_plural "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
+msgstr[0] "Попадите в цитадель кораблей противника %(_targetScores)s раз"
+
+msgid "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
+msgid_plural "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
+msgstr[0] "Попадите в цитадель кораблей противника %(_targetScores)s раз"
+
+msgid "IDS_TRIAL_CIT_PRIME_AIM_CENTER_BOARD"
+msgstr ""
+"Чтобы попадать в цитадель корабля, цельтесь в центральную часть борта "
+"в области ватерлинии"
+
+msgid "IDS_TRIAL_CIT_PRIME_CHANGE_AMMO"
+msgstr "Выберите бронебойные снаряды, чтобы поражать цитадели"
+
+msgid "IDS_TRIAL_CIT_PRIME_RICOCHET"
+msgstr ""
+"Чтобы избежать сквозных пробитий и рикошетов, цельтесь в центральную часть "
+"борта в области ватерлинии"
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_1"
+msgstr ""
+"Поразите как можно больше цитаделей, чтобы пройти этап. Цитадель отмечена "
+"на корпусах кораблей чёрным цветом."
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_2"
+msgstr ""
+"Противник маневрирует — дождитесь, когда он развернётся к вам бортом, чтобы "
+"поразить цитадель"
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_3"
+msgstr "Стреляйте в корабли с отметками [st_x5], чтобы получить больше очков"
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_4"
+msgstr ""
+"Успейте поразить цитадель корабля с отметкой [st_x5] до того, как его "
+"уничтожат союзники"
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_5"
+msgstr ""
+"Защищайте точку! Если точку [sm_moveto] захватит противник, модификатор "
+"очков уменьшится до [st_x2]. Если союзник — увеличится до [st_x5]!"
+
+msgid "IDS_TRIAL_DAMAGE"
+msgstr "ОГНЕВАЯ МОЩЬ"
+
+msgid "IDS_TRIAL_DAMAGE_DESCRIPTION"
+msgstr "Наносите урон"
+
+msgid "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
+msgid_plural "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
+msgstr[0] "Нанесите %(_targetScores)s ед. урона кораблям противника"
+
+msgid "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
+msgid_plural "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
+msgstr[0] "Нанесите %(_targetScores)s ед. урона кораблям противника"
+
+msgid "IDS_TRIAL_DESCRIPTION"
+msgstr "Испытания, в которых вы можете оттачивать свои боевые навыки."
+
+msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_BS_SPAWN"
+msgstr ""
+"Поджигайте [e1] линкоры осколочно-фугасными снарядами. Каждое возгорание "
+"будет наносить урон продолжительное время."
+
+msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_CR_SPAWN"
+msgstr ""
+"Борт [e2] крейсера — идеальная цель для бронебойных снарядов. Для "
+"максимального урона стреляйте в область ватерлинии."
+
+msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_DD_SPAWN"
+msgstr "Для борьбы с [e3] эсминцами используйте осколочно-фугасные снаряды! "
+
+msgid "IDS_TRIAL_DMG_PRIME_HINT_AP_MODIFICATOR"
+msgstr ""
+"Наносите урон кораблям с отметкой [st_attack] бронебойными снарядами, чтобы "
+"получить вдвое больше очков!"
+
+msgid "IDS_TRIAL_DMG_PRIME_HINT_HE_MODIFICATOR"
+msgstr ""
+"Наносите урон кораблям с отметкой [st_attack] осколочно-фугасными снарядами,"
+" чтобы получить вдвое больше очков!"
+
+msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE"
+msgstr "Теперь заметность кораблей противника такая же, как в настоящем бою!"
+
+msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE_HINT"
+msgstr ""
+"У каждого корабля есть параметр заметности — расстояние, в пределах которого"
+" его всегда видно. Если он перестанет стрелять, находясь от вас дальше, он "
+"пропадёт из виду."
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE2_ANNONCEMENT"
+msgstr ""
+"Стреляйте по легкобронированным крейсерам. Обратите внимание: цели "
+"маневрируют!"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT"
+msgstr ""
+"При стрельбе бронебойными снарядами выбирайте цели, расположенные к вам "
+"бортом. Пользуйтесь мини-картой!"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT2"
+msgstr ""
+"Если корабль противника расположен к вам под углом, стреляйте осколочно-"
+"фугасными или полубронебойными снарядами!"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE3_ANNONCEMENT"
+msgstr ""
+"Стреляйте по кораблям с отметками! Используйте указанный тип снарядов, чтобы"
+" получить больше очков."
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE4_ANNONCEMENT"
+msgstr "Если корабль перестанет стрелять, он может пропасть из виду"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE5_ANNONCEMENT"
+msgstr "Эффективно используйте полученные знания!"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE5_RULES_1"
+msgstr ""
+"Уничтожайте корабли, чтобы получать больше очков за урон другим целям. "
+"Каждый уничтоженный корабль увеличивает модификатор."
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE6_ANNONCEMENT"
+msgstr "Перезарядка всего вооружения вашего корабля ускорена!"
+
+msgid "IDS_TRIAL_FRAGS"
+msgstr "ЛИКВИДАЦИЯ ЦЕЛЕЙ"
+
+msgid "IDS_TRIAL_FRAGS_DESCRIPTION"
+msgstr "Уничтожайте корабли"
+
+msgid "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
+msgid_plural "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
+msgstr[0] "Уничтожьте %(_targetScores)s корабль противника"
+
+msgid "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
+msgid_plural "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
+msgstr[0] "Уничтожьте %(_targetScores)s корабль противника"
+
+msgid "IDS_TRIAL_FRAG_PRIME_PHASE1_ANNONCEMENT"
+msgstr "В этом этапе вам нужно действовать совместно с союзниками"
+
+msgid "IDS_TRIAL_FRAG_PRIME_PHASE2_ANNONCEMENT"
+msgstr "Уничтожайте корабли до того, как они успеют выстрелить!"
+
+msgid "IDS_TRIAL_FRAG_PRIME_PHASE3A_ANNONCEMENT"
+msgstr "Стреляйте в корабли и уничтожайте их, даже если они пропали из виду!"
+
+msgid "IDS_TRIAL_FRAG_PRIME_SPEECH_009"
+msgstr ""
+"Наведите прицел на корабль противника и нажмите [KEY_F3], чтобы союзники "
+"сфокусировали огонь на этом корабле"
+
+msgid "IDS_TRIAL_HUB_TRIAL_END"
+msgstr "Испытание завершено"
+
+msgid "IDS_TRIAL_HUB_TRIAL_FAILURE"
+msgstr "Испытание не выполнено"
+
+msgid "IDS_TRIAL_HUB_TRIAL_SUCCESS"
+msgstr "Испытание выполнено!"
+
+msgid "IDS_TRIAL_PRIME_SPEECH_012"
+msgstr ""
+"Используйте весь полученный опыт, чтобы уничтожить как можно больше "
+"кораблей!"
+
+msgid "IDS_TRIAL_ROUNDS_COUNTER"
+msgstr "ЭТАП %(_trialRound)s / %(_trialRoundsCount)s"
+
+msgid "IDS_TRIAL_ROUND_IS_OVER"
+msgstr "ЭТАП ЗАВЕРШЁН"
+
+msgid "IDS_TRIAL_ROUND_NUMBER_ENDED"
+msgstr "%(_round)s-Й ЭТАП ЗАВЕРШЁН"
+
+msgid "IDS_TRIAL_TASK_PASSED"
+msgstr "ЗАДАЧА ВЫПОЛНЕНА"
+
+msgid "IDS_UNABLE_HIRE_CREW_NO_PLACE_IN_BARRACKS_TOOLTIP"
+msgstr "Нет места в резерве. Нанять нового командира невозможно."
+
+msgid "IDS_UNLOCKS_2015"
+msgstr "Изменяйте внешний вид кораблей с помощью камуфляжей и флагов."
+
+msgid "IDS_UNLOCKS_3"
+msgstr "Сражайтесь против реальных игроков."
+
+msgid "IDS_UNLOCKS_3124"
+msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_2015_0"
+msgstr "Камуфляжи и флаги позволяют изменять внешний вид ваших кораблей."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_2015_1"
+msgstr ""
+"Установленный на корабль расходуемый камуфляж списывается за проведённый "
+"бой. Постоянные камуфляжи не расходуются и не требуют пополнения."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_2015_2"
+msgstr ""
+"Камуфляжи можно получить, участвуя в различных событиях, а также купить "
+"за кредиты или дублоны."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
+msgstr ""
+"В Операциях вашей команде необходимо выполнять различные задания, сражаясь "
+"с ботами. Каждая Операция обладает уникальными сюжетными элементами."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
+msgstr ""
+"Достигните основной цели, чтобы одержать победу. Выполнение дополнительных "
+"задач увеличит количество заработанных за бой ресурсов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
+msgstr ""
+"Сложность Операции зависит от уровней и классов кораблей в вашей команде."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgstr ""
+"Сражайтесь против реальных игроков. Составы команд подбираются случайным "
+"образом."
+
+msgid "IDS_UNLOCKS_LEVEL_UP_2015"
+msgstr ""
+"<body>Вам стало доступно\n"
+"<h3>Изменение внешнего вида корабля</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Случайные бои</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Операции</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_2015"
+msgstr "Доступно во вкладке «Внешний вид»."
+
+msgid "IDS_UNLOCKS_LOCATION_3"
+msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
+
+msgid "IDS_UNLOCKS_LOCATION_3124"
+msgstr "Доступно на экране выбора типа боя."
+
+msgid "IDS_UNLOCKS_TITLE_2015"
+msgstr "Внешний вид"
+
+msgid "IDS_UNLOCKS_TITLE_3"
+msgstr "Случайные бои"
+
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "Операции"

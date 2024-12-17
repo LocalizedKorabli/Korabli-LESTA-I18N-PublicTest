@@ -1,0 +1,46 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_EVENT_SMF_EQUIPMENT_REVERSAL"
+msgstr "Доступно снаряжение «Разворот»"
+
+msgid "IDS_EVENT_SMF_FORSAGE_HIGH"
+msgstr "«Форсаж» с большим временем действия"
+
+msgid "IDS_EVENT_SMF_FORSAGE_LOW"
+msgstr "«Форсаж» с малым временем действия"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_FAST_RELOAD"
+msgstr "Быстрая перезарядка волномёта"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_NARROW_AND_FAST"
+msgstr "Волномёт пускает узкие и быстрые волны"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_SLOW_RELOAD"
+msgstr "Медленная перезарядка волномёта"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_WIDE_AND_SLOW"
+msgstr "Волномёт пускает широкие и медленные волны"
+
+msgid "IDS_SOUND_MOD_SMF_SMF_HARE"
+msgstr "Заяц"
+
+msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_HARE"
+msgstr "Заяц '21"
+
+msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_WOLF"
+msgstr "Волк '21"
+
+msgid "IDS_SOUND_MOD_SMF_SMF_WOLF"
+msgstr "Волк"
