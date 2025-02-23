@@ -1,415 +1,102 @@
 #
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
-msgid "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_DESCRIPTION"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ARSONIST"
+msgstr "Уничтожить корабль противника. При этом урон, нанесённый пожаром, должен составлять не менее %(damageRatio_percent)s от штатной боеспособности уничтоженного корабля."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_LIQUIDATOR"
+msgstr "Уничтожить корабль противника. При этом урон, нанесённый затоплением, должен составлять не менее %(damageRatio_percent)s от штатной боеспособности уничтоженного корабля."
+
+msgid "IDS_ADDITIONAL_CONTENT"
+msgstr "Камуфляжи и командиры в неисторической стилистике"
+
+msgid "IDS_CURRENCY_EVENTUM_9_GET_DESCRIPTION"
+msgstr "Из случайных наборов в Адмиралтействе до конца обновления 25.3."
+
+msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
+msgstr "На случайные наборы с контейнерами «Премиум корабль II–IV», «Премиум корабль V», «Премиум корабль VI», «Премиум корабль VIII» и «Премиум корабль IX», очками исследования, контейнерами «Элитные бонусы» и другим имуществом до конца обновления 25.3."
+
+msgid "IDS_CURRENCY_EVENTUM_9_STATUS"
+msgstr "Временный ресурс события «Морские трофеи». С выходом обновления 25.4 жетоны будут списаны без компенсации."
+
+msgid "IDS_PARAMS_MODIFIER_SHIPVISIBILITYWORKINGDEPTHSTATEINSMOKE"
+msgstr "С рабочей глубины"
+
+msgid "IDS_PASC210_NUMBER"
+msgstr "2"
+
+msgid "IDS_PASS910"
+msgstr "Ide"
+
+msgid "IDS_PASS910_DESCR"
+msgstr "Подводные лодки, разрабатывавшиеся в межвоенное время, были призваны действовать совместно с линкорами, обеспечивать разведку и добивать повреждённые корабли противника. Они должны были обладать высокой скоростью и тяжёлым вооружением. После событий на Тихоокеанском театре военных действий эти тактические концепции устарели, и новый тип уже разрабатывался для дальних походов: такие подводные лодки предполагали повышенный комфорт для экипажа, а также большой запас топлива и торпед."
+
+msgid "IDS_PASS910_FULL"
+msgstr "Ide"
+
+msgid "IDS_PAUH923_HULL_BALAO_TEST"
+msgstr "Ide"
+
+msgid "IDS_PFSD508_DESCR"
 msgstr ""
-"Наставник и соратники в составе отряда должны совместно получить не менее "
-"4 лент «Захватил точку» или «Помог захватить»."
-
-msgid "IDS_ASSIGN_NEW_CREW_DISABLE_REASON_FULL_BARRACKS"
-msgstr "В резерве не осталось мест. Демобилизуйте командиров в резерве."
-
-msgid "IDS_BARRACK_IS_FULL"
-msgstr "В резерве нет места"
-
-msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
-msgstr "Можно получить красных конвертов"
-
-msgid "IDS_CALL_TO_ACTION_BANNER_TEXT"
-msgstr "Награда за бой!"
-
-msgid "IDS_CONTEXT_BUTTON_STATUS_CREW_HAS_RESTRICTION_ON_BARRACKS"
-msgstr "Этого командира нельзя отправить в резерв"
-
-msgid "IDS_CREW_HIRE_CREW_DESCRIPTION_1"
-msgstr ""
-"Назначьте командира из резерва, с другого корабля или рекрутируйте нового."
-
-msgid "IDS_CREW_IN_BARRACKS"
-msgstr "В резерве"
-
-msgid "IDS_CREW_SEND_TO_BARRACKS"
-msgstr "Отправить командира в резерв"
-
-msgid "IDS_CREW_SEND_TO_BARRACKS_TOOLTIP"
-msgstr "Командир будет отправлен в резерв"
-
-msgid "IDS_CREW_TO_BARRACKS"
-msgstr "Отправить в резерв"
-
-msgid "IDS_CURRENCY_EVENTUM_2"
-msgstr "Красные конверты"
-
-msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
-msgstr ""
-"За выполнение боевых задач до конца обновления 25.1, а также из наборов "
-"в Адмиралтействе до конца события в обновлениях 25.1 и 25.2."
-
-msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
-msgstr ""
-"На крейсер IX уровня Hengshui c постоянным тематическим камуфляжем, "
-"на случайные наборы с крейсером VI уровня Huanghe, премиум контейнерами "
-"«Лунный Новый год», а также на другое имущество до конца события "
-"в обновлениях 25.1 и 25.2."
-
-msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
-msgstr ""
-"Временный ресурс. С выходом обновления 25.3 будет списан без компенсации."
-
-msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "Жетоны Пан-Азии"
-
-msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr ""
-"За достижение уровней Боевого пропуска и в разделе «Ежедневные награды» "
-"до конца обновления 25.1, а также из наборов в Адмиралтействе до конца "
-"обновления 25.2."
-
-msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr ""
-"На последовательные наборы с кораблями раннего доступа VI и X уровней Chakri"
-" и Tiangong, с экономическими комплектами для Chakri и корабля раннего "
-"доступа VIII уровня Hanoi, с постоянными камуфляжами для Hanoi, Tiangong и "
-"корабля раннего доступа IX уровня Dongfeng, а также на другое имущество "
-"до конца обновления 25.2."
-
-msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr ""
-"Временный ресурс события «Линкоры Пан-Азии». С выходом обновления 25.3 "
-"жетоны будут списаны без компенсации."
-
-msgid "IDS_DISABLE_CREW_PANEL"
-msgstr ""
-"Не может быть назначен на другой корабль, отправлен в резерв или "
-"демобилизован."
-
-msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для отправки в резерв."
-
-msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_FORMATION"
-msgstr ""
-"Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для отправки "
-"командира в резерв."
-
-msgid "IDS_ECONOMIC_BOOST_SUMMARY_CLANBOOST_ITEM_TOOLTIP"
-msgstr "Клановый бонус"
-
-msgid "IDS_ECONOMIC_BOOST_SUMMARY_GLOBALBOOST_ITEM_TOOLTIP"
-msgstr "Личный бонус"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE"
-msgstr "Суммарный бонус"
-
-msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_AIRCARRIER"
-msgstr "Свободных очков навыков для авианосцев:"
-
-msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_BATTLESHIP"
-msgstr "Свободных очков навыков для линкоров:"
-
-msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_CRUISER"
-msgstr "Свободных очков навыков для крейсеров:"
-
-msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_DESTROYER"
-msgstr "Свободных очков навыков для эсминцев:"
-
-msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_SUBMARINE"
-msgstr "Свободных очков навыков для подводных лодок:"
-
-msgid "IDS_GUIDING_TIP_288_DESC"
-msgstr "В вашем резерве есть командир, вы можете назначить его на корабль."
-
-msgid "IDS_GUIDING_TIP_289_DESC"
-msgstr "В вашем резерве есть командир, вы можете назначить его на корабль."
-
-msgid "IDS_GUIDING_TIP_316_HEADER"
-msgstr "Приоритетные задачи выполнены"
-
-msgid "IDS_GUIDING_TIP_317_HEADER"
-msgstr "Приоритетные задачи выполнены"
-
-msgid "IDS_HIRE_NEW_CREW"
-msgstr "Рекрутировать нового"
-
-msgid ""
-"IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_ASIDE_CONTAINER_MULTIBOOST_CARD_UNAVAILABLE_HINT"
-msgstr "Недоступно для этого корабля"
-
-msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_7"
-msgstr "командиры будут отправлены в резерв;"
-
-msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr ""
-"Золотое яйцо: +30\n"
-"Белое яйцо: +10\n"
-"Акула: −20"
-
-msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_DENY"
-msgstr "Отказаться от улучшения"
-
-msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_4"
-msgstr "Командиры будут отправлены в резерв."
-
-msgid "IDS_PCEE690_NATSUKAZE_FLAG_DESCRIPTION"
-msgstr ""
-"Natsukaze в переводе с японского означает «летний бриз». Бриз — это "
-"прибрежный ветер с суточной периодичностью. Днём воздух движется с моря "
-"к тёплой суше, а ночью ветер дует с быстро остывающего побережья к воде."
-
-msgid "IDS_PCQT036_1"
-msgstr "Получите ленту «Стратегический вклад»."
-
-msgid "IDS_PCQT067_1"
-msgid_plural "IDS_PCQT067_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
-
-msgid "IDS_PCQT109_1"
-msgstr "Получите ленту «Стратегический вклад»."
-
-msgid "IDS_PCQT122_1"
-msgid_plural "IDS_PCQT122_1"
-msgstr[0] ""
-"Получите %(count)s ленту «Стратегический вклад» или «Тактический вклад»."
-
-msgid "IDS_PCQT140_1"
-msgid_plural "IDS_PCQT140_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
-
-msgid "IDS_PCQT141_1"
-msgid_plural "IDS_PCQT141_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
-
-msgid "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
-msgid_plural "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
-
-msgid "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
-msgid_plural "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
-
-msgid "IDS_PCQT394_1"
-msgid_plural "IDS_PCQT394_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
-
-msgid "IDS_PCQT396_1"
-msgid_plural "IDS_PCQT396_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
-
-msgid "IDS_PCQT403_1"
-msgid_plural "IDS_PCQT403_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад» и останьтесь в живых."
-
-msgid "IDS_PCQT417_1"
-msgid_plural "IDS_PCQT417_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
-
-msgid "IDS_PCQT512_1"
-msgid_plural "IDS_PCQT512_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
-
-msgid "IDS_PCQT660_1"
-msgid_plural "IDS_PCQT660_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
-
-msgid "IDS_PFSS510_DESCR"
-msgstr ""
-"Уникальный подводный крейсер Surcouf был разработан в середине 1920-х гг. как корабль, способный выполнять роль и подводной лодки, и надводного крейсера.\n"
+"Le Terrible, эсминец типа Le Fantasque, был заложен в Кане в декабре 1931 г., после чего его отбуксировали в Нант для достройки. В 1936 г. корабль вместе со своими систершипами Le Fantasque и L’Audacieux был приписан к 10-му лёгкому дивизиону в составе 2-й лёгкой эскадры в Бресте. В 1939 г. 10-й дивизион вошёл в состав «Рейдерского соединения» (фр. Force de raid). В течение года эсминец занимался сопровождением конвоев и поисками немецких рейдеров в Атлантике.\n"
 "\n"
-"Вооружение субмарины включало в себя несколько традиционных для французского подводного флота торпедных аппаратов калибром 400 и 500 мм в трёхтрубных установках смешанного типа, несколько малокалиберных зенитных орудий и двухорудийную башенноподобную установку с орудиями калибра 203 мм. Подводная лодка также несла гидросамолёт-разведчик.\n"
+"Весной 1940 г. силы Force de Raid были переведены в Алжир, где 3 июля французская база Мерс-эль-Кебир была атакована Королевским военно-морским флотом Великобритании. Le Terrible сопроводил в Тулон линейный крейсер Strasbourg, которому удалось уйти от британских кораблей.\n"
 "\n"
-"Подводный крейсер Surcouf был построен в Шербуре. Летом 1940 г. он ушёл из Бреста в Портсмут, избежав захвата немецкими войсками, однако был интернирован Великобританией в рамках операции «Катапульта». Весной-летом 1941 г. принимал участие в сопровождении атлантических конвоев. Подводный крейсер Surcouf пропал в ночь на 19 февраля 1942 г., предположительно погибнув из-за столкновения с американским сухогрузом."
+"В 1942 г. эсминец был переведён в Дакар, где в ноябре перешёл на сторону «Свободной Франции». В составе её флота корабль принимал участие в высадке в Италии (1943 г.) и в Южной Франции (1944 г). После войны Le Terrible был выведен в резерв."
 
-msgid "IDS_PISS508_DESCR"
-msgstr ""
-"Тип Marcello являлся развитием больших подводных лодок типа Glauco, заказанных Португалией, но вошедших в состав итальянского флота из-за расторжения контракта. Проект оказался удачным: подводные лодки отличались хорошей манёвренностью, скоростью и количеством вооружения, поэтому всего было заказано 11 кораблей этого типа. Это были однокорпусные подводные лодки с бортовыми булями. По итальянской классификации они принадлежали к «большим крейсерским» (или «океанским») подводным лодкам.\n"
-"\n"
-"Giacomo Nani была построена на верфи CRDA в Монфальконе и вошла в состав флота в сентябре 1938 г., будучи приписанной к 2-й эскадре подводных лодок. С началом Второй мировой войны Nani провела три безуспешных похода в Средиземном море, после чего осенью 1940 г. её перевели в Атлантику. Во время своего четвёртого похода подводная лодка потопила шведский угольный транспорт. Giacomo Nani пропала без вести во время своего пятого похода в начале января 1941 г."
+msgid "IDS_PHSC990"
+msgstr "Gouden Leeuw Test"
 
-msgid "IDS_PURCHASE_BUTTON"
-msgstr "ПРОВЕСТИ ОБСЛУЖИВАНИЕ"
+msgid "IDS_PHSC990_DESCR"
+msgstr "Корабль для тестирования."
 
-msgid "IDS_PZSC519_DESCR"
-msgstr ""
-"Новый год по лунно-солнечному календарю в Китае отмечают с древних времён, "
-"первое письменное свидетельство об этой традиции относится к периоду империи"
-" Хань. Празднование было описано в книге «Помесячные указания для четырёх "
-"сословий народа». Автор этого трактата Цуй Ши — учёный и государственный "
-"деятель, происходивший из местности, которая является частью современного "
-"китайского города Хэншуй."
+msgid "IDS_PHSC990_FULL"
+msgstr "Gouden Leeuw Test"
 
-msgid "IDS_PZSC519_YEAR"
-msgstr "1939 г."
+msgid "IDS_PURCHASE_COST"
+msgstr "Покупка"
 
-msgid "IDS_READY_TO_BATTLE_DENY_REASON_NO_CREW"
-msgstr ""
-"Рекрутируйте нового командира или назначьте командира из резерва или "
-"с других кораблей."
+msgid "IDS_RAGE_MODE_AVAILABLE"
+msgstr "Доступны боевые инструкции"
 
-msgid "IDS_REWARD_CREDITSCOEFF_TITLE"
-msgstr "Дополнительные кредиты за бой"
+msgid "IDS_RESEARCH_COST"
+msgstr "Исследование"
 
-msgid "IDS_REWARD_EVENTUM_2_TITLE"
-msgstr "Красные конверты"
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON"
+msgstr "Заменить"
 
-msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "Жетоны Пан-Азии"
+msgid "IDS_SHIPYARD_BUILD_DAYS_LEFT"
+msgstr "До завершения события: %(_timeLeft)s"
 
-msgid "IDS_REWARD_SHIPCREWFREEXPCOEFF_TITLE"
-msgstr "Дополнительный опыт за бой"
+msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
+msgstr "«Юрий Долгорукий» построен"
 
-msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST"
-msgstr "Ускорил дирижабль"
+msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_WAVED"
+msgstr "Ваш корабль отмечен импульсом сонара. На него будут наводиться торпеды, выпущенные подводной лодкой."
 
-msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST_ASSIST"
-msgstr "Помог ускорить"
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_DEPTH_WORKING"
+msgstr "На рабочей глубине"
 
-msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW"
-msgstr "Замедлил дирижабль"
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_GK_IN_SMOKE_TOOLTIP_DESCRIPTION"
+msgstr "Расстояние, на котором корабль может быть обнаружен в дымах после выстрела ГК."
 
-msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW_ASSIST"
-msgstr "Помог замедлить"
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
+msgstr "С рабочей глубины"
 
-msgid "IDS_RIBBON_SSE_BASE_CAPTURE"
-msgstr "Захватил точку"
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS"
+msgstr "Ограничения на корабли"
 
-msgid "IDS_RIBBON_SSE_BASE_CAPTURE_ASSIST"
-msgstr "Помог захватить"
-
-msgid "IDS_RIBBON_SSE_BASE_DEFENSE"
-msgstr "Защитил точку"
-
-msgid "IDS_RIBBON_SSE_DROP"
-msgstr "Подобрал улучшение"
-
-msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_BOOST"
-msgstr "Ускорил дирижабль"
-
-msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_BOOST_ASSIST"
-msgstr "Помог ускорить"
-
-msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_SLOW"
-msgstr "Замедлил дирижабль"
-
-msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
-msgstr "Помог замедлить"
-
-msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE"
-msgstr "Захватил точку"
-
-msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE_ASSIST"
-msgstr "Помог захватить"
-
-msgid "IDS_RIBBON_SUBRIBBON_BASE_DEFENSE"
-msgstr "Защитил точку"
-
-msgid "IDS_RIBBON_SUBRIBBON_DROP"
-msgstr "Подобрал улучшение"
-
-msgid "IDS_RIGHTS_RESERVED"
-msgstr ""
-"© Леста Игры, 2022–2025. Игра «Мир кораблей» основана на интеллектуальной "
-"собственности третьих лиц. Все права на объекты прав третьих лиц принадлежат"
-" их законным правообладателям."
-
-msgid "IDS_SHIP_FEATURES_EARLY_ACCESS_SHIP_DESCRIPTION"
-msgstr ""
-"Вы можете получить корабль до того, как он станет доступен остальным игрокам для исследования и покупки.\n"
-"\n"
-"Если вы переназначали командира на этот корабль, то после завершения раннего доступа он будет отправлен в резерв."
-
-msgid "IDS_SHIP_PECULIARITY_NO_CREW_RETRAINING_EARLY_ACCESS"
-msgstr ""
-"Вы можете назначать командиров с других кораблей той же нации без штрафов "
-"и переподготовки. Командир отправляется в резерв после смены статуса "
-"корабля."
-
-msgid ""
-"IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_BASE_DEFENSE_BASE_CAPTURE_BASE_CAPTURE_ASSIST_FULL"
-msgstr ""
-"Получите как можно больше лент «Захватил точку», «Помог захватить» "
-"и «Защитил точку»"
-
-msgid "IDS_SSE_MOTIVATOR_BP_DAILY_TASKS_COMPLETED"
-msgstr "Задачи дня выполнены"
-
-msgid "IDS_SSE_MOTIVATOR_BP_WEEKLY_TASKS_COMPLETED"
-msgstr "Задачи недели выполнены"
-
-msgid "IDS_SSE_MOTIVATOR_TASKS_COMPLETED"
-msgstr "Приоритетные задачи выполнены"
-
-msgid "IDS_STRATEGIC_ACTIONS_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_DESCRIPTION"
-msgstr ""
-"Наставник и соратники в составе отряда должны совместно получить не менее 4 лент «Захватил точку» или «Помог захватить».\n"
-"\n"
-"Выполняется в одном бою."
-
-msgid "IDS_SUBST_ARC_EVENT_COMMON_STATUS_PRIMETIME_ENDS_IN_FULL"
-msgstr "До окончания задач: %(_timeEnd)s"
-
-msgid "IDS_SUBST_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_FULL"
-msgstr "Задачи доступны через: %(_timeStart)s"
-
-msgid "IDS_SYS_MSG_BOUGHT_BARRACKS_SPACE"
-msgstr "Места в резерве куплены"
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
-msgstr "Красные конверты куплены"
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "Жетоны Пан-Азии куплены"
-
-msgid "IDS_SYS_MSG_CREW_DISEMBARK"
-msgstr "Командир отправлен в резерв"
-
-msgid "IDS_SYS_MSG_CREW_FROM_BASKET"
-msgstr "Командир возвращён в резерв"
-
-msgid "IDS_SYS_MSG_DROP_BRANCH_DESCRIPTION"
-msgstr ""
-"Корабли и модули проданы, модернизации бесплатно демонтированы, командиры "
-"отправлены в резерв. Камуфляжи, флаги, сигналы и расходуемые экономические "
-"бонусы сняты. Экономические комплекты и постоянные камуфляжи останутся "
-"доступны на кораблях, когда вы их снова исследуете."
-
-msgid "IDS_SYS_MSG_RECEIVED_BARRACKS_SPACE"
-msgstr "Получены места в резерве"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
-msgstr "Получены красные конверты"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "Получены жетоны Пан-Азии"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_BARRACKS_SPACE"
-msgstr "Списаны места в резерве"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
-msgstr "Списаны красные конверты"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "Списаны жетоны Пан-Азии"
-
-msgid "IDS_TALENT_PFW405_RIBBONS_7_DESCRIPTION"
-msgstr ""
-"Срабатывает при каждом захвате точки или помощи в захвате, а также "
-"при каждом замедлении дирижабля или помощи в замедлении."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_1"
-msgstr ""
-"Другое дело! Ещё немного — и с экрана нам споют. Телевизор есть, а вот тумба"
-" какая-то непраздничная... Думаю, мандарины исправят положение."
-
-msgid "IDS_TOOLTIP_CAROUSEL_FILTERS"
-msgstr "Открыть панель фильтров кораблей"
-
-msgid "IDS_TURN_OFF_HIDE_FILTERED_SHIPS"
-msgstr ""
-"Корабли, не подходящие по условиям фильтрации, будут отображаться в карусели"
-" после подходящих"
-
-msgid "IDS_TURN_ON_HIDE_FILTERED_SHIPS"
-msgstr "Корабли, не подходящие по условиям фильтрации, будут скрыты"
-
-msgid "IDS_WAITING_FOR_DEMOBILIZATION_COLON"
-msgstr "ОЖИДАЕТ ДЕМОБИЛИЗАЦИИ:"
+msgid "IDS_SUBMARINE_DEPTH_STATE_WORKING"
+msgstr "Рабочая глубина"

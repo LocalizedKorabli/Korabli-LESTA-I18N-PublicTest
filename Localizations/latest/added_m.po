@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -13,1712 +13,1182 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_UTOPIA_COMPLETED"
-msgstr "Complete the Utopia Show collection."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SPACE_MUSEUM_COMPLETED"
+msgstr "Complete the “Space Era” collection."
 
-msgid "IDS_ACHIEVEMENT_FILLALBUM_UTOPIA_COMPLETED"
-msgstr "Utopia Show"
+msgid "IDS_ACHIEVEMENT_FILLALBUM_SPACE_MUSEUM_COMPLETED"
+msgstr "Space Era"
 
-msgid "IDS_AIRCARRIER_PL_GENITIVE"
-msgstr "carriers"
+msgid "IDS_ADDITIONAL_BATTLE_CR"
+msgstr "Additional Credits per battle"
 
-msgid "IDS_ALL_CREW_BUTTON"
-msgstr "ALL COMMANDERS"
+msgid "IDS_ADDITIONAL_BATTLE_CR_HINT"
+msgstr "Additional Credits per battle"
 
-msgid "IDS_ARC_EVENT_COMMON_STATUS_ALL_PRIMETIMES_ENDED"
-msgstr "Tasks completed"
+msgid "IDS_ADDITIONAL_BATTLE_XP"
+msgstr "Additional XP per battle"
 
-msgid "IDS_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_SHORT"
-msgstr "Starts in: %(_timeStart)s"
+msgid "IDS_ADDITIONAL_BATTLE_XP_HINT"
+msgstr "Additional XP per battle"
 
-msgid "IDS_ARC_EVENT_PORT_STATUS_ALL_REWARDS_RECEIVED"
-msgstr "All rewards received"
+msgid "IDS_AIR_SUPORT_ALERT"
+msgstr "AIRSTRIKE"
 
-msgid "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
-msgid_plural "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
-msgstr[0] "Until reward: %(_pointsNext)s point"
-msgstr[1] "Until reward: %(_pointsNext)s points"
+msgid "IDS_APPLIED_FILTER_HINT_CREWNATION"
+msgstr "Filter by nation"
 
-msgid "IDS_BATTLEPASS_IMPROVED_ACTIVE_STATUS"
-msgstr "Battle Pass bonuses active"
+msgid "IDS_APPLIED_FILTER_HINT_CREWTYPE"
+msgstr "Filter by rarity"
 
-msgid "IDS_BATTLESHIP_PL_GENITIVE"
-msgstr "battleships"
+msgid "IDS_ASTRONAUT_ARTEMIEV"
+msgstr "Oleg Artemyev"
 
-msgid "IDS_BATTLE_STATS_TRIAL_ROUNDS_PASSED"
-msgstr "Stages completed: %(successRoundsCount)s/%(totalRoundsCount)s"
+msgid "IDS_BALAO_SUBTEST"
+msgstr "Sam Fisher"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_1"
-msgstr "Stage 2 starts in:"
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_BATTLE_XP_COEF"
+msgstr "Additional XP per battle"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_2"
-msgstr "Stage 3 starts in:"
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_FIRST_WIN_XP_COEF"
+msgstr "Daily bonus for victory"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_3"
-msgstr "Stage 4 starts in:"
+msgid "IDS_CAROUSEL_FILTER_CONSTRUCTOR"
+msgstr "Filter ships suitable for the \"%(operationBattleNameIDS)s\" battle type"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_4"
-msgstr "Stage 5 starts in:"
+msgid "IDS_CAROUSEL_PCVE029_FILTER"
+msgstr "Filter ships suitable for Underwater Frontiers"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_5"
-msgstr "Stage 6 starts in:"
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE029"
+msgstr "Select Underwater Frontiers"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_6"
-msgstr "Stage 7 starts in:"
+msgid "IDS_COLLECTION_RANDOM_ITEM"
+msgstr "Random item"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_1"
-msgstr "Stage 1. Deal damage:"
+msgid "IDS_CONTEXT_TUTORIAL_REGEN_CREW"
+msgstr "Restore"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_2"
-msgstr "Stage 2. Deal damage:"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_INVULNERABLE"
+msgstr "At maximum depth, a submarine takes reduced damage, cannot be detected, and also cannot detect other ships itself"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_3"
-msgstr "Stage 3. Deal damage:"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PERISCOPE"
+msgstr "At periscope depth, autonomy is not consumed, sonar ping works continuously, and both speed and detectability are reduced"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_4"
-msgstr "Stage 4. Deal damage:"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PING"
+msgstr "Press [CMD_DEACTIVATE_PING] to reset the last sector marked by the sonar. A torpedo fired at that sector will lose its guidance."
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_5"
-msgstr "Stage 5. Deal damage:"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_WORKING"
+msgstr "At operating depth, a submarine has high speed, but greatly reduced spotting range of enemy ships. Sonar ping works continuously at this depth."
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_6"
-msgstr "Stage 6. Deal damage:"
+msgid "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
+msgid_plural "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
+msgstr[0] "+ %(_amount)s skill point"
+msgstr[1] "+ %(_amount)s skill points"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_1"
-msgstr "Stage 1:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_2"
-msgstr "Stage 2:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_3"
-msgstr "Stage 3:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_4"
-msgstr "Stage 4:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_5"
-msgstr "Stage 5:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_6"
-msgstr "Stage 6:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_1"
-msgstr "Stage 1: Deal 20,000 damage"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_2"
-msgstr "Stage 2: Deal 40,000 damage"
-
-msgid "IDS_BATTLE_TRIALS_DESCRIPTION"
-msgstr "Score as many points as possible."
-
-msgid "IDS_BATTLE_TRIALS_TITLE"
-msgstr "Battle Trials"
-
-msgid "IDS_BONUS_SCORES"
-msgstr "Bonus Points"
-
-msgid "IDS_BUFF_ACTIVE_IN_BATTLE"
-msgstr "Activated in battle"
-
-msgid "IDS_BULLET"
-msgstr "•"
-
-msgid "IDS_CANCEL_ACTION"
-msgstr "Cancel"
-
-msgid "IDS_CHOOSE_TRIAL"
-msgstr "Proceed to trial selection"
-
-msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_MINEFIELD"
-msgstr "Allied minefield deployed"
-
-msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_MINEFIELD"
-msgstr "Beware of enemy minefield"
-
-msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_MINEFIELD"
-msgstr "Allied minefield"
-
-msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_MINEFIELD"
-msgstr "Enemy minefield"
-
-msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_MINEFIELD"
-msgstr "Allied minefield"
-
-msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_MINEFIELD"
-msgstr "Enemy minefield"
-
-msgid "IDS_COMMON_OVERRIDE_FOR_WEB"
-msgstr "No nation"
-
-msgid "IDS_CONDITIONS"
-msgstr "Conditions of Participation"
-
-msgid "IDS_CONSPIROLOGIST"
-msgstr "Duncan C."
-
-msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_NEXT_SKILL_PRICE_LABEL"
-msgstr "Next skill:"
-
-msgid "IDS_CREW_IN_RESERVE_LIST_TITLE"
-msgstr "In Reserve"
-
-msgid "IDS_CREW_SORT_DEFAULT"
-msgstr "By Default"
-
-msgid "IDS_CREW_SORT_LEVEL"
-msgstr "By Level"
-
-msgid "IDS_CREW_SORT_TYPE"
-msgstr "By Rarity"
-
-msgid "IDS_CREW_TYPE"
-msgstr "Rarity"
-
-msgid "IDS_CREW_TYPE_ADVANCED"
-msgstr "Rare"
-
-msgid "IDS_CREW_TYPE_COMMON"
-msgstr "Standard"
-
-msgid "IDS_CREW_TYPE_ELITE"
-msgstr "Elite"
-
-msgid "IDS_CREW_TYPE_SPECIAL"
-msgstr "Special"
-
-msgid "IDS_CREW_TYPE_UNIQUE"
-msgstr "Legendary"
-
-msgid "IDS_CRUISER_PL_GENITIVE"
-msgstr "cruisers"
-
-msgid "IDS_DESCRIPTION_PCZA039_UTOPIA"
+msgid "IDS_DESCRIPTION_PCZA040_SPACE_MUSEUM"
 msgstr ""
-"Utopia Show is an internet show that produces science-themed videos. The creator's main goal is to debunk common myths about mysterious phenomena and expose conspiracy theories. This collection is dedicated to the themes of some popular Utopia Show episodes."
+"The sky has always intrigued humanity—scientists trying to unravel the Universe and poets seeing it as a symbol of grandeur and purity. However, only by the mid-20th century did scientific and technological progress enable a curious researcher to truly leave Earth.\n"
+"\n"
+"A series of achievements by Soviet science and technology in the late 1950s and early 1960s marked the start of the space era. In 1957, the first artificial Earth satellite was launched, and in 1961, the first human spaceflight in history was accomplished. Behind these and many other momentous events stood thousands of people—scientists, engineers, laborers, and statesmen—who enabled humanity to fulfill its dreams of flight. The results of their work are honored at the Museum of Cosmonautics."
 
-msgid "IDS_DESTROYER_PL_GENITIVE"
-msgstr "destroyers"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT_IMPROVE"
+msgstr ""
+"Includes sonar and torpedo armament, which switch automatically. Each sonar hit on a ship marks it for guidance by one torpedo.\n"
+"\n"
+"Does not work at maximum depth."
 
-msgid "IDS_DOGTAG_PCNB453_DESCRIPTION"
-msgstr "Hey, that’s a beaver, you hear? A real beaver. Shh, quiet, you'll scare it off."
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT_IMPROVE"
+msgstr "Autoguidance Complex"
 
-msgid "IDS_DOGTAG_PCNB453_NAME"
-msgstr "Beaver"
+msgid "IDS_DOF"
+msgstr "Depth of Field (DOF) in Port"
 
-msgid "IDS_EARLY_EXIT_BATTLE_BATTLE_TRIALS"
-msgstr "The trial is not over! You will not receive rewards for the current stage if you leave now."
+msgid "IDS_DOF_DESCRIPTION"
+msgstr "Objects outside the focus area are blurred to create a cinematic effect. Works only if Post-processing Quality is set to “Very High.”"
 
-msgid "IDS_ECONOMIC_BOOSTS_INSTALL_BTN"
-msgstr "Install"
+msgid "IDS_ELITE_CREW_CAN_GET_TALENT_TOOLTIP_STATUS"
+msgstr "A national talent can be obtained"
 
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_EXPENDABLE_CATEGORY_TOOLTIP"
-msgstr "Expendable"
+msgid "IDS_ELITE_CREW_CAN_UPGRADE_SKILL_TOOLTIP_STATUS"
+msgstr "A skill can be upgraded"
 
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_OTHER_CATEGORY_TOOLTIP"
-msgstr "Other"
+msgid "IDS_FIFTH_SPACE_MUSEUM_NAME"
+msgstr "Early Records"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_1"
-msgstr "Standard Bonus"
+msgid "IDS_FIRST_SPACE_MUSEUM_NAME"
+msgstr "Satellites and Stations. Part 1"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_2"
-msgstr "Special Bonus"
+msgid "IDS_FOURTH_SPACE_MUSEUM_NAME"
+msgstr "Spacesuits"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_3"
-msgstr "Rare Bonus"
+msgid "IDS_GO_TO_COLLECTION_SSE_BUTTON"
+msgstr "Go to collection"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_4"
-msgstr "Elite Bonus"
+msgid "IDS_HIRE_CREW"
+msgstr "Recruit Commander"
 
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREDITS"
-msgstr "Credits"
+msgid "IDS_INFO_DEEP_WATER_DISABLED"
+msgstr "Cannot be used at operating depth"
 
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREW_EXP"
-msgstr "Commander Experience"
+msgid "IDS_IN_PCVE029"
+msgstr "in Underwater Frontiers"
 
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_EXP"
-msgstr "Ship Experience"
+msgid "IDS_K_TYPE_SUBTEST"
+msgstr "Semyon Rybakov"
 
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_FREE_EXP"
-msgstr "Free Experience"
+msgid "IDS_LANA_ANIME"
+msgstr "Lana"
 
-msgid "IDS_EVAVALENTINE"
-msgstr "Eva Valentine"
+msgid "IDS_LEILA_ANIME"
+msgstr "Ayla"
 
-msgid "IDS_EV_SA24_DAMAGE_RULES_1"
-msgstr "In this trial, you need to deal as much damage as possible."
+msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
+msgstr "Underwater Frontiers"
 
-msgid "IDS_EV_SA24_FRAGS_RULES"
-msgstr "In this trial, you need to destroy as many ships as possible."
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_HEADER"
+msgstr "Underwater Frontiers"
 
-msgid "IDS_FAST_TRAINING_DISABLE_REASON_IN_DEMOBILIZATION"
-msgstr "Cancel the commander’s demobilization to enable accelerated training."
-
-msgid "IDS_FIRST_UTOPIA_NAME"
-msgstr "Investigation Board No. 1"
-
-msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_SHIPCLASS_TOOLTIP_TEXT"
-msgstr "Free skill points for %(shipClass)s: %(skillPoints)s"
-
-msgid "IDS_GNIDOVSKY"
-msgstr "Rupert G."
-
-msgid "IDS_GUIDING_TIP_318_DESC"
-msgstr "Test your skills in battles on ships of different nations. The difficulty increases with each completion!"
-
-msgid "IDS_GUIDING_TIP_318_HEADER"
-msgstr "Personal Trials: Nations"
-
-msgid "IDS_GUIDING_TIP_319_DESC"
-msgstr "Test your skills in battles on ships of different classes. The difficulty increases with each completion!"
-
-msgid "IDS_GUIDING_TIP_319_HEADER"
-msgstr "Personal Trials: Classes"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION"
-msgstr "Show commanders of %(_nationName)s"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION_NOT_AVAILABLE"
-msgstr "Commanders of %(_nationName)s are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION"
-msgstr "Show commanders without assigned nation"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION_NOT_AVAILABLE"
-msgstr "Commanders without assigned nation are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ADVANCED"
-msgstr "Show rare commanders"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_COMMON"
-msgstr "Show standard commanders"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE"
-msgstr "Show elite commanders"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ADVANCED"
-msgstr "Rare commanders are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_COMMON"
-msgstr "Standard commanders are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ELITE"
-msgstr "Elite commanders are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_SPECIAL"
-msgstr "Special commanders are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNIQUE"
-msgstr "Legendary commanders are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_SPECIAL"
-msgstr "Show special commanders"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_UNIQUE"
-msgstr "Show legendary commanders"
-
-msgid "IDS_HINT_CREW_FILTERING_SORT"
-msgstr "Choose the sorting order for commanders"
-
-msgid "IDS_HINT_CREW_FILTERING_SORT_SET_REVERSE"
-msgstr "Display commanders in reverse order"
-
-msgid "IDS_HRENSBERG"
-msgstr "Dick H."
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_DESC"
-msgstr "Installed expendable bonuses are consumed in each battle."
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_HEADER"
-msgstr "Expendable Bonuses"
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_DESC"
-msgstr "Bonuses for the first win of the day on a ship, as well as other bonuses."
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_HEADER"
-msgstr "Other Bonuses"
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_PERMANENT_DESC"
-msgstr "Installed once on a ship and not consumed in battle."
-
-msgid "IDS_MODAL_WINDOW_PCVT001_DAMAGE_PRIME_BATTLE_RULES_HEADER"
-msgstr "Firepower"
-
-msgid "IDS_MODAL_WINDOW_PCVT002_CITADEL_PRIME_BATTLE_RULES_HEADER"
-msgstr "Accuracy"
-
-msgid "IDS_MODAL_WINDOW_PCVT003_FRAGS_PRIME_BATTLE_RULES_HEADER"
-msgstr "Elimination"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_HEADER"
-msgstr "STAGES"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Complete the current stage's task to advance to the next one. The more stages you complete, the more resources you'll receive at the end of the trial."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_HEADER"
-msgstr "RULES"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Trials may have restrictions on the use of weapons, equipment, and ship control."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_HEADER"
-msgstr "MARKINGS"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Fire at targets with markings to score more points. Use the specified weapon type or deal the specified type of damage."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_HEADER"
-msgstr "Battle Trials"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_HEADER"
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_HEADER"
 msgstr "Battle Features"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "In Battle Trials, you can hone your combat skills by completing tasks."
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "You can enter battle on a submarine to test the changed characteristics of this ship type."
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Each trial consists of 5 stages. To advance to the next stage, you need to complete the current one."
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "If you enter battle on a ship of another type, you will be able to test the updated anti-submarine warfare tools."
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_HEADER"
-msgstr "Bonus Points"
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_HEADER"
+msgstr "Submarines"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "If you complete the task before the end of the stage, you can earn bonus points."
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Sonar and acoustic torpedoes are merged: after a sonar hit on a ship, the weapon automatically switches. A sonar hit allows you to launch one torpedo."
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "Bonus points will be counted in the next stage."
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "The “Hydrophone” consumable is unavailable. All submarines conduct continuous sonar ping at periscope and operating depths."
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_HEADER"
-msgstr "Rewards"
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_HEADER"
+msgstr "Surface Ships"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "The more stages you complete, the more resources you'll receive at the end of the trial."
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Depth charges remain at shallow depth for a certain time and detonate near ships, submarines, and torpedoes."
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "Rewards are given for each completed stage. You will not receive a reward for the stage if you leave early."
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "As well as damaging submarines at depth, bombs destroy torpedoes and deal minor damage to surface ships and surfaced submarines."
 
-msgid "IDS_MODAL_WINDOW_TRIAL_BATTLE_RULES_HEADER"
-msgstr "Battle Features"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_HEADER"
+msgstr "SUBMARINES"
 
-msgid "IDS_MULTIPLIER_TAG_AP"
-msgstr "Armor-Piercing Shells (AP)"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_TEXT_1"
+msgstr "When a submarine sends out a sonar pulse, waves are visible on the water surface. These show the submarine’s direction of travel."
 
-msgid "IDS_MULTIPLIER_TAG_CS"
-msgstr "Semi-Armor-Piercing Shells (SAP)"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_HEADER"
+msgstr "CONTINUOUS SONAR PING"
 
-msgid "IDS_MULTIPLIER_TAG_FIRE"
-msgstr "Fire"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_TEXT_1"
+msgstr "A submarine sees the positions of surface ships at a certain distance."
 
-msgid "IDS_MULTIPLIER_TAG_HE"
-msgstr "High-Explosive Shells (HE)"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_HEADER"
+msgstr "DEPTH CHARGES"
 
-msgid "IDS_MULTIPLIER_TAG_TORPEDOES"
-msgstr "Torpedoes"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_TEXT_1"
+msgstr "They remain at shallow depth for a certain time. They damage submarines and destroy torpedoes."
 
-msgid "IDS_NAME01"
-msgstr "Target Ship"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_HEADER"
+msgstr "SONAR AND TORPEDOES"
 
-msgid "IDS_NAME02"
-msgstr "Target Ship"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_TEXT_1"
+msgstr "The number of torpedoes from a single submarine that can simultaneously home in on a ship is limited and depends on the ship’s class."
 
-msgid "IDS_NAME03"
-msgstr "Target Ship"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_HEADER"
+msgstr "MAXIMUM DEPTH"
 
-msgid "IDS_NAME04"
-msgstr "Target Ship"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_TEXT_1"
+msgstr "At maximum depth, the submarine cannot be detected and takes reduced damage, but its capabilities are limited."
 
-msgid "IDS_NAME05"
-msgstr "Target Ship"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_HEADER"
+msgstr "DEPTH CHARGES"
 
-msgid "IDS_NAME06"
-msgstr "Target Ship"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_TEXT_1"
+msgstr "They remain at shallow depth for a certain time. They damage submarines and destroy torpedoes."
 
-msgid "IDS_NAME07"
-msgstr "Target Ship"
+msgid "IDS_PAAD983_ASW_T10_CV_SUBTEST"
+msgstr "Consolidated PB4Y-2 Privateer Test"
 
-msgid "IDS_NAME08"
-msgstr "Target Ship"
+msgid "IDS_PAAD988_ASW_T10_SUBTEST"
+msgstr "Consolidated PB4Y-2 Privateer"
 
-msgid "IDS_NAME09"
-msgstr "Target Ship"
+msgid "IDS_PAPD907_DEPTH_T10"
+msgstr "650-pound Depth Bomb"
 
-msgid "IDS_NAME10"
-msgstr "Target Ship"
+msgid "IDS_PAPD910_DEPTH_CV_10"
+msgstr "650-pound Depth Bomb Mk 38"
 
-msgid "IDS_NAME15"
-msgstr "Target Ship"
+msgid "IDS_PAPT990_MK29_SUBTEST"
+msgstr "Mk29 MIE"
 
-msgid "IDS_NAME16"
-msgstr "Target Ship"
+msgid "IDS_PAPT991_MK29_SUB_MAGNETIC_SUBTEST"
+msgstr "Mk29"
 
-msgid "IDS_NAME17"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_CANBEDAMAGED"
+msgstr "Submarine takes reduced damage"
 
-msgid "IDS_NAME18"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_CANBEDETECTED"
+msgstr "Submarine cannot be detected"
 
-msgid "IDS_NAME19"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_DCRELOADTIMECOEFF"
+msgstr "Depth charge reload time"
 
-msgid "IDS_NAME1D"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER"
+msgstr "Blast radius against submarines"
 
-msgid "IDS_NAME1F"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_BOMB"
+msgstr "HE bomb splash radius for submarines"
 
-msgid "IDS_NAME20"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_ROCKET"
+msgstr "HE rocket splash radius for submarines"
 
-msgid "IDS_NAME25"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_MAIN"
+msgstr "Splash radius for main battery HE and SAP shells against submarines"
 
-msgid "IDS_NAME26"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_SEC"
+msgstr "Splash radius for secondary battery shells against submarines"
 
-msgid "IDS_NAME27"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_INFINITEWORKHYDROPHONE"
+msgstr "Continuous sonar ping"
 
-msgid "IDS_NAME28"
-msgstr "Target Ship"
+msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_DEPTHSTATE_SUB_IMPROVE"
+msgstr "Cannot be used at operating and maximum depths"
 
-msgid "IDS_NAME29"
-msgstr "Target Ship"
+msgid "IDS_PCEE738_DUPERRE_FLAG"
+msgstr "Duperré"
 
-msgid "IDS_NAME2D"
-msgstr "Target Ship"
+msgid "IDS_PCEE738_DUPERRE_FLAG_DESCRIPTION"
+msgstr "Guy-Victor Duperré (1775–1846) was a French naval officer who served during the Napoleonic Wars, the Bourbon Restoration, and the July Monarchy. While commanding the frigate Bellone, he won the Battle of Grand Port during the Mauritius campaign. In 1830, Duperré was appointed Admiral of France and later served three times as Minister of the Navy."
 
-msgid "IDS_NAME2F"
-msgstr "Target Ship"
+msgid "IDS_PCVE029"
+msgstr "Underwater Frontiers"
 
-msgid "IDS_NAME30"
-msgstr "Target Ship"
+msgid "IDS_PCVE029_DESCRIPTION"
+msgstr "Battles in which you will test changes made to submarines and the tools for countering them."
 
-msgid "IDS_NAME35"
-msgstr "Target Ship"
+msgid "IDS_PCVE029_MATCHMAKER_DESCRIPTION"
+msgstr "Battles in which you will test changes made to submarines and the tools for countering them."
 
-msgid "IDS_NAME36"
-msgstr "Target Ship"
+msgid "IDS_PCZA040_SPACE_MUSEUM"
+msgstr "Space Era"
 
-msgid "IDS_NAME37"
-msgstr "Target Ship"
+msgid "IDS_PCZA040_SPACE_MUSEUM_QUOTES"
+msgstr "“Space Era”"
 
-msgid "IDS_NAME38"
-msgstr "Target Ship"
+msgid "IDS_PCZC951_SPACE_MUSEUM_1_1"
+msgstr "The world’s first artificial Earth satellite"
 
-msgid "IDS_NAME39"
-msgstr "Target Ship"
-
-msgid "IDS_NAME3D"
-msgstr "Target Ship"
-
-msgid "IDS_NAME3F"
-msgstr "Target Ship"
-
-msgid "IDS_NAME40"
-msgstr "Target Ship"
-
-msgid "IDS_NAME41"
-msgstr "Target Ship"
-
-msgid "IDS_NAME42"
-msgstr "Target Ship"
-
-msgid "IDS_NAME43"
-msgstr "Target Ship"
-
-msgid "IDS_NAME44"
-msgstr "Target Ship"
-
-msgid "IDS_NAME45"
-msgstr "Target Ship"
-
-msgid "IDS_NAME46"
-msgstr "Target Ship"
-
-msgid "IDS_NAME47"
-msgstr "Target Ship"
-
-msgid "IDS_NAME48"
-msgstr "Target Ship"
-
-msgid "IDS_NAME49"
-msgstr "Target Ship"
-
-msgid "IDS_NAME4D"
-msgstr "Target Ship"
-
-msgid "IDS_NAME4F"
-msgstr "Target Ship"
-
-msgid "IDS_NAME50"
-msgstr "Target Ship"
-
-msgid "IDS_NAME51"
-msgstr "Target Ship"
-
-msgid "IDS_NAME52"
-msgstr "Target Ship"
-
-msgid "IDS_NAME53"
-msgstr "Target Ship"
-
-msgid "IDS_NAME54"
-msgstr "Target Ship"
-
-msgid "IDS_NAME55"
-msgstr "Target Ship"
-
-msgid "IDS_NAME56"
-msgstr "Target Ship"
-
-msgid "IDS_NAME57"
-msgstr "Target Ship"
-
-msgid "IDS_NAME58"
-msgstr "Target Ship"
-
-msgid "IDS_NAME59"
-msgstr "Target Ship"
-
-msgid "IDS_NAME5D"
-msgstr "Target Ship"
-
-msgid "IDS_NAME5F"
-msgstr "Target Ship"
-
-msgid "IDS_NAME_ALLY_1"
-msgstr "Ally"
-
-msgid "IDS_NAME_ALLY_2"
-msgstr "Ally"
-
-msgid "IDS_NAME_ALLY_3"
-msgstr "Ally"
-
-msgid "IDS_NAME_ALLY_4"
-msgstr "Ally"
-
-msgid "IDS_NAME_ALLY_5"
-msgstr "Ally"
-
-msgid "IDS_NAME_ALLY_6"
-msgstr "Ally"
-
-msgid "IDS_NAME_ALLY_7"
-msgstr "Ally"
-
-msgid "IDS_NAME_ALLY_8"
-msgstr "Ally"
-
-msgid "IDS_NO_CREW_FOUND_WITH_APPLIED_FILTERING"
+msgid "IDS_PCZC951_SPACE_MUSEUM_1_1_DESCRIPTION"
 msgstr ""
-"No commanders\n"
-"matching the filter criteria"
+"It ushered in the space age for humanity.\n"
+"\n"
+"Launched on October 4, 1957, at 22:28 Moscow time from the Baikonur Cosmodrome, it was placed into orbit with the following parameters:\n"
+"• Perigee altitude: 228 km\n"
+"• Apogee altitude: 947 km\n"
+"\n"
+"It was put into orbit by a two-stage Sputnik launch vehicle, based on the R-7 intercontinental ballistic missile. For the first time ever, the first cosmic velocity was reached, and an artificial object was placed into Earth orbit. From orbit, the satellite transmitted radio signals intercepted by radio enthusiasts worldwide.\n"
+"\n"
+"Technical characteristics:\n"
+"• Mass of the satellite: 83.6 kg\n"
+"• The body is a sphere 58 cm in diameter with four antennas 2.4 m and 2.9 m in length.\n"
+"\n"
+"Inside its hermetically sealed body were:\n"
+"• A block of electrochemical batteries\n"
+"• A radio transmitter\n"
+"• A fan\n"
+"• A thermostat and air duct system for thermal control\n"
+"• A switching device of onboard electronics\n"
+"• Temperature and pressure sensors\n"
+"• Onboard wiring network\n"
+"\n"
+"The first satellite lasted 92 days, making 1,440 orbits around Earth. On January 4, 1958, it reentered the dense layers of the atmosphere and disintegrated.\n"
+"\n"
+"It was developed at the Special Design Bureau 1 (OKB-1) under the leadership of Chief Designer S. P. Korolev.\n"
+"\n"
+"S. P. Korolev and M. K. Tikhonravov were the leading visionaries for the launch of the world’s first artificial Earth satellite."
 
-msgid "IDS_NO_MORE_PLACE_IN_RESERVE_TO_CANCEL_DEMOBILIZATION"
-msgstr "Free up space in the reserve to cancel demobilization."
+msgid "IDS_PCZC952_SPACE_MUSEUM_1_2"
+msgstr "Second artificial Earth satellite"
 
-msgid "IDS_NO_SPECIALIZATION_CREW"
-msgstr "Not Trained"
-
-msgid "IDS_NO_SPECIALIZATION_REQUIRED_FOR_SHIP_STATUS_LINE"
-msgstr "A commander can be assigned without retraining."
-
-msgid "IDS_PARAMS_BONUS_FOR_VICTORY"
-msgstr "Victory Bonus"
-
-msgid "IDS_PBPA148_381MM_HE_ANSON"
-msgstr "381 mm HE Mk VIIIb SC"
-
-msgid "IDS_PBPA149_381MM_AP_ANSON"
-msgstr "381 mm AP Mk XXIIb SC"
-
-msgid "IDS_PBPT046_ANSON"
-msgstr "533 mm Mk IX*"
-
-msgid "IDS_PBSB518"
-msgstr "Anson"
-
-msgid "IDS_PBSB518_DESCR"
+msgid "IDS_PCZC952_SPACE_MUSEUM_1_2_DESCRIPTION"
 msgstr ""
-"A hypothetical modernization of an Admiral-class battlecruiser conducted in the late 1930s, similar to the modernization of the battlecruiser Renown and the Queen Elizabeth-class battleships. In this case, the ship would have received ten twin 113 mm dual-purpose gun mounts and a significant number of small-caliber AA guns."
+"The world’s first biological satellite and the first living creature to orbit Earth: the dog Laika.\n"
+"\n"
+"Launched on November 3, 1957, from the Baikonur Cosmodrome by the Sputnik launch vehicle.\n"
+"\n"
+"The scientific equipment on board enabled direct measurements in space, providing the first data on the existence of Earth’s outer radiation belt.\n"
+"\n"
+"In addition to the scientific gear, a separate pressurized cabin contained the dog Laika (return to Earth was not planned).\n"
+"\n"
+"For the first time, the effects of weightlessness and cosmic radiation on a living organism were studied in flight. The Geiger counter became the first scientific instrument sent to space, confirming the average level of radiation there. Data obtained during the flight confirmed the possibility of a human being surviving in space.\n"
+"\n"
+"The satellite’s mass was 508.3 kg.\n"
+"\n"
+"It operated for 160 days, completed about 2,370 orbits around Earth, and was destroyed on April 14, 1958.\n"
+"\n"
+"It was developed at OKB-1 under Chief Designer S. P. Korolev."
 
-msgid "IDS_PBSB518_FULL"
-msgstr "Anson"
+msgid "IDS_PCZC953_SPACE_MUSEUM_1_3"
+msgstr "Third artificial Earth satellite"
 
-msgid "IDS_PBSB518_NUMBER"
+msgid "IDS_PCZC953_SPACE_MUSEUM_1_3_DESCRIPTION"
+msgstr ""
+"The world’s first scientific laboratory in space.\n"
+"\n"
+"Launched on May 15, 1958, by the Sputnik launch vehicle from the Baikonur Cosmodrome to study near-Earth space, Earth’s atmosphere, and solar radiation.\n"
+"\n"
+"Twelve scientific instruments were mounted on the satellite. They measured pressure and temperature, electric charges, the intensities of electrostatic and magnetic fields, solar corpuscular radiation, and micrometeoroid impacts, and they identified Earth’s external radiation belt. For the first time, an active thermal control system and solar panels were used.\n"
+"\n"
+"The satellite weighed 1,327 kg, of which 968 kg were dedicated to scientific equipment. It made 10,037 orbits around Earth.\n"
+"\n"
+"It remained in orbit until April 6, 1960.\n"
+"\n"
+"Developed at OKB-1 under Chief Designer S. P. Korolev."
+
+msgid "IDS_PCZC954_SPACE_MUSEUM_1_4"
+msgstr "The Luna 1 Automatic Interplanetary Station"
+
+msgid "IDS_PCZC954_SPACE_MUSEUM_1_4_DESCRIPTION"
+msgstr ""
+"The first spacecraft in the world to reach the second cosmic velocity.\n"
+"\n"
+"Launched on January 2, 1959, by the Vostok-L carrier rocket from the Baikonur Cosmodrome.\n"
+"\n"
+"The station’s scientific instruments included:\n"
+"• A magnetometer for measuring Earth’s and the Moon’s magnetic fields\n"
+"• Four rod antennas of its radio transmitter\n"
+"• Ion and proton traps for recording solar corpuscular radiation\n"
+"• Detectors for recording micrometeorite impacts\n"
+"• Radio transmitter antennas for transmitting scientific data to Earth\n"
+"\n"
+"Inside the station, there was a spherical pennant of steel pentagonal elements and a capsule filled with fluid containing aluminum strips. The pennants and strips displayed the USSR emblem, the inscription “СССР,” and the launch date.\n"
+"\n"
+"On January 4, 1959, the station flew about 5,000–6,000 km from the Moon, but due to an error in the flight program, it did not reach the lunar surface.\n"
+"\n"
+"Passing close to the Moon, it then left Earth’s gravitational field and became the first artificial satellite of the Sun, with an orbital period of 450 days.\n"
+"\n"
+"Developed at OKB-1 under Chief Designer S. P. Korolev."
+
+msgid "IDS_PCZC955_SPACE_MUSEUM_1_5"
+msgstr "The Luna 3 Automatic Interplanetary Station"
+
+msgid "IDS_PCZC955_SPACE_MUSEUM_1_5_DESCRIPTION"
+msgstr ""
+"For the first time ever, it flew around the Moon and transmitted phototelevision images of the Moon’s far side on October 7, 1959.\n"
+"\n"
+"It was also the first spacecraft in the world to perform a gravity assist maneuver.\n"
+"\n"
+"On October 4, 1959, the Luna 3 station was launched by the Vostok-L carrier rocket from the Baikonur Cosmodrome. The station included radiotechnical, telemetry, phototelemetry, orientation (relative to the Sun and Moon), power supply systems (with solar panels), thermal regulation systems, and various scientific instruments, including a photolab.\n"
+"\n"
+"The station’s orientation system “Chaika” was developed under academician B. V. Rauschenbach, who pioneered the problem of controlling spacecraft in outer space.\n"
+"\n"
+"On October 7, from approximately 65,000 km away from the Moon (470,000 km from Earth), Luna 3 photographed the Moon’s far side. Over the next 10 days, it transmitted a series of images back to Earth. It managed to photograph almost half the lunar surface, covering 30% of the visible side and 70% of the previously unseen far side. These images were declared the “photographs of the century.” Based on them, two volumes of the Atlas of the Far Side of the Moon and a lunar globe were published in 1960 and 1967. The station completed 11 orbits around Earth and ceased to exist upon reentering Earth’s dense atmosphere on April 20, 1960.\n"
+"\n"
+"Developed at OKB-1 under Chief Designer S. P. Korolev."
+
+msgid "IDS_PCZC956_SPACE_MUSEUM_2_1"
+msgstr "The Venera 1 Automatic Interplanetary Station"
+
+msgid "IDS_PCZC956_SPACE_MUSEUM_2_1_DESCRIPTION"
+msgstr ""
+"The world’s first spacecraft launched toward Venus.\n"
+"\n"
+"Launched on February 12, 1961, from the Baikonur Cosmodrome by the Molniya carrier rocket.\n"
+"\n"
+"Scientific instruments aboard the station:\n"
+"• A magnetometer\n"
+"• Two ion traps for measuring solar wind parameters\n"
+"• A micrometeoroid detector\n"
+"• A Geiger counter and a scintillation detector for measuring cosmic radiation.\n"
+"\n"
+"The lower part of the spacecraft contained the KDU-414 propulsion system for trajectory corrections. The station’s mass was 643.5 kg. Contact was lost after 7 days of flight when it was about 2 million km from Earth. According to calculations, on May 19–20, 1961, it passed about 100,000 km from Venus and then entered a heliocentric orbit.\n"
+"\n"
+"Developed at OKB-1 under Chief Designer S. P. Korolev."
+
+msgid "IDS_PCZC957_SPACE_MUSEUM_2_2"
+msgstr "The Mars 1 Automatic Interplanetary Station"
+
+msgid "IDS_PCZC957_SPACE_MUSEUM_2_2_DESCRIPTION"
+msgstr ""
+"The first spacecraft in the world sent toward Mars. It pioneered the Earth–Mars interplanetary route.\n"
+"\n"
+"Launched on November 1, 1962, from the Baikonur Cosmodrome by the Molniya rocket.\n"
+"\n"
+"The station comprised two pressurized sections: an orbital module and a planetary module. The orbital module contained equipment essential for the cruise to Mars, while the planetary module housed the phototelevision system and scientific instruments intended to operate near Mars. On the orbital module, there was a correction propulsion system, solar panels, a thermal control system, and radio antennas. Data from trajectory measurements indicated that Mars 1 would pass about 193,000 km from Mars, demonstrating great precision in launching the station on its intended trajectory. Sixty-one radio sessions were conducted, yielding a wealth of telemetry data. Over 3,000 commands were sent to the station.\n"
+"\n"
+"During the flight, Mars 1 gathered data on the physical properties of interplanetary space between Earth’s and Mars’s orbits, recording solar wind and meteor streams (the station crossed two meteor streams), and measuring the strength of magnetic fields. On March 21, 1963, from about 106 million km away, the last communication session with Mars 1 took place, setting a record for long-distance space communication at that time."
+
+msgid "IDS_PCZC958_SPACE_MUSEUM_2_3"
+msgstr "The Luna 9 Automatic Interplanetary Station"
+
+msgid "IDS_PCZC958_SPACE_MUSEUM_2_3_DESCRIPTION"
+msgstr ""
+"For the first time in history, the station's lander accomplished a soft landing on the Moon and transmitted the first photos and panoramic TV images of the lunar surface.\n"
+"\n"
+"Launched on January 31, 1966, from the Baikonur Cosmodrome by the Molniya rocket.\n"
+"\n"
+"Structurally, Luna 9 consisted of an instrument compartment with a braking propulsion system and a lander.\n"
+"\n"
+"On February 3, 1966, the station performed its braking maneuver, separating the lander (a container) by command from Earth, and achieved a soft landing on the Moon.\n"
+"\n"
+"Technical characteristics:\n"
+"• Lander mass: 100 kg\n"
+"• Station length: 2.7 m\n"
+"• Station mass: 1,583 kg\n"
+"\n"
+"Developed at the Lavochkin Machinery Plant under Chief Designer G. N. Babakin."
+
+msgid "IDS_PCZC959_SPACE_MUSEUM_2_4"
+msgstr "The Mir Orbital Space Station"
+
+msgid "IDS_PCZC959_SPACE_MUSEUM_2_4_DESCRIPTION"
+msgstr ""
+"A third-generation station and a remarkable scientific and technological achievement of the late 20th century, Mir was the first space facility to use a modular construction principle.\n"
+"\n"
+"The station’s first element—the core module—was launched on February 20, 1986, from the Baikonur Cosmodrome by the Proton rocket. Then, one by one, the modules Kvant (1987), Kvant-2 (1989), Kristall (1990), Spektr (1995), and the docking module (1995) were attached.\n"
+"\n"
+"Mir attained its fully designed configuration in 1996, with the addition of the last module, Priroda. Modular construction made it possible to expand the station’s scientific program and significantly increase its habitable volume.\n"
+"\n"
+"Over the station’s 15 years of operation:\n"
+"• 78 spacewalks, totaling 359 hours, were conducted\n"
+"• 104 people from 12 countries visited the station\n"
+"• 31 manned Soyuz spacecraft, 64 Progress supply ships, and 9 reusable U.S. Space Shuttle missions docked with the station\n"
+"• More than 23,000 scientific experiments and studies were conducted\n"
+"• Three world records were set for continuous human presence, and five for the total time people spent in space\n"
+"• By its exceptional length of service, Mir became the main space record holder of the 20th century.\n"
+"\n"
+"The crew of Soyuz T-15 (L. D. Kizim and V. A. Solovyov) arrived at the station in 1986, and the final crew, Soyuz TM-30 (S. V. Zalyotin and A. Yu. Kaleri), in 2000.\n"
+"\n"
+"On February 23, 2001, Mir was deorbited. Remaining fragments fell into the South Pacific Ocean.\n"
+"\n"
+"Mir’s main developer was RSC Energia.\n"
+"\n"
+"Technical characteristics:\n"
+"• Total mass in full configuration: over 137 t\n"
+"• Scientific equipment mass: 11.5 t"
+
+msgid "IDS_PCZC960_SPACE_MUSEUM_2_5"
+msgstr "The Salyut-6 Long-Duration Orbital Station"
+
+msgid "IDS_PCZC960_SPACE_MUSEUM_2_5_DESCRIPTION"
+msgstr ""
+"Salyut-6 was a second-generation orbital station launched on September 29, 1977, from the Baikonur Cosmodrome using the Proton rocket. Its distinctive features were a second docking port and a propulsion system that could be refueled during flight, significantly extending its operational life.\n"
+"\n"
+"In January 1978, the first automatic Progress cargo ship (Progress 1) arrived, delivering necessary supplies and refueling the station’s propulsion system. A total of 17 manned and 2 unmanned Soyuz-series spacecraft docked with Salyut-6, along with 12 Progress ships and the Kosmos-1267 automatic supply craft (a module from an Almaz station). During its operation, Salyut-6 was visited by 5 main expedition crews and 10 guest expeditions, including 8 international crews. Between 1978 and 1980, visiting expeditions included the first cosmonauts from Czechoslovakia, Poland, East Germany, Hungary, Vietnam, Cuba, Mongolia, and Romania. The station’s long-duration stays ranged from 96, 139, 175, up to 184 days. There were three spacewalks from Salyut-6, totaling 4 hours 56 minutes.\n"
+"\n"
+"Salyut-6 operated for 1,765 days (683 of them manned) and ended its flight on July 29, 1982.\n"
+"\n"
+"Developed at the Central Design Bureau of Experimental Engineering under the Soviet civil manned space station program.\n"
+"\n"
+"Technical characteristics:\n"
+"• Mass: 19.8 t\n"
+"• Length: 13.5 m\n"
+"• Maximum diameter: 4.15 m\n"
+"• Solar panel span: 17 m\n"
+"• Internal habitable volume: 90.0 m³"
+
+msgid "IDS_PCZC961_SPACE_MUSEUM_3_1"
+msgstr "The Vostok Three-Stage Launch Vehicle"
+
+msgid "IDS_PCZC961_SPACE_MUSEUM_3_1_DESCRIPTION"
+msgstr ""
+"Developed and built at Special Design Bureau 1 (OKB-1) under Chief Designer S. P. Korolev, based on the R-7 intercontinental ballistic missile.\n"
+"\n"
+"Technical characteristics:\n"
+"• Rocket length: 38.36 m\n"
+"• Diameter (across flight control surfaces): 10.3 m\n"
+"• Liftoff weight: 287 t\n"
+"• Payload mass to orbit: up to 5 t\n"
+"\n"
+"It placed the world’s first manned spacecraft, Vostok, with Yuri Gagarin on board, into orbit.\n"
+"\n"
+"The Vostok LV (Launch Vehicle) was used to launch Sputnik-type satellites, Vostok-class spacecraft, and the Luna 1, Luna 2, and Luna 3 automatic stations, as well as some Cosmos and Meteor satellites.\n"
+"\n"
+"This rocket was a modification of the two-stage R-7 missile with the addition of a third stage to boost payload capacity into low Earth orbit. Its first two stages are arranged in a “package” (parallel) configuration, where four side boosters of stage 1 and the central core of stage 2 ignite together at liftoff to generate sufficient thrust. Stages 2 and 3 are aligned in series (tandem). The payload is protected by a payload fairing. Stage 1’s four boosters used RD-107 engines; stage 2 had an RD-108 engine.\n"
+"\n"
+"Launches were conducted from Baikonur (from January 1959) and from Plesetsk (from March 1966)."
+
+msgid "IDS_PCZC962_SPACE_MUSEUM_3_2"
+msgstr "The Proton Launch Vehicle"
+
+msgid "IDS_PCZC962_SPACE_MUSEUM_3_2_DESCRIPTION"
+msgstr ""
+"These rocket variants were developed by the Central Design Bureau of Machine-Building under Chief Designer V. N. Chelomey and produced at the Khrunichev State Research and Production Space Center.\n"
+"\n"
+"Technical characteristics:\n"
+"• Length: 44 m\n"
+"• Diameter: 7.4 m\n"
+"• Rocket mass: 54 t\n"
+"• Liftoff mass: 702 t\n"
+"• Payload mass: 20 t\n"
+"\n"
+"The heavy-class Proton rocket has been used since 1965 to place spacecraft of various types into low Earth orbit.\n"
+"\n"
+"It has launched Proton, Raduga, Ekran, and Horizont satellites; Salyut space stations; Mir, the International Space Station modules, and other countries’ spacecraft.\n"
+"\n"
+"The two-stage UR-500 ICBM served as its baseline. The initial Proton variant was two-stage, while subsequent “Proton-K” and “Proton-M” versions flew in either three-stage (to low orbit) or four-stage configurations (with an upper stage)."
+
+msgid "IDS_PCZC963_SPACE_MUSEUM_3_3"
+msgstr "The Soyuz Three-Stage Launch Vehicle"
+
+msgid "IDS_PCZC963_SPACE_MUSEUM_3_3_DESCRIPTION"
+msgstr ""
+"Soyuz is a three-stage launch vehicle of the R-7 family, developed at OKB-1.\n"
+"\n"
+"Technical characteristics:\n"
+"• Length: 39.3 m\n"
+"• Diameter: 10.3 m\n"
+"• Liftoff mass: 310 t\n"
+"• Payload mass to orbit: up to 7.5 t\n"
+"\n"
+"Designed to launch manned and unmanned spacecraft of various types.\n"
+"\n"
+"Manufactured by the Kuibyshev Branch No. 3 of OKB-1 (led by General Designer D. A. Kozlov) to launch Soyuz-series manned spacecraft (32 flights between 1966 and 1976). Later, Soyuz rockets were also used for Progress cargo ships and various Cosmos, Prognos, Resurs-F, Foton, Bion, and some foreign satellites.\n"
+"\n"
+"The first two stages are similar to those of other R-7 family rockets, while its upgraded third stage with a mass of 25.5 t provides higher performance.\n"
+"\n"
+"Soyuz rockets are easily recognizable by the four conical side boosters of the first stage (unlike other launch vehicles), and the tall payload fairing with four lattice stabilizers and the tower-shaped emergency rescue system (LES) on top.\n"
+"\n"
+"The new LES is the main difference between the Soyuz rocket and earlier manned R-7 variants. It is “armed” 15 minutes before launch and guarantees crew rescue in the event of a launch pad or in-flight emergency.\n"
+"\n"
+"Soyuz operations began in 1966. Further modernization created a long line of improved Soyuz variants. With a success rate over 97%, Soyuz is one of the most reliable launch vehicles in the world. Over 800 Soyuz flights of various versions have occurred from Baikonur and Plesetsk, and over 60 Soyuz-2 launches."
+
+msgid "IDS_PCZC964_SPACE_MUSEUM_3_4"
+msgstr "The Proton-M Launch Vehicle"
+
+msgid "IDS_PCZC964_SPACE_MUSEUM_3_4_DESCRIPTION"
+msgstr ""
+"One of the most reliable heavy-class launch vehicles in the world, used to deploy various spacecraft.\n"
+"\n"
+"On July 16, 1965, a heavy scientific station named Proton was launched into low Earth orbit, giving the rocket its name. The first stage features six RD-253 (or RD-276 on Proton-M) engines with a thrust of 1 MN. The second stage has four RD-0210 engines, and the third stage carries an RD-0213 engine with 583 kN thrust. All stages use unsymmetrical dimethylhydrazine and dinitrogen tetroxide.\n"
+"\n"
+"Based on the UR-500 ICBM.\n"
+"\n"
+"Starting in 1967, the Proton-K three-stage rocket was used, and since 2012, the more powerful Proton-M. Its payload capacity was increased from 12 t to 22 t.\n"
+"\n"
+"This rocket family has been central to exploring near-Earth space, as well as the Moon, Mars, and Venus.\n"
+"\n"
+"Proton has launched spacecraft under the names Proton, Kosmos, Ekran, Raduga, Horizont, GLONASS satellites, probes to the Moon, Mars, Venus, Halley’s Comet, Salyut and Almaz stations, modules for the Mir complex, and the International Space Station.\n"
+"\n"
+"Developed under Chief Designer V. N. Chelomey (NPO Mashinostroyeniya) and the Khrunichev Space Center.\n"
+"\n"
+"Technical characteristics:\n"
+"• Liftoff mass: up to 705 t\n"
+"• Length: 45–60 m\n"
+"• Length of first three stages: 44 m\n"
+"• Maximum diameter: 7.4 m\n"
+"• Payload mass: 22 t"
+
+msgid "IDS_PCZC965_SPACE_MUSEUM_3_5"
+msgstr "The N-1–L-3 Rocket-Space Complex"
+
+msgid "IDS_PCZC965_SPACE_MUSEUM_3_5_DESCRIPTION"
+msgstr ""
+"The N-1 super-heavy rocket was designed for lunar flights and human landings.\n"
+"\n"
+"Initially intended for a heavy (75 t) Earth-orbiting station, the plan was redirected for human lunar landings. Four test launches between 1969 and 1972 all ended in early failures (due to issues with the first stage). All N-1 launches were from pad No. 113 at Baikonur (two launch tables). In 1974, the USSR canceled its manned lunar program. The design approach of the N rocket family remains unique among orbital-class rockets.\n"
+"\n"
+"Work began in 1964 at OKB-1 in Kuibyshev under Chief Designer S. P. Korolev.\n"
+"\n"
+"Technical characteristics:\n"
+"• Maximum diameter (1st stage): 17 m\n"
+"• Length: 105.3 m\n"
+"• Liftoff mass: 2,820 t\n"
+"• Payload to Earth orbit: 90 t\n"
+"• Propellant mass: 1,410 t\n"
+"• Number of first-stage engines: 30\n"
+"• Total sea-level thrust: 4,615 tf\n"
+"• Fuel: Kerosene (RP-1) and liquid oxygen."
+
+msgid "IDS_PCZC966_SPACE_MUSEUM_3_6"
+msgstr "The Energia Launch Vehicle"
+
+msgid "IDS_PCZC966_SPACE_MUSEUM_3_6_DESCRIPTION"
+msgstr ""
+"The most powerful Soviet launch vehicle, among the world’s most powerful, and the first Soviet rocket to use liquid hydrogen. Developed by NPO Energia under the leadership of General Designer V. P. Glushko as part of the Energia–Buran program.\n"
+"\n"
+"This universal rocket was intended to launch the reusable Buran orbiter, to support manned or automated lunar and Mars expeditions, new-generation orbital stations, large geostationary satellites, and heavy military payloads. It could place around 100 t of payload into orbit. Work began in 1976. Energia used a two-stage “package” layout. The first stage was four side boosters with RD-170 kerosene–oxygen engines that could be recovered by parachute. Each booster had a life of up to 10 flights. The second stage had four RD-0120 hydrogen–oxygen engines and was the structural core carrying the payload.\n"
+"\n"
+"Two Energia launches were conducted:\n"
+"• May 15, 1987, carrying the Polus satellite, which failed to reach orbit due to an orientation system malfunction of the payload itself\n"
+"• November 15, 1988, carrying the Buran orbiter.\n"
+"\n"
+"Technical characteristics:\n"
+"• Total system liftoff mass: 2,375–2,419 t\n"
+"• Launch vehicle mass: 2,270 t\n"
+"• Length: 58.76 m\n"
+"• Width: 17.65 m"
+
+msgid "IDS_PCZC967_SPACE_MUSEUM_4_1"
+msgstr "The SK-1 High-Altitude Rescue Spacesuit"
+
+msgid "IDS_PCZC967_SPACE_MUSEUM_4_1_DESCRIPTION"
+msgstr ""
+"First used on April 12, 1961, during the world’s first human spaceflight of Yuri A. Gagarin.\n"
+"\n"
+"Designed for Vostok spacecraft cosmonauts, used until 1963. SK-1 was worn by Y. A. Gagarin, G. S. Titov, A. G. Nikolayev, P. R. Popovich, and V. F. Bykovsky. Valentina V. Tereshkova used the SK-2 variant.\n"
+"\n"
+"SK-1 is a soft suit with an open-loop ventilation system. Its two-layer envelope is a strong external polyester (lavsan) fabric and an internal rubber layer. Over the main suit is protective outer clothing, and under it a thermal suit with tubes and ventilation panels. The helmet is rigid and fixed, with a double visor and a system for emergency visor closure.\n"
+"\n"
+"Used together with the spacecraft’s ventilation system plus onboard and parachute oxygen supplies, the SK-1 guaranteed:\n"
+"• Nominal comfort in the pressurized cabin for up to 12 days\n"
+"• Safety in a depressurized cabin for 4–5 hours\n"
+"• Protection at seat ejection from altitudes up to 8 km\n"
+"• Oxygen supply when parachuting\n"
+"• Survival in cold water for 12 hours\n"
+"\n"
+"Technical characteristics:\n"
+"• Pressure in the suit: 270–300 hPa\n"
+"• Air flow rate from the ventilator: 150 l/min\n"
+"• Gas supply from onboard cylinders (air + oxygen): 50 nl/min\n"
+"• Suit mass: 20 kg\n"
+"\n"
+"Developed at the Zvezda plant in 1960–61 under Chief Designer S. M. Alekseyev. The suit envelope was created by a team led by A. Yu. Stoklitsky, with A. I. Boyko and A. L. Zelvinsky. Life support systems were devised by I. P. Abramov’s group, with A. M. Gershkovich and M. N. Dudnik. Testing was led by V. I. Svershek’s group. Electrical and radio gear was prepared by I. I. Skomorovsky, and final suit checks by F. A. Vostokov."
+
+msgid "IDS_PCZC968_SPACE_MUSEUM_4_2"
+msgstr "The Berkut Spacesuit for Short-Duration Spacewalks"
+
+msgid "IDS_PCZC968_SPACE_MUSEUM_4_2_DESCRIPTION"
+msgstr ""
+"The Berkut suits were used by the crew of Voskhod 2—P. I. Belyayev and A. A. Leonov—in March 1965.\n"
+"\n"
+"Designed to support extravehicular activity (EVA) and simultaneously serve as an emergency rescue suit for the crew of Voskhod 2 in case of cabin depressurization.\n"
+"\n"
+"On March 18, 1965, A. A. Leonov became the first person in history to step into outer space via an airlock in Berkut. His EVA lasted 12 minutes 9 seconds.\n"
+"\n"
+"Berkut is a soft suit with a detachable rigid helmet and open-loop ventilation. Its three-layer envelope includes an outer nylon layer plus two rubber layers (one is the main pressurized layer, the other is a backup). Over that is protective clothing with multi-layer insulation. The suit relies on a separate backpack (the KP-55 oxygen unit) that supplies life support. The backpack was designed at the Special Design Bureau for oxygen breathing devices.\n"
+"\n"
+"Used with onboard ventilation and oxygen systems, the suit allows survival in a depressurized cabin for four hours.\n"
+"\n"
+"Technical characteristics:\n"
+"• Autonomous operation time: 45 minutes\n"
+"• Normal suit pressure: 400 hPa (270 hPa in backup mode)\n"
+"• Air flow rate from onboard ventilation: 150 l/min\n"
+"• Suit mass: 20 kg\n"
+"• Backpack mass: 21.5 kg\n"
+"\n"
+"Developed in 1964–65 at the Zvezda plant under Chief Designer G. I. Severin."
+
+msgid "IDS_PCZC969_SPACE_MUSEUM_4_3"
+msgstr "The Orlan-D Spacesuit"
+
+msgid "IDS_PCZC969_SPACE_MUSEUM_4_3_DESCRIPTION"
+msgstr ""
+"A semi-rigid suit for extravehicular activity. Used on the Salyut-6 and Salyut-7 stations from 1977 to 1984.\n"
+"\n"
+"The first EVA in an Orlan-D was performed on December 20, 1977, by Yu. V. Romanenko and G. M. Grechko from Salyut-6.\n"
+"\n"
+"In contrast to earlier Berkut or Yastreb suits, Orlan-D can be adjusted for each cosmonaut, which is convenient for rotating station crews.\n"
+"\n"
+"It has a regenerative life-support system with replaceable expendable elements.\n"
+"\n"
+"For thermal control, a liquid-cooling garment is used to remove excess heat from the astronaut’s body during EVA.\n"
+"\n"
+"Power, radio, and telemetry connect via a 20 m umbilical that also serves as a safety tether. There is a secondary safety tether with a carabiner.\n"
+"\n"
+"Several modifications have been produced: Orlan-DM, Orlan-DMA, Orlan-M, Orlan-MK, Orlan-MKS.\n"
+"\n"
+"Developed and built by NPP Zvezda.\n"
+"\n"
+"Technical characteristics:\n"
+"• Mass: from 73.5 kg to 114 kg (depending on the model)\n"
+"• Chest circumference of the wearer: 96–108 cm\n"
+"• Height of the wearer: 164–180 cm\n"
+"• Autonomous operating time: 5–8 hours (depending on the model)"
+
+msgid "IDS_PCZC970_SPACE_MUSEUM_4_4"
+msgstr "The Krechet-94 Spacesuit"
+
+msgid "IDS_PCZC970_SPACE_MUSEUM_4_4_DESCRIPTION"
+msgstr ""
+"A Soviet semi-rigid suit with an integrated life support system, intended for lunar surface EVAs as part of the USSR’s lunar program.\n"
+"\n"
+"This program was canceled in 1974, but Krechet had already been developed. It became the prototype for Orlan suits, later used for spacewalks.\n"
+"\n"
+"The suit’s main body and helmet shell are aluminum alloy. The arms and legs are flexible. The rear entry hatch also doubles as the life-support system “Kaspy” backpack door.\n"
+"\n"
+"The sealed life-support system is regenerative (closed-loop). The thermal control system includes a water-cooling garment and a sublimator heat-exchanger. The life-support controls are on the suit’s chest. The suit can operate autonomously for about 10 hours, weighs 106 kg (about 17.5 kg in lunar gravity).\n"
+"\n"
+"The suit’s envelope is three-layered: an external nylon (capron) fabric and two rubber layers. The arms have shoulder and wrist bearings to allow free movement. Over this envelope is a thermal insulation cover with a multi-layer barrier that also includes an antenna system.\n"
+"\n"
+"Developed and produced by the Zvezda plant in the late 1960s for the USSR’s N-1–L-3 lunar program, intended to allow one cosmonaut to walk on the Moon."
+
+msgid "IDS_PCZC971_SPACE_MUSEUM_5_1"
+msgstr "Belka, Strelka, and the Ejection Capsule"
+
+msgid "IDS_PCZC971_SPACE_MUSEUM_5_1_DESCRIPTION"
+msgstr ""
+"The canine space heroes Belka and Strelka next to the reentry container in which they safely returned to Earth after a successful cosmic flight on August 19, 1960. The ejection capsule’s walls bear dents and damage, the scars of its “soft” landing.\n"
+"\n"
+"In 1960–1961, seven test flights of prototype spacecraft were conducted to prepare for the first human spaceflight, verifying the Vostok craft’s structure and onboard systems, with special focus on life support and Earth return.\n"
+"\n"
+"The dog container was a prototype ejection seat for cosmonauts. It was ejected at an altitude of 7 km during descent; its touchdown speed was 6–8 m/s. Developed by the Zvezda plant under Chief Designer S. M. Alekseyev.\n"
+"\n"
+"All the numerous biological specimens returned safely on August 20, 1960, providing unique data on the effect of spaceflight factors on living organisms."
+
+msgid "IDS_PCZC972_SPACE_MUSEUM_5_2"
+msgstr "The One-Seat Reentry Module of the Vostok Series Spacecraft"
+
+msgid "IDS_PCZC972_SPACE_MUSEUM_5_2_DESCRIPTION"
+msgstr ""
+"Used between 1961 and 1963 in the Vostok program for the first manned spaceflights by cosmonauts Yuri A. Gagarin, G. S. Titov, A. G. Nikolayev, P. R. Popovich, V. F. Bykovsky, and V. V. Tereshkova.\n"
+"\n"
+"Each Vostok spacecraft consisted of two sections: the reentry module and the instrument compartment. They were joined by metal strapping and pyrotechnic locks.\n"
+"\n"
+"The reentry module housed the cosmonaut from launch until 7 km above Earth during descent, when the seat and cosmonaut were ejected. The cosmonaut’s parachute deployed at 4 km altitude.\n"
+"\n"
+"The module’s spherical aluminum alloy hull was coated with heat-shielding material up to 30–180 mm thick. It has three hatches 1 m in diameter: a technology hatch near the cosmonaut’s feet, the top hatch for cosmonaut boarding and ejection, and a parachute bay hatch. It also features three viewports and an ejection seat.\n"
+"\n"
+"The cosmonaut wore a specialized spacesuit, allowing up to 4 hours of survival in a depressurized cabin and seat ejection from altitudes up to 10 km.\n"
+"\n"
+"Inside the module, there were water, food, and waste containers, as well as the “Zarya” two-way radio system providing one VHF link and two HF links with Earth.\n"
+"\n"
+"Technical characteristics:\n"
+"• Mass: 2.4 t\n"
+"• Diameter: 2.3 m\n"
+"• Volume: 5.2 m³\n"
+"• Usable volume: 1.6 m³\n"
+"\n"
+"Developed at OKB-1 under Chief Designer S. P. Korolev."
+
+msgid "IDS_PCZC973_SPACE_MUSEUM_5_3"
+msgstr "The Vostok Spacecraft"
+
+msgid "IDS_PCZC973_SPACE_MUSEUM_5_3_DESCRIPTION"
+msgstr ""
+"Vostok was an engineering marvel of its time—the first spacecraft to ensure human life and flight in outer space. Yuri Gagarin, the first human in space, sat inside on a specialized ejection seat, taking up about half of the total cabin volume.\n"
+"\n"
+"During his single orbit around our planet, Yuri Gagarin maintained radio contact, describing his impressions and essential flight details."
+
+msgid "IDS_PCZC974_SPACE_MUSEUM_5_4"
+msgstr "The Voskhod-2 Airlock Module"
+
+msgid "IDS_PCZC974_SPACE_MUSEUM_5_4_DESCRIPTION"
+msgstr ""
+"Used to maintain spacecraft pressurization and enable cosmonaut spacewalks.\n"
+"\n"
+"On March 18, 1965, A. A. Leonov made the first spacewalk in history via this airlock from the Voskhod-2 spacecraft.\n"
+"\n"
+"The cylindrical, semi-inflatable airlock had two hatches: one connecting to the descent module and another leading to outer space. It was equipped with a pressurization system. Folded and mounted outside the spacecraft by a frame, it was deployed by inflating it once in orbit. The controls for inflation, pressurization, and airflow were on a panel near Commander P. I. Belyayev’s seat.\n"
+"\n"
+"Technical characteristics:\n"
+"• Mass: 250 kg\n"
+"• Diameter (folded): 70 cm\n"
+"• Height (folded): 77 cm\n"
+"• Height (deployed): 2.5 m\n"
+"• Inner diameter: up to 1 m\n"
+"• Outer diameter: up to 1.2 m\n"
+"• Hatch diameters: 70 cm\n"
+"\n"
+"Developed in 1964–65 at the Zvezda plant under Chief Designer G. I. Severin."
+
+msgid "IDS_PCZC975_SPACE_MUSEUM_5_5"
+msgstr "Lunokhod-1"
+
+msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
+msgstr ""
+"The first automated self-propelled vehicle ever to operate on another celestial body.\n"
+"\n"
+"Technical characteristics:\n"
+"• Mass: 756 kg\n"
+"• Length with solar panel deployed: 4.42 m\n"
+"• Width: 2.15 m\n"
+"• Height: 1.92 m\n"
+"• Wheel diameter: 0.51 m\n"
+"• Wheelbase: 1.6 m\n"
+"\n"
+"The Luna 17 spacecraft delivered Lunokhod-1 to the Moon’s Sea of Rains on November 17, 1971, after launching on November 10, 1970, via the Proton rocket.\n"
+"\n"
+"It operated for 318 days. In 116 driving sessions, Lunokhod-1 traveled 10,540 m, enabling detailed study of about 80,000 km² of lunar surface at up to 2 km/h.\n"
+"\n"
+"Over its mission, it returned 210 panoramas and about 20,000 small-frame TV images, including stereo images of geological interest. It also carried out 171 communication sessions, transmitting 24,829 commands.\n"
+"\n"
+"A French-made laser retroreflector was installed for a joint Franco-Soviet research project, allowing precise laser ranging of the Moon. Distances were measured to within a few meters.\n"
+"\n"
+"The last communication session was September 14, 1971.\n"
+"\n"
+"Lunokhod-1 was developed at NPO Lavochkina under Chief Designer G. N. Babakin, while its self-propelled chassis was designed at the All-Union Research Institute of Transport Engineering (VNIITransmash) under Chief Designer A. L. Kemurdzhian."
+
+msgid "IDS_PCZC976_SPACE_MUSEUM_5_6"
+msgstr "The Luna-16 Automatic Interplanetary Station"
+
+msgid "IDS_PCZC976_SPACE_MUSEUM_5_6_DESCRIPTION"
+msgstr ""
+"In September 1970, it made a round trip from Earth to the Moon and back, becoming the first spacecraft to automatically return 105 grams of lunar soil to Earth.\n"
+"\n"
+"Technical characteristics:\n"
+"• Mass: 5,727 kg\n"
+"• Mass on lunar landing: 1,880 kg\n"
+"• Mass of the return capsule: 34 kg\n"
+"\n"
+"Launched on September 12, 1970, by a Proton-K rocket, Luna-16 landed in the Sea of Fertility on September 20, 1970.\n"
+"\n"
+"The spacecraft had two main parts: a standardized landing stage and an instrument module with a return vehicle that flew back from the Moon.\n"
+"\n"
+"The landing stage included a drilling device on a moveable arm for collecting lunar soil. There were two TV cameras for site selection. The soil was transferred into the return capsule.\n"
+"\n"
+"Examination of the drill core revealed loose lunar “regolith” inside: a dark-gray powder forming clumps, resembling wet sand or porous Earth soil, basaltic in composition.\n"
+"\n"
+"The return capsule launched from the Moon on September 21, 1970, by ground command. On September 24, it separated from its instrument module and safely landed on Earth, 80 km southeast of Jezkazgan.\n"
+"\n"
+"Luna-16 was developed at NPO Lavochkina under Chief Designer G. N. Babakin."
+
+msgid "IDS_PECULIARITY_DISABLED_STATUS"
+msgstr "Unique exterior disabled"
+
+msgid "IDS_PFGT152_550MM_3TUBE_AT47_L"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT154_550MM_3TUBE_AT47_R"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFPA101_127MM_54_HE_T11"
+msgstr "127 mm HE Mark 42"
+
+msgid "IDS_PFPA102_127MM_54_AP_T11"
+msgstr "127 mm AP Mark 43"
+
+msgid "IDS_PFPA103_127MM_54_HE_DUPERRE"
+msgstr "127 mm HE Mark 41"
+
+msgid "IDS_PFPA104_127MM_54_AP_DUPERRE"
+msgstr "127 mm AP Mark 42"
+
+msgid "IDS_PFPT023_T11"
+msgstr "550 mm 24V Mle 2"
+
+msgid "IDS_PFPT026_DUPERRE"
+msgstr "550 mm 24V Mle 3"
+
+msgid "IDS_PFSD111"
+msgstr "Robespierre"
+
+msgid "IDS_PFSD111_DESCR"
+msgstr ""
+"During World War II, the Vichy French navy sought a new generation of destroyers. Known as T 42, the design evolved into a series of sketches called E 43, some of which grew into light cruiser concepts.\n"
+"\n"
+"The ship was to carry 120 mm or 130 mm guns, with three or four mounts proposed. Project E 43 never materialized, but subsequent refinements led to the T 47 design."
+
+msgid "IDS_PFSD111_FULL"
+msgstr "Robespierre"
+
+msgid "IDS_PFSD111_NUMBER"
 msgstr "1"
 
-msgid "IDS_PBSB518_YEAR"
-msgstr "1940"
+msgid "IDS_PFSD111_YEAR"
+msgstr "1945"
 
-msgid "IDS_PBUA715_ART_ANSON"
-msgstr "381 mm/42 Mk.I in Mk.I/N RP 12 mount"
+msgid "IDS_PFSD509"
+msgstr "Duperré"
 
-msgid "IDS_PBUE719_ENG_ANSON"
-msgstr "Propulsion: 144,000 hp"
-
-msgid "IDS_PBUH727_HULL_ANSON"
-msgstr "Anson"
-
-msgid "IDS_PBUS720_SUO_ANSON"
-msgstr "Mk VIII"
-
-msgid "IDS_PBUT715_TORP_ANSON"
-msgstr "533 mm Mk IXM"
-
-msgid "IDS_PCEC147_CAMO_PRORYV_RED"
-msgstr "Breakthrough – Red"
-
-msgid "IDS_PCEC148_CAMO_PRORYV_GREEN"
-msgstr "Breakthrough – Green"
-
-msgid "IDS_PCEC990_TRIALS_BUDENY"
-msgstr "Target"
-
-msgid "IDS_PCEC991_TRIALS_PYOTR_VELIKIY"
-msgstr "Target"
-
-msgid "IDS_PCEC993_TRIALS_SENYAVIN"
-msgstr "Target"
-
-msgid "IDS_PCEC994_TRIALS_OMAHA"
-msgstr "Target"
-
-msgid "IDS_PCEE724_HENGSHUI_FLAG"
-msgstr "Hengshui"
-
-msgid "IDS_PCEE724_HENGSHUI_FLAG_DESCRIPTION"
+msgid "IDS_PFSD509_DESCR"
 msgstr ""
-"Paper lanterns play an important role in celebrating the Chinese New Year, which concludes with the Lantern Festival. New Year rituals based on the lunisolar calendar were described by Cui Shi, a scholar and official of the Han Dynasty, who hailed from an area now part of Hengshui city."
-
-msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG"
-msgstr "Pan-Asian Battleships"
-
-msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_DESCRIPTION"
-msgstr ""
-"The image of the tiger unites many Eastern cultures and is often associated with healing and protection against evil forces in mythology. In ancient China, the tiger was considered the 'king of the forest' and symbolized the emperor's power."
-
-msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the early access release of Pan-Asian battleships in Update 25.1."
-
-msgid "IDS_PCEE730_MADRID_FLAG"
-msgstr "Madrid"
-
-msgid "IDS_PCEE730_MADRID_FLAG_DESCRIPTION"
-msgstr ""
-"The naval flag of Spain used between 1701 and 1785. During this period, Spanish kings reorganized and modernized the fleet to reclaim lost territories and strengthen influence in the New World."
-
-msgid "IDS_PCEE731_ANSON_FLAG"
-msgstr "HMS Anson"
-
-msgid "IDS_PCEE731_ANSON_FLAG_DESCRIPTION"
-msgstr ""
-"George Anson (1697–1762) was a British admiral who undertook a circumnavigation. As Admiral of the Fleet, Anson commanded the Red Squadron, the most prestigious formation usually positioned at the center of the battle line."
-
-msgid "IDS_PCEE732_SOVREMENNY_FLAG"
-msgstr "Sovremenny"
-
-msgid "IDS_PCEE732_SOVREMENNY_FLAG_DESCRIPTION"
-msgstr ""
-"The emblem of the 7th Operational ('Atlantic') Squadron of the Northern Fleet features seven stars representing the squadron’s number, a winged anchor signifying aviation units, and three swords symbolizing its three core components (aircraft carriers, missile ships, and artillery ships)."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_0"
-msgstr "Your ship will be immobilized;"
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_1"
-msgstr "You will receive more points for dealing damage to marked targets."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_DESCRIPTION"
-msgstr ""
-"The trial consists of 5 stages, each lasting 3 minutes. If you complete the task early, you can earn bonus points that will be counted in the next stage."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_EXTRA_DESCRIPTION"
-msgstr "The more stages you complete, the more resources you will receive as a reward."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_GOAL"
-msgstr "Deal as much damage as possible to enemy ships."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_NAME"
-msgstr "Firepower"
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_TASK_DESCR"
-msgstr "Deal damage to enemy ships."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_0"
-msgstr "Your ship will be immobilized;"
-
-msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_1"
-msgstr "You will receive more points for hitting the citadels of marked ships."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_DESCRIPTION"
-msgstr ""
-"The trial consists of 5 stages, each lasting 3 minutes. If you complete the task early, you can earn bonus points that will be counted in the next stage."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_EXTRA_DESCRIPTION"
-msgstr "The more stages you complete, the more resources you will receive as a reward."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_GOAL"
-msgstr "Hit enemy citadels as many times as possible."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_NAME"
-msgstr "Accuracy"
-
-msgid "IDS_PCVT002_CITADEL_PRIME_TASK_DESCR"
-msgstr "Hit enemy ship citadels."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_0"
-msgstr "Your ship will be immobilized;"
-
-msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_1"
-msgstr "You will receive more points for destroying marked targets."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_DESCRIPTION"
-msgstr ""
-"The trial consists of 5 stages, each lasting 3 minutes. If you complete the task early, you can earn bonus points that will be counted in the next stage."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_EXTRA_DESCRIPTION"
-msgstr "The more stages you complete, the more resources you will receive as a reward."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_GOAL"
-msgstr "Destroy as many enemy ships as possible."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_NAME"
-msgstr "Elimination"
-
-msgid "IDS_PCVT003_FRAGS_PRIME_TASK_DESCR"
-msgstr "Destroy enemy ships."
-
-msgid "IDS_PCZA039_UTOPIA"
-msgstr "Utopia Show"
-
-msgid "IDS_PCZA039_UTOPIA_QUOTES"
-msgstr "Utopia Show"
-
-msgid "IDS_PCZC939_UTOPIA_1_1"
-msgstr "The Man Who Killed Santa Claus"
-
-msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
-msgstr ""
-"In 1932, during the Great Depression, store owners in Mesa, Arizona, were struggling. The annual Christmas parade was approaching, and they sought a way to attract visitors.\n"
+"T 53-class destroyers were a development of the Surcouf type (Project T 47). Compared to their predecessors, they had improved air surveillance equipment, enabling them to act as radar picket ships for the French Navy.\n"
 "\n"
-"John McPhee, editor of the local newspaper, suggested a stunt: a parachutist dressed as Santa Claus would jump from a plane and land outside the town. Police would then escort him to the parade to distribute gifts.\n"
-"\n"
-"On the parade day, the parachutist couldn’t make the jump. Quick-thinking McPhee used a mannequin dressed as Santa instead. When dropped from the plane, the parachute failed, and the mannequin crashed to the ground in front of horrified children.\n"
-"\n"
-"McPhee tried to calm the children by dressing as Santa, but they believed Santa had died. He left town for a few days, but the story persisted, and he was forever known as 'the man who killed Santa Claus.'"
+"Duperré was laid down in Lorient in November 1954 and launched in June 1956. Between 1966 and 1971, she was disarmed and used for testing the deep-towed Cormoran 1 sonar. In 1972–74, the ship was radically modernized, replacing her old artillery and torpedoes with four Exocet anti-ship missile launchers, a single 100 mm gun, two 550 mm torpedo tubes, and a Lynx helicopter. After rearmament, Duperré served as a command ship within the French Navy’s anti-submarine forces."
 
-msgid "IDS_PCZC940_UTOPIA_1_2"
-msgstr "Auto Polo"
+msgid "IDS_PFSD509_FULL"
+msgstr "Duperré"
 
-msgid "IDS_PCZC940_UTOPIA_1_2_DESCRIPTION"
-msgstr ""
-"Auto polo was a sport similar to horse polo, but using cars instead of horses. It was popular in the U.S. during the 1910s and 1920s.\n"
-"\n"
-"Invented by Ford salesman Ralph Hankinson in 1911 as a publicity stunt for Ford Model T cars, the first match took place on July 20, 1912, in Wichita, Kansas, with 5,000 spectators. The sport spread quickly, with New York and Chicago becoming major centers.\n"
-"\n"
-"By the late 1920s, the sport faded due to the high danger and costly vehicle damage. Collisions and accidents were frequent, often leaving cars wrecked by the end of a match."
+msgid "IDS_PFSD509_NUMBER"
+msgstr "5"
 
-msgid "IDS_PCZC941_UTOPIA_1_3"
-msgstr "The Gävle Goat"
-
-msgid "IDS_PCZC941_UTOPIA_1_3_DESCRIPTION"
-msgstr ""
-"In Northern Europe, the Christmas goat is a traditional symbol. People wear goat masks and decorate trees with small straw goat figurines. In 1966, the Swedish city of Gävle built a giant straw goat.\n"
-"\n"
-"The goat was 13 meters tall, 7 meters long, and weighed 3 tons. On New Year’s Eve, it was set on fire.\n"
-"\n"
-"Since then, vandals have burned or damaged the goat almost every year, despite increasing security measures. One American tourist believed setting the goat on fire was a legal tradition. Surveillance cameras were hacked one year, and guards left their post due to cold weather another year, allowing vandals to strike."
-
-msgid "IDS_PCZC942_UTOPIA_1_4"
-msgstr "The Plague Doctor"
-
-msgid "IDS_PCZC942_UTOPIA_1_4_DESCRIPTION"
-msgstr ""
-"Plague doctors treated bubonic plague during 16th- and 17th-century European epidemics. Hired by city authorities, they often treated the poor who couldn’t afford medical care.\n"
-"\n"
-"These doctors gained a grim reputation; their presence was seen as a harbinger of death. Many were inexperienced volunteers or novice physicians.\n"
-"\n"
-"Plague doctors used treatments like bloodletting, frogs, and leeches. Their primary role was recording death statistics. Some performed autopsies or took down dying patients' final wishes.\n"
-"\n"
-"The iconic plague doctor outfit included a cloak, gloves, wide-brimmed hat, and a beak-like mask thought to filter bad air. Not all plague doctors wore this costume."
-
-msgid "IDS_PCZC943_UTOPIA_2_1"
-msgstr "Goose in Sneakers"
-
-msgid "IDS_PCZC943_UTOPIA_2_1_DESCRIPTION"
-msgstr ""
-"Andy (1987–1991) was a goose born without webbed feet who wore sneakers to walk.\n"
-"\n"
-"Andy lived on a Nebraska farm. Inventor and philanthropist Gene Fleming helped him by trying various prosthetics, but they failed. Finally, Fleming modified children's sneakers, and Andy learned to walk.\n"
-"\n"
-"Andy’s story gained attention, and a major shoe company provided a lifetime supply of sneakers — one pair per month. Andy inspired people with disabilities.\n"
-"\n"
-"Andy disappeared on October 19, 1991, and was found dead the next day. The case drew public outcry, but the culprit was never identified. Later, police allegedly found the perpetrator but withheld their identity due to mental health reasons."
-
-msgid "IDS_PCZC944_UTOPIA_2_2"
-msgstr "Coconut Crab"
-
-msgid "IDS_PCZC944_UTOPIA_2_2_DESCRIPTION"
-msgstr ""
-"The coconut crab (*Birgus latro*) is the largest land-dwelling arthropod, weighing over 4 kg with a leg span up to 1 meter. They inhabit Indian and Pacific Ocean islands.\n"
-"\n"
-"These crabs eat fruits, nuts, seeds, and carrion. They are known to steal food left unattended. Though believed to climb palm trees to cut down coconuts, there’s no scientific proof of this behavior."
-
-msgid "IDS_PCZC945_UTOPIA_2_3"
-msgstr "Giant Goldfish"
-
-msgid "IDS_PCZC945_UTOPIA_2_3_DESCRIPTION"
-msgstr ""
-"In 2021, a giant goldfish the size of a football was caught in Lake Ontario. Similar finds occurred in other Canadian lakes.\n"
-"\n"
-"These fish are likely descendants of pet goldfish released into the wild. The environment allows them to thrive, and they lack natural predators. Female goldfish lay up to 50,000 eggs three times a year.\n"
-"\n"
-"Goldfish harm native fish populations and ecosystems by spreading diseases, parasites, and competing for food. Authorities urged Canadians not to release pet goldfish into lakes."
-
-msgid "IDS_PCZC946_UTOPIA_2_4"
-msgstr "The Cat Mayor"
-
-msgid "IDS_PCZC946_UTOPIA_2_4_DESCRIPTION"
-msgstr ""
-"Stubbs was the honorary mayor of Talkeetna, Alaska, from 1997 to 2017.\n"
-"\n"
-"In 1997, store manager Laurie Stec found a box of kittens and chose Stubbs, who had no tail. Stubbs lived in the store and became famous.\n"
-"\n"
-"Legend says Stubbs was elected when residents wrote his name on ballots. Skeptics note Talkeetna doesn’t have an official mayor. Stubbs’ 'office' was the store, and he drank water with catnip from a wine glass at a nearby restaurant."
-
-msgid "IDS_PCZC947_UTOPIA_3_1"
-msgstr "Pet Rock"
-
-msgid "IDS_PCZC947_UTOPIA_3_1_DESCRIPTION"
-msgstr ""
-"Pet Rock was a toy created in 1975 by American copywriter Gary Dahl. The rocks came in pet carriers with air holes and straw bedding.\n"
-"\n"
-"Dahl got the idea when friends complained about caring for pets. He suggested rocks as perfect pets — no feeding, walking, or grooming required.\n"
-"\n"
-"Pet Rocks were a hit for six months, including the 1975 holiday season. By February 1976, production stopped. Dahl sold over a million Pet Rocks for $4 each, making him a millionaire."
-
-msgid "IDS_PCZC948_UTOPIA_3_2"
-msgstr "Chocolate with Fish"
-
-msgid "IDS_PCZC948_UTOPIA_3_2_DESCRIPTION"
-msgstr ""
-"Chocolate and fish seem like an odd combination, but some people enjoy it.\n"
-"\n"
-"Many chocolatiers add salt to chocolate. Some go further, making chocolate with salted fish. This unusual treat is produced in several countries. For the cautious, fish with chocolate sauce is an alternative."
-
-msgid "IDS_PCZC949_UTOPIA_3_3"
-msgstr "Ambergris"
-
-msgid "IDS_PCZC949_UTOPIA_3_3_DESCRIPTION"
-msgstr ""
-"Ambergris is a gray, waxy substance from sperm whales' digestive tracts. It’s a prized fixative in perfumery.\n"
-"\n"
-"Medieval Europeans used ambergris to treat headaches, colds, and epilepsy, and believed it protected against plague.\n"
-"\n"
-"Ambergris forms in sperm whales' bile ducts and helps pass indigestible squid beaks. Only 1% of sperm whales produce ambergris, which can float in oceans for years before washing ashore.\n"
-"\n"
-"Due to its rarity and whaling bans, synthetic alternatives now replace ambergris in perfumes."
-
-msgid "IDS_PCZC950_UTOPIA_3_4"
-msgstr "Wasabi"
-
-msgid "IDS_PCZC950_UTOPIA_3_4_DESCRIPTION"
-msgstr ""
-"Wasabi is a plant from the cabbage family, native to Japan, the Russian Far East, and Korea.\n"
-"\n"
-"Its spicy taste resembles horseradish and mustard. Wasabi root is grated into a green, pungent paste served with sushi.\n"
-"\n"
-"Wasabi's spiciness affects the nose more than taste buds. This quality inspired a fire alarm for the hearing impaired — one test subject woke within 10 seconds of smelling wasabi."
-
-msgid "IDS_PRES316_TOP_SECRET"
-msgstr "Utopia Show"
-
-msgid "IDS_PRGM101_130MM_B31_TWIN"
-msgstr "130 mm/50 Pattern 1936 in B-31 Mount"
-
-msgid "IDS_PRGM244_130MM_58_CM_62"
-msgstr "130 mm/58 Pattern 1957 in SM-61 Mount"
-
-msgid "IDS_PRGM246_100MM_TWIN_CM_52"
-msgstr "100 mm/70 in SM-51 Mount"
-
-msgid "IDS_PRPA158_130MM_58_HE"
-msgstr "130 mm HE-42"
-
-msgid "IDS_PRPA159_130MM_58_AP"
-msgstr "130 mm AP-42"
-
-msgid "IDS_PRPA160_100MM_HE_SOVREMENNY"
-msgstr "100 mm HE-52"
-
-msgid "IDS_PRPA161_100MM_AP_SOVREMENNY"
-msgstr "100 mm AP-52"
-
-msgid "IDS_PRPT082_SOOBRAZITELNY"
-msgstr "53-38 Mod. 1"
-
-msgid "IDS_PRPT083_OSMOTRITELNY"
-msgstr "53-38 Mod. 2"
-
-msgid "IDS_PRPT084_SMELY"
-msgstr "53-39 Mod. 2"
-
-msgid "IDS_PRPT085_SPOKOINY"
-msgstr "53-50 Mod. 1"
-
-msgid "IDS_PRPT086_GORDELIVY"
-msgstr "53-50 Mod. 2"
-
-msgid "IDS_PRPT087_SOVREMENNY"
-msgstr "53-39 Mod. 5"
-
-msgid "IDS_PRSB526"
-msgstr "Top Secret"
-
-msgid "IDS_PRSB526_DESCR"
-msgstr ""
-"On October 28, 1943, the U.S. Navy conducted a secret experiment in Philadelphia called 'Project Rainbow,' in which the destroyer USS Eldridge supposedly teleported several kilometers away. Officials claim the Philadelphia Experiment is a hoax, but we know the TRUTH.\n"
-"\n"
-"In 1947, after the Roswell incident, the government continued its experiments. Eyewitnesses (who remain anonymous for their safety) reported sightings of a Soviet battlecruiser off the Philadelphia coast, in Groom Lake, and near the Bermuda Triangle.\n"
-"\n"
-"We suspect the government used alien technology from Area 51 to uncover something unimaginable... and is hiding it from us.\n"
-"\n"
-"Want to believe? It's hard to."
-
-msgid "IDS_PRSB526_FULL"
-msgstr "Top Secret"
-
-msgid "IDS_PRSB526_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSB526_YEAR"
-msgstr "???"
-
-msgid "IDS_PRSC916"
-msgstr "Makarov U"
-
-msgid "IDS_PRSC916_DESCR"
-msgstr "A replica of the ship Admiral Makarov for Training Trials and Operations."
-
-msgid "IDS_PRSC916_FULL"
-msgstr "Makarov (Training)"
-
-msgid "IDS_PRSC916_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSC916_YEAR"
-msgstr "1935"
-
-msgid "IDS_PRSD218"
-msgstr "Opytniy"
-
-msgid "IDS_PRSD218_DESCR"
-msgstr ""
-"Based on German shipbuilding experience, V. Brzezinski from CDB-1 proposed a destroyer with advanced boilers, reducing turbine weight. Professor L. Ramzin designed boilers with triple the pressure of Project 7 destroyers. The saved weight allowed for twin B-31 turrets.\n"
-"\n"
-"Built at the Zhdanov plant, the ship was renamed 'Opytniy' in 1940. Without the B-31 turrets, it was armed with B-13 guns. Commissioned urgently in 1941, the ship supported the Leningrad Front until damaged in October 1941 and repaired in 1942–44."
-
-msgid "IDS_PRSD218_FULL"
-msgstr "Opytniy"
-
-msgid "IDS_PRSD218_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSD218_YEAR"
-msgstr "1941"
-
-msgid "IDS_PRSD306"
-msgstr "Soobrazitelny"
-
-msgid "IDS_PRSD306_DESCR"
-msgstr ""
-"Project 7 destroyers had vulnerabilities due to their linear boiler arrangement. In 1938, CDB-17 designed Project 7U with staggered boiler placement. Many ships were re-laid to this design.\n"
-"\n"
-"Laid down in 1936 as part of Project 7, Soobrazitelny was re-laid in 1939. It participated in the raid on Constanța, the defense of Odessa, and the Kerch-Feodosiya landing operation. Awarded the Guards title, it served in the Black Sea Fleet post-war."
-
-msgid "IDS_PRSD306_FULL"
-msgstr "Soobrazitelny"
-
-msgid "IDS_PRSD306_NUMBER"
-msgstr "18"
-
-msgid "IDS_PRSD306_YEAR"
-msgstr "1941"
-
-msgid "IDS_PRSD317"
-msgstr "Osmotritelny"
-
-msgid "IDS_PRSD317_DESCR"
-msgstr ""
-"In 1937, the USSR began designing a new destroyer based on lessons from the Spanish Civil War. The design, Project 30, featured some elements of Project 48 leaders, including dual turrets.\n"
-"\n"
-"Osmotritelny was laid down in Severodvinsk in 1940 and commissioned in 1947. It served in the Northern Fleet for 11 years."
-
-msgid "IDS_PRSD317_FULL"
-msgstr "Osmotritelny"
-
-msgid "IDS_PRSD317_NUMBER"
-msgstr "10"
-
-msgid "IDS_PRSD317_YEAR"
-msgstr "1947"
-
-msgid "IDS_PRSD318"
-msgstr "Smely"
-
-msgid "IDS_PRSD318_DESCR"
-msgstr ""
-"After WWII, the USSR introduced Project 30-bis destroyers, improved versions of Project 30 with better seaworthiness and anti-aircraft capabilities. This series included 70 ships, the largest class of Soviet surface combatants.\n"
-"\n"
-"Smely was laid down in 1948 in Leningrad, launched the same year, and commissioned in 1951. It served in the Baltic and Northern Fleets."
-
-msgid "IDS_PRSD318_FULL"
-msgstr "Smely"
-
-msgid "IDS_PRSD318_NUMBER"
-msgstr "70"
-
-msgid "IDS_PRSD318_YEAR"
-msgstr "1951"
-
-msgid "IDS_PRSD319"
-msgstr "Spokoiny"
-
-msgid "IDS_PRSD319_DESCR"
-msgstr ""
-"In 1952, the USSR halted Project 41 ships and developed the smaller Project 56 destroyer. This new design improved hull form and reduced displacement.\n"
-"\n"
-"Spokoiny was laid down in 1953 in Leningrad, launched the same year, and commissioned in 1956. It served in the Northern Fleet, later participating in major exercises like 'Ocean-70.'"
-
-msgid "IDS_PRSD319_FULL"
-msgstr "Spokoiny"
-
-msgid "IDS_PRSD319_NUMBER"
-msgstr "27"
-
-msgid "IDS_PRSD319_YEAR"
-msgstr "1956"
-
-msgid "IDS_PRSD320"
-msgstr "Gordelivy"
-
-msgid "IDS_PRSD320_DESCR"
-msgstr ""
-"Mid-1950s Project 56 destroyers, while seaworthy, had issues with speed and aluminum superstructure vibrations. Living conditions were poor, and modernization potential was low.\n"
-"\n"
-"To address these problems, a new destroyer design was proposed, maintaining the dimensions of Project 41 but integrating modern technology. However, by the 1960s, missile destroyers became the priority, and the USSR shifted focus to Project 57-bis."
-
-msgid "IDS_PRSD320_FULL"
-msgstr "Gordelivy"
-
-msgid "IDS_PRSD320_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSD320_YEAR"
+msgid "IDS_PFSD509_YEAR"
 msgstr "1957"
 
-msgid "IDS_PRSD509"
-msgstr "Sovremenny"
+msgid "IDS_PFUA807_ART_DUPERRE"
+msgstr "127 mm/54 Mle 1948 in a Mle 1948 mount"
 
-msgid "IDS_PRSD509_DESCR"
-msgstr ""
-"Of the eight planned Project 48 leaders, only two were launched. From 1944 to 1950, work continued on Project 48-K, but in 1950, the USSR decided to convert these hulls into target ships.\n"
-"\n"
-"The hull of 'Yerevan' was sunk in 1957 during missile tests. 'Kiev' was later returned to Nikolaev for potential conversion into a missile destroyer or test ship. If completed as a gun destroyer, it would have had modern armament like 100 mm guns and ASW rocket launchers."
+msgid "IDS_PFUA909_D11_ART_STOCK"
+msgstr "127 mm/54 Mle 1948 in a Mle 1948 mount"
 
-msgid "IDS_PRSD509_FULL"
-msgstr "Sovremenny"
+msgid "IDS_PFUE807_ENG_DUPERRE"
+msgstr "Propulsion: 63,000 hp"
 
-msgid "IDS_PRSD509_NUMBER"
-msgstr "1"
+msgid "IDS_PFUE908_D11_ENG_STOCK"
+msgstr "Propulsion: 108,454 hp"
 
-msgid "IDS_PRSD509_YEAR"
-msgstr "1962"
+msgid "IDS_PFUH810_HULL_DUPERRE"
+msgstr "Duperré"
 
-msgid "IDS_PRUA500_ART_TOP_SECRET"
-msgstr "356 mm/52 Pattern 1913 in Metal Plant Turret"
+msgid "IDS_PFUH908_D11_HULL_STOCK"
+msgstr "Robespierre"
 
-msgid "IDS_PRUA507_D6_ART_STOCK"
-msgstr "130 mm/50 Pattern 1936 in B-13-IIc Mount"
+msgid "IDS_PFUS810_SUO_DUPERRE"
+msgstr "PCA n°9"
 
-msgid "IDS_PRUA508_ART_MAKAROV_CHALLENGE"
-msgstr "150 mm/60 SK C/25 in Drh Tr C/28 Mount"
+msgid "IDS_PFUS907_D11_SUO_STOCK"
+msgstr "PCA n°11"
 
-msgid "IDS_PRUA605_D7_ART_STOCK"
-msgstr "130 mm/50 Pattern 1936 in B-2LM Mount"
+msgid "IDS_PFUT804_TORP_DUPERRE"
+msgstr "550 mm 23DT"
 
-msgid "IDS_PRUA715_D8_ART_STOCK"
-msgstr "130 mm/50 Pattern 1936 in B-2LM Mount"
+msgid "IDS_PFUT906_D11_TORP_STOCK"
+msgstr "550 mm 23DT"
 
-msgid "IDS_PRUA716_D8_ART_STOCK"
-msgstr "130 mm/50 Pattern 1936 in B-31 Mount"
+msgid "IDS_PGAD980_ASW_T10_SUBTEST"
+msgstr "Fw.200 Condor Test"
 
-msgid "IDS_PRUA820_D9_ART_STOCK"
-msgstr "130 mm/58 Pattern 1957 in SM-2-1 Mount"
+msgid "IDS_PGPD907_DEPTH_T10"
+msgstr "SC-300"
 
-msgid "IDS_PRUA824_ART_SOVREMENNY"
-msgstr "100 mm/70 in SM-51 Mount"
+msgid "IDS_PGPT910_SUBTEST"
+msgstr "G7e/T4"
 
-msgid "IDS_PRUA922_D10_ART_STOCK"
-msgstr "130 mm/58 Pattern 1957 in SM-61 Mount"
+msgid "IDS_PGPT911_SUBTEST"
+msgstr "G7e/T4 MZ"
 
-msgid "IDS_PRUE500_ENG_TOP_SECRET"
-msgstr "Propulsion: 75,000 hp"
+msgid "IDS_PGSS910"
+msgstr "U-2601"
 
-msgid "IDS_PRUE507_D6_ENG_STOCK"
-msgstr "Propulsion: 54,000 hp"
+msgid "IDS_PGSS910_DESCR"
+msgstr "Submarines specifically designed for extended underwater operations. They were equipped with improved batteries and a snorkel for submerged diesel propulsion. These submarines also featured low-noise electric motors for stealthy approaches to targets."
 
-msgid "IDS_PRUE509_ENG_MAKAROV_CHALLENGE"
-msgstr "Propulsion: 60,000 hp"
+msgid "IDS_PGSS910_FULL"
+msgstr "U-2601"
 
-msgid "IDS_PRUE606_D7_ENG_STOCK"
-msgstr "Propulsion: 60,810 hp"
+msgid "IDS_PGSS910_NUMBER"
+msgstr "267"
 
-msgid "IDS_PRUE723_D8_ENG_STOCK"
-msgstr "Propulsion: 62,100 hp"
+msgid "IDS_PGSS910_YEAR"
+msgstr "1944"
 
-msgid "IDS_PRUE724_D8_ENG_STOCK"
-msgstr "Propulsion: 70,000 hp"
+msgid "IDS_PGUE920_ENG_SUBTEST"
+msgstr "Propulsion: 5,000 hp"
 
-msgid "IDS_PRUE820_D9_ENG_STOCK"
-msgstr "Propulsion: 72,000 hp"
+msgid "IDS_PGUH920_HULL_SUBTEST"
+msgstr "U-2601"
 
-msgid "IDS_PRUE821_ENG_SOVREMENNY"
-msgstr "Propulsion: 90,000 hp"
+msgid "IDS_PGUQ905_SONAR_SUBTEST"
+msgstr "Typ 10"
 
-msgid "IDS_PRUE924_D10_ENG_STOCK"
-msgstr "Propulsion: 76,000 hp"
+msgid "IDS_PGUT917_TORP_SUBTEST"
+msgstr "G7e/T4 and G7e/T4 MZ"
 
-msgid "IDS_PRUH516_HULL_TOP_SECRET"
-msgstr "Top Secret"
+msgid "IDS_PHAD912_GOUDEN_LEEUW_AS"
+msgstr "Fokker T.V Test"
 
-msgid "IDS_PRUH517_D6_HULL_STOCK"
-msgstr "Soobrazitelny"
+msgid "IDS_PHPB924_PUW_160KG_AS_HE"
+msgstr "P.u.W. 160 kg"
 
-msgid "IDS_PRUH518_HULL_MAKAROV_CHALLENGE"
-msgstr "Admiral Makarov"
+msgid "IDS_PIES602_NANI_SUBMARINEDAY"
+msgstr "Garibaldian Brigades"
 
-msgid "IDS_PRUH610_D7_HULL_STOCK"
-msgstr "Osmotritelny"
+msgid "IDS_PINGER_SHADOW"
+msgstr "POSITION REVEALED"
 
-msgid "IDS_PRUH731_D8_HULL_STOCK"
-msgstr "Smely"
+msgid "IDS_PJAD993_ASW_T10_SUBTEST"
+msgstr "Kawanishi H6K Test"
 
-msgid "IDS_PRUH732_D8_HULL_STOCK"
-msgstr "Opytniy"
+msgid "IDS_PJPD905_DEPTH_T10"
+msgstr "Type 1 No.25 Mk 2 model 1"
 
-msgid "IDS_PRUH828_D9_HULL_STOCK"
-msgstr "Spokoiny"
+msgid "IDS_PRAD990_ASW_T10_SUBTEST"
+msgstr "Beriev Be-6 Test"
 
-msgid "IDS_PRUH829_HULL_SOVREMENNY"
-msgstr "Sovremenny"
+msgid "IDS_PREFERENCES_OTHER_SECTION_HEADER_ADDITIONAL_CONTENT"
+msgstr "Event Content"
 
-msgid "IDS_PRUH924_D10_HULL_STOCK"
-msgstr "Gordelivy"
+msgid "IDS_PRES335_PYOTR_VELIKIY_ANIME_EVENT"
+msgstr "Equilibrium Guardian"
 
-msgid "IDS_PRUS508_SUO_TOP_SECRET"
-msgstr "GFCS VI"
+msgid "IDS_PRES451_DOLGORUKIY_CEREMONIAL"
+msgstr "Ceremonial"
 
-msgid "IDS_PRUS509_D6_SUO_STOCK"
-msgstr "GFCS VI"
+msgid "IDS_PRPD905_ASWBOMB_SUBTEST"
+msgstr "Depth Bomb"
 
-msgid "IDS_PRUS510_SUO_MAKAROV_CHALLENGE"
-msgstr "GFCS VI Mod. 1"
+msgid "IDS_PRPD906_DEPTHBOMB_SUBTEST"
+msgstr "Depth Bomb"
 
-msgid "IDS_PRUS608_D7_SUO_STOCK"
-msgstr "GFCS VII"
+msgid "IDS_PRPT990_SUBTEST"
+msgstr "53-38U"
 
-msgid "IDS_PRUS710_D8_SUO_STOCK"
-msgstr "GFCS VIII"
+msgid "IDS_PRPT991_SUBTEST_MZ"
+msgstr "53-38U MZ"
 
-msgid "IDS_PRUS724_D8_SUO_STOCK"
-msgstr "GFCS VIII"
+msgid "IDS_PRSS910"
+msgstr "K-41"
 
-msgid "IDS_PRUS827_D9_SUO_STOCK"
-msgstr "GFCS IX"
+msgid "IDS_PRSS910_DESCR"
+msgstr "A large submarine intended both for operating alongside surface ships and for independent long-range patrols. Armed with ten torpedo tubes, it also features relatively high surface speed."
 
-msgid "IDS_PRUS828_SUO_SOVREMENNY"
-msgstr "GFCS IX"
+msgid "IDS_PRSS910_FULL"
+msgstr "K-41"
 
-msgid "IDS_PRUS920_D10_SUO_STOCK"
-msgstr "GFCS X"
+msgid "IDS_PRSS910_NUMBER"
+msgstr "12"
 
-msgid "IDS_PRUT504_D6_TORP_STOCK"
-msgstr "53-39"
+msgid "IDS_PRSS910_YEAR"
+msgstr "1939"
 
-msgid "IDS_PRUT505_TORP_MAKAROV_CHALLENGE"
-msgstr "G7a T1"
+msgid "IDS_PRUA924_ART_SUBTEST"
+msgstr "100 mm/51 B-24PL Mod. 1936"
 
-msgid "IDS_PRUT606_D7_TORP_STOCK"
-msgstr "53-39 Mod. 4"
+msgid "IDS_PRUE926_ENG_SUBTEST"
+msgstr "Propulsion: 8,400 hp"
 
-msgid "IDS_PRUT713_D8_TORP_STOCK"
-msgstr "53-51"
+msgid "IDS_PRUH926_HULL_SUBTEST"
+msgstr "K-41"
 
-msgid "IDS_PRUT714_D8_TORP_STOCK"
-msgstr "53-38"
+msgid "IDS_PRUT919_TORP_SUBTEST"
+msgstr "533 mm"
 
-msgid "IDS_PRUT814_TORP_SOVREMENNY"
-msgstr "53-51"
+msgid "IDS_PURCHASE_COST_COLON"
+msgstr "Purchase:"
 
-msgid "IDS_PRUT815_D9_TORP_STOCK"
-msgstr "53-51"
+msgid "IDS_PURCHASE_SLOT"
+msgstr "Buy slot"
 
-msgid "IDS_PRUT918_D10_TORP_STOCK"
-msgstr "53-51"
+msgid "IDS_RESEARCH_COST_COLON"
+msgstr "Research:"
 
-msgid "IDS_PSGA062_40MM_BOFORS_MARK_IV_HAZEMEYER"
-msgstr "40 mm/56 QF Mk.1/2 in Mk.IV Mount"
-
-msgid "IDS_PSGA063_20MM_OERLIKON_MK4"
-msgstr "20 mm Oerlikon Mk.I in Mk.IIA Mount"
-
-msgid "IDS_PSGA065_2_PDR_MKVII_QUAD"
-msgstr "40 mm/39 Vickers QF Mk.VIII in Mk.VII Mount"
-
-msgid "IDS_PSGA066_20MM_OERLIKON_MK_V"
-msgstr "20 mm Oerlikon Mk.II in Mk.V Mount"
-
-msgid "IDS_PSGM061_12IN50_MK_XV"
-msgstr "305 mm/50 VSM Mk.H in Turret Mount"
-
-msgid "IDS_PSGS064_114MM_45_MKIII"
-msgstr "113 mm/45 QF Mk.I/III in RP10 Mk.II BD Mount"
-
-msgid "IDS_PSPA031_305MM_HE_MADRID"
-msgstr "305 mm HE Mk.IIb"
-
-msgid "IDS_PSPA032_305MM_AP_MADRID"
-msgstr "305 mm AP Mk.VIb"
-
-msgid "IDS_PSPA033_114MM_MII_HE"
-msgstr "113 mm HE 5crh"
-
-msgid "IDS_PSPT009_MADRID"
-msgstr "533 mm Mk.VIII ES"
-
-msgid "IDS_PSSC510"
-msgstr "Madrid"
-
-msgid "IDS_PSSC510_DESCR"
-msgstr ""
-"After the Spanish Civil War, Spanish shipbuilders, particularly the Ferrol shipyard, designed new warships. In 1938, they developed five destroyer projects and several cruiser projects ranging from 7,920 to 19,000 tons.\n"
-"\n"
-"The largest was Project 138, with variations in main battery guns. One option involved using twin turrets from the battleship *España*, which was lost off Santander during the war. The ship's hull was beyond repair, but its 305 mm guns were considered for new cruisers or coastal defense."
-
-msgid "IDS_PSSC510_FULL"
-msgstr "Madrid"
-
-msgid "IDS_PSSC510_NUMBER"
-msgstr "1"
-
-msgid "IDS_PSSC510_YEAR"
-msgstr "1938"
-
-msgid "IDS_PSUA904_ART_MADRID"
-msgstr "305 mm/50 VSM Mk.H in Turret Mount"
-
-msgid "IDS_PSUE904_ENG_MADRID"
-msgstr "Propulsion: 135,560 hp"
-
-msgid "IDS_PSUH904_HULL_MADRID"
-msgstr "Madrid"
-
-msgid "IDS_PSUS904_SUO_MADRID"
-msgstr "SCI Mk.X"
-
-msgid "IDS_PSUT903_TORP_MADRID"
-msgstr "533 mm Vierling"
-
-msgid "IDS_PZES301_HANOI_EA"
-msgstr "Flaming Warrior"
-
-msgid "IDS_PZES302_DONGFENG_EA"
-msgstr "Flaming Warrior"
-
-msgid "IDS_PZES303_TIANGONG_EA"
-msgstr "Flaming Warrior"
-
-msgid "IDS_PZES411_HENGSHUI_LNY"
-msgstr "Awakening of the East"
-
-msgid "IDS_RESET_CREW_FILTERS_BUTTON_LABEL"
-msgstr "Reset Filters"
-
-msgid "IDS_REST_REWARDS_HINT"
-msgstr "And %(_count)s more"
-
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium Ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL"
 msgstr "Ship"
 
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE"
-msgstr "Błyskawica '63 Premium Container"
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier VIII Premium ship"
 
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE_SHORT"
-msgstr "Błyskawica '63"
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier VIII"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Giacomo Nani"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_TITLE_FULL"
-msgstr " "
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "G. Nani"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_COMMON_GROUP_TITLE_FULL"
-msgstr " "
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE"
+msgstr "Giacomo Nani Premium Container"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_TITLE_FULL"
-msgstr " "
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE_SHORT"
+msgstr "Giacomo Nani"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE"
-msgstr "Utopia Show Container"
+msgid "IDS_RIBBON_SSE_BUILDING_KILL"
+msgstr "Destroyed a shore installation"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE_SHORT"
-msgstr "Utopia Show"
+msgid "IDS_SCENARIO_SUBS_IMPROVE_EVENT"
+msgstr "Underwater Frontiers"
 
-msgid "IDS_SCENARIO_PCVT001_DAMAGE_PRIME"
-msgstr "Firepower"
+msgid "IDS_SECOND_SPACE_MUSEUM_NAME"
+msgstr "Satellites and Stations. Part 2"
 
-msgid "IDS_SCENARIO_PCVT002_CITADEL_PRIME"
-msgstr "Accuracy"
+msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_QUESTION"
+msgstr "Replace the trial for"
 
-msgid "IDS_SCENARIO_PCVT003_FRAGS_PRIME"
-msgstr "Elimination"
+msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_TITLE"
+msgstr "Replacing the Trial"
 
-msgid "IDS_SCENARIO_TRIALS_TEST"
-msgstr "Calibration Scenario"
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON_ALL"
+msgstr "Reset all"
 
-msgid "IDS_SECOND_UTOPIA_NAME"
-msgstr "Investigation Board No. 2"
+msgid "IDS_SHIP_MASTERY_TASKS_IN_PROGRESS"
+msgstr "Trials in progress"
 
-msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TRIAL"
-msgstr "Select one of the ships allowed for Training Trials."
+msgid "IDS_SHIP_MASTERY_TRIALS_CONDITION"
+msgstr "Within a single battle"
 
-msgid "IDS_SHIP_ACES_NATION_TITLE"
-msgstr "Personal Trials: Nations"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_AIR_SUPPORT_RELOAD_FACTOR"
+msgstr "Weakened DC Airstrike"
 
-msgid "IDS_SHIP_ACES_SHIP_TYPE_TITLE"
-msgstr "Personal Trials: Classes"
+msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_HYDROPHONE"
+msgstr "Shows the seabed relief and positions of ships and submarines. Works at periscope and operating depths. Does not detect submarines at maximum depth."
 
-msgid "IDS_SHIP_FEATURES_PVE_SHIP"
-msgstr "Battle Type Restrictions"
+msgid "IDS_SHIP_PARAM_HEADER_ACTIVE_EFFECT_HYDROPHONE"
+msgstr "Sonar Ping"
 
-msgid "IDS_SHIP_FEATURES_PVE_SHIP_DESCRIPTION"
-msgstr "You can only use this ship in Operations and Training Trials."
+msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_IN_HYDROPHONE_RANGE"
+msgstr "Sonar Ping"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
-msgstr "Ship combat characteristics are altered. The changes depend on the ship class."
+msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_IN_HYDROPHONE_FAR_RANGE"
+msgstr "Your ship is within the sonar ping radius of an enemy submarine. Your ship’s position may be revealed."
 
-msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_WEAPON_DAMAGE_H2023"
-msgstr "Reduces damage taken and increases damage dealt to enemies. The effect increases for each destroyed ally."
+msgid "IDS_SHIP_PARAM_TORPEDO_DRUM_SHOT_DELAY"
+msgstr "Reload time per torpedo"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ACCURACY"
-msgstr "Decreased Accuracy"
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE_TOOLTIP_DESCRIPTION"
+msgstr "The distance at which a ship can be spotted by aircraft."
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_CONSUMABLES"
-msgstr "Weakened Consumables"
+msgid "IDS_SHOW_ADDITION_CONTENT"
+msgstr "Camouflages and Commanders with non-historical styling"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_DAMAGE_RESIST"
-msgstr "Decreased Survivability"
+msgid "IDS_SHOW_ADDITION_CONTENT_DESCRIPTION"
+msgstr "Displays unique, event-themed visuals for camos and Commanders in battle and in Port. Disable to ensure their appearance matches the historical style of the game."
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ENGINE"
-msgstr "Weakened Maneuverability"
+msgid "IDS_SHOW_ADDITION_CONTENT_STATUS"
+msgstr "If you are in battle, changing this setting will take effect after the battle ends"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_HEALTH_REGENERATION"
-msgstr "Slower Health Regeneration"
+msgid "IDS_SLAVIC_GIRL"
+msgstr "Katya StormyGirl"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_WEAPONS_RELOAD_FACTOR"
-msgstr "Slower Reload Time"
+msgid "IDS_SOUND_MOD_ANIME_MAGA_LANA_ANIME"
+msgstr "Lana"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INTANIA_MAGIC"
-msgstr "Intania's Magic"
+msgid "IDS_SOUND_MOD_ANIME_MAGA_LEILA_ANIME"
+msgstr "Ayla"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_RUSY_VS_LIZARDS"
-msgstr "Daring Valor"
+msgid "IDS_SOUND_MOD_ASTRONAUT_ARTEMIEV"
+msgstr "Oleg Artemyev"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_WEAPON_DAMAGE_H2023"
-msgstr "Will of the Fallen"
+msgid "IDS_SOUND_MOD_SLAVIC_GIRL"
+msgstr "Katya StormyGirl"
 
-msgid "IDS_SOUND_MOD_EVAVALENTINE"
-msgstr "Eva Valentine"
+msgid "IDS_SPACES/57_AOTS"
+msgstr "The Last Harbor"
 
-msgid "IDS_SOUND_MOD_UTOPIASHOW_CONSPIROLOGIST"
-msgstr "Duncan C."
+msgid "IDS_SPACES/57_AOTS_DESCR"
+msgstr "The Last Harbor"
 
-msgid "IDS_SOUND_MOD_UTOPIASHOW_GNIDOVSKY"
-msgstr "Rupert G."
+msgid "IDS_SUBS_IMPROVE_EVENT"
+msgstr "Underwater Frontiers"
 
-msgid "IDS_SOUND_MOD_UTOPIASHOW_HRENSBERG"
-msgstr "Dick H."
+msgid "IDS_SYS_MSG_MASTERY_TASK_REPLACED"
+msgstr "Mastery trial replaced"
 
-msgid "IDS_SPACES/E13_TRIALS_MAPPRIME"
-msgstr "Test Base"
+msgid "IDS_THIRD_SPACE_MUSEUM_NAME"
+msgstr "Rockets"
 
-msgid "IDS_SPACES/E13_TRIALS_MAPPRIME_DESCR"
-msgstr "Test Base"
-
-msgid "IDS_START_BATTLE_DENY_PVE_ONLY"
-msgstr "The selected ship can only participate in Training Trials and Operations."
-
-msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_EPIC_SKILL_FOR_SLOT"
-msgstr "You can upgrade this skill once you have a commander with this enhanced skill."
-
-msgid "IDS_SUBMARINE_PL_GENITIVE"
-msgstr "submarines"
-
-msgid "IDS_SYS_MSG_HINT_LEFT_CLICK_FOR_CREW_INFO_TRANSITION"
-msgstr "Open Personal File"
-
-msgid "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
-msgid_plural "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
-msgstr[0] "%(count)d slot left in reserve"
-msgstr[1] "%(count)d slots left in reserve"
-
-msgid "IDS_TAB_HINT_CREW_RESERVE_NO_SPACE_LEFT"
-msgstr "No space left in reserve. Dismiss unnecessary commanders."
-
-msgid "IDS_THIRD_UTOPIA_NAME"
-msgstr "Investigation Board No. 3"
-
-msgid "IDS_THIS_SHIP_IS_NOT_ALLOWED_FOR_TRIAL"
-msgstr "The selected ship cannot participate in Training Trials."
-
-msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TRIAL"
-msgstr "The selected ship does not meet the level requirement for Training Trials."
-
-msgid "IDS_TOOLTIP_CREW_FILTERS"
-msgstr "Open Commander Filters Panel"
-
-msgid "IDS_TRIAL"
-msgstr "Training Trials"
-
-msgid "IDS_TRIALBATTLE"
-msgstr "Training Trials"
-
-msgid "IDS_TRIALS_BRIEFING_COMMON"
-msgstr "Briefing"
-
-msgid "IDS_TRIALS_MULTIPLIERS_LEGEND"
-msgstr "Legend"
-
-msgid "IDS_TRIALS_OBJECTIVE_COMMON"
-msgstr "Objective"
-
-msgid "IDS_TRIAL_BONUS_POINTS_ACCUMULATING"
-msgstr "BONUS POINTS!"
-
-msgid "IDS_TRIAL_CITADELS"
-msgstr "ACCURACY"
-
-msgid "IDS_TRIAL_CITADELS_DESCRIPTION"
-msgstr "Hit Citadels"
-
-msgid "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
-msgstr[0] "Hit the citadel of enemy ships %(targetScores)s time"
-msgstr[1] "Hit the citadel of enemy ships %(targetScores)s times"
-
-msgid "IDS_TRIAL_CIT_PRIME_AIM_CENTER_BOARD"
-msgstr "To hit the citadel, aim at the ship's midsection near the waterline."
-
-msgid "IDS_TRIAL_CIT_PRIME_CHANGE_AMMO"
-msgstr "Select Armor-Piercing shells to penetrate citadels."
-
-msgid "IDS_TRIAL_CIT_PRIME_RICOCHET"
-msgstr "To avoid over-penetration and ricochets, aim at the midsection near the waterline."
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_1"
-msgstr "Hit as many citadels as possible to complete the phase. Citadels are marked in black on ships."
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_2"
-msgstr "The enemy is maneuvering — wait until they show broadside to hit the citadel."
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_3"
-msgstr "Shoot at ships with [st_x5] markers to earn more points."
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_4"
-msgstr "Destroy ships with [st_x5] markers before your allies do."
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_5"
-msgstr "Defend the point! If the enemy captures it, the point multiplier drops to [st_x2]. If an ally captures it, the multiplier increases to [st_x5]!"
-
-msgid "IDS_TRIAL_DAMAGE"
-msgstr "FIREPOWER"
-
-msgid "IDS_TRIAL_DAMAGE_DESCRIPTION"
-msgstr "Deal Damage"
-
-msgid "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
-msgstr[0] "Deal %(targetScores)s damage to enemy ships"
-msgstr[1] "Deal %(targetScores)s damage to enemy ships"
-
-msgid "IDS_TRIAL_DESCRIPTION"
-msgstr "Trials where you can hone your combat skills."
-
-msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_BS_SPAWN"
-msgstr "Set battleships [e1] on fire with High-Explosive shells. Fires cause sustained damage."
-
-msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_CR_SPAWN"
-msgstr "Cruisers' [e2] broadsides are ideal targets for Armor-Piercing shells. Aim at the waterline for maximum damage."
-
-msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_DD_SPAWN"
-msgstr "Use High-Explosive shells to combat [e3] destroyers!"
-
-msgid "IDS_TRIAL_DMG_PRIME_HINT_AP_MODIFICATOR"
-msgstr "Deal damage to ships with [st_attack] markers using Armor-Piercing shells to earn double points!"
-
-msgid "IDS_TRIAL_DMG_PRIME_HINT_HE_MODIFICATOR"
-msgstr "Deal damage to ships with [st_attack] markers using High-Explosive shells to earn double points!"
-
-msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE"
-msgstr "Enemy ship visibility is now the same as in real battles!"
-
-msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE_HINT"
-msgstr "Each ship has a visibility parameter — the distance at which it can always be seen. If a ship stops firing and is beyond this distance, it will disappear."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE2_ANNONCEMENT"
-msgstr "Fire at lightly armored cruisers. Be aware — targets are maneuvering!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT"
-msgstr "When firing Armor-Piercing shells, target ships showing broadside. Use the minimap!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT2"
-msgstr "If the enemy ship is angled, use High-Explosive or Semi-Armor-Piercing shells!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE3_ANNONCEMENT"
-msgstr "Fire at ships with markers! Use the specified shell type to earn more points."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE4_ANNONCEMENT"
-msgstr "If a ship stops firing, it may disappear from view."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE5_ANNONCEMENT"
-msgstr "Use your knowledge effectively!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE5_RULES_1"
-msgstr "Destroy ships to increase the damage multiplier for other targets. Each destroyed ship increases the multiplier."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE6_ANNONCEMENT"
-msgstr "Your ship's weapon reload time is now accelerated!"
-
-msgid "IDS_TRIAL_FRAGS"
-msgstr "ELIMINATION"
-
-msgid "IDS_TRIAL_FRAGS_DESCRIPTION"
-msgstr "Destroy Ships"
-
-msgid "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
-msgstr[0] "Destroy %(targetScores)s enemy ship"
-msgstr[1] "Destroy %(targetScores)s enemy ships"
-
-msgid "IDS_TRIAL_FRAG_PRIME_PHASE1_ANNONCEMENT"
-msgstr "In this phase, you need to coordinate with your allies."
-
-msgid "IDS_TRIAL_FRAG_PRIME_PHASE2_ANNONCEMENT"
-msgstr "Destroy ships before they can fire!"
-
-msgid "IDS_TRIAL_FRAG_PRIME_PHASE3A_ANNONCEMENT"
-msgstr "Shoot and destroy ships even if they disappear from view!"
-
-msgid "IDS_TRIAL_FRAG_PRIME_SPEECH_009"
-msgstr "Aim at an enemy ship and press [KEY_F3] to have allies focus fire on it."
-
-msgid "IDS_TRIAL_HUB_TRIAL_END"
-msgstr "Trial Completed"
-
-msgid "IDS_TRIAL_HUB_TRIAL_FAILURE"
-msgstr "Trial Failed"
-
-msgid "IDS_TRIAL_HUB_TRIAL_SUCCESS"
-msgstr "Trial Successful!"
-
-msgid "IDS_TRIAL_PRIME_SPEECH_012"
-msgstr "Use all the experience you've gained to destroy as many ships as possible!"
-
-msgid "IDS_TRIAL_ROUNDS_COUNTER"
-msgstr "PHASE %(_trialRound)s / %(_trialRoundsCount)s"
-
-msgid "IDS_TRIAL_ROUND_IS_OVER"
-msgstr "PHASE COMPLETE"
-
-msgid "IDS_TRIAL_ROUND_NUMBER_ENDED"
-msgstr "%(_round)s PHASE COMPLETE"
-
-msgid "IDS_TRIAL_TASK_PASSED"
-msgstr "TASK COMPLETED"
-
-msgid "IDS_UNABLE_HIRE_CREW_NO_PLACE_IN_BARRACKS_TOOLTIP"
-msgstr "No space in reserve. Cannot hire a new commander."
-
-msgid "IDS_UNLOCKS_2015"
-msgstr "Customize the appearance of ships with camouflages and flags."
-
-msgid "IDS_UNLOCKS_3"
-msgstr "Battle against real players."
-
-msgid "IDS_UNLOCKS_3124"
-msgstr "Complete scenario missions with a team, fighting against bots."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_2015_0"
-msgstr "Camouflages and flags allow you to customize the appearance of your ships."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_2015_1"
-msgstr "Consumable camouflages are used up after each battle. Permanent camouflages do not deplete and do not require replenishment."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_2015_2"
-msgstr "Camouflages can be obtained through events or purchased with credits or doubloons."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
-msgstr "In Operations, your team must complete various missions while fighting bots. Each Operation has unique story elements."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
-msgstr "Achieve the primary objective to win. Completing secondary tasks increases the resources earned in battle."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
-msgstr "Operation difficulty depends on the levels and classes of ships in your team."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
-msgstr "Fight against real players. Teams are randomly assigned."
-
-msgid "IDS_UNLOCKS_LEVEL_UP_2015"
+msgid "IDS_TIPS_ANTI_SUB_IMPROVE_AIRCRAFT_DESCRIPTION"
 msgstr ""
-"<body>You have unlocked\n"
-"<h3>Ship Appearance Customization</h3></body>"
+"Press [CMD_AMMO_SLOT_4] to use the armament.\n"
+"\n"
+"Drops depth charges in the designated area.\n"
+"\n"
+"They damage enemy submarines and destroy torpedoes. They deal minor damage to surface ships and surfaced submarines."
 
-msgid "IDS_UNLOCKS_LEVEL_UP_3"
+msgid "IDS_TIPS_DEPTH_CHARGES_SUB_IMPROVE_DESCRIPTION"
 msgstr ""
-"<body>You have unlocked\n"
-"<h3>Random Battles</h3></body>"
+"Press [CMD_AMMO_SLOT_G] to drop depth charges.\n"
+"\n"
+"They damage enemy submarines and destroy torpedoes. They deal minor damage to surface ships and surfaced submarines."
 
-msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION_IMPROVE_SUBMARINE"
 msgstr ""
-"<body>You have unlocked\n"
-"<h3>Operations</h3></body>"
+"Enemy ships are equipped with anti-submarine weapons—depth charges.\n"
+"\n"
+"Submarines take reduced damage from depth charges while surfaced or at maximum depth."
 
-msgid "IDS_UNLOCKS_LOCATION_2015"
-msgstr "Available in the 'Exterior' tab."
+msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT"
+msgstr "Submarine Detection"
 
-msgid "IDS_UNLOCKS_LOCATION_3"
-msgstr "Battle type selection is next to the 'Battle!' button."
+msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT_DESCRIPTION"
+msgstr ""
+"A submarine at operating depth can be detected using the “Hydroacoustic Search” or “Short-Range Hydroacoustic Search” consumables.\n"
+"\n"
+"A submarine at maximum depth cannot be detected."
 
-msgid "IDS_UNLOCKS_LOCATION_3124"
-msgstr "Available on the battle type selection screen."
+msgid "IDS_TTX_ELITE_CREW_CAN_GET_TALENT"
+msgstr "Talent available"
 
-msgid "IDS_UNLOCKS_TITLE_2015"
-msgstr "Appearance Customization"
+msgid "IDS_TTX_ELITE_CREW_CAN_UPGRADE_SKILL"
+msgstr "Skill can be upgraded"
 
-msgid "IDS_UNLOCKS_TITLE_3"
-msgstr "Random Battles"
-
-msgid "IDS_UNLOCKS_TITLE_3124"
-msgstr "Operations"
+msgid "IDS_U_2501_SUBTEST"
+msgstr "Simon Fischer"

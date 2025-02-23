@@ -1,1857 +1,1210 @@
 #
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_UTOPIA_COMPLETED"
-msgstr "Собрать коллекцию Utopia Show."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SPACE_MUSEUM_COMPLETED"
+msgstr "Собрать коллекцию «Космическая эра»."
 
-msgid "IDS_ACHIEVEMENT_FILLALBUM_UTOPIA_COMPLETED"
-msgstr "Utopia Show"
+msgid "IDS_ACHIEVEMENT_FILLALBUM_SPACE_MUSEUM_COMPLETED"
+msgstr "Космическая эра"
 
-msgid "IDS_AIRCARRIER_PL_GENITIVE"
-msgstr "авианосцев"
+msgid "IDS_ADDITIONAL_BATTLE_CR"
+msgstr "Дополнительные кредиты за бой"
 
-msgid "IDS_ALL_CREW_BUTTON"
-msgstr "ВСЕ КОМАНДИРЫ"
+msgid "IDS_ADDITIONAL_BATTLE_CR_HINT"
+msgstr "Дополнительные кредиты за бой"
 
-msgid "IDS_ARC_EVENT_COMMON_STATUS_ALL_PRIMETIMES_ENDED"
-msgstr "Задачи завершены"
+msgid "IDS_ADDITIONAL_BATTLE_XP"
+msgstr "Дополнительный опыт за бой"
 
-msgid "IDS_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_SHORT"
-msgstr "До начала: %(_timeStart)s"
+msgid "IDS_ADDITIONAL_BATTLE_XP_HINT"
+msgstr "Дополнительный опыт за бой"
 
-msgid "IDS_ARC_EVENT_PORT_STATUS_ALL_REWARDS_RECEIVED"
-msgstr "Все награды получены"
+msgid "IDS_AIR_SUPORT_ALERT"
+msgstr "АВИАУДАР"
 
-msgid "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
-msgid_plural "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
-msgstr[0] "До награды: %(_pointsNext)s очко"
+msgid "IDS_APPLIED_FILTER_HINT_CREWNATION"
+msgstr "Отфильтровать по нации"
 
-msgid "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
-msgid_plural "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
-msgstr[0] "До награды: %(_pointsNext)s очко"
+msgid "IDS_APPLIED_FILTER_HINT_CREWTYPE"
+msgstr "Отфильтровать по степени редкости"
 
-msgid "IDS_BATTLEPASS_IMPROVED_ACTIVE_STATUS"
-msgstr "Действуют бонусы Боевого пропуска"
+msgid "IDS_ASTRONAUT_ARTEMIEV"
+msgstr "Олег Артемьев"
 
-msgid "IDS_BATTLESHIP_PL_GENITIVE"
-msgstr "линкоров"
+msgid "IDS_BALAO_SUBTEST"
+msgstr "Sam Fisher"
 
-msgid "IDS_BATTLE_STATS_TRIAL_ROUNDS_PASSED"
-msgstr "Пройдено этапов: %(successRoundsCount)s/%(totalRoundsCount)s"
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_BATTLE_XP_COEF"
+msgstr "Дополнительный опыт за бой"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_1"
-msgstr "2-я стадия начнётся через:"
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_FIRST_WIN_XP_COEF"
+msgstr "Ежедневный бонус за победу"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_2"
-msgstr "3-я стадия начнётся через:"
+msgid "IDS_CAROUSEL_FILTER_CONSTRUCTOR"
+msgstr "Фильтр кораблей, подходящих для участия в типе боя «%(operationBattleNameIDS)s»"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_3"
-msgstr "4-я стадия начнётся через:"
+msgid "IDS_CAROUSEL_PCVE029_FILTER"
+msgstr "Фильтр кораблей, подходящих для участия в Подводном рубеже"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_4"
-msgstr "5-я стадия начнётся через:"
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE029"
+msgstr "Выбрать Подводный рубеж"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_5"
-msgstr "6-я стадия начнётся через:"
+msgid "IDS_COLLECTION_RANDOM_ITEM"
+msgstr "Случайный предмет"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_6"
-msgstr "7-я стадия не начнётся через:"
+msgid "IDS_CONTEXT_TUTORIAL_REGEN_CREW"
+msgstr "Восстановить боеспособность"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_1"
-msgstr "Стадия 1. Наносите урон:"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_INVULNERABLE"
+msgstr "На предельной глубине подводная лодка получает меньше урона, не может быть обнаружена и сама не может обнаруживать корабли"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_2"
-msgstr "Стадия 2. Наносите урон:"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PERISCOPE"
+msgstr "На перископной глубине не расходуется автономность, постоянно работает шумопеленгация, а также снижены скорость и видимость"
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_3"
-msgstr "Стадия 3. Наносите урон:"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PING"
+msgstr "Нажмите [CMD_DEACTIVATE_PING], чтобы сбросить последний отмеченный сонаром сектор. Торпеда, выпущенная по этому сектору, потеряет наведение."
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_4"
-msgstr "Стадия 4. Наносите урон:"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_WORKING"
+msgstr "На рабочей глубине у подводной лодки высокая скорость, но видимость кораблей сильно снижена. Постоянно работает шумопеленгация."
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_5"
-msgstr "Стадия 5. Наносите урон:"
+msgid "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
+msgid_plural "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
+msgstr[0] "+%(_amount)s очко навыков"
+msgstr[1] ""
+msgstr[2] ""
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_6"
-msgstr "Стадия 6. Наносите урон:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_1"
-msgstr "1-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_2"
-msgstr "2-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_3"
-msgstr "3-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_4"
-msgstr "4-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_5"
-msgstr "5-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_6"
-msgstr "6-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_1"
-msgstr "Первый этап: нанесите 20 000 ед. урона"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_2"
-msgstr "Второй этап: нанесите 40 000 ед. урона"
-
-msgid "IDS_BATTLE_TRIALS_DESCRIPTION"
-msgstr "Наберите как можно больше очков."
-
-msgid "IDS_BATTLE_TRIALS_TITLE"
-msgstr "Учебные испытания"
-
-msgid "IDS_BONUS_SCORES"
-msgstr "Бонусные очки"
-
-msgid "IDS_BUFF_ACTIVE_IN_BATTLE"
-msgstr "Активируется в бою"
-
-msgid "IDS_BULLET"
-msgstr "•"
-
-msgid "IDS_CANCEL_ACTION"
-msgstr "Отменить"
-
-msgid "IDS_CHOOSE_TRIAL"
-msgstr "Перейти к выбору испытания"
-
-msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_MINEFIELD"
-msgstr "Установлено союзное минное заграждение"
-
-msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_MINEFIELD"
-msgstr "Остерегайтесь минного заграждения противника"
-
-msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_MINEFIELD"
-msgstr "Союзное минное заграждение"
-
-msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_MINEFIELD"
-msgstr "Минное заграждение противника"
-
-msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_MINEFIELD"
-msgstr "Союзное минное заграждение"
-
-msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_MINEFIELD"
-msgstr "Минное заграждение противника"
-
-msgid "IDS_COMMON_OVERRIDE_FOR_WEB"
-msgstr "Без нации"
-
-msgid "IDS_CONDITIONS"
-msgstr "Условия участия"
-
-msgid "IDS_CONSPIROLOGIST"
-msgstr "Дункан Ч."
-
-msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_NEXT_SKILL_PRICE_LABEL"
-msgstr "Следующий навык:"
-
-msgid "IDS_CREW_IN_RESERVE_LIST_TITLE"
-msgstr "В резерве"
-
-msgid "IDS_CREW_SORT_DEFAULT"
-msgstr "По умолчанию"
-
-msgid "IDS_CREW_SORT_LEVEL"
-msgstr "По уровню"
-
-msgid "IDS_CREW_SORT_TYPE"
-msgstr "По степени редкости"
-
-msgid "IDS_CREW_TYPE"
-msgstr "Степень редкости"
-
-msgid "IDS_CREW_TYPE_ADVANCED"
-msgstr "Редкие"
-
-msgid "IDS_CREW_TYPE_COMMON"
-msgstr "Стандартные"
-
-msgid "IDS_CREW_TYPE_ELITE"
-msgstr "Элитные"
-
-msgid "IDS_CREW_TYPE_SPECIAL"
-msgstr "Особые"
-
-msgid "IDS_CREW_TYPE_UNIQUE"
-msgstr "Легендарные"
-
-msgid "IDS_CRUISER_PL_GENITIVE"
-msgstr "крейсеров"
-
-msgid "IDS_DESCRIPTION_PCZA039_UTOPIA"
+msgid "IDS_DESCRIPTION_PCZA040_SPACE_MUSEUM"
 msgstr ""
-"Utopia Show — интернет-шоу, которое выпускает ролики на научно-популярную "
-"тематику. Основной целью создателя является развеивание распространённых "
-"мифов о загадочных явлениях и разоблачение конспирологических теорий. Эта "
-"коллекция посвящена темам некоторых популярных выпусков Utopia Show."
+"Небо испокон веков манило человечество — как учёных, стремившихся постичь устройство Вселенной, так и поэтов, для которых небо было символом величия и чистоты. Однако лишь к середине XX в. научно-технический прогресс позволил посмотреть в небо пытливым взглядом исследователя, готового оказаться вне Земли.\n"
+"\n"
+"Целый ряд достижений советской науки и техники в конце 1950-х — начале 1960-х гг. ознаменовал начало космической эры. Так, в 1957 г. на орбиту Земли был запущен первый искусственный спутник Земли, а в 1961 г. состоялся первый в истории пилотируемый полёт в космос. За этими и многими другими грандиозными событиями стояли тысячи людей, позволивших человечеству воплотить грёзы о небе: учёные, инженеры, рабочие, государственные деятели. Результаты их труда увековечены в Музее космонавтики."
 
-msgid "IDS_DESTROYER_PL_GENITIVE"
-msgstr "эсминцев"
-
-msgid "IDS_DOGTAG_PCNB453_DESCRIPTION"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT_IMPROVE"
 msgstr ""
-"Да это ж бобёр, слышишь? Бобёр, настоящий бобр. Чш-ш-ш, тише, спугнёшь."
+"Включает в себя сонар и торпедное вооружение, которые переключаются автоматически. Каждое попадание сонаром по кораблю отмечает его для наведения одной торпеды.\n"
+"\n"
+"Не работает на предельной глубине."
 
-msgid "IDS_DOGTAG_PCNB453_NAME"
-msgstr "Бобр"
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT_IMPROVE"
+msgstr "Комплекс самонаведения"
 
-msgid "IDS_EARLY_EXIT_BATTLE_BATTLE_TRIALS"
-msgstr ""
-"Испытание ещё не окончено! Вы не получите награды за текущий этап, если "
-"покинете испытание сейчас."
+msgid "IDS_DOF"
+msgstr "Глубина резкости в Порту"
 
-msgid "IDS_ECONOMIC_BOOSTS_INSTALL_BTN"
-msgstr "Установить"
+msgid "IDS_DOF_DESCRIPTION"
+msgstr "Объекты за пределами фокуса отображаются с размытием для создания кинематографичного эффекта. Работает, только если качество постобработки установлено на значении «Очень высоко»."
 
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_EXPENDABLE_CATEGORY_TOOLTIP"
-msgstr "Расходуемый"
+msgid "IDS_ELITE_CREW_CAN_GET_TALENT_TOOLTIP_STATUS"
+msgstr "Можно получить национальный талант"
 
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_OTHER_CATEGORY_TOOLTIP"
-msgstr "Прочие"
+msgid "IDS_ELITE_CREW_CAN_UPGRADE_SKILL_TOOLTIP_STATUS"
+msgstr "Можно улучшить навык"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_1"
-msgstr "Стандартный бонус"
+msgid "IDS_FIFTH_SPACE_MUSEUM_NAME"
+msgstr "Первые рекорды"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_2"
-msgstr "Особый бонус"
+msgid "IDS_FIRST_SPACE_MUSEUM_NAME"
+msgstr "Спутники и станции. Часть 1"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_3"
-msgstr "Редкий бонус"
+msgid "IDS_FOURTH_SPACE_MUSEUM_NAME"
+msgstr "Скафандры"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_4"
-msgstr "Элитный бонус"
+msgid "IDS_GO_TO_COLLECTION_SSE_BUTTON"
+msgstr "К коллекции"
 
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREDITS"
-msgstr "Кредиты"
+msgid "IDS_HIRE_CREW"
+msgstr "Рекрутировать командира"
 
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREW_EXP"
-msgstr "Опыт командира"
+msgid "IDS_INFO_DEEP_WATER_DISABLED"
+msgstr "Невозможно использовать на рабочей глубине"
 
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_EXP"
-msgstr "Опыт корабля"
+msgid "IDS_IN_PCVE029"
+msgstr "в Подводном рубеже"
 
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_FREE_EXP"
-msgstr "Свободный опыт"
+msgid "IDS_K_TYPE_SUBTEST"
+msgstr "Семён Рыбаков"
 
-msgid "IDS_EVAVALENTINE"
-msgstr "Eva Valentine"
+msgid "IDS_LANA_ANIME"
+msgstr "Лана"
 
-msgid "IDS_EV_SA24_DAMAGE_RULES_1"
-msgstr "В этом испытании вам необходимо нанести как можно больше урона"
+msgid "IDS_LEILA_ANIME"
+msgstr "Айла"
 
-msgid "IDS_EV_SA24_FRAGS_RULES"
-msgstr "В этом испытании вам необходимо уничтожить как можно больше кораблей"
+msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
+msgstr "Подводный рубеж"
 
-msgid "IDS_FAST_TRAINING_DISABLE_REASON_IN_DEMOBILIZATION"
-msgstr "Отмените демобилизацию командира для ускоренного обучения."
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_HEADER"
+msgstr "Подводный рубеж"
 
-msgid "IDS_FIRST_UTOPIA_NAME"
-msgstr "Доска расследований № 1"
-
-msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_SHIPCLASS_TOOLTIP_TEXT"
-msgstr "Свободных очков навыков для %(shipClass)s: %(skillPoints)s"
-
-msgid "IDS_GNIDOVSKY"
-msgstr "Руперт Г."
-
-msgid "IDS_GUIDING_TIP_318_DESC"
-msgstr ""
-"Испытайте свои силы в бою на кораблях разных наций. Сложность возрастает "
-"с каждым выполнением!"
-
-msgid "IDS_GUIDING_TIP_318_HEADER"
-msgstr "Личные испытания: нации"
-
-msgid "IDS_GUIDING_TIP_319_DESC"
-msgstr ""
-"Испытайте свои силы в бою на кораблях разных классов. Сложность возрастает "
-"с каждым выполнением!"
-
-msgid "IDS_GUIDING_TIP_319_HEADER"
-msgstr "Личные испытания: классы"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION"
-msgstr "Показать командиров %(_nationName)s"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION_NOT_AVAILABLE"
-msgstr "Командиры %(_nationName)s недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION"
-msgstr "Показать командиров без присвоенной нации"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION_NOT_AVAILABLE"
-msgstr "Командиры без присвоенной нации недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ADVANCED"
-msgstr "Показать редких командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_COMMON"
-msgstr "Показать стандартных командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE"
-msgstr "Показать элитных командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ADVANCED"
-msgstr "Редкие командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_COMMON"
-msgstr "Стандартные командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ELITE"
-msgstr "Элитные командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_SPECIAL"
-msgstr "Особые командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNIQUE"
-msgstr "Легендарные командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_SPECIAL"
-msgstr "Показать особых командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_UNIQUE"
-msgstr "Показать легендарных командиров"
-
-msgid "IDS_HINT_CREW_FILTERING_SORT"
-msgstr "Выберите порядок отображения командиров"
-
-msgid "IDS_HINT_CREW_FILTERING_SORT_SET_REVERSE"
-msgstr "Отобразить командиров в обратном порядке"
-
-msgid "IDS_HRENSBERG"
-msgstr "Дик Х."
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_DESC"
-msgstr "Установленные расходуемые бонусы списываются за каждый бой."
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_HEADER"
-msgstr "Расходуемые бонусы"
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_DESC"
-msgstr "Бонусы за первую победу в день на корабле, а также другие бонусы."
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_HEADER"
-msgstr "Прочие бонусы"
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_PERMANENT_DESC"
-msgstr "Устанавливается на корабль один раз и не расходуется в бою."
-
-msgid "IDS_MODAL_WINDOW_PCVT001_DAMAGE_PRIME_BATTLE_RULES_HEADER"
-msgstr "Огневая мощь"
-
-msgid "IDS_MODAL_WINDOW_PCVT002_CITADEL_PRIME_BATTLE_RULES_HEADER"
-msgstr "Меткость стрельбы"
-
-msgid "IDS_MODAL_WINDOW_PCVT003_FRAGS_PRIME_BATTLE_RULES_HEADER"
-msgstr "Ликвидация целей"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_HEADER"
-msgstr "ЭТАПЫ"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr ""
-"Выполните задачу текущего этапа, чтобы перейти в следующий. Чем больше "
-"этапов вы пройдёте, тем больше ресурсов получите по итогам испытания."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_HEADER"
-msgstr "ПРАВИЛА"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr ""
-"В испытаниях могут действовать ограничения на использование вооружения "
-"и снаряжения, а также на управление кораблём."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_HEADER"
-msgstr "ОТМЕТКИ"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr ""
-"Ведите огонь по целям с отметками, чтобы получить больше очков. Используйте "
-"указанный тип вооружения или наносите указанный вид урона."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_HEADER"
-msgstr "Учебные испытания"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_HEADER"
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_HEADER"
 msgstr "Особенности боя"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_1"
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Вы можете выйти в бой на подводной лодке, чтобы испытать изменённые характеристики этого класса."
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Выйдя в бой на корабле другого класса, вы сможете испытать изменённые средства борьбы с подводными лодками."
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_HEADER"
+msgstr "Подводные лодки"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Сонар и акустические торпеды объединены: после попадания сонаром по кораблю вооружение переключается автоматически. Попадание сонаром даёт возможность выпустить одну торпеду."
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "Снаряжение «Шумопеленгатор» недоступно. Все подводные лодки проводят шумопеленгацию постоянно на перископной и рабочей глубинах."
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_HEADER"
+msgstr "Надводные корабли"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Глубинные бомбы удерживаются на небольшой глубине определённое время и взрываются рядом с кораблями, подводными лодками и торпедами."
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "Помимо нанесения урона подводным лодкам на глубине, бомбы уничтожают торпеды и наносят небольшой урон надводным кораблям и подводным лодкам в надводном положении."
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_HEADER"
+msgstr "ПОДВОДНЫЕ ЛОДКИ"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_TEXT_1"
+msgstr "Когда подводная лодка пускает импульс сонара, на поверхности воды видны волны. Они показывают направление движения подводной лодки."
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_HEADER"
+msgstr "ШУМОПЕЛЕНГАЦИЯ"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_TEXT_1"
+msgstr "Подводная лодка видит позиции надводных кораблей с определённого расстояния."
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_HEADER"
+msgstr "ГЛУБИННЫЕ БОМБЫ"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_TEXT_1"
+msgstr "Удерживаются на небольшой глубине определённое время. Наносят урон подводным лодкам и уничтожают торпеды."
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_HEADER"
+msgstr "СОНАР И ТОРПЕДЫ"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_TEXT_1"
+msgstr "Количество торпед одной подводной лодки, которые могут одновременно наводиться на корабль, ограниченно и зависит от класса."
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_HEADER"
+msgstr "ПРЕДЕЛЬНАЯ ГЛУБИНА"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_TEXT_1"
+msgstr "На предельной глубине подводную лодку нельзя обнаружить, она получает меньше урона, но её возможности ограниченны."
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_HEADER"
+msgstr "ГЛУБИННЫЕ БОМБЫ"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_TEXT_1"
+msgstr "Удерживаются на небольшой глубине определённое время. Наносят урон подводным лодкам и уничтожают торпеды."
+
+msgid "IDS_PAAD983_ASW_T10_CV_SUBTEST"
+msgstr "Consolidated PB4Y-2 Privateer Test"
+
+msgid "IDS_PAAD988_ASW_T10_SUBTEST"
+msgstr "Consolidated PB4Y-2 Privateer"
+
+msgid "IDS_PAPD907_DEPTH_T10"
+msgstr "650-pound Depth Bomb"
+
+msgid "IDS_PAPD910_DEPTH_CV_10"
+msgstr "650-pound Depth Bomb Mk 38"
+
+msgid "IDS_PAPT990_MK29_SUBTEST"
+msgstr "Mk29 MIE"
+
+msgid "IDS_PAPT991_MK29_SUB_MAGNETIC_SUBTEST"
+msgstr "Mk29"
+
+msgid "IDS_PARAMS_MODIFIER_CANBEDAMAGED"
+msgstr "Подводная лодка получает уменьшенный урон"
+
+msgid "IDS_PARAMS_MODIFIER_CANBEDETECTED"
+msgstr "Подводная лодка не может быть обнаружена"
+
+msgid "IDS_PARAMS_MODIFIER_DCRELOADTIMECOEFF"
+msgstr "Время перезарядки глубинных бомб"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER"
+msgstr "Радиус взрыва боеприпасов по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_BOMB"
+msgstr "Радиус взрыва ОФ-бомб по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_ROCKET"
+msgstr "Радиус взрыва ОФ-ракет по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_MAIN"
+msgstr "Радиус взрыва ОФ- и ПББ-снарядов ГК по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_SEC"
+msgstr "Радиус взрыва снарядов ПМК по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_INFINITEWORKHYDROPHONE"
+msgstr "Постоянная шумопеленгация"
+
+msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_DEPTHSTATE_SUB_IMPROVE"
+msgstr "Невозможно использовать на рабочей и предельной глубинах"
+
+msgid "IDS_PCEE738_DUPERRE_FLAG"
+msgstr "Duperré"
+
+msgid "IDS_PCEE738_DUPERRE_FLAG_DESCRIPTION"
+msgstr "Ги-Виктор Дюперре (1775–1846) — французский военно-морской деятель, служивший в периоды Наполеоновских войн, реставрации Бурбонов и Июльской монархии. Командуя фрегатом Bellone, он одержал победу в сражении при Гранд-Порте в ходе Маврикийской кампании. В 1830 г. Дюперре был назначен адмиралом Франции, а затем трижды становился морским министром."
+
+msgid "IDS_PCVE029"
+msgstr "Подводный рубеж"
+
+msgid "IDS_PCVE029_DESCRIPTION"
+msgstr "Сражения, в которых вы испытаете изменения подводных лодок и средств борьбы с ними."
+
+msgid "IDS_PCVE029_MATCHMAKER_DESCRIPTION"
+msgstr "Сражения, в которых вы испытаете изменения подводных лодок и средств борьбы с ними."
+
+msgid "IDS_PCZA040_SPACE_MUSEUM"
+msgstr "Космическая эра"
+
+msgid "IDS_PCZA040_SPACE_MUSEUM_QUOTES"
+msgstr "«Космическая эра»"
+
+msgid "IDS_PCZC951_SPACE_MUSEUM_1_1"
+msgstr "Первый в мире искусственный спутник Земли"
+
+msgid "IDS_PCZC951_SPACE_MUSEUM_1_1_DESCRIPTION"
 msgstr ""
-"В Учебных испытаниях вы можете оттачивать свои боевые навыки, выполняя "
-"задания."
+"Открыл космическую эру в истории человечества.\n"
+"\n"
+"Запущен 4 октября 1957 г. в 22 часа 28 минут по московскому времени с космодрома Байконур и выведен на орбиту с параметрами:\n"
+"• высота в перигее — 228 км;\n"
+"• высота в апогее — 947 км.\n"
+"\n"
+"Выведен на орбиту двухступенчатой ракетой-носителем «Спутник», созданной на базе межконтинентальной баллистической ракеты Р-7. Впервые в мире была достигнута первая космическая скорость полёта и искусственный объект выведен на околоземную орбиту. С околоземной орбиты спутник передавал радиосигналы, зафиксированные радиолюбителями мира.\n"
+"\n"
+"Технические характеристики:\n"
+"• масса спутника — 83,6 кг;\n"
+"• корпус — сфера диаметром 58 см, на котором установлены четыре антенны длиной 2,4 м 2,9 м.\n"
+"\n"
+"Внутри герметичного корпуса были размещены:\n"
+"• блок электрохимических источников тока;\n"
+"• радиопередающее устройство;\n"
+"• вентилятор;\n"
+"• термореле и воздуховод системы терморегулирования;\n"
+"• коммутирующее устройство бортовой электроавтоматики;\n"
+"• датчики температуры и давления;\n"
+"• бортовая кабельная сеть.\n"
+"\n"
+"Первый ИСЗ просуществовал 92 дня, совершив 1440 оборотов вокруг Земли. 4 января 1958 г. он вошёл в плотные слои атмосферы и сгорел.\n"
+"\n"
+"Разработан в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва.\n"
+"\n"
+"С. П. Королёв и М. К. Тихонравов — идеологи запуска Первого искусственного спутника Земли."
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
+msgid "IDS_PCZC952_SPACE_MUSEUM_1_2"
+msgstr "Второй искусственный спутник Земли"
+
+msgid "IDS_PCZC952_SPACE_MUSEUM_1_2_DESCRIPTION"
 msgstr ""
-"Каждое испытание состоит из 5 этапов. Чтобы перейти в следующий этап, нужно "
-"выполнить задачу текущего."
+"Первый в мире биологический спутник и первое живое существо, совершившее орбитальный космический полёт — собака Лайка.\n"
+"\n"
+"Запущен 3 ноября 1957 г. с космодрома Байконур ракетой-носителем «Спутник».\n"
+"\n"
+"С помощью научной аппаратуры, установленной на спутнике, удалось впервые провести прямые научные измерения в космосе и получить первые сведения о существовании внешнего радиационного пояса Земли.\n"
+"\n"
+"Кроме научной аппаратуры, в отдельной герметичной кабине размещалась собака Лайка (её возвращение на Землю не предусматривалось).\n"
+"\n"
+"В этом полёте впервые изучалось воздействие невесомости и космической радиации на живой организм. Счётчик регистрации космической радиации стал первым научным прибором, запущенным в космос и показавшим там средний уровень радиации. Полученные в ходе полёта данные позволили сделать вывод о безопасном пребывании человека в космосе.\n"
+"\n"
+"Масса спутника — 508,3 кг.\n"
+"\n"
+"Просуществовал 160 суток, совершил около 2370 оборотов вокруг Земли и прекратил своё существование 14 апреля 1958 г.\n"
+"\n"
+"Разработан в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_HEADER"
-msgstr "Бонусные очки"
+msgid "IDS_PCZC953_SPACE_MUSEUM_1_3"
+msgstr "Третий искусственный спутник Земли"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_1"
+msgid "IDS_PCZC953_SPACE_MUSEUM_1_3_DESCRIPTION"
 msgstr ""
-"Если вы выполните задачу раньше конца этапа, вы сможете набрать бонусные "
-"очки."
+"Первая в мире научная лаборатория в космосе.\n"
+"\n"
+"Запущен 15 мая 1958 г. ракетой-носителем «Спутник» с космодрома Байконур для изучения околоземного космического пространства, атмосферы Земли и излучения Солнца.\n"
+"\n"
+"На спутнике было установлено 12 научных приборов. Аппаратура измеряла давление и температуру, электрические заряды, напряжённость электростатического и магнитного полей, интенсивность корпускулярного излучения Солнца, ионного состава атмосферы и её концентрации, регистрации ударов микрометеоритов. Обнаружен внешний радиационный пояс Земли. Впервые были использованы активная система терморегулирования и солнечные батареи.\n"
+"\n"
+"Масса спутника — 1327 кг. Масса научной аппаратуры — 968 кг. Совершил 10 037 оборотов вокруг Земли.\n"
+"\n"
+"Просуществовал на орбите до 6 апреля 1960 г.\n"
+"\n"
+"Разработан в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "Бонусные очки будут учтены в следующем этапе."
+msgid "IDS_PCZC954_SPACE_MUSEUM_1_4"
+msgstr "Автоматическая станция «Луна-1»"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_HEADER"
-msgstr "Награды"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
+msgid "IDS_PCZC954_SPACE_MUSEUM_1_4_DESCRIPTION"
 msgstr ""
-"Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам "
-"испытания."
+"Впервые в мире достигла второй космической скорости.\n"
+"\n"
+"Запущена 2 января 1959 г. с космодрома Байконур ракетой-носителем «Восток-Л».\n"
+"\n"
+"Научная аппаратура станции:\n"
+"• магнитометр для измерения магнитных полей Земли и Луны;\n"
+"• четыре стержневые антенны радиопередатчика;\n"
+"• ионные и протонные ловушки для регистрации корпускулярного излучения Солнца;\n"
+"• детекторы для регистрации ударов метеоритных частиц;\n"
+"• антенны радиопередатчика, передающие научную информацию на Землю.\n"
+"\n"
+"Внутри станции для доставки на Луну находились сферический вымпел из стальных пятиугольных элементов и капсула, заполненная жидкостью, в которой размещались алюминиевые полоски. На вымпелах и полосках были изображены герб, надпись «СССР» и дата запуска.\n"
+"\n"
+"4 января 1959 г. станция пролетела на расстоянии 5000–6000 км от Луны, но из-за ошибки в циклограмме полёта не достигла лунной поверхности.\n"
+"\n"
+"Пройдя вблизи Луны и выйдя из сферы действия земного тяготения, «Луна-1» стала первым искусственным спутником Солнца с периодом обращения вокруг звезды 450 суток.\n"
+"\n"
+"Разработана в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_2"
+msgid "IDS_PCZC955_SPACE_MUSEUM_1_5"
+msgstr "Автоматическая станция «Луна-3»"
+
+msgid "IDS_PCZC955_SPACE_MUSEUM_1_5_DESCRIPTION"
 msgstr ""
-"Награды выдаются за каждый пройденный этап. Вы не получите награду за этап, "
-"если покинете его преждевременно."
-
-msgid "IDS_MODAL_WINDOW_TRIAL_BATTLE_RULES_HEADER"
-msgstr "Особенности боя"
-
-msgid "IDS_MULTIPLIER_TAG_AP"
-msgstr "Бронебойные снаряды (ББ)"
-
-msgid "IDS_MULTIPLIER_TAG_CS"
-msgstr "Полубронебойные снаряды (ПББ)"
-
-msgid "IDS_MULTIPLIER_TAG_FIRE"
-msgstr "Поджог"
-
-msgid "IDS_MULTIPLIER_TAG_HE"
-msgstr "Осколочно-фугасные снаряды (ОФ)"
-
-msgid "IDS_MULTIPLIER_TAG_TORPEDOES"
-msgstr "Торпеды"
-
-msgid "IDS_NAME01"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME02"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME03"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME04"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME05"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME06"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME07"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME08"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME09"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME10"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME15"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME16"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME17"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME18"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME19"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME1D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME1F"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME20"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME25"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME26"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME27"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME28"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME29"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME2D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME2F"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME30"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME35"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME36"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME37"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME38"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME39"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME3D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME3F"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME40"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME41"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME42"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME43"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME44"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME45"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME46"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME47"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME48"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME49"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME4D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME4F"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME50"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME51"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME52"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME53"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME54"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME55"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME56"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME57"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME58"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME59"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME5D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME5F"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME_ALLY_1"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_2"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_3"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_4"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_5"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_6"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_7"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_8"
-msgstr "Союзник"
-
-msgid "IDS_NO_CREW_FOUND_WITH_APPLIED_FILTERING"
+"Впервые в истории облетела Луну и передала на Землю фототелевизионные изображения невидимой с Земли обратной стороны Луны 7 октября 1959 г.\n"
+"\n"
+"Стала первой в мире космической станцией, на практике осуществившей гравитационный манёвр.\n"
+"\n"
+"4 октября 1959 г. с космодрома Байконур с помощью ракеты-носителя «Восток-Л» стартовала автоматическая станция «Луна-3». На станции размещались системы: радиотехнической, телеметрической, фототелеметрической ориентации (относительно Солнца и Луны), энергопитания (с солнечными батареями), терморегулирования и комплекс научной аппаратуры, включая фотолабораторию.\n"
+"\n"
+"Система ориентации аппарата «Чайка» была разработана под руководством академика Б. В. Раушенбаха, впервые решившему задачу управления аппаратами в космическом пространстве.\n"
+"\n"
+"7 октября космический аппарат с расстояния около 65 тыс. км сфотографировал обратную сторону Луны (до Земли было около 470 тыс. км). В течение последующих 10 суток «Луна-3» передала серию снимков на Землю. Удалось сфотографировать почти половину поверхности Луны, охватившей 30% видимой стороны и 70% никогда ранее невидимой с Земли стороны. Эти изображения были признаны «фотографиями века»! На их основе в 1960 и 1967 гг. выпущено два тома «Атласа обратной стороны Луны» и лунный глобус. Станция совершила 11 оборотов вокруг Земли и 20 апреля 1960 г. прекратила существование, войдя в плотные слои атмосферы.\n"
+"\n"
+"Разработана в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
+
+msgid "IDS_PCZC956_SPACE_MUSEUM_2_1"
+msgstr "Автоматическая межпланетная станция «Венера-1»"
+
+msgid "IDS_PCZC956_SPACE_MUSEUM_2_1_DESCRIPTION"
 msgstr ""
-"Нет командиров,\n"
-"подходящих по условиям фильтрации"
+"Первый в мире космический аппарат, запущенный в сторону Венеры.\n"
+"\n"
+"Станция запущена 12 февраля 1961 г. с космодрома Байконур ракетой-носителем «Молния».\n"
+"\n"
+"На станции были установлены научные приборы:\n"
+"• магнитометр;\n"
+"• две ионные ловушки для измерения параметров солнечного ветра;\n"
+"• детектор микрометеоритов;\n"
+"• счётчик Гейгера и сцинтилляционный детектор для измерения космической радиации.\n"
+"\n"
+"В нижней части космического аппарата была установлена двигательная установка КДУ-414, предназначенная для коррекций траектории полёта. Масса станции — 643,5 кг. Через 7 суток полёта, на расстоянии 2 млн км от Земли, контакт со станцией был потерян. По расчётам учёных, она прошла 19–20 мая 1961 г. на расстоянии около 100 тыс. км от поверхности Венеры и вышла на орбиту искусственного спутника Солнца.\n"
+"\n"
+"Разработана в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
 
-msgid "IDS_NO_MORE_PLACE_IN_RESERVE_TO_CANCEL_DEMOBILIZATION"
-msgstr "Для отмены демобилизации освободите место в резерве."
+msgid "IDS_PCZC957_SPACE_MUSEUM_2_2"
+msgstr "Автоматическая межпланетная станция «Марс-1»"
 
-msgid "IDS_NO_SPECIALIZATION_CREW"
-msgstr "Не подготовлен"
-
-msgid "IDS_NO_SPECIALIZATION_REQUIRED_FOR_SHIP_STATUS_LINE"
-msgstr "Можно назначить командира без переподготовки"
-
-msgid "IDS_PARAMS_BONUS_FOR_VICTORY"
-msgstr "Бонус за победу"
-
-msgid "IDS_PBPA148_381MM_HE_ANSON"
-msgstr "381-мм HE Mk VIIIb SC"
-
-msgid "IDS_PBPA149_381MM_AP_ANSON"
-msgstr "381-мм AP Mk XXIIb SC"
-
-msgid "IDS_PBPT046_ANSON"
-msgstr "533-мм Mk IX*"
-
-msgid "IDS_PBSB518"
-msgstr "Anson"
-
-msgid "IDS_PBSB518_DESCR"
+msgid "IDS_PCZC957_SPACE_MUSEUM_2_2_DESCRIPTION"
 msgstr ""
-"Гипотетический вариант модернизации линейного крейсера типа Admiral, "
-"проведённой в конце 1930-х гг. по образцу модернизации линейного крейсера "
-"Renown и линкоров типа Queen Elizabeth. В таком случае корабль получил бы "
-"десять 113-мм спаренных установок универсальных орудий и значительное "
-"количество малокалиберной зенитной артиллерии."
+"Первый в мире космический аппарат, направленный в сторону Марса. Впервые в истории космонавтики проложена межпланетная трасса Земля — Марс.\n"
+"\n"
+"Запущена 1 ноября 1962 г. с космодрома Байконур ракетой-носителем «Молния».\n"
+"\n"
+"Станция состояла из двух герметичных отсеков: орбитального и планетного. В орбитальном отсеке располагалась аппаратура, обеспечивающая работу станции во время её полёта к Марсу, а в планетном — фототелевизионная система и научные приборы, которые должны были работать вблизи планеты. На орбитальном отсеке устанавливались: корректирующая двигательная установка, панели солнечных батарей, система терморегулирования и радиоантенны. Расчёт движения станции по данным траекторных измерений показал, что она пролетит на расстоянии 193 тыс. км от Марса — это свидетельствовало о высокой точности выведения станции на заданную траекторию. Со станцией был проведён 61 сеанс радиосвязи, при этом был получен большой объём телеметрической информации. На её борт передано более 3000 команд.\n"
+"\n"
+"В результате полёта «Марс-1» получены сведения о физических свойствах космического пространства между орбитами Земли и Марса, регистрировались потоки солнечного ветра и метеорных частиц (аппарат пересёк два метеорных потока), определялась напряжённость магнитного поля в космическом межпланетном пространстве.\n"
+"\n"
+"На расстоянии 106 млн км от Земли 21 марта 1963 г. состоялся последний сеанс связи с аппаратом. Затем связь была потеряна, но по тем временам это был рекорд дальности космической связи."
 
-msgid "IDS_PBSB518_FULL"
-msgstr "Anson"
+msgid "IDS_PCZC958_SPACE_MUSEUM_2_3"
+msgstr "Автоматическая станция «Луна-9»"
 
-msgid "IDS_PBSB518_NUMBER"
+msgid "IDS_PCZC958_SPACE_MUSEUM_2_3_DESCRIPTION"
+msgstr ""
+"Впервые в мире спускаемый аппарат станции осуществил мягкую посадку на Луну и передал на Землю первые фото и телевизионные панорамные изображения лунной поверхности.\n"
+"\n"
+"Запущена 31 января 1966 г. с космодрома Байконур ракетой-носителем «Молния».\n"
+"\n"
+"Конструктивно «Луна-9» состояла из приборно-агрегатного отсека с тормозной двигательной установкой и спускаемого аппарата.\n"
+"\n"
+"3 февраля 1966 г. станция совершила торможение, и по команде с Земли от неё отделился контейнер со спускаемым аппаратом, который совершил мягкую посадку на Луну.\n"
+"\n"
+"Технические характеристики станции:\n"
+"• масса спускаемого аппарата — 100 кг.\n"
+"• длина станции — 2,7 м;\n"
+"• масса станции — 1583 кг.\n"
+"\n"
+"Разработана на Машиностроительном заводе им. С. А. Лавочкина под руководством Главного конструктора Г. Н. Бабакина."
+
+msgid "IDS_PCZC959_SPACE_MUSEUM_2_4"
+msgstr "Орбитальная станция «Мир»"
+
+msgid "IDS_PCZC959_SPACE_MUSEUM_2_4_DESCRIPTION"
+msgstr ""
+"Станция третьего поколения, выдающееся научно-техническое достижение конца ХХ в. Впервые в мировой практике был реализован модульный принцип строительства космических сооружений на орбите.\n"
+"\n"
+"Первый элемент орбитальной станции «Мир» — базовый блок — был выведен на орбиту 20 февраля 1986 г. Затем к базовому блоку последовательно были пристыкованы модули «Квант» (1987 г.), «Квант-2» (1989 г.), «Кристалл» (1990 г.), «Спектр» (1995 г.) и стыковочный отсек (1995 г.).\n"
+"\n"
+"Полную проектную конфигурацию станция обрела в 1996 г. вместе с последним модулем «Природа». Модульное построение позволило расширить программу научных исследований, а также значительно увеличить жилой объём станции.\n"
+"\n"
+"За 15 лет эксплуатации станции «Мир»:\n"
+"• совершено 78 выходов в открытый космос общей продолжительностью 359 ч;\n"
+"• на станции работало 104 человека из 12 стран;\n"
+"• задействованы: 31 пилотируемый корабль «Союз», 64 грузовых корабля «Прогресс» и 9 многоразовых американских кораблей «Спейс-шаттл»;\n"
+"• было проведено более 23 тыс. научных экспериментов и исследований;\n"
+"• установлено три мировых рекорда по продолжительности непрерывного пребывания и пять — по суммарному времени пребывания человека в условиях космического полёта;\n"
+"• по беспрецедентной длительности полёта орбитальная станция «Мир» стала главным космическим рекордсменом ХХ в.\n"
+"\n"
+"Первый экипаж корабля «Союз Т-15» (Л. Д. Кизим и В. А. Соловьёв) прибыл на станцию в 1986 г., последний — экипаж «Союз ТМ-30» (С. В. Залётин и А. Ю. Калери) — в 2000 г.\n"
+"\n"
+"23 февраля 2001 г. орбитальная станция «Мир» была сведена с орбиты и прекратила своё существование. Несгоревшие в атмосфере обломки станции упали в южной части Тихого океана.\n"
+"\n"
+"Головной разработчик: Научно-производственное объединение «Энергия».\n"
+"\n"
+"Технические характеристики:\n"
+"• общая масса в полной конфигурации — более 137 т;\n"
+"• масса научной аппаратуры — 11,5 т."
+
+msgid "IDS_PCZC960_SPACE_MUSEUM_2_5"
+msgstr "Долговременная орбитальная станция «Салют-6»"
+
+msgid "IDS_PCZC960_SPACE_MUSEUM_2_5_DESCRIPTION"
+msgstr ""
+"«Салют-6» — орбитальная станция второго поколения запущена 29 сентября 1977 г. с космодрома Байконур с помощью ракеты-носителя «Протон». Отличительными особенностями станции являются второй стыковочный узел и двигательная установка с возможностью дозаправки топливом во время полёта. Это позволило значительно увеличить продолжительность её работы.\n"
+"\n"
+"В январе 1978 г. к станции «Салют-6» стартовал грузовой корабль «Прогресс-1». Это был первый в мире полёт автоматического грузового корабля к орбитальной станции, который доставил необходимые грузы и дозаправил топливом её двигательную установку. К станции пристыковывались 17 пилотируемых и 2 беспилотных корабля серий «Союз» и «Союз Т», 12 грузовых кораблей «Прогресс» и автоматический грузовой транспортный корабль снабжения «Космос-1267», один из элементов станции «Алмаз», использовавшийся также как модуль. За время эксплуатации на станции «Салют-6» на ней работали 5 основных экипажей и 10 экспедиций посещения, в их числе 8 международных экипажей. Впервые в 1978–1980 гг. в состав экспедиций посещения вошли граждане из других стран – первые космонавты Чехословакии, Польши, ГДР, Венгрии, Вьетнама, Кубы, Монголии и Румынии. Продолжительность пребывания длительных экспедиций на станции «Салют-6»: 96, 139, 175 и 184 дня. Из станции «Салют-6» было осуществлено три выхода в открытый космос общей продолжительностью 4 часа 56 минут.\n"
+"\n"
+"Полёт станции продолжался 1765 суток (из них 683 дня она была обитаемой) и завершился 29 июля 1982 г.\n"
+"\n"
+"Разработана Центральным конструкторским бюро экспериментального машиностроения по программе гражданских пилотируемых станций СССР.\n"
+"\n"
+"Технические характеристики:\n"
+"• масса — 19,8 т;\n"
+"• длина — 13,5 м;\n"
+"• максимальный диаметр — 4,15 м;\n"
+"• размах панелей солнечных батарей — 17 м;\n"
+"• внутренний полезный объём — 90,0 м³."
+
+msgid "IDS_PCZC961_SPACE_MUSEUM_3_1"
+msgstr "Трёхступенчатая ракета-носитель «Восток»"
+
+msgid "IDS_PCZC961_SPACE_MUSEUM_3_1_DESCRIPTION"
+msgstr ""
+"Разработана и создана в Особом конструкторском бюро № 1 под руководством Главного конструктора С. П. Королёва на базе межконтинентальной баллистической ракеты Р-7.\n"
+"\n"
+"Технические характеристики:\n"
+"• длина ракеты — 38,36 м;\n"
+"• диаметр (размер по воздушным рулям) — 10,3 м;\n"
+"• стартовый вес — 287 т;\n"
+"• масса полезного груза, выводимого на орбиту — до 5 т.\n"
+"\n"
+"Вывела первый в мире космический корабль «Восток» с первым космонавтом Земли Ю. А. Гагариным на борту.\n"
+"\n"
+"С помощью ракеты-носителя «Восток» в космос выводились космические корабли-спутники, корабли серии «Восток», автоматические станции «Луна-1», «Луна-2», «Луна-3», некоторые искусственные спутники Земли серии «Космос» и «Метеор».\n"
+"\n"
+"Ракета-носитель «Восток» — это модификация двухступенчатой ракеты Р-7, к которой была добавлена третья ступень для увеличения массы космического аппарата, выводимого на околоземную орбиту. Первые две ступени соединяются по пакетной схеме, то есть параллельно, благодаря чему на начальном этапе полёта для создания значительной тяги обеспечивается одновременная работа четырёх боковых блоков первой ступени и центрального блока второй ступени. Вторая и третья ступень соединены вместе по тандемной схеме, то есть последовательно, друг за другом. Космический аппарат защищён головным обтекателем. Первая ступень из четырёх блоков оснащена двигателями РД-107, вторая — РД-108.\n"
+"\n"
+"Запуски производились с космодромов Байконур (с января 1959 г.) и Плесецк (с марта 1966 г.)."
+
+msgid "IDS_PCZC962_SPACE_MUSEUM_3_2"
+msgstr "Ракета-носитель «Протон»"
+
+msgid "IDS_PCZC962_SPACE_MUSEUM_3_2_DESCRIPTION"
+msgstr ""
+"Модификации ракеты разработаны в Центральном конструкторском бюро машиностроения под руководством Генерального конструктора В. Н. Челомея и изготовлены в Государственном космическом научно-производственном центре им. М. В. Хруничева.\n"
+"\n"
+"Технические характеристики:\n"
+"• длина — 44 м;\n"
+"• диаметр — 7,4 м;\n"
+"• масса — 54 т;\n"
+"• стартовая масса — 702 т;\n"
+"• масса полезного груза — 20 т.\n"
+"\n"
+"Ракета-носитель тяжёлого класса, используется с 1965 г. для выведения на низкую круговую орбиту космических аппаратов различного назначения.\n"
+"\n"
+"Выводила на околоземные орбиты космические аппараты «Протон», «Радуга», «Экран», «Горизонт», орбитальные станции «Салют», «Мир», Международную космическую станцию, искусственные спутники Земли других стран.\n"
+"\n"
+"В качестве базового варианта использовалась межконтинентальная баллистическая ракета УР-500.\n"
+"\n"
+"Первый вариант ракеты-носителя «Протон» был двухступенчатым. Последующие модификации ракеты, «Протон-К» и «Протон-М», запускались либо в трёх- (на опорную орбиту), либо в четырёхступенчатом вариантах (с разгонным блоком)."
+
+msgid "IDS_PCZC963_SPACE_MUSEUM_3_3"
+msgstr "Трёхступенчатая ракета-носитель «Союз»"
+
+msgid "IDS_PCZC963_SPACE_MUSEUM_3_3_DESCRIPTION"
+msgstr ""
+"«Союз» — трёхступенчатая ракета-носитель из семейства Р-7, разработанная в Особом конструкторском бюро № 1.\n"
+"\n"
+"Технические характеристики:\n"
+"• длина — 39,3 м;\n"
+"• диаметр — 10,3 м;\n"
+"• стартовая масса — 310 т;\n"
+"• масса полезной нагрузки, выводимой на орбиту — до 7,5 т.\n"
+"\n"
+"Предназначена для вывода на орбиту пилотируемых и непилотируемых космических аппаратов различного назначения.\n"
+"\n"
+"Ракета-носитель «Союз» изготавливалась в Куйбышевском филиале № 3 ОКБ-1 под руководством Генерального конструктора Д. А. Козлова. Ракета предназначалась для вывода на круговую орбиту пилотируемых космических кораблей серии «Союз» (с 1966 по 1976 гг. запущено 32 корабля). В дальнейшем ракеты-носители этого типа нашли успешное применение для запуска грузовых кораблей «Прогресс» и спутников серии «Космос», «Прогноз», «Ресурс-Ф», «Фотон», «Бион» и нескольких зарубежных космических аппаратов.\n"
+"\n"
+"Первые две ступени «Союза» аналогичны ступеням других ракет-носителей семейства Р-7, а модернизированная третья ступень массой 25,5 т обеспечивает более высокие энергетические характеристики носителя.\n"
+"\n"
+"Ракета-носитель «Союз» легко узнаваема по четырём коническим боковым блокам первой ступени, что отличает все «Союзы» от других ракет-носителей, а также характерному головному обтекателю с четырьмя прямоугольниками решетчатых стабилизаторов и специфической «башне» системы аварийного спасения (САС) на вершине.\n"
+"\n"
+"Система аварийного спасения нового типа стала самым существенным отличием РН «Союз» от предыдущих носителей типа Р-7, предназначенных для пилотируемых полётов. САС «взводится» за 15 минут до старта ракеты-носителя и обеспечивает спасение экипажа в случае аварии ракеты как на стартовой площадке, так и на любом участке полёта.\n"
+"\n"
+"Эксплуатация ракеты-носителя «Союз» началась в 1966 г. Дальнейшее совершенствование конструкции привело к созданию целого ряда более современных ракет-носителей. За всё время использования эти носители зарекомендовали себя как одни из самых надежных в мире — более 97% запусков были успешными. С космодромов Байконур и Плесецк стартовали РН «Союз» разных модификаций более 800 раз, РН «Союз-2» — более 60 раз."
+
+msgid "IDS_PCZC964_SPACE_MUSEUM_3_4"
+msgstr ""
+"Ракета-носитель\n"
+"«Протон-М»"
+
+msgid "IDS_PCZC964_SPACE_MUSEUM_3_4_DESCRIPTION"
+msgstr ""
+"Одна из самых надёжных ракет-носителей тяжёлого класса в мире. Используется для выведения космических аппаратов различного назначения.\n"
+"\n"
+"16 июля 1965 г. на низкую околоземную орбиту была выведена тяжёлая научная космическая станция «Протон», название которой впоследствии закрепилось и за ракетой-носителем (РН). На первой ступени установлены 6 двигателей РД-253 (на «Протоне-М» — РД-276) тягой 1 меганьютон, на второй ступени — 4 двигателя РД-0210, на третьей — РД-0213 тягой 583 килоньютона. Все двигатели используют несимметричный диметилгидразин и тетраоксид диазота.\n"
+"\n"
+"Для создания ракеты использовалась межконтинентальная баллистическая ракета УР-500.\n"
+"\n"
+"С 1967 г. начались запуски ракеты в современном трёхступенчатом варианте — «Протон-К», а с 2012 г. — более мощной «Протон-М». Полезная нагрузка была увеличена с 12 до 22 т.\n"
+"\n"
+"С этих пусков началось использование ракеты-носителя «Протон» в программе исследования околоземного космического пространства, Луны, Марса и Венеры.\n"
+"\n"
+"С помощью ракеты-носителя «Протон» в космос выведены космические аппараты «Протон», «Космос», «Экран», «Радуга», «Горизонт», спутники для орбитальной группировки «ГЛОНАСС», аппараты для исследования Луны, Марса, Венеры, кометы Галлея, орбитальные станции «Салют» и «Алмаз», модули орбитального комплекса «Мир» и Международной космической станции.\n"
+"\n"
+"Разрабатывались модификации ракеты — «Протон», «Протон-К», «Протон-М» — в Центральном конструкторском бюро машиностроения под руководством Генерального конструктора В. Н. Челомея (НПО машиностроения) и в Государственном космическом научно-производственном центре им. М. В. Хруничева.\n"
+"\n"
+"Технические характеристики:\n"
+"• стартовая масса — до 705 т;\n"
+"• длина — 45–60 м;\n"
+"• длина трёх ступеней — 44 м;\n"
+"• максимальный диаметр — 7,4 м;\n"
+"• масса полезного груза — 22 т."
+
+msgid "IDS_PCZC965_SPACE_MUSEUM_3_5"
+msgstr ""
+"Ракетно-космический комплекс\n"
+"Н-1–Л-3"
+
+msgid "IDS_PCZC965_SPACE_MUSEUM_3_5_DESCRIPTION"
+msgstr ""
+"Ракета-носитель сверхтяжёлого класса Н-1 для осуществления полёта к Луне и высадки человека на её поверхность.\n"
+"\n"
+"Первоначально предназначалась для вывода на околоземную орбиту тяжёлой (75 т) орбитальной станции, впоследствии программа была переориентирована на обеспечение полёта человека на поверхность Луны и его возвращение на Землю. Всего за 1969–1972 гг. произведено четыре испытательных запуска, все — аварийные (в связи с неполадками в работе первой ступени). Все запуски ракеты Н-1 производились с площадки № 113 (с двумя стартовыми столами) космодрома Байконур. Программа полёта к Луне с высадкой человека на её поверхность была закрыта в СССР в 1974 г. Конструктивно-компоновочная схема носителей семейства «Н» до сих пор остаётся уникальной для ракет космического назначения.\n"
+"\n"
+"Разрабатывался с 1964 г. в ОКБ-1 в Куйбышеве под руководством Главного конструктора С. П. Королёва.\n"
+"\n"
+"Технические характеристики:\n"
+"• максимальный диаметр 1-й ступени — 17 м;\n"
+"• длина — 105,3 м;\n"
+"• стартовая масса — 2820 т;\n"
+"• масса выводимого полезного груза на орбиту Земли — 90 т;\n"
+"• масса топлива — 1410 т;\n"
+"• количество двигателей первой ступени — 30 шт.;\n"
+"• суммарная тяга двигателей на Земле — 4615 тс;\n"
+"• топливо — керосин, кислород в качестве окислителя."
+
+msgid "IDS_PCZC966_SPACE_MUSEUM_3_6"
+msgstr "Ракета-носитель «Энергия»"
+
+msgid "IDS_PCZC966_SPACE_MUSEUM_3_6_DESCRIPTION"
+msgstr ""
+"Cамая мощная из советских ракет-носителей и одна из самых мощных ракет в мире. Первая советская ракета-носитель, использовавшая в качестве топлива жидкий водород. Разработана Научно-производственным объединением (НПО) «Энергия». Программу «Энергия-Буран» возглавлял Генеральный конструктор НПО «Энергия» В. П. Глушко.\n"
+"\n"
+"Универсальная перспективная ракета предназначалась для запуска многоразового орбитального корабля «Буран», обеспечения пилотируемых и автоматических экспедиций на Луну и Марс, запуска орбитальных станций нового поколения, запуска сверхтяжёлых геостационарных спутниковых платформ, запуска тяжёлых военных грузов. РН «Энергия» способна вывести на орбиту около 100 т полезного груза. Работы начались в 1976 г. Ракета-носитель выполнена по двухступенчатой пакетной схеме. Первая ступень состоит из четырёх боковых блоков с кислородно-керосиновыми четырёхкамерными двигателями РД-170, возвращаемых на Землю с помощью парашютов. Ресурс модулей первой ступени позволяет провести до 10 запусков. Вторая ступень оснащена четырьмя кислородно-водородными двигателями РД-0120 и является несущей конструкцией, на которой установлено устройство для крепления груза.\n"
+"\n"
+"Выполнено два запуска ракеты-носителя «Энергия»:\n"
+"• 15 мая 1987 г. с экспериментальной нагрузкой — космическим аппаратом «Полюс». Груз не был выведен на орбиту из-за сбоя системы ориентации самого космического аппарата;\n"
+"• 15 ноября 1988 г. с орбитальным кораблём «Буран».\n"
+"\n"
+"Технические характеристики:\n"
+"• стартовая масса МТКС — 2375–2419 т;\n"
+"• масса ракеты-носителя — 2270 т;\n"
+"• длина — 58,76 м;\n"
+"• ширина — 17,65 м."
+
+msgid "IDS_PCZC967_SPACE_MUSEUM_4_1"
+msgstr "Высотно-спасательный скафандр СК-1"
+
+msgid "IDS_PCZC967_SPACE_MUSEUM_4_1_DESCRIPTION"
+msgstr ""
+"Первое применение — 12 апреля 1961 г. во время полёта вокруг Земли первого в мире космонавта Ю. А. Гагарина.\n"
+"\n"
+"Предназначался для космонавтов кораблей «Восток» и применялся до 1963 г. В скафандрах СК-1 совершили полёты Ю. А. Гагарин, Г. С. Титов, А. Г. Николаев, П. Р. Попович, В. Ф. Быковский. В. В. Терешкова использовала модификацию — скафандр СК-2.\n"
+"\n"
+"Скафандр мягкой конструкции с вентиляционной системой открытого типа. Оболочка скафандра двухслойная — наружная силовая из ткани лавсан, внутренняя — герметичная из листовой резины. Поверх оболочки надевается защитная верхняя одежда. Под оболочку надевается теплозащитный костюм с трубками и панелями системы вентиляции. Шлем жёсткий, несъёмный с двойным остеклением и системой аварийного закрытия иллюминатора.\n"
+"\n"
+"Совместно с бортовой системой вентиляции, бортовой и парашютной системами кислородного питания скафандр СК-1 обеспечивал космонавту:\n"
+"• нормальные гигиенические условия в загерметизированной кабине корабля до 12 суток;\n"
+"• безопасное пребывание в разгерметизированной кабине в течение 4–5 часов;\n"
+"• защиту при катапультировании из кабины на высотах до 8 км;\n"
+"• питание кислородом при парашютировании;\n"
+"• сохранение жизни при нахождении в холодной воде в течение 12 часов.\n"
+"\n"
+"Технические характеристики:\n"
+"• рабочее избыточное давление в скафандре — 270–300 гПа;\n"
+"• расход газа от вентилятора — 150 л/мин;\n"
+"• подача газа от бортовых баллонов (воздух + кислород) — 50 нл/мин;\n"
+"• масса скафандра — 20 кг.\n"
+"\n"
+"Разработан на заводе «Звезда» в 1960–1961 гг. под руководством Генерального конструктора С. М. Алексеева. Оболочка скафандра была разработана группой под руководством А. Ю. Стоклицкого при участии А. И. Бойко, А. Л. Зельвинского. Система обеспечения жизнедеятельности разработана группой И. П. Абрамова при участии А. М. Гершковича, М. Н. Дудника. Испытания скафандра были проведены группой В. И. Сверщека. Подготовка электрорадиооборудования выполнена группой И. И. Скоморовского. Подготовка и проверка скафандра — группой Ф. А. Востокова."
+
+msgid "IDS_PCZC968_SPACE_MUSEUM_4_2"
+msgstr "Скафандр «Беркут» для кратковременного выхода в открытый космос"
+
+msgid "IDS_PCZC968_SPACE_MUSEUM_4_2_DESCRIPTION"
+msgstr ""
+"Скафандры «Беркут» использовались экипажем корабля «Восход-2» П. И. Беляевым и А. А. Леоновым в марте 1965 г.\n"
+"\n"
+"Предназначались для обеспечения выхода в космос и одновременно были аварийно-спасательными для членов экипажа космического корабля «Восход-2» в случае аварийной разгерметизации кабины корабля.\n"
+"\n"
+"Впервые в мире А. А. Леонов 18 марта 1965 г. в скафандре «Беркут» через шлюзовую камеру совершил выход из корабля в открытое космическое пространство. В условиях открытого космоса космонавт находился 12 минут 9 секунд.\n"
+"\n"
+"Скафандр «Беркут» мягкой конструкции со съёмным жёстким шлемом и вентиляционной системой открытого типа. Оболочка скафандра трёхслойная: наружная силовая из ткани капрон и две герметичные оболочки: основная — из листовой резины, резервная (внутренняя) — из пористой резины. Поверх оболочки надевается защитная одежда с экранно-вакуумной изоляцией. Скафандр эксплуатировался совместно с автономной системой жизнеобеспечения, расположенной в съёмном ранце (кислородный прибор КП-55). Ранец разработан в Специальном конструкторском бюро по проектированию кислородных дыхательных приборов и аппаратуры.\n"
+"\n"
+"Совместно с бортовой системой вентиляции и кислородного питания скафандр обеспечивал космонавту безопасное пребывание в разгерметизированной кабине в течение четырёх часов.\n"
+"\n"
+"Технические характеристики:\n"
+"• время автономной работы скафандра от ранцевой СОЖ — 45 мин.;\n"
+"• рабочее давление в скафандре — 400 гПа в основном режиме и 270 гПа в дополнительном;\n"
+"• расход вентиляционного газа в скафандре «Беркут» от бортовой системы — 150 л/мин;\n"
+"• масса скафандра — 20 кг;\n"
+"• масса ранца — 21,5 кг.\n"
+"\n"
+"Скафандр разработан в 1964–1965 гг. на заводе «Звезда» под руководством Генерального конструктора Г. И. Северина."
+
+msgid "IDS_PCZC969_SPACE_MUSEUM_4_3"
+msgstr "Скафандр «Орлан-Д»"
+
+msgid "IDS_PCZC969_SPACE_MUSEUM_4_3_DESCRIPTION"
+msgstr ""
+"Скафандр полужёсткого типа для работы в открытом космосе. Использовался во время полётов орбитальных станций «Салют-6» и «Салют-7» с 1977 по 1984 г.\n"
+"\n"
+"Первый выход в открытый космос в скафандре «Орлан-Д» был осуществлён 20 декабря 1977 г. космонавтами Ю. В. Романенко и Г. М. Гречко из орбитальной станции\n"
+"«Салют-6».\n"
+"\n"
+"В отличие от существовавших ранее скафандров типа «Беркут» или «Ястреб», скафандр «Орлан-Д» можно было подогнать под каждого космонавта, что было удобно при работе сменных экипажей на космической станции.\n"
+"\n"
+"Скафандр имеет систему обеспечения жизнедеятельности регенерационного (замкнутого) типа со сменными расходуемыми элементами.\n"
+"\n"
+"В системе терморегулирования используется костюм водяного охлаждения для снятия избыточного тепла с тела космонавта во время работы в открытом космосе.\n"
+"\n"
+"Электропитание, радиосвязь и телеметрия осуществляются по электрофалу длиной 20 м, который также является страховочным фалом. Скафандр дополнительно снабжён страховочным фалом с карабином.\n"
+"\n"
+"Разработано несколько модификаций скафандра: «Орлан-ДМ», «Орлан-ДМА», «Орлан-М», «Орлан-МК», «Орлан-МКС».\n"
+"\n"
+"Разработан и изготовлен на Научно-производственном предприятии «Звезда».\n"
+"\n"
+"Технические характеристики:\n"
+"• масса — от 73,5 до 114 кг (в зависимости от модификации);\n"
+"• обхват груди космонавта — от 96 до 108 см;\n"
+"• рост космонавта — от 164 до 180 см;\n"
+"• время автономной работы в открытом космосе — от 5 до 8 часов (в зависимости от модификации)."
+
+msgid "IDS_PCZC970_SPACE_MUSEUM_4_4"
+msgstr "Скафандр «Кречет-94»"
+
+msgid "IDS_PCZC970_SPACE_MUSEUM_4_4_DESCRIPTION"
+msgstr ""
+"Советский полужёсткий космический скафандр со встроенной системой жизнеобеспечения для выхода в открытый космос и работы космонавта-исследователя на поверхности Луны.\n"
+"\n"
+"Программа полёта к Луне с высадкой человека на её поверхность была закрыта в СССР в 1974 г. Но скафандр «Кречет», предназначенный для лунной экспедиции, был уже разработан. Он стал прообразом скафандров «Орлан», которые позже будут использоваться космонавтами для работы в открытом космосе.\n"
+"\n"
+"Корпус скафандра вместе с каской шлема выполнен из листового алюминиевого сплава. Рукава и оболочка ног — мягкой конструкции.\n"
+"\n"
+"Люк для входа расположен на задней части скафандра, крышкой люка служит ранец «Каспий», в котором расположены агрегаты системы жизнеобеспечения.\n"
+"\n"
+"Автономная система жизнеобеспечения — регенерационного (замкнутого) типа. В системе терморегулирования используются костюм водяного охлаждения и теплообменник — сублиматор. Органы управления системой жизнеобеспечения расположены на нагрудной части корпуса. Автономное время работы в скафандре около 10 часов. Масса скафандра — 106 кг (в лунных условиях — примерно 17,5 кг).\n"
+"\n"
+"Оболочка скафандра трёхслойная: наружная (силовая) состоит из капроновой ткани, и две внутренние из резины. Рукава снабжены плечевыми и кистевыми подшипниками, позволяющими космонавту совершать руками различные движения. Поверх оболочки надета теплозащитная одежда с экранно-вакуумной теплоизоляцией. В одежду вмонтировано антенно-фидерное устройство.\n"
+"\n"
+"Разработан и изготовлен на заводе «Звезда» во второй половине 1960-х гг. для лунной пилотируемой программы СССР Н-1–Л-3, предусматривающей выход одного космонавта на поверхность Луны."
+
+msgid "IDS_PCZC971_SPACE_MUSEUM_5_1"
+msgstr "Белка, Стрелка и катапультируемый контейнер"
+
+msgid "IDS_PCZC971_SPACE_MUSEUM_5_1_DESCRIPTION"
+msgstr ""
+"Четвероногие герои космоса Белка и Стрелка рядом со спускаемым аппаратом, в котором две отважные собаки вернулись на Землю после успешного космического полёта 19 августа 1960 г. На стенках катапультируемого контейнера — как напоминание о собачьем подвиге — сохранились повреждения и вмятины, следы «мягкой посадки».\n"
+"\n"
+"В 1960–1961 гг. для подготовки полёта человека в космос проводились лётные испытания семи кораблей-спутников, на которых проверялась и отрабатывалась конструкция корабля и бортовые системы. Второй корабль-спутник запущен с космодрома Байконур трёхступенчатой ракетой-носителем «Восток». Особое внимание уделялось системам жизнеобеспечения и возвращения на Землю.\n"
+"\n"
+"Контейнер для животных — прообраз катапультируемого кресла космонавта. Контейнер катапультировался при спуске космического корабля на высоте 7 км; скорость его при приземлении 6–8 м/сек. Разработан на заводе «Звезда» под руководством Главного конструктора С. М. Алексеева.\n"
+"\n"
+"Все многочисленные биологические объекты 20 августа 1960 г. успешно вернулись на Землю. В результате получены уникальные научные данные о влиянии факторов космического полёта на живые организмы."
+
+msgid "IDS_PCZC972_SPACE_MUSEUM_5_2"
+msgstr "Спускаемый аппарат одноместного космического корабля серии «Восток»"
+
+msgid "IDS_PCZC972_SPACE_MUSEUM_5_2_DESCRIPTION"
+msgstr ""
+"Применялся в 1961–1963 гг. по программе «Восток» во время первых пилотируемых космических полётов с участием космонавтов Ю. А. Гагарина, Г. С. Титова, А. Г. Николаева, П. Р. Поповича, В. Ф. Быковского, В. В. Терешковой.\n"
+"\n"
+"Космический корабль «Восток» состоял из двух отсеков: спускаемого аппарата и приборно-агрегатного отсека. Отсеки механически соединялись между собой с помощью металлических лент и пиротехнических замков.\n"
+"\n"
+"Спускаемый аппарат предназначен для размещения космонавта во время старта, полёта на орбите и спуска до высоты 7 км. Далее осуществлялось катапультирование космонавта с креслом и неприкосновенным аварийным запасом. Космонавт приземлялся на парашюте, который раскрывался на высоте 4 км после отделения космонавта от кресла.\n"
+"\n"
+"Герметичный корпус спускаемого аппарата из алюминиевого сплава имеет сферическую форму. Снаружи покрыт теплозащитным покрытием толщиной от 30 до 180 мм. Спускаемый аппарат имеет три люка диаметром 1 м: один у ног космонавта — технологический, второй над его головой — для посадки космонавта в спускаемый аппарат и катапультирования, третий — люк парашютного контейнера. В спускаемом аппарате имеются три иллюминатора и катапультируемое кресло.\n"
+"\n"
+"Космонавт находился в специальном скафандре, который при необходимости обеспечивал его пребывание в разгерметизированной кабине корабля в течение 4 часов и защиту при катапультировании из гермокабины на высотах до 10 км.\n"
+"\n"
+"В спускаемом аппарате находились запасы воды, пищи и ёмкости для сбора отходов. Космонавт имел возможность поддерживать двустороннюю радиосвязь с Землёй по одной УКВ- и по двум КВ-радиолиниям системы «Заря».\n"
+"\n"
+"Технические характеристики:\n"
+"• масса — 2,4 т;\n"
+"• диаметр — 2,3 м;\n"
+"• объём — 5,2 м³;\n"
+"• свободный объём — 1,6 м³.\n"
+"\n"
+"Разработан в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
+
+msgid "IDS_PCZC973_SPACE_MUSEUM_5_3"
+msgstr "Космический корабль «Восток»"
+
+msgid "IDS_PCZC973_SPACE_MUSEUM_5_3_DESCRIPTION"
+msgstr ""
+"Корабль «Восток» — чудо инженерной мысли своего времени — впервые в мире обеспечил полёт и жизнедеятельность человека в условиях космического пространства. Первый космонавт планеты Юрий Гагарин находился внутри на специальном кресле-катапульте — кресло и космонавт занимали примерно половину обитаемого объёма всей кабины.\n"
+"\n"
+"Юрий Гагарин пролетел один виток вокруг нашей планеты. Весь полёт он поддерживал связь с Землёй, делился своими впечатлениями и важными аспектами экспедиции."
+
+msgid "IDS_PCZC974_SPACE_MUSEUM_5_4"
+msgstr "Шлюзовая камера космического корабля «Восход-2»"
+
+msgid "IDS_PCZC974_SPACE_MUSEUM_5_4_DESCRIPTION"
+msgstr ""
+"Предназначена для обеспечения герметичности космического корабля и выхода космонавта в открытый космос.\n"
+"\n"
+"18 марта 1965 г. А. А. Леонов впервые в истории мировой космонавтики осуществил выход из космического корабля через шлюзовую камеру в открытое космическое пространство.\n"
+"\n"
+"Шлюзовая камера цилиндрической формы и полумягкой конструкции имела 2 люка: один для сообщения со спускаемым аппаратом, другой для выхода в открытый космос. Была снабжена системой шлюзования. Шлюз крепился к кораблю снаружи в сложенном состоянии посредством шпангоута. После выведения корабля на орбиту шлюзовая камера надувалась и устанавливалась в рабочее состояние по команде с пульта, смонтированного перед креслом командира корабля П. И. Беляева. С этого пульта осуществлялось управление всеми операциями по шлюзованию.\n"
+"\n"
+"Технические характеристики:\n"
+"• масса шлюза — 250 кг;\n"
+"• диаметр в сложенном виде — 70 см;\n"
+"• высота в сложенном виде — 77 см;\n"
+"• высота в развёрнутом виде — 2,5 м;\n"
+"• внутренний диаметр — до 1 м;\n"
+"• наружный диаметр — до 1,2 м;\n"
+"• диаметр люков — 70 см.\n"
+"\n"
+"Разработана в 1964–1965 гг. на заводе «Звезда» под руководством Генерального конструктора Г. И. Северина."
+
+msgid "IDS_PCZC975_SPACE_MUSEUM_5_5"
+msgstr "«Луноход-1»"
+
+msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
+msgstr ""
+"Первый в мире автоматический самоходный аппарат на поверхности другого небесного тела.\n"
+"\n"
+"Технические характеристики:\n"
+"• масса — 756 кг;\n"
+"• длина с открытой солнечной батареей — 4,42 м;\n"
+"• ширина — 2,15 м;\n"
+"• высота — 1,92 м;\n"
+"• диаметр колёс — 0,51 м;\n"
+"• ширина колеи — 1,6 м.\n"
+"\n"
+"Автоматическая станция «Луна-17» с самоходным аппаратом «Луноход-1» была запущена 10 ноября 1970 г. с помощью ракеты-носителя «Протон». 17 ноября 1971 г. «Луноход-1» доставлен на Луну в район Моря Дождей.\n"
+"\n"
+"Успешная работа лунохода продолжалась 318 суток. За 116 сеансов движения «Луноход-1» прошёл расстояние 10 540 м, что позволило детально обследовать лунную поверхность площадью 80 000 км². Максимальная скорость движения составила 2 км/час.\n"
+"\n"
+"За это время на Землю было передано 210 телефотометрических панорам и около 20 тысяч снимков малокадрового телевидения. В ходе съёмки получены стереоскопические изображения наиболее интересных особенностей рельефа, позволяющие провести детальное изучение их строения.\n"
+"\n"
+"С «Луноходом-1» был проведён 171 сеанс связи, в ходе которых было передано 24 829 команд.\n"
+"\n"
+"С помощью отражателя лазерных лучей, изготовленного во Франции, в соответствии с совместной советско-французской программой исследований космического пространства, была проведена лазерная локация Луны. Расстояние между прибором на Земле и «Луноходом» было измерено с точностью до нескольких метров.\n"
+"\n"
+"Последний сеанс связи с «Луноходом-1» состоялся 14 сентября 1971 г.\n"
+"\n"
+"«Луноход-1» был разработан в НПО им. С. А. Лавочкина под руководством Главного конструктора Г. Н. Бабакина.\n"
+"\n"
+"Самоходное шасси разработано во Всесоюзном научно-исследовательском институте транспортного машиностроения (ВНИИТрансмаш) под руководством Главного конструктора А. Л. Кемурджиана."
+
+msgid "IDS_PCZC976_SPACE_MUSEUM_5_6"
+msgstr "Автоматическая станция «Луна-16»"
+
+msgid "IDS_PCZC976_SPACE_MUSEUM_5_6_DESCRIPTION"
+msgstr ""
+"В сентябре 1970 г. совершила рейс Земля — Луна — Земля и впервые в мире в автоматическом режиме доставила 105 граммов лунного грунта на Землю.\n"
+"\n"
+"Технические характеристики:\n"
+"• масса — 5727 кг;\n"
+"• масса при посадке на Луну — 1880 кг;\n"
+"• масса возвращаемого аппарата — 34 кг.\n"
+"\n"
+"Станция запущена 12 сентября 1970 г. ракетой-носителем «Протон-К». Через 8 дней полёта, 20 сентября, автоматическая станция «Луна-16» совершила мягкую посадку на поверхность Луны в районе Моря Изобилия.\n"
+"\n"
+"Автоматический комплекс состоял из двух основных частей: унифицированной посадочной ступени и приборного отсека с возвращаемым аппаратом, выполнившим полёт по трассе Луна — Земля.\n"
+"\n"
+"На посадочной ступени установлено грунтозаборное устройство, которое крепилось на штанге, способной перемещаться в вертикальной и горизонтальной плоскостях. Для выбора места бурения были установлены два телефотометра. Грунтозаборное устройство обеспечило бурение и перемещение выбранного грунта в контейнер возвращаемого аппарата.\n"
+"\n"
+"Исследование капсулы с грунтом показало, что бур заполнен сыпучим лунным грунтом — реголитом, представляющим собой разнозернистый тёмно-серый порошок, который легко формуется и слипается в отдельные рыхлые комки. Лунный грунт напоминает влажный песок или комковатую структуру земных почв, по химическому составу — размельчённую горную породу базальтового типа.\n"
+"\n"
+"Старт возвращаемого аппарата с Луны 21 сентября 1970 г. производился по команде с Земли. 24 сентября возвращаемый аппарат отделился от приборного отсека ракеты и совершил мягкую посадку на Землю в 80 км юго-восточнее г. Джезказган.\n"
+"\n"
+"Космический аппарат был разработан в НПО им. С. А. Лавочкина под руководством Главного конструктора Г. Н. Бабакина."
+
+msgid "IDS_PECULIARITY_DISABLED_STATUS"
+msgstr "Уникальный внешний вид отключён"
+
+msgid "IDS_PFGT152_550MM_3TUBE_AT47_L"
+msgstr "550-мм tube lance-torpilles"
+
+msgid "IDS_PFGT154_550MM_3TUBE_AT47_R"
+msgstr "550-мм tube lance-torpilles"
+
+msgid "IDS_PFPA101_127MM_54_HE_T11"
+msgstr "127-мм HE Mark 42"
+
+msgid "IDS_PFPA102_127MM_54_AP_T11"
+msgstr "127-мм AP Mark 43"
+
+msgid "IDS_PFPA103_127MM_54_HE_DUPERRE"
+msgstr "127-мм HE Mark 41"
+
+msgid "IDS_PFPA104_127MM_54_AP_DUPERRE"
+msgstr "127-мм AP Mark 42"
+
+msgid "IDS_PFPT023_T11"
+msgstr "550-мм 24V Mle 2"
+
+msgid "IDS_PFPT026_DUPERRE"
+msgstr "550-мм 24V Mle 3"
+
+msgid "IDS_PFSD111"
+msgstr "Robespierre"
+
+msgid "IDS_PFSD111_DESCR"
+msgstr ""
+"Во время Второй мировой войны командование французского флота режима Виши поставило задачу разработать эсминцы нового поколения. Проект, известный как T 42, получил дальнейшее развитие в виде группы эскизов с общим индексом E 43. В ходе проработки проекта рассматривались в числе прочего варианты укрупнения корабля до лёгкого крейсера.\n"
+"\n"
+"Корабль должен был нести вооружение из 120-мм или 130-мм орудий, а количество установок на разных эскизах варьировалось от трёх до четырёх. Проект Е 43 реализован не был, а дальнейшие его проработки привели к появлению проекта Т 47."
+
+msgid "IDS_PFSD111_FULL"
+msgstr "Robespierre"
+
+msgid "IDS_PFSD111_NUMBER"
 msgstr "1"
 
-msgid "IDS_PBSB518_YEAR"
-msgstr "1940 г."
+msgid "IDS_PFSD111_YEAR"
+msgstr "1945 г."
 
-msgid "IDS_PBUA715_ART_ANSON"
-msgstr "381-мм/42 Mk.I в установке Mk.I/N RP 12"
+msgid "IDS_PFSD509"
+msgstr "Duperré"
 
-msgid "IDS_PBUE719_ENG_ANSON"
-msgstr "ЭУ 144 000 л.с."
-
-msgid "IDS_PBUH727_HULL_ANSON"
-msgstr "Anson"
-
-msgid "IDS_PBUS720_SUO_ANSON"
-msgstr "Mk VIII"
-
-msgid "IDS_PBUT715_TORP_ANSON"
-msgstr "533-мм Mk IXM"
-
-msgid "IDS_PCEC147_CAMO_PRORYV_RED"
-msgstr "Прорыв — Красный"
-
-msgid "IDS_PCEC148_CAMO_PRORYV_GREEN"
-msgstr "Прорыв — Зелёный"
-
-msgid "IDS_PCEC990_TRIALS_BUDENY"
-msgstr "Мишень"
-
-msgid "IDS_PCEC991_TRIALS_PYOTR_VELIKIY"
-msgstr "Мишень"
-
-msgid "IDS_PCEC993_TRIALS_SENYAVIN"
-msgstr "Мишень"
-
-msgid "IDS_PCEC994_TRIALS_OMAHA"
-msgstr "Мишень"
-
-msgid "IDS_PCEE724_HENGSHUI_FLAG"
-msgstr "Hengshui"
-
-msgid "IDS_PCEE724_HENGSHUI_FLAG_DESCRIPTION"
+msgid "IDS_PFSD509_DESCR"
 msgstr ""
-"Бумажные подвесные фонарики занимают важную роль в праздновании китайского "
-"Нового года, которое завершается Праздником фонарей. Обряды празднования "
-"Нового года по лунно-солнечному календарю были описаны Цуй Ши — учёным "
-"и государственным деятелем империи Хань, происходившим из местности, которая"
-" сейчас является частью городского округа Хэншуй."
-
-msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG"
-msgstr "Линкоры Пан-Азии"
-
-msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_DESCRIPTION"
-msgstr ""
-"Образ тигра объединяет большинство культур Востока, причём зачастую "
-"в мифологии это животное связано с исцелением и защитой от злых сил. "
-"В Древнем Китае тигр считался «царём леса» и олицетворял власть императора."
-
-msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода линкоров Пан-Азии в ранний доступ в обновлении 25.1."
-
-msgid "IDS_PCEE730_MADRID_FLAG"
-msgstr "Madrid"
-
-msgid "IDS_PCEE730_MADRID_FLAG_DESCRIPTION"
-msgstr ""
-"Военно-морской флаг Испании, который использовался в 1701–85 гг. В этот "
-"период испанские короли проводили реорганизацию и модернизацию флота, чтобы "
-"вернуть утраченные территории и укрепить влияние в Новом Свете."
-
-msgid "IDS_PCEE731_ANSON_FLAG"
-msgstr "HMS Anson"
-
-msgid "IDS_PCEE731_ANSON_FLAG_DESCRIPTION"
-msgstr ""
-"Джордж Ансон (1697–1762) — британский флотоводец, совершивший кругосветное "
-"путешествие. Будучи адмиралом флота, Ансон являлся командиром Красной "
-"эскадры — важнейшего формирования, обычно занимавшего центральное положение "
-"в строе."
-
-msgid "IDS_PCEE732_SOVREMENNY_FLAG"
-msgstr "Современный"
-
-msgid "IDS_PCEE732_SOVREMENNY_FLAG_DESCRIPTION"
-msgstr ""
-"На эмблеме 7-й оперативной («Атлантической») эскадры Северного флота семь "
-"звёзд означают номер эскадры, крылатый якорь является знаком личного состава"
-" авианесущих кораблей, а три меча символизируют три составных части эскадры "
-"(авианесущие, ракетные и артиллерийские корабли)."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_0"
-msgstr "ваш корабль будет обездвижен;"
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_1"
-msgstr ""
-"за нанесение урона целям со специальными отметками вы получите больше очков."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_DESCRIPTION"
-msgstr ""
-"Испытание состоит из 5 этапов, каждый из которых длится 3 минуты. Если вы "
-"выполните задачу раньше, вы сможете набрать бонусные очки, которые будут "
-"учтены в следующем этапе."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_EXTRA_DESCRIPTION"
-msgstr ""
-"Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам "
-"испытания."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_GOAL"
-msgstr "Нанесите как можно больше урона кораблям противника."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_NAME"
-msgstr "Огневая мощь"
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_TASK_DESCR"
-msgstr "Наносите урон кораблям противника."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_0"
-msgstr "ваш корабль будет обездвижен;"
-
-msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_1"
-msgstr ""
-"за поражение цитадели кораблей со специальными отметками вы получите больше "
-"очков."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_DESCRIPTION"
-msgstr ""
-"Испытание состоит из 5 этапов, каждый из которых длится 3 минуты. Если вы "
-"выполните задачу раньше, вы сможете набрать бонусные очки, которые будут "
-"учтены в следующем этапе."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_EXTRA_DESCRIPTION"
-msgstr ""
-"Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам "
-"испытания."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_GOAL"
-msgstr "Попадите в цитадель кораблей противника как можно больше раз."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_NAME"
-msgstr "Меткость стрельбы"
-
-msgid "IDS_PCVT002_CITADEL_PRIME_TASK_DESCR"
-msgstr "Попадайте в цитадели кораблей противника."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_0"
-msgstr "ваш корабль будет обездвижен;"
-
-msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_1"
-msgstr ""
-"за уничтожение целей со специальными отметками вы получите больше очков."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_DESCRIPTION"
-msgstr ""
-"Испытание состоит из 5 этапов, каждый из которых длится 3 минуты. Если вы "
-"выполните задачу раньше, вы сможете набрать бонусные очки, которые будут "
-"учтены в следующем этапе."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_EXTRA_DESCRIPTION"
-msgstr ""
-"Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам "
-"испытания."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_GOAL"
-msgstr "Уничтожьте как можно больше кораблей противника."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_NAME"
-msgstr "Ликвидация целей"
-
-msgid "IDS_PCVT003_FRAGS_PRIME_TASK_DESCR"
-msgstr "Уничтожайте корабли противника."
-
-msgid "IDS_PCZA039_UTOPIA"
-msgstr "Utopia Show"
-
-msgid "IDS_PCZA039_UTOPIA_QUOTES"
-msgstr "Utopia Show"
-
-msgid "IDS_PCZC939_UTOPIA_1_1"
-msgstr "Человек, который убил Санта-Клауса"
-
-msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
-msgstr ""
-"В 1932 г., в разгар Великой депрессии, владельцы магазинов в городе Меса (штат Аризона) переживали непростые времена. Приближался ежегодный рождественский парад, и предприниматели искали способ привлечь посетителей на него, и, следовательно, к магазинам на его маршруте.\n"
+"Эскадренные миноносцы Т 53 стали развитием кораблей типа Surcouf (проект Т 47). От предшественников эти эсминцы отличались улучшенными средствами воздушного обнаружения, что позволяло им выполнять роль кораблей радиолокационного дозора для соединений французского флота.\n"
 "\n"
-"Редактор местной газеты Джон Макфи предложил интересную идею: нанять парашютиста, чтобы он в костюме Санта-Клауса спрыгнул из самолёта и приземлился в поле за городом, после чего полиция должна была отвезти его к параду, где он раздал бы подарки.\n"
-"\n"
-"План столкнулся с первым препятствием, когда нанятый парашютист в день парада оказался не в состоянии совершить прыжок. Однако изобретательный Макфи не растерялся: он позаимствовал манекен из одного из магазинов, нарядил его в костюм Санты и посадил в самолёт вместо парашютиста. Поскольку Санта должен был приземлиться за городом, Макфи полагал, что издалека никто не заметит подмены. Когда самолёт набрал достаточную высотку, манекен в костюме Санты вытолкнули наружу, дёрнув кольцо парашюта. В этот ответственный момент парашют не раскрылся, и Санта камнем упал на землю на глазах у собравшихся детей.\n"
-"\n"
-"Макфи снова попытался спасти праздник: он сам надел костюм Санта-Клауса и вышел к детям, чтобы успокоить их. Однако дети были безутешны: они были уверены, что Санта только что разбился насмерть. Макфи даже уехал из города на несколько дней, надеясь, что со временем всё утрясётся. Но ситуация не была забыта, и с тех пор Джон Макфи был известен как «человек, который убил Санта-Клауса»."
-
-msgid "IDS_PCZC940_UTOPIA_1_2"
-msgstr "Автополо"
-
-msgid "IDS_PCZC940_UTOPIA_1_2_DESCRIPTION"
-msgstr ""
-"Автомобильное поло — вид спорта, в котором правила и инвентарь совпадают с конным поло, но вместо лошадей используются автомобили. Автополо появилось в США и было популярно в 1910–20-е гг.\n"
-"\n"
-"Изобретателем автополо считается Ральф Хэнкинсон, агент по продаже автомобилей Ford. Хэнкинсон придумал этот вид спорта в качестве рекламного трюка в 1911 г., чтобы увеличить продажи автомобилей Ford Model T. Первый официальный матч автополо прошёл в люцерновом поле в Уичито (штат Канзас) 20 июля 1912 г., в нём приняли участие восемь игроков на четырёх автомобилях. За игрой наблюдали 5000 зрителей. После этого по всей стране были образованы местные лиги под эгидой Ассоциации автополо, а к 1920-м гг. Нью-Йорк и Чикаго стали основными центрами автополо в США.\n"
-"\n"
-"К концу 1920-х гг. популярность автополо сошла на нет, потому что этот вид спорта оказался крайне опасным для участников и зрителей, а также приводил к дорогостоящему ущербу машинам. Автомобили часто сталкивались, цеплялись друг за друга, игроков выбрасывало из машин на землю, где они попадали под колёса других машин. Как правило, большинство автомобилей были серьёзно повреждены или полностью разрушены к концу матча."
-
-msgid "IDS_PCZC941_UTOPIA_1_3"
-msgstr "Евльский козёл"
-
-msgid "IDS_PCZC941_UTOPIA_1_3_DESCRIPTION"
-msgstr ""
-"В странах Северной Европы одним из символов Рождества является козёл. Празднующие надевают маски козлов и украшают рождественскую ёлку маленькими соломенными фигурками этого животного. В 1966 г. в шведском городе Евле решили построить гигантского рождественского козла из соломы. Фигура была готова 1 декабря: 13 м в высоту, 7 м в длину, вес составил 3 т.\n"
-"\n"
-"В канун Нового года фигура козла сгорела.\n"
-"\n"
-"С тех пор евльский козёл прославился тем, что почти каждый год его поджигают или пытаются уничтожить каким-либо другим образом. С каждым годом городские власти предпринимали всё более строгие меры безопасности, что встречало всё более изобретательные способы вандализма.\n"
-"\n"
-"Однажды козла поджёг 51-летний американский турист — по его словам, он был уверен, что принимает участие в абсолютно законной местной традиции. За козлом было установлено круглосуточное видеонаблюдение, но однажды сайт с видеокамерами был взломан. В один из годов к козлу были приставлены охранники, но из-за сильного холода им пришлось зайти в соседний ресторан, чтобы погреться, — вандалы не упустили эту возможность. На фигуру была установлена мощная противопожарная защита, применяемая в самолётах, но вандалам снова удалось поджечь козла с помощью бензина."
-
-msgid "IDS_PCZC942_UTOPIA_1_4"
-msgstr "Чумной доктор"
-
-msgid "IDS_PCZC942_UTOPIA_1_4_DESCRIPTION"
-msgstr ""
-"Чумной доктор — врач, лечивший бубонную чуму во время эпидемий в Европе XVI–XVII вв. Таких докторов нанимали городские власти для лечения горожан, в особенности бедняков, которым нечем было платить за лечение.\n"
-"\n"
-"У этих врачей сложилась неоднозначная репутация: некоторые горожане воспринимали их появление как знак приближения смерти. Зачастую чумные доктора были не опытными и образованными врачами, а добровольцами или начинающими медиками.\n"
-"\n"
-"Чумные доктора лечили кровопусканием, лягушками и пиявками. Они редко вылечивали больных, их основная задача заключалась в записи количества умерших от чумы для статистики. В некоторых городах чумные доктора производили вскрытие, чтобы установить причину смерти. Иногда чумные доктора записывали последнюю волю умирающих.\n"
-"\n"
-"Неизменными атрибутами образа чумного доктора в культуре стали плащ, маска с длинным клювом, широкополая шляпа и перчатки. Считалось, что болезнь переносится с дурным запахом, а длинный клюв на маске поможет очистить воздух, которым дышит доктор. Однако такой костюм носили далеко не все врачи, лечившие чуму."
-
-msgid "IDS_PCZC943_UTOPIA_2_1"
-msgstr "Гусь в кроссовках"
-
-msgid "IDS_PCZC943_UTOPIA_2_1_DESCRIPTION"
-msgstr ""
-"Энди (1987–1991) — гусь, родившийся без перепончатых частей лап и носивший кроссовки, чтобы иметь возможность стоять и ходить.\n"
-"\n"
-"Гусь Энди родился в 1987 г. и жил на ферме в Небраске. О нём узнал изобретатель и благотворитель Джин Флеминг, который решил помочь гусю. Сначала Флеминг пробовал установить ему протезы, напоминающие скейтборды, но опыт оказался неуспешным. Затем изобретатель попробовал надеть на гуся специально модифицированные детские кроссовки, и в них Энди научился ходить.\n"
-"\n"
-"История Энди привлекла внимание общественности, и крупный производитель обуви предложил гусю пожизненный запас кроссовок — птица изнашивала одну пару в месяц. Считалось, что Энди вдохновлял и вселял надежду в людей с ограниченными возможностями.\n"
-"\n"
-"Энди пропал 19 октября 1991 г. и был найден мёртвым на следующий день в местном парке. Происшествие вызвало общественный резонанс, но злоумышленника найти не удалось. Позже появилась информация, что полиция нашла преступника, но не стала раскрывать его личность, поскольку он был признан неспособным нести ответственность за совершённое."
-
-msgid "IDS_PCZC944_UTOPIA_2_2"
-msgstr "Пальмовый вор"
-
-msgid "IDS_PCZC944_UTOPIA_2_2_DESCRIPTION"
-msgstr ""
-"Пальмовый вор (лат. Birgus latro) — сухопутный рак-отшельник, крупнейшее членистоногое в мире. Его вес может превышать 4 кг, а расстояние между кончиками ног достигает 1 м. Пальмовый вор обитает на островах Индийского и Тихого океанов.\n"
-"\n"
-"Пальмовый вор питается фруктами, орехами, семенами, а также падалью. Этот рак может схватить и утащить оставленную без присмотра пищу. Когда-то считалось, что пальмовый вор может забираться на пальмы и срезать с них кокосы, чтобы затем съесть их мякоть, — именно так он получил своё название. Однако это поверье не нашло научного подтверждения."
-
-msgid "IDS_PCZC945_UTOPIA_2_3"
-msgstr "Гигантская золотая рыбка"
-
-msgid "IDS_PCZC945_UTOPIA_2_3_DESCRIPTION"
-msgstr ""
-"В 2021 г. в озере Онтарио выловили гигантскую золотую рыбку — размером с футбольный мяч. Позже подобные случаи стали происходить и в других озёрах Канады.\n"
-"\n"
-"Самое интересное в том, что эти гигантские золотые рыбки не бывшие питомцы, выпущенные хозяевами в водоёмы, а, скорее всего, их потомки. Естественная среда оказалась крайне благоприятной для золотых рыбок, при этом у них нет природного хищника в местных водах. Учёные говорят, что эти рыбы быстро размножаются: женские особи мечут до 50 000 икринок три раза в год. Золотые рыбки увеличивают свой ареал в водоёмах страны, нанося ущерб местным популяциям рыб и экологии. Они переносят болезни и паразитов, конкурируют с другими рыбами за пищу и пространство.\n"
-"\n"
-"Местным властям пришлось выступить с призывом к канадцам не выпускать своих золотых рыбок в озёра страны."
-
-msgid "IDS_PCZC946_UTOPIA_2_4"
-msgstr "Кот-мэр"
-
-msgid "IDS_PCZC946_UTOPIA_2_4_DESCRIPTION"
-msgstr ""
-"Стаббс — кот, почётный мэр поселения Талкитна (штат Аляска) в США в 1997–2017 гг.\n"
-"\n"
-"В 1997 г. Лори Стек, управляющая магазином «Нэглиз», обнаружила на парковке коробку с котятами. Стек выбрала Стаббса, потому что у него не было хвоста. Котёнок поселился в магазине, и вскоре о нём узнали многие жители этого маленького города.\n"
-"\n"
-"Легенда гласит, что Стаббс стал мэром после того, как ряд избирателей вписали его имя в бюллетени на выборах. Скептики ставят эту версию под сомнение: Талкитна, будучи маленьким поселением, официально не имеет позиции мэра. Магазин «Нэглиз» служил коту офисом на протяжении всего срока на посту мэра. Каждый день Саббс ходил в соседний ресторан, где пил воду с кошачьей мятой из винного бокала."
-
-msgid "IDS_PCZC947_UTOPIA_3_1"
-msgstr "Камень-питомец"
-
-msgid "IDS_PCZC947_UTOPIA_3_1_DESCRIPTION"
-msgstr ""
-"Камень-питомец — игрушка, созданная в 1975 г. американским копирайтером и предпринимателем Гэри Далом. Камни продавались в специальных упаковках, напоминающих переноски для питомцев — с отверстиями для воздуха и подстилкой из соломы.\n"
-"\n"
-"Идея камня-питомца появилась у Гэри Дала, когда он сидел в баре с друзьями, которые жаловались на сложности ухода за своими домашними животными. Дал предложил продавать камни в качестве идеальных питомцев: их не нужно кормить, выгуливать и мыть, камень не может заболеть и не будет плохо себя вести.\n"
-"\n"
-"Популярность камней-питомцев продлилась полгода, включая рождественский сезон в 1975 г., а уже к февралю следующего года игрушка вышла из производства. Всего Далу удалось продать более миллиона камней-питомцев по четыре доллара за штуку, в результате чего он стал миллионером."
-
-msgid "IDS_PCZC948_UTOPIA_3_2"
-msgstr "Шоколад с рыбой"
-
-msgid "IDS_PCZC948_UTOPIA_3_2_DESCRIPTION"
-msgstr ""
-"Сложно представить себе два продукта, которые так же плохо сочетались бы друг с другом, как шоколад и рыба. Но это только на первый взгляд. Оказывается, даже у такого «невозможного» сочетания есть свои поклонники.\n"
-"\n"
-"Многие производители шоколада добавляют в свою продукцию соль — этим уже сложно кого-то удивить. А некоторые кондитеры идут дальше и выпускают шоколад с солёной рыбой, причём производят такие необычные изделия в нескольких странах. А для тех, кто пока не решился попробовать настоящую шоколадку с рыбой, есть альтернатива: приготовить рыбу с шоколадным соусом."
+"Duperré был заложен в Лорьяне в ноябре 1954 г. и спущен на воду в июне 1956 г. В 1966–71 гг. эсминец был разоружён и использовался для испытаний глубоководного буксируемого гидролокатора Cormoran 1. В 1972–74 гг. корабль был радикально перевооружён, получив вместо старой артиллерии и торпед четыре пусковых установки противокорабельных ракет Exoset, одиночную 100-мм артиллерийскую установку, два торпедных аппарата калибра 550 мм и вертолёт Lynx. После перевооружения Duperré использовался как корабль управления в составе противолодочных сил."
 
-msgid "IDS_PCZC949_UTOPIA_3_3"
-msgstr "Амбра"
+msgid "IDS_PFSD509_FULL"
+msgstr "Duperré"
 
-msgid "IDS_PCZC949_UTOPIA_3_3_DESCRIPTION"
-msgstr ""
-"Амбра — твёрдое и воскообразное вещество серого цвета, образующееся в пищеварительной системе кашалотов. Это вещество получило широкое распространение в парфюмерии как фиксатор запаха. В средневековой Европе амбру использовали как лекарство от головной боли, простуды, эпилепсии, а также считалось, что она защищает от чумы.\n"
-"\n"
-"Амбра образуется в желчном пути кашалота. В кусках этого вещества находят клювы гигантских кальмаров, из-за чего считается, что пищеварительная система кашалота образует амбру, чтобы облегчить прохождение твёрдых и острых предметов, попавших в желудок.\n"
-"\n"
-"Это очень редкое вещество: образуется годами, причём только у одного процента кашалотов. При этом она может находиться в океане годами, прежде чем попадёт на берег. Из-за редкости амбры и юридических ограничений на китобойный промысел амбру в парфюмерии вытеснил её синтетический аналог."
+msgid "IDS_PFSD509_NUMBER"
+msgstr "5"
 
-msgid "IDS_PCZC950_UTOPIA_3_4"
-msgstr "Васаби"
+msgid "IDS_PFSD509_YEAR"
+msgstr "1957 г."
 
-msgid "IDS_PCZC950_UTOPIA_3_4_DESCRIPTION"
-msgstr ""
-"Васаби — растение из семейства капустных, характерное для Японии, российского Дальнего Востока и Корейского полуострова.\n"
-"\n"
-"Острый вкус васаби напоминает родственные растения — хрен и горчицу. Корень васаби измельчают до состояния пасты, которая имеет характерный зелёный цвет и резкий запах. Полученную приправу подают с суши и другими блюдами.\n"
-"\n"
-"Уникальный вкус васаби — результат сложного сочетания веществ, получающегося при разрушении клеток растения (считается, что эта особенность появилась в процессе эволюции как защитный механизм). Острота васаби больше стимулирует обоняние, чем вкусовые рецепторы, при этом запах этого растения имеет эффект, аналогичный нашатырю. Исследователи использовали это свойство васаби при создании пожарной сигнализации для людей с нарушениями слуха. Один участник эксперимента проснулся через 10 секунд после того, как в помещении начал распространяться запах васаби."
+msgid "IDS_PFUA807_ART_DUPERRE"
+msgstr "127-мм/54 Mle 1948 в установке Mle 1948"
 
-msgid "IDS_PRES316_TOP_SECRET"
-msgstr "Utopia Show"
+msgid "IDS_PFUA909_D11_ART_STOCK"
+msgstr "127-мм/54 Mle 1948 в установке Mle 1948"
 
-msgid "IDS_PRGM101_130MM_B31_TWIN"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-31"
+msgid "IDS_PFUE807_ENG_DUPERRE"
+msgstr "ЭУ 63 000 л.с."
 
-msgid "IDS_PRGM244_130MM_58_CM_62"
-msgstr "130-мм/58 обр. 1957 г. в установке СМ-61"
+msgid "IDS_PFUE908_D11_ENG_STOCK"
+msgstr "ЭУ 108 454 л.с."
 
-msgid "IDS_PRGM246_100MM_TWIN_CM_52"
-msgstr "100-мм/70 в установке СМ-51"
+msgid "IDS_PFUH810_HULL_DUPERRE"
+msgstr "Duperré"
 
-msgid "IDS_PRPA158_130MM_58_HE"
-msgstr "ОФ-42"
+msgid "IDS_PFUH908_D11_HULL_STOCK"
+msgstr "Robespierre"
 
-msgid "IDS_PRPA159_130MM_58_AP"
-msgstr "ПБ-42"
+msgid "IDS_PFUS810_SUO_DUPERRE"
+msgstr "PCA n°9"
 
-msgid "IDS_PRPA160_100MM_HE_SOVREMENNY"
-msgstr "ОФ-52"
+msgid "IDS_PFUS907_D11_SUO_STOCK"
+msgstr "PCA n°11"
 
-msgid "IDS_PRPA161_100MM_AP_SOVREMENNY"
-msgstr "ББ-52"
+msgid "IDS_PFUT804_TORP_DUPERRE"
+msgstr "550-мм 23DT"
 
-msgid "IDS_PRPT082_SOOBRAZITELNY"
-msgstr "53-38 мод. 1"
+msgid "IDS_PFUT906_D11_TORP_STOCK"
+msgstr "550-мм 23DT"
 
-msgid "IDS_PRPT083_OSMOTRITELNY"
-msgstr "53-38 мод. 2"
+msgid "IDS_PGAD980_ASW_T10_SUBTEST"
+msgstr "Fw.200 Condor Test"
 
-msgid "IDS_PRPT084_SMELY"
-msgstr "53-39 мод. 2"
+msgid "IDS_PGPD907_DEPTH_T10"
+msgstr "SC-300"
 
-msgid "IDS_PRPT085_SPOKOINY"
-msgstr "53-50 мод. 1"
+msgid "IDS_PGPT910_SUBTEST"
+msgstr "G7e/T4"
 
-msgid "IDS_PRPT086_GORDELIVY"
-msgstr "53-50 мод. 2"
+msgid "IDS_PGPT911_SUBTEST"
+msgstr "G7e/T4 MZ"
 
-msgid "IDS_PRPT087_SOVREMENNY"
-msgstr "53-39 мод. 5"
+msgid "IDS_PGSS910"
+msgstr "U-2601"
 
-msgid "IDS_PRSB526"
-msgstr "Топ Сикрет"
+msgid "IDS_PGSS910_DESCR"
+msgstr "Подводные лодки, специально спроектированные для длительного нахождения под водой. Они оборудованы улучшенными аккумуляторными батареями и шнорхелем — устройством для подводного хода под дизелями. Эти подводные лодки также оснащены малошумными электродвигателями для незаметного приближения к цели."
 
-msgid "IDS_PRSB526_DESCR"
-msgstr ""
-"28 октября 1943 г. ВМС США провели в Филадельфии секретный эксперимент под кодовым названием «Проект „Радуга“», в ходе которого эсминец USS Eldridge переместился в пространстве на несколько десятков километров. Секретные службы пытаются заставить нас поверить, что история о Филадельфийском эксперименте — всего лишь мистификация, но мы знаем ПРАВДУ.\n"
-"\n"
-"В 1947 г., вскоре после инцидента в Розуэлле, правительство продолжило эксперименты. Мы обладаем многочисленными свидетельствами очевидцев (которых мы не будем раскрывать в целях их безопасности), что у побережья Филадельфии, в сухом озере Грум-Лейк, а также близ Бермудского треугольника был замечен линейный крейсер советского проекта, который якобы никогда не был построен.\n"
-"\n"
-"Мы можем предполагать, что правительство, используя технологии пришельцев в Зоне 51, смогло обнаружить нечто невообразимое... И скрывает от нас.\n"
-"\n"
-"Хотелось бы верить. Но верится с трудом."
+msgid "IDS_PGSS910_FULL"
+msgstr "U-2601"
 
-msgid "IDS_PRSB526_FULL"
-msgstr "Топ Сикрет"
+msgid "IDS_PGSS910_NUMBER"
+msgstr "267"
 
-msgid "IDS_PRSB526_NUMBER"
-msgstr "1"
+msgid "IDS_PGSS910_YEAR"
+msgstr "1944 г."
 
-msgid "IDS_PRSB526_YEAR"
-msgstr "???"
+msgid "IDS_PGUE920_ENG_SUBTEST"
+msgstr "ЭУ 5000 л.с."
 
-msgid "IDS_PRSC916"
-msgstr "Макаров У"
+msgid "IDS_PGUH920_HULL_SUBTEST"
+msgstr "U-2601"
 
-msgid "IDS_PRSC916_DESCR"
-msgstr "Копия корабля «Адмирал Макаров» для Учебных испытаний и Операций."
+msgid "IDS_PGUQ905_SONAR_SUBTEST"
+msgstr "Typ 10"
 
-msgid "IDS_PRSC916_FULL"
-msgstr "Макаров (учебный)"
+msgid "IDS_PGUT917_TORP_SUBTEST"
+msgstr "G7e/T4 и G7e/T4 MZ"
 
-msgid "IDS_PRSC916_NUMBER"
-msgstr "1"
+msgid "IDS_PHAD912_GOUDEN_LEEUW_AS"
+msgstr "Fokker T.V Test"
 
-msgid "IDS_PRSC916_YEAR"
-msgstr "1935 г."
+msgid "IDS_PHPB924_PUW_160KG_AS_HE"
+msgstr "P.u.W. 160 kg"
 
-msgid "IDS_PRSD218"
-msgstr "Опытный"
+msgid "IDS_PIES602_NANI_SUBMARINEDAY"
+msgstr "Гарибальдийские бригады"
 
-msgid "IDS_PRSD218_DESCR"
-msgstr ""
-"Ознакомившись с опытом немецких кораблестроителей, начальник ЦКБС-1 В. Бжезинский предложил построить корабль, на котором использовались бы котлы с повышенными параметрами пара, что значительно снижает вес котлотурбинной установки. Прямоточные котлы спроектировал профессор Л. Рамзин — давление пара в них должно было втрое превышать показатели котлов эсминцев проекта 7. За счёт снижения веса КТУ было решено усилить вооружение корабля, для чего были спроектированы спаренные артустановки Б-31. Эскизный проект получил индекс 45.\n"
-"\n"
-"Корабль строился на заводе им. Жданова в Ленинграде под именем «Серго Орджоникидзе», а в 1940 г. ещё не достроенный корабль переименовали в «Опытный». Артиллерийские установки Б-31 не вышли из стадии эскизного проектирования, и эсминец вооружили тремя установками Б-13. С началом войны корабль в срочном порядке ввели в строй и в сентябре 1941 г. зачислили в состав флота. В октябре корабль получил повреждения от вражеского огня и встал на ремонт. В 1942–44 гг. «Опытный» поддерживал огнём войска Ленинградского фронта."
+msgid "IDS_PINGER_SHADOW"
+msgstr "ПОЗИЦИЯ РАСКРЫТА"
 
-msgid "IDS_PRSD218_FULL"
-msgstr "Опытный"
+msgid "IDS_PJAD993_ASW_T10_SUBTEST"
+msgstr "Kawanishi H6K Test"
 
-msgid "IDS_PRSD218_NUMBER"
-msgstr "1"
+msgid "IDS_PJPD905_DEPTH_T10"
+msgstr "Type 1 No.25 Mk 2 model 1"
 
-msgid "IDS_PRSD218_YEAR"
-msgstr "1941 г."
+msgid "IDS_PRAD990_ASW_T10_SUBTEST"
+msgstr "Бериев Бе-6 Тест"
 
-msgid "IDS_PRSD306"
-msgstr "Сообразительный"
+msgid "IDS_PREFERENCES_OTHER_SECTION_HEADER_ADDITIONAL_CONTENT"
+msgstr "Имущество из событий"
 
-msgid "IDS_PRSD306_DESCR"
-msgstr ""
-"В процессе постройки эскадренных миноносцев проекта 7 перед руководством ВМС встал вопрос об уязвимости кораблей с линейным расположением котлотурбинной установки, которая могла выйти из строя из-за попадания единственного снаряда или торпеды. В 1938 г. специалистами ЦКБ-17 и Северной верфи им. Жданова был разработан улучшенный проект с индексом 7У: линейное расположение КТУ заменялось на эшелонное. В течение 1938–39 гг. корабли, строившиеся в Ленинграде и Николаеве, были перезаложены по новому проекту.\n"
-"\n"
-"Эсминец был заложен по проекту 7 в октябре 1936 г. на Судостроительном заводе № 200 имени 61 коммунара в Николаеве. В марте 1939 г. корабль был перезаложен по проекту 7У, получив имя «Сообразительный». В начале Великой Отечественной войны корабль участвовал в набеге на Констанцу, в обороне Одессы и в Керченско-Феодосийской десантной операции. В 1942 г. эсминец сражался при обороне Севастополя, а в 1943 г. участвовал в набеговых операциях. «Сообразительный» был удостоен звания гвардейского корабля, а после войны служил в составе Черноморского флота."
+msgid "IDS_PRES335_PYOTR_VELIKIY_ANIME_EVENT"
+msgstr "Страж Равновесия"
 
-msgid "IDS_PRSD306_FULL"
-msgstr "Сообразительный"
+msgid "IDS_PRES451_DOLGORUKIY_CEREMONIAL"
+msgstr "Парадный"
 
-msgid "IDS_PRSD306_NUMBER"
-msgstr "18"
+msgid "IDS_PRPD905_ASWBOMB_SUBTEST"
+msgstr "Глубинная бомба"
 
-msgid "IDS_PRSD306_YEAR"
-msgstr "1941 г."
+msgid "IDS_PRPD906_DEPTHBOMB_SUBTEST"
+msgstr "Глубинная бомба"
 
-msgid "IDS_PRSD317"
-msgstr "Осмотрительный"
+msgid "IDS_PRPT990_SUBTEST"
+msgstr "53-38У"
 
-msgid "IDS_PRSD317_DESCR"
-msgstr ""
-"В начале августа 1937 г. на совещании Комитета обороны было решено отказаться от дальнейшего строительства эсминцев проекта 7, а вместо них спроектировать новый эсминец с учётом опыта войны в Испании. Тактико-техническое задание на проект эсминца, получивший индекс 30, было утверждено в ноябре 1937 г. Разработка велась КБ завода № 190 в Ленинграде. Корабль должен был быть частично унифицирован с лидером проекта 48, в том числе в плане артиллерии (лидер нёс три спаренные установки, эсминец — две).\n"
-"\n"
-"«Осмотрительный» был заложен в Северодвинске 5 мая 1940 г., спущен на воду в августе 1944 г. Корабль вступил в строй 29 сентября 1947 г., войдя в состав Северного флота, в котором прослужил 11 лет."
+msgid "IDS_PRPT991_SUBTEST_MZ"
+msgstr "53-38У MZ"
 
-msgid "IDS_PRSD317_FULL"
-msgstr "Осмотрительный"
+msgid "IDS_PRSS910"
+msgstr "К-41"
 
-msgid "IDS_PRSD317_NUMBER"
-msgstr "10"
+msgid "IDS_PRSS910_DESCR"
+msgstr "Крупная подводная лодка, предназначенная как для совместных действий с надводными кораблями, так и для дальних одиночных рейдов. Вооружена десятью торпедными аппаратами и обладает сравнительно высокой надводной скоростью."
 
-msgid "IDS_PRSD317_YEAR"
-msgstr "1947 г."
+msgid "IDS_PRSS910_FULL"
+msgstr "К-41"
 
-msgid "IDS_PRSD318"
-msgstr "Смелый"
+msgid "IDS_PRSS910_NUMBER"
+msgstr "12"
 
-msgid "IDS_PRSD318_DESCR"
-msgstr ""
-"После окончания Второй мировой войны была принята новая программа военного кораблестроения. После ряда корректировок планов к постройке были заказаны эсминцы проекта 30-бис, являвшегося улучшенной вариацией проекта 30. От исходного проекта 30-бис отличался увеличенными размерами, улучшенной мореходностью и усиленной зенитной артиллерией. Насчитывая 70 эсминцев, проект 30-бис является самой крупной серией советских надводных боевых кораблей.\n"
-"\n"
-"«Смелый» был заложен в мае 1948 г. в Ленинграде, спущен на воду в сентябре того же года и в марте 1951 г. вступил в строй. В 1953–55 гг. годах корабль служил в составе 8-го флота, а после его расформирования — в Балтийском флоте. В феврале 1960 г. «Смелый» был переведён на Северный флот."
+msgid "IDS_PRSS910_YEAR"
+msgstr "1939 г."
 
-msgid "IDS_PRSD318_FULL"
-msgstr "Смелый"
+msgid "IDS_PRUA924_ART_SUBTEST"
+msgstr "100-мм/51 Б-24ПЛ обр. 1936 г."
 
-msgid "IDS_PRSD318_NUMBER"
-msgstr "70"
+msgid "IDS_PRUE926_ENG_SUBTEST"
+msgstr "ЭУ 8400 л.с."
 
-msgid "IDS_PRSD318_YEAR"
-msgstr "1951 г."
+msgid "IDS_PRUH926_HULL_SUBTEST"
+msgstr "К-41"
 
-msgid "IDS_PRSD319"
-msgstr "Спокойный"
+msgid "IDS_PRUT919_TORP_SUBTEST"
+msgstr "533-мм"
 
-msgid "IDS_PRSD319_DESCR"
-msgstr ""
-"В 1952 г. было решено отказаться от серийной постройки кораблей по проекту 41, а в качестве альтернативы был предложен проект модернизированного эсминца меньшего водоизмещения. В 1951–53 гг. был разработан эскизный проект, получивший индекс 56, отличавшийся от прототипа прежде всего формой корпуса и уменьшенным водоизмещением.\n"
-"\n"
-"«Спокойный» был заложен в марте 1953 г. на заводе им. Жданова в Ленинграде, спущен на воду в ноябре того же года и вступил в строй в июне 1956 г. После прохождения испытаний корабль был переведён в состав Северного флота. После ремонта 1964–66 гг. эсминец служил на Балтике, в 1970 г. принимал участие в крупных военных учениях «Океан-70». C 1978 г. служил в составе 7-й оперативной (Атлантической) эскадры ВМФ СССР."
+msgid "IDS_PURCHASE_COST_COLON"
+msgstr "Покупка:"
 
-msgid "IDS_PRSD319_FULL"
-msgstr "Спокойный"
+msgid "IDS_PURCHASE_SLOT"
+msgstr "Купить слот"
 
-msgid "IDS_PRSD319_NUMBER"
-msgstr "27"
+msgid "IDS_RESEARCH_COST_COLON"
+msgstr "Исследование:"
 
-msgid "IDS_PRSD319_YEAR"
-msgstr "1956 г."
-
-msgid "IDS_PRSD320"
-msgstr "Горделивый"
-
-msgid "IDS_PRSD320_DESCR"
-msgstr ""
-"Вступившие в строй в середине 1950-х гг. эскадренные миноносцы проекта 56, хоть и отличались хорошей мореходностью, были не вполне удовлетворительны по ходкости, а надстройки, выполненные из дюралюминия, страдали от вибрации и деформаций. Кроме того, проект 56 отличался плохими условиями обитаемости, а из-за стеснённости помещений он обладал низким модернизационным потенциалом.\n"
-"\n"
-"Самым рациональным путём устранения этих недостатков было проектирование нового эсминца в размерениях корабля проекта 41, но на новом техническом уровне и с применением новейших радиотехнических средств и вооружения. Это позволило бы сократить экипаж и повысить энергетическую эффективность корабля. Но к середине 1960-х гг. все передовые державы уже строили корабли с управляемым ракетным вооружением, и СССР не стал проектировать исключительно артиллерийский корабль, отдав предпочтение ракетному проекту 57-бис."
-
-msgid "IDS_PRSD320_FULL"
-msgstr "Горделивый"
-
-msgid "IDS_PRSD320_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSD320_YEAR"
-msgstr "1957 г."
-
-msgid "IDS_PRSD509"
-msgstr "Современный"
-
-msgid "IDS_PRSD509_DESCR"
-msgstr ""
-"Из восьми заложенных лидеров проекта 48 только два были спущены на воду. В 1944–50 гг. в ЦКБ-17 и в конструкторском бюро завода № 444 велись работы по эскизному проектированию корабля с индексом 48-К, но в 1950 г. Министерство судостроения СССР приняло решение отменить достройку лидеров и переоборудовать корпуса в корабли-мишени. К этому времени корабли уже классифицировались как эскадренные миноносцы, а не лидеры.\n"
-"\n"
-"Корпус «Еревана» был потоплен в 1957 г. на испытаниях ракеты КСЩ, но корпус «Киева» в начале 1960-х гг. перевели с Каспия, где он находился в качестве опытового судна, обратно в Николаев. По некоторым данным, рассматривались разные концепции достройки корабля: от эсминца с управляемым ракетным оружием до опытного носителя испытываемых систем вооружения. В случае достройки корпуса бывшего «Киева» как артиллерийского эсминца он мог бы получить современное вооружение из универсальных 100-мм артустановок, новейших РБУ и т. д."
-
-msgid "IDS_PRSD509_FULL"
-msgstr "Современный"
-
-msgid "IDS_PRSD509_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSD509_YEAR"
-msgstr "1962 г."
-
-msgid "IDS_PRUA500_ART_TOP_SECRET"
-msgstr "356-мм/52 обр. 1913 г. в башне Металлического з-да"
-
-msgid "IDS_PRUA507_D6_ART_STOCK"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-13-IIc"
-
-msgid "IDS_PRUA508_ART_MAKAROV_CHALLENGE"
-msgstr "150-мм/60 SK C/25 в установке Drh Tr C/28"
-
-msgid "IDS_PRUA605_D7_ART_STOCK"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-2ЛМ"
-
-msgid "IDS_PRUA715_D8_ART_STOCK"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-2ЛМ"
-
-msgid "IDS_PRUA716_D8_ART_STOCK"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-31"
-
-msgid "IDS_PRUA820_D9_ART_STOCK"
-msgstr "130-мм/58 обр. 1957 г. в установке СМ-2-1"
-
-msgid "IDS_PRUA824_ART_SOVREMENNY"
-msgstr "100-мм/70 в установке СМ-51"
-
-msgid "IDS_PRUA922_D10_ART_STOCK"
-msgstr "130-мм/58 обр. 1957 г. в установке СМ-61"
-
-msgid "IDS_PRUE500_ENG_TOP_SECRET"
-msgstr "ЭУ 75 000 л.с."
-
-msgid "IDS_PRUE507_D6_ENG_STOCK"
-msgstr "ЭУ 54 000 л.с."
-
-msgid "IDS_PRUE509_ENG_MAKAROV_CHALLENGE"
-msgstr "ЭУ 60 000 л.с."
-
-msgid "IDS_PRUE606_D7_ENG_STOCK"
-msgstr "ЭУ 60 810 л.с."
-
-msgid "IDS_PRUE723_D8_ENG_STOCK"
-msgstr "ЭУ 62 100 л.с."
-
-msgid "IDS_PRUE724_D8_ENG_STOCK"
-msgstr "ЭУ 70 000 л.с."
-
-msgid "IDS_PRUE820_D9_ENG_STOCK"
-msgstr "ЭУ 72 000 л.с."
-
-msgid "IDS_PRUE821_ENG_SOVREMENNY"
-msgstr "ЭУ 90 000 л.с."
-
-msgid "IDS_PRUE924_D10_ENG_STOCK"
-msgstr "ЭУ 76 000 л.с."
-
-msgid "IDS_PRUH516_HULL_TOP_SECRET"
-msgstr "Топ Сикрет"
-
-msgid "IDS_PRUH517_D6_HULL_STOCK"
-msgstr "Сообразительный"
-
-msgid "IDS_PRUH518_HULL_MAKAROV_CHALLENGE"
-msgstr "Адмирал Макаров"
-
-msgid "IDS_PRUH610_D7_HULL_STOCK"
-msgstr "Осмотрительный"
-
-msgid "IDS_PRUH731_D8_HULL_STOCK"
-msgstr "Смелый"
-
-msgid "IDS_PRUH732_D8_HULL_STOCK"
-msgstr "Опытный"
-
-msgid "IDS_PRUH828_D9_HULL_STOCK"
-msgstr "Спокойный"
-
-msgid "IDS_PRUH829_HULL_SOVREMENNY"
-msgstr "Современный"
-
-msgid "IDS_PRUH924_D10_HULL_STOCK"
-msgstr "Горделивый"
-
-msgid "IDS_PRUS508_SUO_TOP_SECRET"
-msgstr "СУО VI"
-
-msgid "IDS_PRUS509_D6_SUO_STOCK"
-msgstr "СУО VI"
-
-msgid "IDS_PRUS510_SUO_MAKAROV_CHALLENGE"
-msgstr "СУО VI мод. 1"
-
-msgid "IDS_PRUS608_D7_SUO_STOCK"
-msgstr "СУО VII"
-
-msgid "IDS_PRUS710_D8_SUO_STOCK"
-msgstr "СУО VIII"
-
-msgid "IDS_PRUS724_D8_SUO_STOCK"
-msgstr "СУО VIII"
-
-msgid "IDS_PRUS827_D9_SUO_STOCK"
-msgstr "СУО IX"
-
-msgid "IDS_PRUS828_SUO_SOVREMENNY"
-msgstr "СУО IX"
-
-msgid "IDS_PRUS920_D10_SUO_STOCK"
-msgstr "СУО X"
-
-msgid "IDS_PRUT504_D6_TORP_STOCK"
-msgstr "53-39"
-
-msgid "IDS_PRUT505_TORP_MAKAROV_CHALLENGE"
-msgstr "G7a T1"
-
-msgid "IDS_PRUT606_D7_TORP_STOCK"
-msgstr "53-39 мод. 4"
-
-msgid "IDS_PRUT713_D8_TORP_STOCK"
-msgstr "53-51"
-
-msgid "IDS_PRUT714_D8_TORP_STOCK"
-msgstr "53-38"
-
-msgid "IDS_PRUT814_TORP_SOVREMENNY"
-msgstr "53-51"
-
-msgid "IDS_PRUT815_D9_TORP_STOCK"
-msgstr "53-51"
-
-msgid "IDS_PRUT918_D10_TORP_STOCK"
-msgstr "53-51"
-
-msgid "IDS_PSGA062_40MM_BOFORS_MARK_IV_HAZEMEYER"
-msgstr "40-мм/56 OQF Mk.1/2 в установке Mk.IV"
-
-msgid "IDS_PSGA063_20MM_OERLIKON_MK4"
-msgstr "20-мм Oerlikon Mk.I в установке Mk.IIA"
-
-msgid "IDS_PSGA065_2_PDR_MKVII_QUAD"
-msgstr "40-мм/39 Vickers QF Mk.VIII в установке Mk.VII"
-
-msgid "IDS_PSGA066_20MM_OERLIKON_MK_V"
-msgstr "20-мм Oerlikon Mk.II в установке Mk.V"
-
-msgid "IDS_PSGM061_12IN50_MK_XV"
-msgstr "305-мм/50 VSM Mark H в башенной установке"
-
-msgid "IDS_PSGS064_114MM_45_MKIII"
-msgstr "113-мм/45 QF Mk.I/III в установке RP10 Mark II BD"
-
-msgid "IDS_PSPA031_305MM_HE_MADRID"
-msgstr "305-мм HE Mk IIb"
-
-msgid "IDS_PSPA032_305MM_AP_MADRID"
-msgstr "305-мм AP Mk VIb"
-
-msgid "IDS_PSPA033_114MM_MII_HE"
-msgstr "113-мм HE 5crh"
-
-msgid "IDS_PSPT009_MADRID"
-msgstr "533-мм Mk VIII ES"
-
-msgid "IDS_PSSC510"
-msgstr "Madrid"
-
-msgid "IDS_PSSC510_DESCR"
-msgstr ""
-"После гражданской войны испанские кораблестроители, в частности верфь "
-"в Ферроле, занимались разработкой новых кораблей. В 1938 г. было проработано"
-" пять проектов эсминцев и несколько проектов крейсеров водоизмещением "
-"от 7 920 до 19 000 т. Крупнейшим из них был проект 138, причём у него было "
-"несколько вариантов, которые различались главным калибром орудий. Одним "
-"из основных был вариант постройки крейсера с двухорудийными башнями "
-"от линкора España, погибшего у берегов Сантандера во время гражданской "
-"войны. Линкор был поднят — корпус восстановлению не подлежал, но его 305-мм "
-"орудия планировалось использовать либо в целях береговой обороны, либо "
-"для постройки новых крейсеров."
-
-msgid "IDS_PSSC510_FULL"
-msgstr "Madrid"
-
-msgid "IDS_PSSC510_NUMBER"
-msgstr "1"
-
-msgid "IDS_PSSC510_YEAR"
-msgstr "1938 г."
-
-msgid "IDS_PSUA904_ART_MADRID"
-msgstr "305-мм/50 VSM Mark H в башенной установке"
-
-msgid "IDS_PSUE904_ENG_MADRID"
-msgstr "ЭУ 135 560 л.с."
-
-msgid "IDS_PSUH904_HULL_MADRID"
-msgstr "Madrid"
-
-msgid "IDS_PSUS904_SUO_MADRID"
-msgstr "SCI Mk X"
-
-msgid "IDS_PSUT903_TORP_MADRID"
-msgstr "533-мм Vierling"
-
-msgid "IDS_PZES301_HANOI_EA"
-msgstr "Пламенный воин"
-
-msgid "IDS_PZES302_DONGFENG_EA"
-msgstr "Пламенный воин"
-
-msgid "IDS_PZES303_TIANGONG_EA"
-msgstr "Пламенный воин"
-
-msgid "IDS_PZES411_HENGSHUI_LNY"
-msgstr "Пробуждение Востока"
-
-msgid "IDS_RESET_CREW_FILTERS_BUTTON_LABEL"
-msgstr "Сбросить фильтры"
-
-msgid "IDS_REST_REWARDS_HINT"
-msgstr "И ещё %(_count)s"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL"
 msgstr "Корабль"
 
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE"
-msgstr "Премиум контейнер Błyskawica '63"
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль VIII уровня"
 
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE_SHORT"
-msgstr "Błyskawica '63"
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VIII уровень"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Giacomo Nani"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_TITLE_FULL"
-msgstr " "
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "G. Nani"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_COMMON_GROUP_TITLE_FULL"
-msgstr " "
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE"
+msgstr "Премиум контейнер Giacomo Nani"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_TITLE_FULL"
-msgstr " "
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE_SHORT"
+msgstr "Giacomo Nani"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE"
-msgstr "Контейнер Utopia Show"
+msgid "IDS_RIBBON_SSE_BUILDING_KILL"
+msgstr "Уничтожил береговое сооружение"
 
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE_SHORT"
-msgstr "Utopia Show"
+msgid "IDS_SCENARIO_SUBS_IMPROVE_EVENT"
+msgstr "Подводный рубеж"
 
-msgid "IDS_SCENARIO_PCVT001_DAMAGE_PRIME"
-msgstr "Огневая мощь"
+msgid "IDS_SECOND_SPACE_MUSEUM_NAME"
+msgstr "Спутники и станции. Часть 2"
 
-msgid "IDS_SCENARIO_PCVT002_CITADEL_PRIME"
-msgstr "Меткость стрельбы"
+msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_QUESTION"
+msgstr "Заменить испытание за"
 
-msgid "IDS_SCENARIO_PCVT003_FRAGS_PRIME"
-msgstr "Ликвидация целей"
+msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_TITLE"
+msgstr "Замена испытания"
 
-msgid "IDS_SCENARIO_TRIALS_TEST"
-msgstr "Наладочный сценарий"
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON_ALL"
+msgstr "Сбросить все"
 
-msgid "IDS_SECOND_UTOPIA_NAME"
-msgstr "Доска расследований № 2"
+msgid "IDS_SHIP_MASTERY_TASKS_IN_PROGRESS"
+msgstr "Взяты испытания"
 
-msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TRIAL"
+msgid "IDS_SHIP_MASTERY_TRIALS_CONDITION"
+msgstr "В течение одного боя"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_AIR_SUPPORT_RELOAD_FACTOR"
+msgstr "Ослабление авиаудара (ГБ)"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_HYDROPHONE"
+msgstr "Показывает рельеф, а также позиции кораблей и подводных лодок. Работает на перископной и рабочей глубинах. Не видит подводные лодки, находящиеся на предельной глубине."
+
+msgid "IDS_SHIP_PARAM_HEADER_ACTIVE_EFFECT_HYDROPHONE"
+msgstr "Шумопеленгация"
+
+msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_IN_HYDROPHONE_RANGE"
+msgstr "Шумопеленгация"
+
+msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_IN_HYDROPHONE_FAR_RANGE"
+msgstr "Корабль находится в радиусе действия шумопеленгации подводной лодки. Позиция вашего корабля может быть раскрыта."
+
+msgid "IDS_SHIP_PARAM_TORPEDO_DRUM_SHOT_DELAY"
+msgstr "Время перезарядки одной торпеды"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE_TOOLTIP_DESCRIPTION"
+msgstr "Расстояние, на котором корабль может быть обнаружен самолётом."
+
+msgid "IDS_SHOW_ADDITION_CONTENT"
+msgstr "Камуфляжи и командиры в неисторической стилистике"
+
+msgid "IDS_SHOW_ADDITION_CONTENT_DESCRIPTION"
+msgstr "Уникальный внешний вид имущества из игровых событий в бою и в Порту. Отключите, чтобы внешний вид всех камуфляжей и командиров соответствовал исторической эпохе игры."
+
+msgid "IDS_SHOW_ADDITION_CONTENT_STATUS"
+msgstr "Если вы находитесь в бою, изменение этого параметра вступит в силу после боя"
+
+msgid "IDS_SLAVIC_GIRL"
+msgstr "Катя StormyGirl"
+
+msgid "IDS_SOUND_MOD_ANIME_MAGA_LANA_ANIME"
+msgstr "Лана"
+
+msgid "IDS_SOUND_MOD_ANIME_MAGA_LEILA_ANIME"
+msgstr "Айла"
+
+msgid "IDS_SOUND_MOD_ASTRONAUT_ARTEMIEV"
+msgstr "Олег Артемьев"
+
+msgid "IDS_SOUND_MOD_SLAVIC_GIRL"
+msgstr "Катя StormyGirl"
+
+msgid "IDS_SPACES/57_AOTS"
+msgstr "Последняя гавань"
+
+msgid "IDS_SPACES/57_AOTS_DESCR"
+msgstr "Последняя гавань"
+
+msgid "IDS_SUBS_IMPROVE_EVENT"
+msgstr "Подводный рубеж"
+
+msgid "IDS_SYS_MSG_MASTERY_TASK_REPLACED"
+msgstr "Испытание мастерства заменено"
+
+msgid "IDS_THIRD_SPACE_MUSEUM_NAME"
+msgstr "Ракеты"
+
+msgid "IDS_TIPS_ANTI_SUB_IMPROVE_AIRCRAFT_DESCRIPTION"
 msgstr ""
-"Выберите один из кораблей, допущенных для участия в Учебных испытаниях."
+"Вооружение доступно по клавише [CMD_AMMO_SLOT_4].\n"
+"\n"
+"Совершает бомбардировку отмеченной области глубинными бомбами.\n"
+"\n"
+"Поражают подводные лодки противника и уничтожают торпеды. Наносят небольшой урон надводным кораблям и подводным лодкам в надводном положении."
 
-msgid "IDS_SHIP_ACES_NATION_TITLE"
-msgstr "Личные испытания: нации"
-
-msgid "IDS_SHIP_ACES_SHIP_TYPE_TITLE"
-msgstr "Личные испытания: классы"
-
-msgid "IDS_SHIP_FEATURES_PVE_SHIP"
-msgstr "Ограничения по типу боя"
-
-msgid "IDS_SHIP_FEATURES_PVE_SHIP_DESCRIPTION"
+msgid "IDS_TIPS_DEPTH_CHARGES_SUB_IMPROVE_DESCRIPTION"
 msgstr ""
-"Вы можете выбрать этот корабль только для участия в Операциях и Учебных "
-"испытаниях."
+"Нажмите [CMD_AMMO_SLOT_G], чтобы сбросить глубинные бомбы.\n"
+"\n"
+"Поражают подводные лодки противника и уничтожают торпеды. Наносят небольшой урон надводным кораблям и подводным лодкам в надводном положении."
 
-msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
+msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION_IMPROVE_SUBMARINE"
 msgstr ""
-"Боевые характеристики кораблей изменены. Набор изменений зависит от класса "
-"корабля."
+"Корабли противника оснащены средствами для борьбы с подводными лодками — глубинными бомбами.\n"
+"\n"
+"Подводные лодки получают уменьшенный урон от глубинных бомб, когда находятся в надводном положении или на предельной глубине."
 
-msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_WEAPON_DAMAGE_H2023"
+msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT"
+msgstr "Обнаружение подводных лодок"
+
+msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT_DESCRIPTION"
 msgstr ""
-"Уменьшает получаемый урон и увеличивает урон, который вы наносите "
-"противникам. Показатель увеличивается за каждого уничтоженного союзника."
+"Подводную лодку, находящуюся на рабочей глубине, можно обнаружить с помощью снаряжения «Гидроакустический поиск» и «Гидроакустический поиск ближнего действия».\n"
+"\n"
+"Если подводная лодка погрузилась на предельную глубину, её невозможно обнаружить."
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ACCURACY"
-msgstr "Уменьшение точности"
+msgid "IDS_TTX_ELITE_CREW_CAN_GET_TALENT"
+msgstr "Можно получить талант"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_CONSUMABLES"
-msgstr "Ослабление характеристик снаряжения"
+msgid "IDS_TTX_ELITE_CREW_CAN_UPGRADE_SKILL"
+msgstr "Можно улучшить навык"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_DAMAGE_RESIST"
-msgstr "Уменьшение живучести"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ENGINE"
-msgstr "Ослабление манёвренности"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_HEALTH_REGENERATION"
-msgstr "Замедленное восстановление боеспособности"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_WEAPONS_RELOAD_FACTOR"
-msgstr "Замедление перезарядки"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INTANIA_MAGIC"
-msgstr "Магия Интании"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_RUSY_VS_LIZARDS"
-msgstr "Удаль молодецкая"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_WEAPON_DAMAGE_H2023"
-msgstr "Воля павших"
-
-msgid "IDS_SOUND_MOD_EVAVALENTINE"
-msgstr "Eva Valentine"
-
-msgid "IDS_SOUND_MOD_UTOPIASHOW_CONSPIROLOGIST"
-msgstr "Дункан Ч."
-
-msgid "IDS_SOUND_MOD_UTOPIASHOW_GNIDOVSKY"
-msgstr "Руперт Г."
-
-msgid "IDS_SOUND_MOD_UTOPIASHOW_HRENSBERG"
-msgstr "Дик Х."
-
-msgid "IDS_SPACES/E13_TRIALS_MAPPRIME"
-msgstr "Испытательная база"
-
-msgid "IDS_SPACES/E13_TRIALS_MAPPRIME_DESCR"
-msgstr "Испытательная база"
-
-msgid "IDS_START_BATTLE_DENY_PVE_ONLY"
-msgstr ""
-"Выбранный корабль может участвовать только в Учебных испытаниях и Операциях."
-
-msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_EPIC_SKILL_FOR_SLOT"
-msgstr ""
-"Вы сможете улучшить этот навык, когда у вас будет командир с таким "
-"улучшенным навыком"
-
-msgid "IDS_SUBMARINE_PL_GENITIVE"
-msgstr "подводных лодок"
-
-msgid "IDS_SYS_MSG_HINT_LEFT_CLICK_FOR_CREW_INFO_TRANSITION"
-msgstr "Открыть личное дело"
-
-msgid "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
-msgid_plural "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
-msgstr[0] "В резерве осталось %(count)d место"
-
-msgid "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
-msgid_plural "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
-msgstr[0] "В резерве осталось %(count)d место"
-
-msgid "IDS_TAB_HINT_CREW_RESERVE_NO_SPACE_LEFT"
-msgstr "В резерве не осталось мест. Демобилизуйте лишних командиров."
-
-msgid "IDS_THIRD_UTOPIA_NAME"
-msgstr "Доска расследований № 3"
-
-msgid "IDS_THIS_SHIP_IS_NOT_ALLOWED_FOR_TRIAL"
-msgstr "Выбранный корабль не может участвовать в Учебных испытаниях."
-
-msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TRIAL"
-msgstr ""
-"Выбранный корабль не подходит по уровню для участия в Учебных испытаниях."
-
-msgid "IDS_TOOLTIP_CREW_FILTERS"
-msgstr "Открыть панель фильтров командиров"
-
-msgid "IDS_TRIAL"
-msgstr "Учебные испытания"
-
-msgid "IDS_TRIALBATTLE"
-msgstr "Учебные испытания"
-
-msgid "IDS_TRIALS_BRIEFING_COMMON"
-msgstr "Брифинг"
-
-msgid "IDS_TRIALS_MULTIPLIERS_LEGEND"
-msgstr "Условные обозначения"
-
-msgid "IDS_TRIALS_OBJECTIVE_COMMON"
-msgstr "Задача"
-
-msgid "IDS_TRIAL_BONUS_POINTS_ACCUMULATING"
-msgstr "БОНУСНЫЕ ОЧКИ!"
-
-msgid "IDS_TRIAL_CITADELS"
-msgstr "МЕТКОСТЬ СТРЕЛЬБЫ"
-
-msgid "IDS_TRIAL_CITADELS_DESCRIPTION"
-msgstr "Попадайте в цитадели"
-
-msgid "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
-msgstr[0] "Попадите в цитадель кораблей противника %(_targetScores)s раз"
-
-msgid "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
-msgstr[0] "Попадите в цитадель кораблей противника %(_targetScores)s раз"
-
-msgid "IDS_TRIAL_CIT_PRIME_AIM_CENTER_BOARD"
-msgstr ""
-"Чтобы попадать в цитадель корабля, цельтесь в центральную часть борта "
-"в области ватерлинии"
-
-msgid "IDS_TRIAL_CIT_PRIME_CHANGE_AMMO"
-msgstr "Выберите бронебойные снаряды, чтобы поражать цитадели"
-
-msgid "IDS_TRIAL_CIT_PRIME_RICOCHET"
-msgstr ""
-"Чтобы избежать сквозных пробитий и рикошетов, цельтесь в центральную часть "
-"борта в области ватерлинии"
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_1"
-msgstr ""
-"Поразите как можно больше цитаделей, чтобы пройти этап. Цитадель отмечена "
-"на корпусах кораблей чёрным цветом."
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_2"
-msgstr ""
-"Противник маневрирует — дождитесь, когда он развернётся к вам бортом, чтобы "
-"поразить цитадель"
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_3"
-msgstr "Стреляйте в корабли с отметками [st_x5], чтобы получить больше очков"
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_4"
-msgstr ""
-"Успейте поразить цитадель корабля с отметкой [st_x5] до того, как его "
-"уничтожат союзники"
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_5"
-msgstr ""
-"Защищайте точку! Если точку [sm_moveto] захватит противник, модификатор "
-"очков уменьшится до [st_x2]. Если союзник — увеличится до [st_x5]!"
-
-msgid "IDS_TRIAL_DAMAGE"
-msgstr "ОГНЕВАЯ МОЩЬ"
-
-msgid "IDS_TRIAL_DAMAGE_DESCRIPTION"
-msgstr "Наносите урон"
-
-msgid "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
-msgstr[0] "Нанесите %(_targetScores)s ед. урона кораблям противника"
-
-msgid "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
-msgstr[0] "Нанесите %(_targetScores)s ед. урона кораблям противника"
-
-msgid "IDS_TRIAL_DESCRIPTION"
-msgstr "Испытания, в которых вы можете оттачивать свои боевые навыки."
-
-msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_BS_SPAWN"
-msgstr ""
-"Поджигайте [e1] линкоры осколочно-фугасными снарядами. Каждое возгорание "
-"будет наносить урон продолжительное время."
-
-msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_CR_SPAWN"
-msgstr ""
-"Борт [e2] крейсера — идеальная цель для бронебойных снарядов. Для "
-"максимального урона стреляйте в область ватерлинии."
-
-msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_DD_SPAWN"
-msgstr "Для борьбы с [e3] эсминцами используйте осколочно-фугасные снаряды! "
-
-msgid "IDS_TRIAL_DMG_PRIME_HINT_AP_MODIFICATOR"
-msgstr ""
-"Наносите урон кораблям с отметкой [st_attack] бронебойными снарядами, чтобы "
-"получить вдвое больше очков!"
-
-msgid "IDS_TRIAL_DMG_PRIME_HINT_HE_MODIFICATOR"
-msgstr ""
-"Наносите урон кораблям с отметкой [st_attack] осколочно-фугасными снарядами,"
-" чтобы получить вдвое больше очков!"
-
-msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE"
-msgstr "Теперь заметность кораблей противника такая же, как в настоящем бою!"
-
-msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE_HINT"
-msgstr ""
-"У каждого корабля есть параметр заметности — расстояние, в пределах которого"
-" его всегда видно. Если он перестанет стрелять, находясь от вас дальше, он "
-"пропадёт из виду."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE2_ANNONCEMENT"
-msgstr ""
-"Стреляйте по легкобронированным крейсерам. Обратите внимание: цели "
-"маневрируют!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT"
-msgstr ""
-"При стрельбе бронебойными снарядами выбирайте цели, расположенные к вам "
-"бортом. Пользуйтесь мини-картой!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT2"
-msgstr ""
-"Если корабль противника расположен к вам под углом, стреляйте осколочно-"
-"фугасными или полубронебойными снарядами!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE3_ANNONCEMENT"
-msgstr ""
-"Стреляйте по кораблям с отметками! Используйте указанный тип снарядов, чтобы"
-" получить больше очков."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE4_ANNONCEMENT"
-msgstr "Если корабль перестанет стрелять, он может пропасть из виду"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE5_ANNONCEMENT"
-msgstr "Эффективно используйте полученные знания!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE5_RULES_1"
-msgstr ""
-"Уничтожайте корабли, чтобы получать больше очков за урон другим целям. "
-"Каждый уничтоженный корабль увеличивает модификатор."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE6_ANNONCEMENT"
-msgstr "Перезарядка всего вооружения вашего корабля ускорена!"
-
-msgid "IDS_TRIAL_FRAGS"
-msgstr "ЛИКВИДАЦИЯ ЦЕЛЕЙ"
-
-msgid "IDS_TRIAL_FRAGS_DESCRIPTION"
-msgstr "Уничтожайте корабли"
-
-msgid "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
-msgstr[0] "Уничтожьте %(_targetScores)s корабль противника"
-
-msgid "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
-msgstr[0] "Уничтожьте %(_targetScores)s корабль противника"
-
-msgid "IDS_TRIAL_FRAG_PRIME_PHASE1_ANNONCEMENT"
-msgstr "В этом этапе вам нужно действовать совместно с союзниками"
-
-msgid "IDS_TRIAL_FRAG_PRIME_PHASE2_ANNONCEMENT"
-msgstr "Уничтожайте корабли до того, как они успеют выстрелить!"
-
-msgid "IDS_TRIAL_FRAG_PRIME_PHASE3A_ANNONCEMENT"
-msgstr "Стреляйте в корабли и уничтожайте их, даже если они пропали из виду!"
-
-msgid "IDS_TRIAL_FRAG_PRIME_SPEECH_009"
-msgstr ""
-"Наведите прицел на корабль противника и нажмите [KEY_F3], чтобы союзники "
-"сфокусировали огонь на этом корабле"
-
-msgid "IDS_TRIAL_HUB_TRIAL_END"
-msgstr "Испытание завершено"
-
-msgid "IDS_TRIAL_HUB_TRIAL_FAILURE"
-msgstr "Испытание не выполнено"
-
-msgid "IDS_TRIAL_HUB_TRIAL_SUCCESS"
-msgstr "Испытание выполнено!"
-
-msgid "IDS_TRIAL_PRIME_SPEECH_012"
-msgstr ""
-"Используйте весь полученный опыт, чтобы уничтожить как можно больше "
-"кораблей!"
-
-msgid "IDS_TRIAL_ROUNDS_COUNTER"
-msgstr "ЭТАП %(_trialRound)s / %(_trialRoundsCount)s"
-
-msgid "IDS_TRIAL_ROUND_IS_OVER"
-msgstr "ЭТАП ЗАВЕРШЁН"
-
-msgid "IDS_TRIAL_ROUND_NUMBER_ENDED"
-msgstr "%(_round)s-Й ЭТАП ЗАВЕРШЁН"
-
-msgid "IDS_TRIAL_TASK_PASSED"
-msgstr "ЗАДАЧА ВЫПОЛНЕНА"
-
-msgid "IDS_UNABLE_HIRE_CREW_NO_PLACE_IN_BARRACKS_TOOLTIP"
-msgstr "Нет места в резерве. Нанять нового командира невозможно."
-
-msgid "IDS_UNLOCKS_2015"
-msgstr "Изменяйте внешний вид кораблей с помощью камуфляжей и флагов."
-
-msgid "IDS_UNLOCKS_3"
-msgstr "Сражайтесь против реальных игроков."
-
-msgid "IDS_UNLOCKS_3124"
-msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_2015_0"
-msgstr "Камуфляжи и флаги позволяют изменять внешний вид ваших кораблей."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_2015_1"
-msgstr ""
-"Установленный на корабль расходуемый камуфляж списывается за проведённый "
-"бой. Постоянные камуфляжи не расходуются и не требуют пополнения."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_2015_2"
-msgstr ""
-"Камуфляжи можно получить, участвуя в различных событиях, а также купить "
-"за кредиты или дублоны."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
-msgstr ""
-"В Операциях вашей команде необходимо выполнять различные задания, сражаясь "
-"с ботами. Каждая Операция обладает уникальными сюжетными элементами."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
-msgstr ""
-"Достигните основной цели, чтобы одержать победу. Выполнение дополнительных "
-"задач увеличит количество заработанных за бой ресурсов."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
-msgstr ""
-"Сложность Операции зависит от уровней и классов кораблей в вашей команде."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
-msgstr ""
-"Сражайтесь против реальных игроков. Составы команд подбираются случайным "
-"образом."
-
-msgid "IDS_UNLOCKS_LEVEL_UP_2015"
-msgstr ""
-"<body>Вам стало доступно\n"
-"<h3>Изменение внешнего вида корабля</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_3"
-msgstr ""
-"<body>Вам стали доступны\n"
-"<h3>Случайные бои</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_3124"
-msgstr ""
-"<body>Вам стали доступны\n"
-"<h3>Операции</h3></body>"
-
-msgid "IDS_UNLOCKS_LOCATION_2015"
-msgstr "Доступно во вкладке «Внешний вид»."
-
-msgid "IDS_UNLOCKS_LOCATION_3"
-msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
-
-msgid "IDS_UNLOCKS_LOCATION_3124"
-msgstr "Доступно на экране выбора типа боя."
-
-msgid "IDS_UNLOCKS_TITLE_2015"
-msgstr "Внешний вид"
-
-msgid "IDS_UNLOCKS_TITLE_3"
-msgstr "Случайные бои"
-
-msgid "IDS_UNLOCKS_TITLE_3124"
-msgstr "Операции"
+msgid "IDS_U_2501_SUBTEST"
+msgstr "Simon Fischer"

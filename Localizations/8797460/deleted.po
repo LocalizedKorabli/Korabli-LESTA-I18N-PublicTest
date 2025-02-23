@@ -1,0 +1,647 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACTION_LOG_ALL_AIR_DEFENSE_DESTRUCTED"
+msgstr "Все орудия ПВО уничтожены."
+
+msgid "IDS_ACTION_LOG_ALL_AIR_DESTRUCTED"
+msgstr "Все орудия ПВО уничтожены."
+
+msgid "IDS_ACTION_LOG_ALL_ATBA_DESTRUCTED"
+msgstr "Вспомогательный калибр полностью уничтожен."
+
+msgid "IDS_ACTION_LOG_ALL_ATBA_GUN_DESTRUCTED"
+msgstr "Вспомогательный калибр полностью уничтожен."
+
+msgid "IDS_ACTION_LOG_ALL_MAIN_CALIBER_DESTRUCTED"
+msgstr "Главный калибр полностью уничтожен."
+
+msgid "IDS_ACTION_LOG_ALL_TORPEDO_DESTRUCTED"
+msgstr "Все торпедные аппараты уничтожены."
+
+msgid "IDS_ACTION_LOG_ALL_TORPEDO_TUBE_DESTRUCTED"
+msgstr "Все торпедные аппараты уничтожены."
+
+msgid "IDS_ACTION_LOG_ARTILLERY_GUN_DESTRUCTED"
+msgstr "Башня ГК уничтожена."
+
+msgid "IDS_ACTION_LOG_ATBA_GUN_DESTRUCTED"
+msgstr "Вспомогательный калибр уничтожен."
+
+msgid "IDS_ACTION_LOG_FAR_AURA_DESTRUCTED"
+msgstr "Орудия ПВО крупного калибра уничтожены."
+
+msgid "IDS_ACTION_LOG_MID_AURA_DESTRUCTED"
+msgstr "Орудия ПВО среднего калибра уничтожены."
+
+msgid "IDS_ACTION_LOG_NEAR_AURA_DESTRUCTED"
+msgstr "Орудия ПВО малого калибра уничтожены."
+
+msgid "IDS_ACTION_LOG_PORT_ATBA_DESTRUCTED"
+msgstr "Орудия вспомогательного калибра левого борта уничтожены."
+
+msgid "IDS_ACTION_LOG_PORT_ATBA_GUN_DESTRUCTED"
+msgstr "Орудия вспомогательного калибра левого борта уничтожены."
+
+msgid "IDS_ACTION_LOG_STAR_ATBA_DESTRUCTED"
+msgstr "Орудия вспомогательного калибра правого борта уничтожены."
+
+msgid "IDS_ACTION_LOG_STAR_ATBA_GUN_DESTRUCTED"
+msgstr "Орудия вспомогательного калибра правого борта уничтожены."
+
+msgid "IDS_ACTION_LOG_TORPEDO_TUBE_DESTRUCTED"
+msgstr "Торпедный аппарат уничтожен."
+
+msgid "IDS_ASSIGN_CREW_DENY_REASON_CREW_DEMOBILIZATION"
+msgstr "Отмените демобилизацию для назначения командира на корабль."
+
+msgid "IDS_ASSIGN_CREW_FULL_BARRACKS"
+msgstr "В Резерве нет свободных мест."
+
+msgid "IDS_BARRACKS_LIST_TITLE"
+msgstr "Резерв"
+
+msgid "IDS_CANCEL_DEMOBILIZATION"
+msgstr "Отменить демобилизацию"
+
+msgid "IDS_CREW_BASKET_DESCRIPTION"
+msgid_plural "IDS_CREW_BASKET_DESCRIPTION"
+msgstr[0] ""
+"Демобилизацию можно отменить в течение %(minutes)s минуты.\n"
+"Отмена демобилизации происходит в списке командиров в Резерве."
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_ECONOMIC_BOOSTS_TTX_INSTALL_BTN"
+msgstr "Установить"
+
+msgid "IDS_EVENT_SMF_EQUIPMENT_REVERSAL"
+msgstr "Доступно снаряжение «Разворот»"
+
+msgid "IDS_EVENT_SMF_FORSAGE_HIGH"
+msgstr "«Форсаж» с большим временем действия"
+
+msgid "IDS_EVENT_SMF_FORSAGE_LOW"
+msgstr "«Форсаж» с малым временем действия"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_FAST_RELOAD"
+msgstr "Быстрая перезарядка волномёта"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_NARROW_AND_FAST"
+msgstr "Волномёт пускает узкие и быстрые волны"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_SLOW_RELOAD"
+msgstr "Медленная перезарядка волномёта"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_WIDE_AND_SLOW"
+msgstr "Волномёт пускает широкие и медленные волны"
+
+msgid "IDS_EXPAND_BARRACKS"
+msgstr "Расширить Резерв"
+
+msgid "IDS_FAST_TRAINING_CREW_AVAILABLE"
+msgstr "Ускорить обучение"
+
+msgid "IDS_HALLOWEEN_BUFF_ACTIVE_IN_BATTLE"
+msgstr "Активируется в бою"
+
+msgid "IDS_HINT_CREWEXP_TO_ADAPTATION"
+msgstr "Опыт командиров, необходимый для завершения переподготовки"
+
+msgid "IDS_HINT_CREWEXP_TO_NEXT_SKILLPOINT"
+msgstr "Опыт до получения очка навыков"
+
+msgid "IDS_HINT_CREW_FROM_BARACKS"
+msgstr "Назначить командира из Резерва"
+
+msgid "IDS_HINT_LEFT_CLICK_FOR_CREW_PROFILE"
+msgstr "Посмотреть навыки командира для всех классов кораблей"
+
+msgid "IDS_MARK_ATTACK"
+msgstr "АТАКУЙТЕ"
+
+msgid "IDS_MARK_DEFEND"
+msgstr "ЗАЩИЩАЙТЕ"
+
+msgid "IDS_MARK_ESCORT"
+msgstr "СОПРОВОЖДАЙТЕ"
+
+msgid "IDS_MARK_KEY_TARGET"
+msgstr "АТАКУЙТЕ"
+
+msgid "IDS_MARK_KEY_TARGET_ALLY"
+msgstr "ЗАЩИЩАЙТЕ"
+
+msgid "IDS_MARK_KEY_TARGET_DIVISION"
+msgstr "ЗАЩИЩАЙТЕ"
+
+msgid "IDS_MARK_REPAIR"
+msgstr "РЕМОНТ"
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE"
+msgstr "Расходуемые бонусы"
+
+msgid "IDS_MODULE_IS_DESTROYED"
+msgstr "Модуль уничтожен"
+
+msgid "IDS_NEW_CREW_LIST_TITLE"
+msgstr "Новый командир"
+
+msgid "IDS_NO_CREW_IN_BARRACKS_LIST"
+msgstr "Нет подходящих командиров в Резерве"
+
+msgid "IDS_PRMP_ITEM_BARCAPACITY"
+msgstr "Место в Резерве"
+
+msgid "IDS_QUESTION_CONFIRM_DISASSIGN_CREW"
+msgstr "Отправить командира в Резерв?"
+
+msgid "IDS_QUESTION_EXPAND_BARRACKS_FOR"
+msgid_plural "IDS_QUESTION_EXPAND_BARRACKS_FOR"
+msgstr[0] "Добавить %s место в Резерв за"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_REASSIGN_CREW_BUTTON"
+msgstr "ЗАМЕНИТЬ КОМАНДИРА"
+
+msgid "IDS_REGULAR_FREE_PLACES_IN_BARRACKS"
+msgstr "Свободных мест в Резерве: %(_freePlaces)s"
+
+msgid "IDS_RETURN_CREW_TO_BARRACKS"
+msgstr "Вернуть командира в Резерв"
+
+msgid "IDS_REWARDS_PL_BARCAPACITY_TITLE"
+msgid_plural "IDS_REWARDS_PL_BARCAPACITY_TITLE"
+msgstr[0] "%(_amount)s место в резерве"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_REWARD_BARCAPACITY_TITLE"
+msgstr "Место в Резерве"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM001_VISIBILITY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM002_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM003_SHOTDELAY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM004_ENGINEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM005_HEBURNCHANCE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM006_CONSUMABLETIME"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM008_SHOTDELAY_EV2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM009_REGENERATION_EV2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM014_SHOTDELAY_H2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM015_ENGINEBOOST_H2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM016_REGENERATION_H2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM020_PLANEREGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM021_PLANEENGINEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM022_PLANECONSUMABLETIME"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM023_PLANERELOADTIME"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM024_DAMAGERESIST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM025_REGENERATION_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM026_ENGINEBOOST_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM043_GSSHOTIMPROVE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM044_AR_HULLHEALTH_SUBMARINE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM045_AR_WEAPONDAMAGE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM046_AR_PLANESHEALTH"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM047_AR_HULLHEALTH_DESTROYER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM048_AR_HULLHEALTH_CRUISER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM049_AR_HULLHEALTH_BATTLESHIP"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM050_INVULNERABILITY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM051_HEALZONE_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM052_DRAINZONE_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM053_HEALINVIZ_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM054_HEALINVIZ_INVIZ"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM055_INVULNERABILITY_ZONEOWNER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM056_HEALZONE_REGENERATION_ZONEOWNER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM057_AR_REGENERATION_SUBMARINE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM058_AR_REGENERATION_DESTROYER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM059_AR_REGENERATION_CRUISER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM060_AR_REGENERATION_BATTLESHIP"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM102_BUFFSSHIFT_ENGINEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM103_BUFFSSHIFT_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM104_BUFFSSHIFT_GSSHOTDELAY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM105_BUFFSSHIFT_DAMAGERESIST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM106_ALL_WEAPONS_SHOT_DELAY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM900_ENERGY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PPCOM101_BUFFSSHIFT_SHOTDELAY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM001_REGENERATION_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM002_DAMAGERESIST_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM003_HULLHEALTH_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM004_HEALDAMAGECOEF_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM005_CONSUMABLETIME_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM006_GMSHOTDELAY_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM007_GMIDEALRADIUS_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM008_GMMAXDISTANCE_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM009_GMALPHA_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM010_GMROTATIONSPEED_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM012_TORPEDORANGE_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM013_TORPEDODAMAGECOEF_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM014_TORPEDOSPEEDMULTIPLIER_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM015_TORPEDOROTATIONSPEED_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM016_GSSHOTDELAY_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM017_GSMAXDIST_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM018_GSIDEALRADIUS_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM019_TORPEDOSHOTDELAY_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM020_ENGINEBOOST_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM021_SGRUDDERTIME_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM022_GSALPHA_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM023_BUFFSSHIFTMAXLEVEL_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM024_DAMAGEABSORB_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM025_EXTRADAMAGE_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM026_CONSUMABLETIMESLOT0_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM027_CONSUMABLETIMESLOT1_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM028_CONSUMABLETIMESLOT2_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM029_BUFFSSHIFTSPEED_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM040_HEALDAMAGECOEFPIRATE_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM042_ENGINEBOOST_FA2023"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM044_HIDDENDAMAGERESIST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM046_BATTLESHIPSTARTBUFF_H2023"
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM047_CRUISERSTARTBUFF_H2023"
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM048_DESTROYERSTARTBUFF_H2023"
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM049_AIRCARRIERSTARTBUFF_H2023"
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM050_SUBMARINESTARTBUFF_H2023"
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависят от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM051_BATTLESHIPBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM052_CRUISERBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM053_DESTROYERBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM054_AIRCARRIERBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM055_SUBMARINEBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM046_BATTLESHIPSTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM047_CRUISERSTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM048_DESTROYERSTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM049_AIRCARRIERSTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM050_SUBMARINESTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM051_BATTLESHIPBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM052_CRUISERBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM053_DESTROYERBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM054_AIRCARRIERBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM055_SUBMARINEBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM046_BATTLESHIPSTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM047_CRUISERSTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM048_DESTROYERSTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM049_AIRCARRIERSTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM050_SUBMARINESTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM051_BATTLESHIPBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PXOM052_CRUISERBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PXOM053_DESTROYERBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PXOM054_AIRCARRIERBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PXOM055_SUBMARINEBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM126_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM135_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SUBST_ARC_EVENT_COMMON_STATUS_ALL_PRIMETIMES_ENDED"
+msgstr "Задачи завершены"
+
+msgid "IDS_SUBST_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_SHORT"
+msgstr "До начала: %(_timeTillPrimeTimeStart)s"
+
+msgid "IDS_SUBST_ARC_EVENT_PORT_STATUS_ALL_REWARDS_RECEIVED"
+msgstr "Все награды получены"
+
+msgid "IDS_SUBST_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgid_plural "IDS_SUBST_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgstr[0] "До награды: %(_pointsTillNext)s очко"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_TOOLTIP_BARRACKS_CAPACITY"
+msgstr "Всего мест"
+
+msgid "IDS_TOOLTIP_BARRACKS_LIST_DESC"
+msgstr "Места в Резерве не закреплены за нациями."
+
+msgid "IDS_TOOLTIP_CREWS_IN_BARRACKS"
+msgstr "Мест занято"
+
+msgid "IDS_TOOLTIP_CREW_ASSIGNED_HEADER"
+msgstr "Назначен"
+
+msgid "IDS_TOOLTIP_DESC_CREW_ASSIGNED_TO_SELECT_SHIP"
+msgstr "Зарабатываемый опыт командира идёт на получение очков навыков."
+
+msgid "IDS_TOOLTIP_FREE_PLACES_IN_BARRACKS"
+msgstr "Свободных мест"
+
+msgid "IDS_TO_CANCEL_EXPAND_BARRACKS"
+msgstr "Для отмены демобилизации освободите место в Резерве или увеличьте его."
+
+msgid "IDS_UNABLE_TO_DISASSIGN_CREW"
+msgstr "Нет свободных мест в Резерве. Освободите место в Резерве или увеличьте его."
+
+msgid "IDS_UNLOCKS_24"
+msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+
+msgid "IDS_UNLOCKS_3103"
+msgstr "Сражайтесь против реальных игроков."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
+msgstr "В Операциях вашей команде необходимо выполнять различные задания, сражаясь с ботами. Каждая Операция обладает уникальными сюжетными элементами."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
+msgstr "Достигните основной цели, чтобы одержать победу. Выполнение дополнительных задач увеличит количество заработанных за бой ресурсов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
+msgstr "Сложность Операции зависит от уровней и классов кораблей в вашей команде."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
+msgstr "Сражайтесь против реальных игроков. Составы команд подбираются случайным образом."
+
+msgid "IDS_UNLOCKS_LEVEL_UP_24"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Операции</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3103"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Случайные бои</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_24"
+msgstr "Доступно на экране выбора типа боя."
+
+msgid "IDS_UNLOCKS_LOCATION_3103"
+msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
+
+msgid "IDS_UNLOCKS_TITLE_24"
+msgstr "Операции"
+
+msgid "IDS_UNLOCKS_TITLE_3103"
+msgstr "Случайные бои"
