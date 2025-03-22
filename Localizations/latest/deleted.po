@@ -6,131 +6,210 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: zh\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_DAILY_WIN_EXP"
-msgstr "每日胜利加成"
+msgid "IDS_ADDITIONAL_REWARD_AFTER"
+msgstr "Награда выдана"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_APRIL_SPACE"
-msgstr "“太空战舰”涂装显示已关闭"
+msgid "IDS_ADDITIONAL_REWARD_BEFORE"
+msgstr "Награда выдаётся за первое выполнение"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ARPEGGIO"
-msgstr "《苍蓝钢铁的琶音》涂装显示已关闭"
+msgid "IDS_AND_OTHER_SHIPS"
+msgid_plural "IDS_AND_OTHER_SHIPS"
+msgstr[0] "И ещё %(count)s корабль"
+msgstr[1] ""
+msgstr[2] ""
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_AZURLANE"
-msgstr "《碧蓝航线》涂装显示已关闭"
+msgid "IDS_AVAILABLE_SHIP"
+msgstr "Доступные корабли"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_CH_DRAGONS"
-msgstr "农历新年涂装显示已关闭"
+msgid "IDS_BOUGHT_WOWS_PREMIUM_ACCOUNT"
+msgstr "Корабельный премиум аккаунт куплен"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_COLORED"
-msgstr "迷彩涂装显示已关闭"
+msgid "IDS_CAMPAIGN_TAKE_REWARD"
+msgstr "Заберите награду"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_DECORATIVE"
-msgstr "装饰涂装显示已关闭"
+msgid "IDS_CAMPAIGN_TASKS_IN_PROGRESS"
+msgstr "Выполняются задания:"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ENTERTAINMENT"
-msgstr "娱乐涂装显示已关闭"
+msgid "IDS_CHOOSED_NAME_IS_TAKEN_IN_WOWS"
+msgstr "Выбранное имя уже занято. Попробуйте выбрать другое имя."
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_EV24SMF"
-msgstr "《兔子，等着瞧！》涂装显示已关闭"
+msgid "IDS_CHOOSED_NAME_IS_TAKEN_IN_WOWS_SUGGESTIONS"
+msgstr "Выбранное имя уже занято. Попробуйте выбрать другое имя или выберите из предложенных."
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HALLOWEEN_16"
-msgstr "万圣节涂装显示已关闭"
+msgid "IDS_CHOOSE_TASKS_INFO"
+msgstr ""
+"Для прохождения миссии выберите задания, которые вы будете выполнять. Одновременно можно выполнять несколько заданий.\n"
+"Миссия считается пройденной, когда выполнено финальное задание."
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HIGHSCHOOLFLEET"
-msgstr "高校舰队涂装显示已关闭"
+msgid "IDS_CHOOSE_TASK_DESCR"
+msgid_plural "IDS_CHOOSE_TASK_DESCR"
+msgstr[0] ""
+"<body>Соберите %(count)s звезду, чтобы разблокировать финальное задание.\n"
+"Недостающие <h3>звёзды</h3> можно получить, выполняя задания повторно.</body>"
+msgstr[1] ""
+msgstr[2] ""
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HOLOLIVE"
-msgstr "“hololive production”涂装显示已关闭"
+msgid "IDS_CHOOSE_WOWS_NAME"
+msgstr ""
+"Выберите имя.\n"
+"Имя нельзя будет изменить после входа в игру."
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_KOBAYASHI"
-msgstr "小林诚签名涂装显示已关闭"
+msgid "IDS_CONTEXT_TUTORIAL_BINOCULARS_USE"
+msgstr "Перейти в режим бинокля"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_LOGH"
-msgstr "《银河英雄传说》涂装显示已关闭"
+msgid "IDS_DOCK_BANNER_CAMPAIGNS"
+msgstr "КАМПАНИИ"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_MEGADETH"
-msgstr "麦加帝斯涂装显示已关闭"
+msgid "IDS_DOCK_BANNER_TOOLTIP_CAMPAIGNS"
+msgstr "Кампании"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_NATU"
-msgstr "《那年那兔那些事儿》涂装显示已关闭"
+msgid "IDS_FINAL_TASK"
+msgstr "Финальное задание"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POPEYE"
-msgstr "《大力水手波比》涂装显示已关闭"
+msgid "IDS_HINT_CAMPAIGN_LIFETIME"
+msgstr "Дата окончания кампании"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POST_APOCALYPSE"
-msgstr "诡浪涂装显示已关闭"
+msgid "IDS_HINT_CAMPAIGN_STARTTIME"
+msgstr "Дата начала кампании"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RANGERS"
-msgstr "星河密使涂装显示已关闭"
+msgid "IDS_MISSION_NUMBER"
+msgstr "Номер миссии"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RECONSTRUCTION"
-msgstr "改造涂装显示已关闭"
+msgid "IDS_MISSION_STATE_OPENED_BOSS"
+msgstr "Финальное задание выполнено. Для завершения миссии выполните оставшиеся задания."
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_SCARLET_FUTURE"
-msgstr "“以进步之名！”活动涂装显示已关闭"
+msgid "IDS_MISSION_TAKE_STARS"
+msgstr "Получено звёзд:"
 
-msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_WARHAMMER"
-msgstr "《战锤40K》涂装显示已关闭"
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_3"
+msgstr "все корабли ветки (включая модули) будут проданы;"
 
-msgid "IDS_CATCH_EGG_HINT"
-msgstr "接住蛋以获得积分，接住金蛋能获得更多积分。"
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_4"
+msgstr "камуфляжи, флаги, сигналы и расходуемые экономические бонусы будут сняты;"
 
-msgid "IDS_CATCH_SHARK_HINT"
-msgstr "鲨鱼！您的积分变少了，但战舰航速提高了。"
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_5"
+msgstr "привязанные экономические комплекты и постоянные камуфляжи останутся доступны на кораблях, когда вы их снова исследуете;"
 
-msgid "IDS_HYDROPHONE"
-msgstr "被发现"
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_6"
+msgstr "модернизации будут бесплатно демонтированы;"
 
-msgid "IDS_INCREASE_BARRACKS_CAPACITY"
-msgstr "扩充"
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_7"
+msgstr "командиры будут отправлены в резерв;"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER"
-msgstr "攻击潜艇时弹药的爆炸半径"
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_8"
+msgstr "опыт кораблей ветки будет переведён на корабль I уровня."
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_BOMB"
-msgstr "攻击潜艇时高爆弹的爆炸半径"
+msgid "IDS_NOT_ENOUGH_GOLD_TO_BUY_PREMIUM_WOWS"
+msgstr "Недостаточно дублонов для покупки Корабельного премиум аккаунта"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_ROCKET"
-msgstr "攻击潜艇时高爆火箭弹的爆炸半径"
+msgid "IDS_NOT_READY_TO_BATTLE_IN_DIVISION_INFO"
+msgstr ""
+"Вы не готовы к бою в отряде.\n"
+"\n"
+"Выберите подходящий корабль и нажмите кнопку «Готов!» для выхода в бой."
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_MAIN"
-msgstr "攻击潜艇时主炮高爆弹和半穿甲弹的爆炸半径"
+msgid "IDS_ONLY_FOR_PREM"
+msgstr "Доступно для премиум аккаунта"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_SEC"
-msgstr "攻击潜艇时副炮炮弹的爆炸半径"
+msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_0"
+msgstr "Сбрасываемые корабли и модули будут проданы."
 
-msgid "IDS_PARAMS_MODIFIER_RECEIVETORPEDODAMAGECOEFF"
-msgstr "受到的鱼雷伤害"
+msgid "IDS_PASSING_TASKS"
+msgstr "Выполняются"
 
-msgid "IDS_RATES"
-msgstr "服务器比率"
+msgid "IDS_PREMIUM_ACCOUNT_WG_TOOLTIP_HEADER"
+msgstr "Общий премиум: %(days)s"
 
-msgid "IDS_RATES_HINT"
-msgstr "服务器比率"
+msgid "IDS_PREMIUM_ACCOUNT_WOWS_TOOLTIP_HEADER"
+msgstr "Корабельный премиум: %(days)s"
 
-msgid "IDS_SHIP_MASTERY_LEVEL_TASKS_IN_PROGRESS"
-msgstr "正在进行精通挑战"
+msgid "IDS_PRUA724_D8_ART_TOP_2"
+msgstr "130-мм/55 в установке Б-2У"
 
-msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE"
-msgstr "完成精通挑战。每一项挑战需在一场战斗中完成。"
+msgid "IDS_PRUH704_D8_HULL_TOP_2"
+msgstr "Огневой (B)"
 
-msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS_DESC"
-msgstr "作战任务只能在特定战舰上进行。"
+msgid "IDS_PRUS713_D8_SUO_TOP_2"
+msgstr "СУО VIII мод. 2"
 
-msgid "IDS_WITHOUT_COMMANDER"
-msgstr "不含指挥官"
+msgid "IDS_PURCHASE_WOWS_ACCOUNT_FOR"
+msgstr "Купить Корабельный премиум за"
 
-msgid "IDS_WITHOUT_SLOT"
-msgstr "不含船位"
+msgid "IDS_RETURN_TO_MISSIONS"
+msgstr "Вернуться к Миссиям"
 
-msgid "IDS_WITH_COMMANDER"
-msgstr "含指挥官"
+msgid "IDS_REWARDS_FOR_MISSION_COMPLETE"
+msgstr "Награда за выполнение финального задания миссии"
 
-msgid "IDS_WITH_SLOT"
-msgstr "含船位"
+msgid "IDS_REWARD_FOR_CAMPAIGN"
+msgstr "Награда за прохождение кампании"
+
+msgid "IDS_SELECTED_FOR_PASSAGE"
+msgstr "Выбрать"
+
+msgid "IDS_SHIP_ELITE_RESTRICTION"
+msgstr "Выполнение задания на элитном корабле"
+
+msgid "IDS_SHIP_LEVEL_RESTRICTION"
+msgstr "Ограничения по уровню корабля"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_BUTTON_HINT"
+msgstr "Недостаточно чистого опыта для доступа к испытаниям мастерства"
+
+msgid "IDS_SHIP_NATION_RESTRICTION"
+msgstr "Ограничения по нации корабля"
+
+msgid "IDS_SHIP_PREMIUM_RESTRICTION"
+msgstr "Выполнение задания на премиум корабле"
+
+msgid "IDS_SHIP_SHIPNAME_RESTRICTION"
+msgstr "Выполнение задания на определённом корабле"
+
+msgid "IDS_SHIP_SHIPTYPE_RESTRICTION"
+msgstr "Ограничения по классу корабля"
+
+msgid "IDS_SHIP_SPECIAL_RESTRICTION"
+msgstr "Выполнение задания на особом корабле"
+
+msgid "IDS_SHOW_TASK_DETAILS"
+msgstr "Раскрыть задание"
+
+msgid "IDS_STARS_FOR_BATTLE"
+msgstr "Звёзды за выполнение задания. Необходимы для разблокировки финального задания миссии."
+
+msgid "IDS_STARS_FOR_BATTLE_EARNED"
+msgstr "Звёзды, полученные за выполнение заданий."
+
+msgid "IDS_STARS_FOR_BATTLE_EMPTY"
+msgstr "Получайте звёзды за выполнение заданий."
+
+msgid "IDS_SYS_MSG_CAMPAIGNS_TASK_BOSS_ENABLED"
+msgstr "Финальное задание миссии доступно"
+
+msgid "IDS_SYS_MSG_CAMPAIGNS_TASK_UNLOCKED"
+msgstr "Финальное задание миссии разблокировано"
+
+msgid "IDS_TASK_EXPLAIN_TOOLTIP_PREM"
+msgid_plural "IDS_TASK_EXPLAIN_TOOLTIP_PREM"
+msgstr[0] "Премиум аккаунт позволяет выполнять %(count)s задание одновременно"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_TASK_RESTRICTIONS"
+msgstr "Ограничения:"
+
+msgid "IDS_TOOLTIP_FINAL_TASK_LOCKED"
+msgstr "Наберите необходимое количество звёзд, чтобы разблокировать финальное задание."
+
+msgid "IDS_WG_PREMIUM_ACCOUNT_ENDS_TIME"
+msgstr "Осталось %(timeLeft)s Общего премиума"
+
+msgid "IDS_WOWS_PREMIUM_ACCOUNT_ENDS_TIME"
+msgstr "Осталось %(timeLeft)s Корабельного премиума"

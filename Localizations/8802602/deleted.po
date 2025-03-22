@@ -1,0 +1,136 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_DAILY_WIN_EXP"
+msgstr "每日胜利加成"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_APRIL_SPACE"
+msgstr "“太空战舰”涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ARPEGGIO"
+msgstr "《苍蓝钢铁的琶音》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_AZURLANE"
+msgstr "《碧蓝航线》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_CH_DRAGONS"
+msgstr "农历新年涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_COLORED"
+msgstr "迷彩涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_DECORATIVE"
+msgstr "装饰涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ENTERTAINMENT"
+msgstr "娱乐涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_EV24SMF"
+msgstr "《兔子，等着瞧！》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HALLOWEEN_16"
+msgstr "万圣节涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HIGHSCHOOLFLEET"
+msgstr "高校舰队涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HOLOLIVE"
+msgstr "“hololive production”涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_KOBAYASHI"
+msgstr "小林诚签名涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_LOGH"
+msgstr "《银河英雄传说》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_MEGADETH"
+msgstr "麦加帝斯涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_NATU"
+msgstr "《那年那兔那些事儿》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POPEYE"
+msgstr "《大力水手波比》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POST_APOCALYPSE"
+msgstr "诡浪涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RANGERS"
+msgstr "星河密使涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RECONSTRUCTION"
+msgstr "改造涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_SCARLET_FUTURE"
+msgstr "“以进步之名！”活动涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_WARHAMMER"
+msgstr "《战锤40K》涂装显示已关闭"
+
+msgid "IDS_CATCH_EGG_HINT"
+msgstr "接住蛋以获得积分，接住金蛋能获得更多积分。"
+
+msgid "IDS_CATCH_SHARK_HINT"
+msgstr "鲨鱼！您的积分变少了，但战舰航速提高了。"
+
+msgid "IDS_HYDROPHONE"
+msgstr "被发现"
+
+msgid "IDS_INCREASE_BARRACKS_CAPACITY"
+msgstr "扩充"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER"
+msgstr "攻击潜艇时弹药的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_BOMB"
+msgstr "攻击潜艇时高爆弹的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_ROCKET"
+msgstr "攻击潜艇时高爆火箭弹的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_MAIN"
+msgstr "攻击潜艇时主炮高爆弹和半穿甲弹的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_SEC"
+msgstr "攻击潜艇时副炮炮弹的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_RECEIVETORPEDODAMAGECOEFF"
+msgstr "受到的鱼雷伤害"
+
+msgid "IDS_RATES"
+msgstr "服务器比率"
+
+msgid "IDS_RATES_HINT"
+msgstr "服务器比率"
+
+msgid "IDS_SHIP_MASTERY_LEVEL_TASKS_IN_PROGRESS"
+msgstr "正在进行精通挑战"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE"
+msgstr "完成精通挑战。每一项挑战需在一场战斗中完成。"
+
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS_DESC"
+msgstr "作战任务只能在特定战舰上进行。"
+
+msgid "IDS_WITHOUT_COMMANDER"
+msgstr "不含指挥官"
+
+msgid "IDS_WITHOUT_SLOT"
+msgstr "不含船位"
+
+msgid "IDS_WITH_COMMANDER"
+msgstr "含指挥官"
+
+msgid "IDS_WITH_SLOT"
+msgstr "含船位"

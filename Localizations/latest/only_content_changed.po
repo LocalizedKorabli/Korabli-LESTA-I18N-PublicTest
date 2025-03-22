@@ -1,0 +1,334 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_DESCRIPTION"
+msgstr "Нанесите кораблю противника урон, составляющий не менее 50%% от его штатной боеспособности, и уничтожьте его"
+
+msgid "IDS_CAMPAIGN_HINT_DESCR"
+msgstr "Перейти к кампании"
+
+msgid "IDS_COMPLETE_TASKS_GET_REWARD"
+msgstr "Выполните все задания, чтобы получить достижение"
+
+msgid "IDS_CURRENCY_EVENTUM_1"
+msgstr "Космические жетоны"
+
+msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
+msgstr "За выполнение боевых задач в течение ограниченного времени, а также из наборов в Адмиралтействе во время проведения события в обновлении 25.4."
+
+msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
+msgstr "На линкор VIII уровня Anson с тематическим постоянным камуфляжем и памятным флагом, на тематические постоянные камуфляжи для суперподлодки Б-4, линкора X уровня Preussen и крейсера X уровня Callenburgh, а также на другое имущество во время проведения события в обновлении 25.4."
+
+msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
+msgstr "Временный ресурс события «Открытый космос». С выходом обновления 25.5 жетоны будут списаны без компенсации."
+
+msgid "IDS_CURRENCY_EVENTUM_3"
+msgstr "Советские жетоны"
+
+msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
+msgstr "За выполнение задач события «Личные испытания» в обновлениях 25.4 и 25.5, за достижение финального уровня Боевого пропуска до конца обновления 25.4, а также из наборов в Адмиралтействе до конца обновления 25.5."
+
+msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
+msgstr "На заполнение шкалы прогресса для получения кораблей раннего доступа VII–X уровней «Осмотрительный», «Смелый», «Спокойный» и «Горделивый», на постоянные камуфляжи для «Смелого», «Спокойного» и «Горделивого», на экономический комплект для «Осмотрительного», а также на другое имущество до конца обновления 25.5."
+
+msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
+msgstr "Временный ресурс события «Советские эсминцы». С выходом обновления 25.6 жетоны будут списаны без компенсации."
+
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUBBURN"
+msgstr "Термические торпеды"
+
+msgid "IDS_DOCK_BANNER_VIDEO_TUTORIALS"
+msgstr "КАК ИГРАТЬ"
+
+msgid "IDS_DROP_BRANCH_BONUSES_TOOLTIP_MULTIPLIER_HEADER"
+msgstr "Начисление бонусов за боевые результаты ×%(multiplier)d"
+
+msgid "IDS_EMPTY_SLOT_FOR_TASK"
+msgstr "Нет выбранного задания"
+
+msgid "IDS_GO_TO_MISSIONS"
+msgstr "Перейти к миссии"
+
+msgid "IDS_GUIDING_TIP_113_DESC"
+msgstr "Проходите кампании и получайте ценные награды."
+
+msgid "IDS_GUIDING_TIP_114_DESC"
+msgstr "Кампании состоят из нескольких миссий, которые выполняются последовательно."
+
+msgid "IDS_GUIDING_TIP_114_HEADER"
+msgstr "Миссии кампании"
+
+msgid "IDS_GUIDING_TIP_115_DESC"
+msgstr "Выполняйте задания и получайте звёзды. Одно и то же задание можно выполнять несколько раз."
+
+msgid "IDS_GUIDING_TIP_116_DESC"
+msgstr "Соберите необходимое количество звёзд для разблокировки ключевого задания. Выполнив это задание, вы разблокируете следующую миссию."
+
+msgid "IDS_GUIDING_TIP_116_HEADER"
+msgstr "Ключевое задание"
+
+msgid "IDS_GUIDING_TIP_250_DESC"
+msgstr "Сбрасывайте ветки кораблей, исследуйте снова и сражайтесь на них, чтобы заработать очки исследования."
+
+msgid "IDS_GUIDING_TIP_250_HEADER"
+msgstr "Бюро исследований"
+
+msgid "IDS_GUIDING_TIP_48_DESC"
+msgstr "Проходите кампании и получайте ценные награды."
+
+msgid "IDS_GUIDING_TIP_49_DESC"
+msgstr "Кампании состоят из нескольких миссий, которые выполняются последовательно."
+
+msgid "IDS_GUIDING_TIP_49_HEADER"
+msgstr "Миссии кампании"
+
+msgid "IDS_GUIDING_TIP_50_DESC"
+msgstr "Выполняйте задания и получайте звёзды. Одно и то же задание можно выполнять несколько раз."
+
+msgid "IDS_GUIDING_TIP_51_DESC"
+msgstr "Получите необходимое количество звёзд, чтобы открыть ключевое задание. Выполнив это задание, вы откроете следующую миссию."
+
+msgid "IDS_GUIDING_TIP_51_HEADER"
+msgstr "Ключевое задание"
+
+msgid "IDS_IMPOSSIBLE_TO_CHOOSE_TASK"
+msgstr "Награда за выполнение задания получена, ключевое задание миссии разблокировано"
+
+msgid "IDS_LOCKED_MISSION_TOOLTIP"
+msgstr "Не пройдена предыдущая миссия"
+
+msgid "IDS_MISSIONS"
+msgstr "Миссии"
+
+msgid "IDS_MISSION_STATE_COMPLETED"
+msgstr "Миссия пройдена"
+
+msgid "IDS_MISSION_STATE_FINAL_TASK_OPENED_NOT_COMPLETED"
+msgstr "Выполните ключевое задание, чтобы открыть следующую миссию"
+
+msgid "IDS_MISSION_STATE_LOCKED"
+msgstr "Миссия станет доступна, когда вы пройдёте предыдущую."
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_HEADER"
+msgstr "Зачем сбрасывать ветки"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Если вы сбросите ветку кораблей, а затем исследуете и купите их снова, вы сможете получить очки исследования."
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Этот ресурс можно обменять на особые и премиум корабли, элитные модернизации и особые боевые сигналы в разделе «Бюро исследований» в Адмиралтействе."
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_2_HEADER"
+msgstr "Что будет с кораблями"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "После сброса ветки корабли и модули перестанут быть исследованы и будут проданы за кредиты, а опыт со всей ветки перейдёт на корабль I уровня."
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "Всё остальное имущество, установленное на корабли или привязанное к ним, будет сохранено. Модернизации демонтируются бесплатно."
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_3_HEADER"
+msgstr "Как получить очки"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "На каждый сброшенный корабль V–X уровня будут начислены очки исследования."
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "Чтобы их получить, нужно исследовать корабль заново, купить его, а затем, выйдя на нём в бой, победить или набрать 300 ед. чистого опыта."
+
+msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"Золотое яйцо: +30\n"
+"Белое яйцо: +10\n"
+"Акула: -20"
+
+msgid "IDS_NEWBIE_QUESTS_PCON011_NAME"
+msgstr "Выполните 1 задание в любой кампании"
+
+msgid "IDS_PARAGONS_DROP_BRANCH_BONUS_BLOCK_0"
+msgstr "На каждый сброшенный корабль V–X уровня будут начислены очки исследования. Чтобы их получить, нужно исследовать корабль заново, купить его, а затем, выйдя на нём в бой, победить или набрать 300 ед. чистого опыта."
+
+msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_1"
+msgstr "Всё остальное имущество, установленное на корабли или привязанное к ним, будет сохранено. Модернизации демонтируются бесплатно."
+
+msgid "IDS_PARAGONS_DROP_BRANCH_MODAL_WINDOW_HEADER"
+msgstr "Сброс ветки кораблей"
+
+msgid "IDS_PARAGON_BONUS_FOOTER_MULTIPLIER_INFO"
+msgstr "Первый сброс ветки кораблей в сезоне принесёт x%(multiplier)d очков исследования."
+
+msgid "IDS_PARAGON_BONUS_FOOTER_NO_MULTIPLIER_INFO"
+msgstr "Сбрасывайте ветки кораблей и зарабатывайте очки исследования."
+
+msgid "IDS_PARAGON_BONUS_FOOTER_SPECIAL_STORAGE_INFO"
+msgstr "Этот ресурс можно обменять на особые и премиум корабли, элитные модернизации и особые боевые сигналы в разделе «Бюро исследований» в Адмиралтействе."
+
+msgid "IDS_PARAGON_BONUS_SEASON_UPDATE"
+msgstr "До смены сезона: %(timeUntilMultiplier)s."
+
+msgid "IDS_PARAGON_DENY_REASON_IS_IN_BATTLE"
+msgstr ""
+"Один из кораблей находится в бою.\n"
+"Дождитесь возвращения корабля из боя для сброса ветки кораблей."
+
+msgid "IDS_PARAGON_DENY_REASON_IS_IN_DIVISION"
+msgstr ""
+"На одном из кораблей установлен статус «Готов к бою в отряде».\n"
+"Нажмите «Не готов» для сброса ветки кораблей."
+
+msgid "IDS_PARAGON_DENY_REASON_IS_NEED_SERVICE"
+msgstr ""
+"Один из кораблей требует обслуживания.\n"
+"Проведите обслуживание для сброса ветки кораблей."
+
+msgid "IDS_PARAGON_FOOTER_TITLE"
+msgstr "Сброс ветки кораблей"
+
+msgid "IDS_PAUE111_ENGINE_7500"
+msgstr "ЭУ 7 500 л.с."
+
+msgid "IDS_PAUE500_S6_ENG_STOCK"
+msgstr "ЭУ 3 070 л.с."
+
+msgid "IDS_PAUE512_S6_ENG_STOCK"
+msgstr "ЭУ 3 070 л.с."
+
+msgid "IDS_PAUE710_S8_ENG_STOCK"
+msgstr "ЭУ 5 500 л.с."
+
+msgid "IDS_PAUE720_S8_ENG_STOCK"
+msgstr "ЭУ 5 500 л.с."
+
+msgid "IDS_PAUE912_ENG_GATO"
+msgstr "ЭУ 5 400 л.с."
+
+msgid "IDS_PAUE913_S10_ENG_STOCK"
+msgstr "ЭУ 5 480 л.с."
+
+msgid "IDS_PBUE713_S8_ENG_STOCK"
+msgstr "ЭУ 1 550 л.с."
+
+msgid "IDS_PCEE140_GIULIO_CESARE_FLAG_DESCRIPTION"
+msgstr "Ad quamvis vim perferendam."
+
+msgid "IDS_PGUE500_S6_ENG_STOCK"
+msgstr "ЭУ 3 200 л.с."
+
+msgid "IDS_PGUE503_S6_ENG_STOCK"
+msgstr "ЭУ 3 200 л.с."
+
+msgid "IDS_PGUE700_S8_ENG_STOCK"
+msgstr "ЭУ 4 400 л.с."
+
+msgid "IDS_PGUE714_S8_ENG_STOCK"
+msgstr "ЭУ 4 400 л.с."
+
+msgid "IDS_PGUE900_S10_ENG_STOCK"
+msgstr "ЭУ 5 000 л.с."
+
+msgid "IDS_PGUE921_S10_ENG_STOCK"
+msgstr "ЭУ 5 000 л.с."
+
+msgid "IDS_PGUE922_ENG_U4501"
+msgstr "ЭУ 7 500 л.с."
+
+msgid "IDS_PIUE001_ENG_STOCK"
+msgstr "ЭУ 7 800 л.с."
+
+msgid "IDS_PJUE740_ENG_I58"
+msgstr "ЭУ 9 400 л.с."
+
+msgid "IDS_PLAYER_ALREADY_IN_DIVISION"
+msgstr "уже состоит в отряде."
+
+msgid "IDS_PLAYER_ALREADY_IN_TRAINING_ROOM"
+msgstr "уже в тренировочной комнате или турнире."
+
+msgid "IDS_PRUA722_D8_ART_STOCK_2"
+msgstr "130-мм/55 в установке Б-2У"
+
+msgid "IDS_PRUE512_S6_ENG_STOCK"
+msgstr "ЭУ 4 000 л.с."
+
+msgid "IDS_PRUE709_ENG_S189"
+msgstr "ЭУ 4 000 л.с."
+
+msgid "IDS_PRUE720_ENG_BLACK_S_189"
+msgstr "ЭУ 4 000 л.с."
+
+msgid "IDS_PRUE999_ENG_TEST_SUB"
+msgstr "ЭУ 1 200 л.с."
+
+msgid "IDS_PRUH703_D8_HULL_STOCK_2"
+msgstr "Огневой"
+
+msgid "IDS_PRUS712_D8_SUO_STOCK_2"
+msgstr "СУО VIII"
+
+msgid "IDS_PWUE001_CA1_ENG_STOCK"
+msgstr "ЭУ 6 000 л.с."
+
+msgid "IDS_PZSA518_DESCR"
+msgstr "Сяньдэн — вид «штурмовых» кораблей, предназначенных для ближнего боя и появившихся в период Троецарствия. В Древнем Китае бои между кораблями чаще всего были речными и проходили на близкой дистанции. Именно поэтому особую роль играли корабли, способные наносить таранные удары, обстреливать противника с близкого расстояния и брать на абордаж."
+
+msgid "IDS_RETURN_TO_CAMPAIGNS"
+msgstr "К выбору кампании"
+
+msgid "IDS_REWARD_EVENTUM_1_TITLE"
+msgstr "Космические жетоны"
+
+msgid "IDS_REWARD_EVENTUM_3_TITLE"
+msgstr "Советские жетоны"
+
+msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_TITLE"
+msgstr "Премиум контейнер «Сокровищница флота»"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
+msgstr "Космические жетоны куплены"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
+msgstr "Советские жетоны куплены"
+
+msgid "IDS_SYS_MSG_CAMPAIGNS_MISSION_UPDATED_ACTIVATED"
+msgstr "Миссия доступна"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
+msgstr "Получены космические жетоны"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
+msgstr "Получены советские жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
+msgstr "Списаны космические жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
+msgstr "Списаны советские жетоны"
+
+msgid "IDS_TAKE_REWARD"
+msgstr "Забрать награды"
+
+msgid "IDS_TAKE_STARS"
+msgstr "Забрать звёзды"
+
+msgid "IDS_TASK_IS_USELESS"
+msgstr "Задание неактуально"
+
+msgid "IDS_TOOLTIP_CAMPAIGN_NEED_TOKEN"
+msgstr "Для доступа к кампании нужен пропуск"
+
+msgid "IDS_TOOLTIP_NEED_FREE_SLOT"
+msgstr "Вы уже взяли максимальное количество заданий"
+
+msgid "IDS_UNLOCKS_LOCATION_22"
+msgstr "Раздел кампаний находится на экране «Боевые задачи»."
