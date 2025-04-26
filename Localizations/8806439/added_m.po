@@ -1,0 +1,990 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_FOR_BATTLE_COUNT"
+msgstr "Earned in battle:"
+
+msgid "IDS_ALMANAC_REWARD_ACCESS_LEVEL_INFO"
+msgstr "Requires access level %(_level)s"
+
+msgid "IDS_ANDROID_TM4"
+msgstr "CM-10A"
+
+msgid "IDS_AND_RECEIVE_QUESTION_DROP_BRANCH_CONFIRMATION_WINDOW"
+msgstr "to ships and receive"
+
+msgid "IDS_BATTLE_STATS_CLOSE"
+msgstr "CLOSE"
+
+msgid "IDS_BATTLE_TYPE_CHOOSER_LOCK_REASON_IN_TRAINING_ROOM"
+msgstr "You cannot change the battle type while in a training room"
+
+msgid "IDS_BATTLE_TYPE_CHOOSER_LOCK_REASON_NOT_COMMANDER_DIVISION"
+msgstr "You are in a Division. Only the Division Commander can change the battle type."
+
+msgid "IDS_BONUS_QUESTION_DROP_BRANCH_CONFIRMATION_WINDOW"
+msgstr "Credit"
+
+msgid "IDS_BOUGHT_MK_PREMIUM_ACCOUNT"
+msgstr "Korabley Premium Account purchased"
+
+msgid "IDS_CAMPAIGNS_TITLE"
+msgstr "Campaigns"
+
+msgid "IDS_CAMPAIGNS_TOOLTIP_TASKS_INFO"
+msgstr "Tasks taken"
+
+msgid "IDS_CAMPAIGN_FINAL_TASK_DONE"
+msgstr "Final task completed. Complete the remaining tasks to fully finish the mission."
+
+msgid "IDS_CAMPAIGN_FINAL_TASK_OPENED_NOT_COMPLETED"
+msgstr "Complete the final task to finish the campaign."
+
+msgid "IDS_CAMPAIGN_TAKE_STARS"
+msgstr "Progress toward final task:"
+
+msgid "IDS_CAMPAIGN_TASKS"
+msgstr "Tasks"
+
+msgid "IDS_CAMPAIGN_TASK_COMPLETED"
+msgstr "Completed"
+
+msgid "IDS_CAMPAIGN_TASK_IS_LOOTED_REWARDS"
+msgstr "Received"
+
+msgid "IDS_CAMPAIGN_TASK_LOCKED"
+msgstr "Not available to complete"
+
+msgid "IDS_CAROUSEL_TOURNAMENTBATTLE_FILTER"
+msgstr "Filter ships suitable for the selected tournament"
+
+msgid "IDS_CHOOSED_NAME_IS_TAKEN_IN_MK"
+msgstr "The selected name is already taken. Try a different name."
+
+msgid "IDS_CHOOSED_NAME_IS_TAKEN_IN_MK_SUGGESTIONS"
+msgstr "The selected name is already taken. Try a different name or pick from the suggestions."
+
+msgid "IDS_CHOOSE_MK_NAME"
+msgstr ""
+"Choose a name.\n"
+"You cannot change it after entering the game."
+
+msgid "IDS_CHOOSE_TOURNAMENTBATTLE"
+msgstr "Select Tournament Battle"
+
+msgid "IDS_COMMON_PREMIUM_ACCOUNT_ENDS_TIME"
+msgstr "Premium Account expires in: %(timeLeft)s"
+
+msgid "IDS_CONTEXT_HINT008_MG_AND_SCOUT"
+msgstr "Use the \"Spotting Aircraft\""
+
+msgid "IDS_CONTEXT_HINT009_DEEPSEA_TORPEDOES"
+msgstr "Deepwater torpedoes are useless against destroyers and submarines!"
+
+msgid "IDS_CONTEXT_HINT010_BINOCULARS"
+msgstr "Switch to binocular view"
+
+msgid "IDS_CONTEXT_HINT012_TELEGRAPH"
+msgstr "You don\"t have to hold the \"forward\" key for your ship to keep moving!"
+
+msgid "IDS_CONTEXT_HINT013_MG_PREEMPTION_AND_SPEED"
+msgstr "Aim ahead of a moving target! The longer the smoke plume from the funnel, the faster the target is moving."
+
+msgid "IDS_CONTEXT_HINT014_MAP_BORDER"
+msgstr "You are nearing the map border—change your course!"
+
+msgid "IDS_CONTEXT_HINT016_MANEUVER_VS_MG"
+msgstr "Don\"t expose your broadside to an enemy battleship's salvo!"
+
+msgid "IDS_CONTEXT_HINT017_MG_CR_VS_MG_BS"
+msgstr "Keep enough distance to maneuver, and don\"t expose your broadside!"
+
+msgid "IDS_CONTEXT_HINT018_DD_SPOTTED"
+msgstr "You have been detected! There's an enemy destroyer with better concealment nearby."
+
+msgid "IDS_CONTEXT_HINT019_CV_TORPEDOBOMBER_ATTACK"
+msgstr "Torpedoes are perfect against slow-moving ships. Attack from their flank!"
+
+msgid "IDS_CONTEXT_HINT020_CV_DIVEBOMBER_ATTACK"
+msgstr "Approach your target from the bow or stern when using dive bombers!"
+
+msgid "IDS_CONTEXT_HINT021_CV_HE_DIVEBOMBER_ATTACK"
+msgstr "HE bombers can attack ships of any class and can start fires."
+
+msgid "IDS_CONTEXT_HINT022_CV_AP_DIVEBOMBER_ATTACK"
+msgstr "AP bombs can penetrate citadels—target battleships and cruisers!"
+
+msgid "IDS_CONTEXT_HINT023_CV_BOMBER_ATTACK_2"
+msgstr "Skip bombers are the best at hunting destroyers!"
+
+msgid "IDS_CONTEXT_HINT024_CV_ROCKETS_SQUADRON_ATTACK"
+msgstr "When attacking with attackers, aim at the ship’s side and remember to lead your target!"
+
+msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION_NEEDED"
+msgstr "[Hint: leading your target]"
+
+msgid "IDS_CONVEY_PLAYER_TO_COMMANDER"
+msgstr "Transfer command"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBBURN"
+msgstr "<p>Can cause fires, flooding, and incapacitate modules, but deals low damage.</p><p class=\"p_spacing\"> </p><p>Most effective against large and less maneuverable targets.</p>"
+
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBBURN"
+msgstr "Thermal Torpedoes"
+
+msgid "IDS_DOCK_BANNER_TUTORIAL_TOOLTIP_HEADER"
+msgstr "How to play"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_TANKING_BOOST"
+msgstr "Emergency Secondary Armament Measures"
+
+msgid "IDS_DROP_BRANCH_BONUSES_APPLIED_MULTIPLIER_LABEL"
+msgstr "The ×%(multiplier)d multiplier for the first branch reset of the season has been applied"
+
+msgid "IDS_DROP_BRANCH_BONUSES_FROM_BATTLES_LABEL"
+msgstr "You will be able to earn Research Points"
+
+msgid "IDS_DROP_BRANCH_CREDITS_COMPENSATION_LABEL"
+msgstr "You will receive credits"
+
+msgid "IDS_DROP_BRANCH_X2_MULTIPLIER"
+msgstr "×2"
+
+msgid "IDS_FINAL_TASK_CAMPAIGN"
+msgstr "Final Task"
+
+msgid "IDS_FINAL_TASK_CAMPAIGN_UNLOCKED"
+msgstr "The mission’s final task is now available"
+
+msgid "IDS_FINAL_TASK_MISSION"
+msgstr "Key Task"
+
+msgid "IDS_FINAL_TASK_MISSION_IN_CAMPAIGN_UNLOCKED"
+msgstr "The key task of mission %(count)s is now available"
+
+msgid "IDS_GO_TO_TUTORIAL_MOUSE_INSTRUCTION"
+msgstr "Go to the \"How to Play\" screen"
+
+msgid "IDS_GUIDING_TIP_321_DESC"
+msgstr "Find out how to earn Research Points and what you can spend them on."
+
+msgid "IDS_GUIDING_TIP_321_HEADER"
+msgstr "Research Points"
+
+msgid "IDS_GUIDING_TIP_322_DESC"
+msgstr "Go to the Tech Tree where you have a researched Tier X ship."
+
+msgid "IDS_GUIDING_TIP_322_HEADER"
+msgstr "Select a nation"
+
+msgid "IDS_GUIDING_TIP_323_DESC"
+msgstr "Campaigns can be found on the \"Combat Missions\" screen."
+
+msgid "IDS_GUIDING_TIP_323_HEADER"
+msgstr "Campaigns"
+
+msgid "IDS_GUIDING_TIP_324_DESC"
+msgstr "Campaigns can be found on the \"Combat Missions\" screen."
+
+msgid "IDS_GUIDING_TIP_324_HEADER"
+msgstr "Campaigns"
+
+msgid "IDS_GUIDING_TIP_326_DESC"
+msgstr "Go to the \"How to Play\" section to learn about basic game mechanics and discover how to be effective in battle!"
+
+msgid "IDS_GUIDING_TIP_326_HEADER"
+msgstr "Principles of effective gameplay"
+
+msgid "IDS_GUIDING_TIP_327_DESC"
+msgstr "You can now find the section with useful game information in the main menu."
+
+msgid "IDS_GUIDING_TIP_327_HEADER"
+msgstr "The \"How to Play\" section has been moved"
+
+msgid "IDS_GUIDING_TIP_328_DESC"
+msgstr "Here, you can learn about the basic game mechanics and get tips for effective gameplay."
+
+msgid "IDS_GUIDING_TIP_328_HEADER"
+msgstr "Principles of effective gameplay"
+
+msgid "IDS_GUIDING_TIP_329_DESC"
+msgstr "A \"How to Play\" section is now available in the main menu."
+
+msgid "IDS_GUIDING_TIP_329_HEADER"
+msgstr "New menu section"
+
+msgid "IDS_GUIDING_TIP_330_DESC"
+msgstr "Refresh your knowledge of game mechanics and learn how to be effective in battle!"
+
+msgid "IDS_GUIDING_TIP_330_HEADER"
+msgstr "Principles of effective gameplay"
+
+msgid "IDS_GUIDING_TIP_331_DESC"
+msgstr "Campaigns are now on the \"Combat Missions\" screen."
+
+msgid "IDS_GUIDING_TIP_331_HEADER"
+msgstr "Campaigns"
+
+msgid "IDS_INFO_SURFACE_DISABLED"
+msgstr "Unavailable on the surface"
+
+msgid "IDS_INVITES_YOU_TO_JOIN_TOURNAMENT_ROOM"
+msgstr "Tournament Battle: %(team1)s vs %(team2)s"
+
+msgid "IDS_INVITES_YOU_TO_JOIN_TOURNAMENT_ROOM_DESC"
+msgstr "Invitation to a Tournament Battle."
+
+msgid "IDS_IN_TOURNAMENTBATTLE"
+msgstr "in a Tournament Battle"
+
+msgid "IDS_JOIN_TOURNAMENT_ROOM_ACCEPT"
+msgstr "JOIN"
+
+msgid "IDS_LEAVE_TOURNAMENT"
+msgstr "Leave Tournament Battle"
+
+msgid "IDS_LEAVE_TOURNAMENT_ROOM_CREATED_QUESTION"
+msgstr "Leave Tournament Battle?"
+
+msgid "IDS_MISSION"
+msgstr "Mission"
+
+msgid "IDS_MISSION_COMPLETED"
+msgstr "Mission completed."
+
+msgid "IDS_MISSION_FINAL_TASK_DONE"
+msgstr "Key task completed. Complete the remaining tasks to fully finish the mission."
+
+msgid "IDS_MISSION_FINAL_TASK_OPENED_NOT_COMPLETED"
+msgstr "Complete the key task to unlock the next mission"
+
+msgid "IDS_MK_PREMIUM_ACCOUNT_ENDS_TIME"
+msgstr "Korabley Premium Account expires in: %(timeLeft)s"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_4_HEADER"
+msgstr "Seasons and repeated resets"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "A new season in the Research Bureau begins every 90 days. The first time you reset a branch each season, your ships will earn double Research Points."
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_4_TEXT_2"
+msgstr "You can research with Free XP and reset the branch multiple times. Once you purchase and enter a battle on these ships, you will gain the Research Points accumulated from several resets."
+
+msgid "IDS_NOT_ENOUGH_FOR_TOURNAMENT_BY_CLASS_AIRCARRIER"
+msgstr "Too few aircraft carriers"
+
+msgid "IDS_NOT_ENOUGH_FOR_TOURNAMENT_BY_CLASS_AUXILIARY"
+msgstr "Too few transport ships"
+
+msgid "IDS_NOT_ENOUGH_FOR_TOURNAMENT_BY_CLASS_BATTLESHIP"
+msgstr "Too few battleships"
+
+msgid "IDS_NOT_ENOUGH_FOR_TOURNAMENT_BY_CLASS_CRUISER"
+msgstr "Too few cruisers"
+
+msgid "IDS_NOT_ENOUGH_FOR_TOURNAMENT_BY_CLASS_DESTROYER"
+msgstr "Too few destroyers"
+
+msgid "IDS_NOT_ENOUGH_FOR_TOURNAMENT_BY_CLASS_SUBMARINE"
+msgstr "Too few submarines"
+
+msgid "IDS_NOT_ENOUGH_GOLD_TO_BUY_PREMIUM_MK"
+msgstr "Not enough golds to buy Korabley Premium Account"
+
+msgid "IDS_PARAGONS_DROP_BRANCH_BONUSES_APPLIED_MULTIPLIER_LABEL"
+msgstr "Multiplier applied"
+
+msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_0_0"
+msgstr "Ships and modules will no longer be researched and will be sold, and any accumulated XP from the entire branch will be transferred to the Tier I ship."
+
+msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_0_1"
+msgstr "Ships and modules will no longer be researched, and modules will be sold."
+
+msgid "IDS_PARAGONS_INFORMER_TYPE_1"
+msgstr "A new season is underway in the Research Bureau. Earn more points with a single reset!"
+
+msgid "IDS_PARAGONS_INFORMER_TYPE_2"
+msgstr "The current season in the Research Bureau ends in %(timeLeft)s. Hurry to earn extra points for resetting a branch!"
+
+msgid "IDS_PARAGONS_INFORMER_TYPE_3"
+msgstr "A new season in the Research Bureau starts in %(timeLeft)s."
+
+msgid "IDS_PARAGONS_INFORMER_TYPE_4"
+msgstr "The current season in the Research Bureau ends in 1 day. Hurry to earn extra points for resetting a branch!"
+
+msgid "IDS_PARAGONS_INFORMER_TYPE_5"
+msgstr "A new season in the Research Bureau starts in 1 day."
+
+msgid "IDS_PARAMS_MODIFIER_PROGRESS_TANKING"
+msgstr "Progress for earning the \"Took the Hit\" ribbon"
+
+msgid "IDS_PBES301_ANSON_COSMOS"
+msgstr "Plasma Patrol"
+
+msgid "IDS_PBSA520"
+msgstr "Theseus"
+
+msgid "IDS_PBSA520_DESCR"
+msgstr "A ship for testing."
+
+msgid "IDS_PBSA520_FULL"
+msgstr "Theseus"
+
+msgid "IDS_PBSA520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PBSA520_YEAR"
+msgstr "1938"
+
+msgid "IDS_PBUB903_TB_THESEUS"
+msgstr "Blackburn Firebrand"
+
+msgid "IDS_PBUD903_DB_THESEUS"
+msgstr "Blackburn Firebrand"
+
+msgid "IDS_PBUE921_ENG_THESEUS"
+msgstr "Propulsion: 40,000 hp"
+
+msgid "IDS_PBUF905_FC_THESEUS"
+msgstr "Mk10 mod. 1"
+
+msgid "IDS_PBUH921_HULL_THESEUS"
+msgstr "Theseus"
+
+msgid "IDS_PBUI903_F_THESEUS"
+msgstr "Blackburn Firebrand"
+
+msgid "IDS_PCEC150_LABOR_DAY_CAMO_TILE"
+msgstr "May Day"
+
+msgid "IDS_PCEE734_SOVIET_DD_EA_FLAG"
+msgstr "Soviet Destroyers"
+
+msgid "IDS_PCEE734_SOVIET_DD_EA_FLAG_DESCRIPTION"
+msgstr "In the USSR, commemorative badges were produced in honor of warships. The main design was based on the naval ensign, and the ship’s silhouette was placed below."
+
+msgid "IDS_PCEE734_SOVIET_DD_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr "In honor of the early access release of the new Soviet destroyers in Update 25.4."
+
+msgid "IDS_PCEE740_FALKENHAYN_FLAG"
+msgstr "Falkenhayn"
+
+msgid "IDS_PCEE740_FALKENHAYN_FLAG_DESCRIPTION"
+msgstr "This flag was raised in the 19th–20th century on ships and vessels of Prussia’s War Ministry. From 1913–14, the position of Prussian War Minister was held by Erich Georg Sebastian Anton von Falkenhayn (1861–1922), a notable general of the Imperial German Army during World War I."
+
+msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG"
+msgstr "ARV Francisco de Miranda"
+
+msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG_DESCRIPTION"
+msgstr "Sebastián Francisco de Miranda y Rodríguez (1750–1816) was a revolutionary and one of the leaders of the fight for independence of the Spanish colonies in South America. In 1806, Miranda set out to liberate Venezuela aboard the corvette Leander, which sailed under his own naval ensign."
+
+msgid "IDS_PCEE742_KRASNOYE_ZNAMYA_FLAG"
+msgstr "Krasnoye Znamya"
+
+msgid "IDS_PCEE742_KRASNOYE_ZNAMYA_FLAG_DESCRIPTION"
+msgstr "In 1926, the Honorary Revolutionary Naval Flag was introduced into the Soviet Navy. Unlike the main Soviet naval ensign of that time, it depicted the Order of the Red Banner."
+
+msgid "IDS_PCEE743_THESEUS_FLAG"
+msgstr "HMS Theseus"
+
+msgid "IDS_PCEE743_THESEUS_FLAG_DESCRIPTION"
+msgstr "In 1950, the aircraft carrier HMS Theseus was honored with the Boyd Trophy. The trophy is a silver model of a Fairey Swordfish torpedo bomber, and is awarded each year to British naval aircrews or airmen for the most outstanding achievements of the preceding year."
+
+msgid "IDS_PCEE744_OGNEVOY_FLAG"
+msgstr "Ognevoi"
+
+msgid "IDS_PCEE744_OGNEVOY_FLAG_DESCRIPTION"
+msgstr "A sponsor’s ensign presented to the Black Sea Fleet from Sevastopol Naval Shipyard No.201 named after Sergo Ordzhonikidze. The destroyer Ognevoy was completed at a branch of this shipyard in Batumi from 1943–45. In spring 1945, the naval ensign was hoisted on the ship, and Ognevoy joined the Black Sea Fleet."
+
+msgid "IDS_PCEE745_BERNADOTTE_FLAG"
+msgstr "Bernadotte"
+
+msgid "IDS_PCEE745_BERNADOTTE_FLAG_DESCRIPTION"
+msgstr "Jean-Baptiste Jules Bernadotte (1763–1844) was a participant in the French Revolutionary and Napoleonic Wars, a Marshal of the Empire, and Prince of Pontecorvo. From 1818, he was King of Sweden and Norway under the name Carl XIV Johan, and founder of the Swedish royal house of Bernadotte."
+
+msgid "IDS_PCQC001_CAMPAIGN1_TITLE_QUOTES"
+msgstr "\"Science of Victory\""
+
+msgid "IDS_PCQC002_CAMPAIGNSB_TITLE_QUOTES"
+msgstr "\"Honorable Service\""
+
+msgid "IDS_PCQC006_YAMAMOTO_TITLE_QUOTES"
+msgstr "\"Isoroku Yamamoto\""
+
+msgid "IDS_PCQC010_HALSEY_TITLE_QUOTES"
+msgstr "\"Hit Hard! Hit Fast! Hit Often!\""
+
+msgid "IDS_PCQC014_EPOCHSOFSHIPS_TITLE_QUOTES"
+msgstr "\"Five Epochs of the Navy\""
+
+msgid "IDS_PFGA163_BOFORS_40MM70_SP48"
+msgstr "40 mm/70 SAK-40/L70-350 on a SAK-40/L70-350 mount"
+
+msgid "IDS_PFGM140_75MM_35_HOTCHKISS_MLE_1925"
+msgstr "75 mm/35 Hotchkiss Mle 1925 on a Mle 1925 mount"
+
+msgid "IDS_PFGM159_100MM_45_MODEL_1925"
+msgstr "100 mm/45 Mle 1925 on an SMCA Mle 1925 mount"
+
+msgid "IDS_PFGM167_305MM_56_SKC_39_RF"
+msgstr "305 mm/56 SK C/39 on a turret mount"
+
+msgid "IDS_PFGM168_305MM_56_SKC_39"
+msgstr "305 mm/56 SK C/39 on a turret mount"
+
+msgid "IDS_PFGM169_88MM45_SK_35"
+msgstr "88 mm/45 SK C/35 on a Ubts LC/35 mount"
+
+msgid "IDS_PFGS164_150MM_SK_L45_C13"
+msgstr "150 mm/45 SK C/09 on a casemate mount"
+
+msgid "IDS_PFGS165_120_50_BOFORS_M42"
+msgstr "120 mm/50 Model 1942 on a turret mount"
+
+msgid "IDS_PFGT155_400_500MM_TRIPLE_DIANE"
+msgstr "400 mm / 550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT156_550MM_2TUBE_DIANE"
+msgstr "400 mm / 550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT157_400_550MM_QUADRUPLE_CASABIANCA"
+msgstr "400 mm / 550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT158_550MM_TRIPLE_CASABIANCA"
+msgstr "400 mm / 550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT160_550MM_2TUBE_L_AFRICAINE"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT161_550MM_2TUBE_L_AFRICAINE"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT166_533MM_QUADTUBE"
+msgstr "533 mm quadruple"
+
+msgid "IDS_PFGT170_INVISIBLE_TA_LEFT"
+msgstr "550 mm"
+
+msgid "IDS_PFGT171_INVISIBLE_TA_RIGHT"
+msgstr "550 mm"
+
+msgid "IDS_PFPA105_150MM_HE_K_18_SG"
+msgstr "150 mm HE K Gr 18"
+
+msgid "IDS_PFPA106_120_50_HE_M42_SG"
+msgstr "120 mm HE M1942"
+
+msgid "IDS_PFPA107_127MM_54_HE_FORBIN"
+msgstr "127 mm HE Mark 41"
+
+msgid "IDS_PFPA108_127MM_54_AP_FORBIN"
+msgstr "127 mm AP Mark 42"
+
+msgid "IDS_PFPA109_75MM_35_CS"
+msgstr "75 mm HE Mle 1925"
+
+msgid "IDS_PFPA110_88MM_45_CS"
+msgstr "88 mm CS"
+
+msgid "IDS_PFPA111_100MM_45_1892_CS"
+msgstr "100 mm SAP OEA Mle 1910"
+
+msgid "IDS_PFPT027_DIANE"
+msgstr "550 mm 24V Mle 3"
+
+msgid "IDS_PFPT028_FORBIN"
+msgstr "550 mm 24V Mle 4"
+
+msgid "IDS_PFPT029_AFRICAINE"
+msgstr "550 mm 24V Mle 3"
+
+msgid "IDS_PFPT030_400_SUB"
+msgstr "400 mm 24V Mle 3"
+
+msgid "IDS_PFPT031_CASABIANCA"
+msgstr "400 mm M26V / 550 mm 23DT"
+
+msgid "IDS_PFPT032_FORBIN_ALT"
+msgstr "550 mm 24V Mle 2"
+
+msgid "IDS_PFSD519"
+msgstr "Forbin"
+
+msgid "IDS_PFSD519_DESCR"
+msgstr "<p>The T 53-class destroyers differed from their predecessors (the T 47 program) by having improved air detection systems, enabling them to carry out radar picket duties for ships of the French Navy.</p><p class=\"p_spacing\"> </p><p>Forbin was laid down in Brest in August 1954, launched in October 1956, and commissioned in February 1958. In 1966–67 and 1971, the destroyer took part in supporting nuclear tests in the Pacific. In 1968–69, she underwent modernization to strengthen her radar equipment. In 1973, Forbin was converted into a training ship and reassigned to accompany the helicopter cruiser Jeanne d\"Arc. In this role, Forbin made eight long-range voyages.</p>"
+
+msgid "IDS_PFSD519_FULL"
+msgstr "Forbin"
+
+msgid "IDS_PFSD519_NUMBER"
+msgstr "5"
+
+msgid "IDS_PFSD519_YEAR"
+msgstr "1958"
+
+msgid "IDS_PFSS106"
+msgstr "Diane"
+
+msgid "IDS_PFSS106_DESCR"
+msgstr "<p>From 1927–34, nine submarines of the Diane class were built in Le Havre and Le Tréport. All were named after figures from Greek mythology and were intended for service in the Mediterranean. Diane, the lead boat of this class, was built in Le Havre and served as part of the 14th Submarine Division. At the start of World War II, the 14th Division—like the entire 2nd Submarine Squadron—was based in Algeria. In 1939–40, Diane carried out patrols in the Mediterranean and Atlantic. After France’s capitulation, the submarine became part of the Vichy fleet.</p><p class=\"p_spacing\"> </p><p>In early July 1940, when Britain attacked the French base at Mers-el-Kébir, Diane unsuccessfully attempted to engage British warships. From October 1941 to November 1942, the submarine remained out of service. Diane was scuttled on November 9, 1942, to prevent her capture by the Allies who had landed in North Africa.</p>"
+
+msgid "IDS_PFSS106_FULL"
+msgstr "Diane"
+
+msgid "IDS_PFSS106_NUMBER"
+msgstr "9"
+
+msgid "IDS_PFSS106_YEAR"
+msgstr "1932"
+
+msgid "IDS_PFSS108"
+msgstr "L'Africaine"
+
+msgid "IDS_PFSS108_DESCR"
+msgstr "<p>In the early 1930s, the Y3 project (Aurore class) was developed. Compared to their predecessors, these submarines had a hull one-and-a-half times larger, heavier armament, and improved seaworthiness. Only the lead ship was commissioned before the fall of France.</p><p class=\"p_spacing\"> </p><p>L'Africaine (French for \"the African\"), named after Giacomo Meyerbeer’s opera, was laid down in September 1938 in Le Tréport. In its unfinished state, the submarine was captured by German forces and renamed UF 1, but construction progressed slowly, and the Germans attempted to destroy the incomplete submarine before retreating from Normandy.</p><p class=\"p_spacing\"> </p><p>After the war, L’Africaine was completed according to a revised French design and commissioned into the 1st Submarine Squadron.</p>"
+
+msgid "IDS_PFSS108_FULL"
+msgstr "L'Africaine"
+
+msgid "IDS_PFSS108_NUMBER"
+msgstr "5"
+
+msgid "IDS_PFSS108_YEAR"
+msgstr "1949"
+
+msgid "IDS_PFSS110"
+msgstr "Casabianca"
+
+msgid "IDS_PFSS110_DESCR"
+msgstr "<p>One of the last submarines of the Redoutable class was laid down in Saint-Nazaire under the name Casablanca. Under pressure from the French Navy Minister François Pietri, himself of Corsican origin, she was renamed Casabianca in honor of Luc-Julien-Joseph Casabianca, a hero of the Battle of the Nile.</p><p class=\"p_spacing\"> </p><p>At the start of World War II, Casabianca escorted convoys, patrolled off Norway’s coast, then redeployed to the Mediterranean. On November 27, 1942, the day the bulk of France’s fleet was scuttled to avoid capture by the Germans, Casabianca fled to Algiers and joined the Free French Naval Forces. She actively participated in Allied operations in the Mediterranean, most notably during the liberation of Corsica in September 1943.</p><p class=\"p_spacing\"> </p><p>For her service during World War II, Casabianca was awarded the French Resistance Medal and the Croix de Guerre. The submarine’s conning tower was installed as a memorial in the city of Bastia on Corsica.</p>"
+
+msgid "IDS_PFSS110_FULL"
+msgstr "Casabianca"
+
+msgid "IDS_PFSS110_NUMBER"
+msgstr "31"
+
+msgid "IDS_PFSS110_YEAR"
+msgstr "1937"
+
+msgid "IDS_PFUA506_S6_ART"
+msgstr "75 mm/35 Hotchkiss Mle 1925 in a Mle 1925 mount"
+
+msgid "IDS_PFUA709_S8_ART_STOCK"
+msgstr "88 mm/45 "
+
+msgid "IDS_PFUA808_ART_FORBIN"
+msgstr "127 mm/54 Mle 1948 on a Mle 1948 mount"
+
+msgid "IDS_PFUA912_S10_ART_STOCK"
+msgstr "100 mm/45 Mle 1925 on an SMCA Mle 1925 mount"
+
+msgid "IDS_PFUE508_S6_ENG"
+msgstr "Propulsion: 1,400 hp"
+
+msgid "IDS_PFUE708_S8_ENG_STOCK"
+msgstr "Propulsion: 3,000 hp"
+
+msgid "IDS_PFUE808_ENG_FORBIN"
+msgstr "Propulsion: 63,000 hp"
+
+msgid "IDS_PFUE909_S10_ENG_STOCK"
+msgstr "Propulsion: 8,000 hp"
+
+msgid "IDS_PFUH513_S6_HULL_A"
+msgstr "Diane"
+
+msgid "IDS_PFUH717_S8_HULL_STOCK"
+msgstr "L'Africaine"
+
+msgid "IDS_PFUH813_HULL_FORBIN"
+msgstr "Forbin"
+
+msgid "IDS_PFUH909_S10_HULL_STOCK"
+msgstr "Casabianca"
+
+msgid "IDS_PFUS813_SUO_FORBIN"
+msgstr "PCA n°9"
+
+msgid "IDS_PFUT508_S6_TORP"
+msgstr "550 mm"
+
+msgid "IDS_PFUT704_S8_TORP_STOCK"
+msgstr "550 mm"
+
+msgid "IDS_PFUT805_TORP_FORBIN"
+msgstr "550 mm 23DT"
+
+msgid "IDS_PFUT907_S10_TORP_STOCK"
+msgstr "550 mm 23DT"
+
+msgid "IDS_PGPA162_210MM_HE_FALKENHAYN"
+msgstr "210 mm Spr.Gr. L/4.7"
+
+msgid "IDS_PGPA163_210MM_AP_FALKENHAYN"
+msgstr "210 mm Spr.Gr. L/4.4"
+
+msgid "IDS_PGPT069_FALKENHAYN"
+msgstr "G7 Schildbutt"
+
+msgid "IDS_PGSC520"
+msgstr "Falkenhayn"
+
+msgid "IDS_PGSC520_DESCR"
+msgstr "Hypothetical further development of German heavy cruisers of the late 1930s–early 1940s. Considering the concurrent evolution of \"Washington\" heavy cruisers in other countries, a symmetrical response would have been a design with heavier armament. The principal difference from previous designs lies in the universal-caliber guns—standardized with those planned for the H-42 battleship project. This solution would have allowed better cooperative AA defense within an order (battle group) against enemy aircraft."
+
+msgid "IDS_PGSC520_FULL"
+msgstr "Falkenhayn"
+
+msgid "IDS_PGSC520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC520_YEAR"
+msgstr "1938"
+
+msgid "IDS_PGUA915_ART_FALKENHAYN"
+msgstr "210 mm/60 SK C/34 on a Drh LC/40 mount"
+
+msgid "IDS_PGUE918_ENG_FALKENHAYN"
+msgstr "Propulsion: 144,000 hp"
+
+msgid "IDS_PGUH918_HULL_FALKENHAYN"
+msgstr "Falkenhayn"
+
+msgid "IDS_PGUS914_SUO_FALKENHAYN"
+msgstr "FKS Typ 10"
+
+msgid "IDS_PGUT915_TORP_FALKENHAYN"
+msgstr "G7a T1"
+
+msgid "IDS_PORT_COSMO"
+msgstr "Star Prima"
+
+msgid "IDS_PORT_COSMO_TOOLTIP"
+msgstr "Port \"Star Prima\""
+
+msgid "IDS_PREMIUM_ACCOUNT_COMMON_TOOLTIP_HEADER"
+msgstr "Premium: %(days)s"
+
+msgid "IDS_PREMIUM_ACCOUNT_MK_TOOLTIP_HEADER"
+msgstr "Korabley Premium: %(days)s"
+
+msgid "IDS_PRES501_SMELYI_EA"
+msgstr "Brave Sailor"
+
+msgid "IDS_PRES502_SPOKOINY_EA"
+msgstr "Brave Sailor"
+
+msgid "IDS_PRES503_GORDELIVY_EA"
+msgstr "Brave Sailor"
+
+msgid "IDS_PRGS243_152MM57_BL_118"
+msgstr "152 mm/57 on a BL-118 mount"
+
+msgid "IDS_PROGRESS_TO_MISSION_FINAL_TASK"
+msgstr "Progress toward the final task:"
+
+msgid "IDS_PRPA196_457MM_HE_KR_ZNAMYA"
+msgstr "457 mm HE Model 1946"
+
+msgid "IDS_PRPA197_457MM_AP_KR_ZNAMYA"
+msgstr "457 mm AP Model 1946"
+
+msgid "IDS_PRPA239_130MM_HE_OGNEVOY"
+msgstr "OF-46"
+
+msgid "IDS_PRPA240_130MM_AP_OGNEVOY"
+msgstr "PB-46"
+
+msgid "IDS_PRPA241_152MM_OFU35_SG_T8_11"
+msgstr "OFU-35"
+
+msgid "IDS_PRPT089_OGNEVOY"
+msgstr "53-39 mod. 3"
+
+msgid "IDS_PRSB530"
+msgstr "Kr. Znamya"
+
+msgid "IDS_PRSB530_DESCR"
+msgstr "<p>In the early 1940s, preliminary work on a new battleship began, based on Project 23, but with enhanced AA weaponry, improved armor and TDS (torpedo-defense systems), and better end protection. In December 1945, an operational and technical plan for the Project 24 battleship was approved, where the ship’s main objective was to engage all classes of surface ships at both close and distant ranges. Development of the new battleship started at CKB-L in 1948, and by 1950 one variant of the preliminary design was approved.</p><p class=\"p_spacing\"> </p><p>If such a ship had been built, then, based on operational experience, the second hull might have been completed to an updated design. Its 130 mm universal guns in BL-110A mounts would have been replaced by 152 mm guns in BL-118 mounts. The ship was conceived as an answer to the U.S. Iowa-class battleships, and featured 457 mm B-45 main guns mounted in SM-8 turrets.</p>"
+
+msgid "IDS_PRSB530_FULL"
+msgstr "Krasnoye Znamya"
+
+msgid "IDS_PRSB530_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB530_YEAR"
+msgstr "1953"
+
+msgid "IDS_PRUA923_ART_KR_ZNAMYA"
+msgstr "457 mm/48 B-45 on an SM-8 mount"
+
+msgid "IDS_PRUE927_ENG_KR_ZNAMYA"
+msgstr "Propulsion: 280,000 hp"
+
+msgid "IDS_PRUH927_HULL_KR_ZNAMYA"
+msgstr "Krasnoye Znamya"
+
+msgid "IDS_PRUS921_SUO_KR_ZNAMYA"
+msgstr "GFCS X"
+
+msgid "IDS_PURCHASE_MK_ACCOUNT_FOR"
+msgstr "Buy Korabley Premium for"
+
+msgid "IDS_PVES301_SANTANDER_TM4"
+msgstr "Horizon Sentinel"
+
+msgid "IDS_PVGA066_3IN70_MK6"
+msgstr "76.2 mm/70 QF Mk.N1 on a Mk.6 mount"
+
+msgid "IDS_PVGM064_6IN50_QF_MK_V"
+msgstr "152 mm/50 QF Mk.V on a Mk.XXVI mount"
+
+msgid "IDS_PVPA040_152MM_AP_F_MIRANDA"
+msgstr "152 mm AP 130 lb Mk35"
+
+msgid "IDS_PVPT008_F_MIRANDA"
+msgstr "533 mm Mk 17"
+
+msgid "IDS_PVSC509"
+msgstr "F. de Miranda"
+
+msgid "IDS_PVSC509_DESCR"
+msgstr "<p>In the 1950s, Venezuela implemented a fleet expansion program that included the purchase or construction of new cruisers. In the mid-1950s, Venezuelan authorities contacted Vickers-Armstrongs as well as French and Italian shipbuilders regarding the acquisition of two cruisers. One requirement was that their main guns exceed the power of the older American cruisers that the U.S. had sold to Argentina, Brazil, and Colombia.</p><p class=\"p_spacing\"> </p><p>In 1957, Vickers-Armstrongs proposed a cruiser design featuring dual-purpose twin turrets planned for the Tiger-class cruisers then under construction. However, the British War Office blocked this contract because the Mk.26 mounts were classified and not intended for export.</p>"
+
+msgid "IDS_PVSC509_FULL"
+msgstr "Francisco de Miranda"
+
+msgid "IDS_PVSC509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PVSC509_YEAR"
+msgstr "1955"
+
+msgid "IDS_PVUA803_ART_F_MIRANDA"
+msgstr "152 mm/50 QF Mk.V on a Mk.XXVI mount"
+
+msgid "IDS_PVUE803_ENG_F_MIRANDA"
+msgstr "Propulsion: 108,000 hp"
+
+msgid "IDS_PVUH804_HULL_F_MIRANDA"
+msgstr "Francisco de Miranda"
+
+msgid "IDS_PVUS804_SUO_F_MIRANDA"
+msgstr "Mk9"
+
+msgid "IDS_PVUT802_TORP_F_MIRANDA"
+msgstr "533 mm Mk IX"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_TANKING_AUTO"
+msgstr "Activates automatically each time you earn the \"Took the Hit\" ribbon."
+
+msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_TITLE"
+msgstr "\"Heroic Clash\" Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_TITLE_SHORT"
+msgstr "Heroic Clash"
+
+msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TOURNAMENT"
+msgstr "Select a suitable ship for the Tournament Battle"
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TOURNAMENT_AIRCARRIER"
+msgstr "Aircraft carriers are not allowed in this tournament room."
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TOURNAMENT_AUXILIARY"
+msgstr "Transport ships are not allowed in this tournament room."
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TOURNAMENT_BATTLESHIP"
+msgstr "Battleships are not allowed in this tournament room."
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TOURNAMENT_CRUISER"
+msgstr "Cruisers are not allowed in this tournament room."
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TOURNAMENT_DESTROYER"
+msgstr "Destroyers are not allowed in this tournament room."
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TOURNAMENT_SUBMARINE"
+msgstr "Submarines are not allowed in this tournament room."
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_AVAILABLE_SOON_BUTTON_HINT"
+msgstr "Not enough base XP to unlock Mastery Trials"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_DIVISION_READY_BUTTON_HINT"
+msgstr "\"Ready for battle in Division\" status selected. Click \"Not Ready\" for access to the Mastery Trials."
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_MAX_SHIPS_COUNT_BUTTON_HINT"
+msgstr "You have taken the maximum number of trials. Complete or discard any existing ones to take new ones."
+
+msgid "IDS_SIGN_EQUAL"
+msgstr "="
+
+msgid "IDS_SIGN_MINUS"
+msgstr "-"
+
+msgid "IDS_SIGN_PLUS"
+msgstr "+"
+
+msgid "IDS_SOUND_MOD_ANDROID_TM4"
+msgstr "CM-10A"
+
+msgid "IDS_START_BATTLE_DENY_REASON_IN_TOURNAMENT_ROOM"
+msgstr "The battle will start automatically after a certain time."
+
+msgid "IDS_SYS_MSG_CAMPAIGNS_FINAL_TASK_ENABLED"
+msgstr "The mission’s final task is now available"
+
+msgid "IDS_SYS_MSG_CAMPAIGNS_KEY_TASK_ENABLED"
+msgstr "The mission’s key task is now available"
+
+msgid "IDS_SYS_MSG_MASTERY_TASKS_DONE"
+msgstr "Mastery Trials completed"
+
+msgid "IDS_TAKE_STARS_TO_OPEN_FINAL_TASK_CAMPAIGN"
+msgstr "Earn enough stars to unlock the final task. If you need more stars, complete tasks repeatedly."
+
+msgid "IDS_TAKE_STARS_TO_OPEN_FINAL_TASK_CAMPAIGN_TOOLTIP"
+msgstr "Earn stars to unlock the final task:"
+
+msgid "IDS_TAKE_STARS_TO_OPEN_FINAL_TASK_MISSION"
+msgstr "Earn enough stars to unlock the key task. If you need more stars, complete tasks repeatedly."
+
+msgid "IDS_TAKE_STARS_TO_OPEN_FINAL_TASK_MISSION_TOOLTIP"
+msgstr "Earn stars to unlock the key task:"
+
+msgid "IDS_TEMP_CAMPAIGN_TIME_END"
+msgstr "Available until %(_endTime)s"
+
+msgid "IDS_THIS_SHIP_IS_NOT_ALLOWED_FOR_TOURNAMENT"
+msgstr "The selected ship is not suitable for the Tournament Battle"
+
+msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TOURNAMENT"
+msgstr "Select a ship of a suitable tier."
+
+msgid "IDS_THIS_SHIP_NATION_IS_NOT_ALLOWED_FOR_TOURNAMENT"
+msgstr "Select a ship of a suitable nation."
+
+msgid "IDS_TIME_LEFT_BATTLE_TOURNAMENT"
+msgstr "Until battle starts:"
+
+msgid "IDS_TOOLTIP_CAMPAIGN_FINAL_TASK_DONE"
+msgstr "Final task completed"
+
+msgid "IDS_TOOLTIP_MISSION_FINAL_TASK_DONE"
+msgstr "Key task completed"
+
+msgid "IDS_TOOLTIP_TEMP_CAMPAIGN_TIME_END"
+msgstr "Time remaining until the campaign ends: %(_endTime)s"
+
+msgid "IDS_TOO_MUCH_FOR_TOURNAMENT_BY_CLASS_AIRCARRIER"
+msgstr "Too many aircraft carriers"
+
+msgid "IDS_TOO_MUCH_FOR_TOURNAMENT_BY_CLASS_AUXILIARY"
+msgstr "Too many transport ships"
+
+msgid "IDS_TOO_MUCH_FOR_TOURNAMENT_BY_CLASS_BATTLESHIP"
+msgstr "Too many battleships"
+
+msgid "IDS_TOO_MUCH_FOR_TOURNAMENT_BY_CLASS_CRUISER"
+msgstr "Too many cruisers"
+
+msgid "IDS_TOO_MUCH_FOR_TOURNAMENT_BY_CLASS_DESTROYER"
+msgstr "Too many destroyers"
+
+msgid "IDS_TOO_MUCH_FOR_TOURNAMENT_BY_CLASS_SUBMARINE"
+msgstr "Too many submarines"
+
+msgid "IDS_TOURNAMENTBATTLE"
+msgstr "Tournament Battle"
+
+msgid "IDS_TOURNAMENTBATTLE_DESCRIPTION"
+msgstr "Player-versus-player battles held as part of a tournament."
+
+msgid "IDS_TOURNAMENT_BATTLE_CANCELLED"
+msgstr "Tournament battle canceled"
+
+msgid "IDS_TOURNAMENT_BATTLE_CANCELLED_DESC"
+msgstr "The battle was canceled for technical reasons."
+
+msgid "IDS_TOURNAMENT_BATTLE_ENDED_DESC"
+msgstr "The last battle in the series has ended."
+
+msgid "IDS_TOURNAMENT_BATTLE_ENDED_HEADER"
+msgstr "Tournament Battle Ended"
+
+msgid "IDS_TOURNAMENT_BATTLE_MOVED_DESC"
+msgstr "The battle was rescheduled for technical reasons."
+
+msgid "IDS_TOURNAMENT_BATTLE_MOVED_HEADER"
+msgstr "Tournament Battle Rescheduled"
+
+msgid "IDS_TOURNAMENT_BOTH_TEAMS_TECHNICAL_LOSE"
+msgstr "Both teams received a technical defeat: not all players confirmed readiness for battle."
+
+msgid "IDS_TOURNAMENT_HEADER_NO_DATA"
+msgstr "Loading"
+
+msgid "IDS_TOURNAMENT_HEADER_TIMER_ZERO_TEXT"
+msgstr "Battle in progress"
+
+msgid "IDS_TOURNAMENT_INVITE_TIMER_TEXT"
+msgstr "Until the battle starts: %(_timeLeft)s"
+
+msgid "IDS_TOURNAMENT_INVITE_TIMER_ZERO_TEXT"
+msgstr "Battle in progress"
+
+msgid "IDS_TOURNAMENT_LAST_BATTLE_CANCELLED"
+msgstr "The last battle in the series was canceled."
+
+msgid "IDS_TOURNAMENT_ONE_TEAM_TECHNICAL_LOSE"
+msgstr "Team %(teamName)s received a technical defeat: not all players confirmed readiness for battle."
+
+msgid "IDS_TOURNAMENT_ROOM_CHAT"
+msgstr "Tournament Battle"
+
+msgid "IDS_TOURNAMENT_ROOM_DOES_NOT_EXIST_ERROR_DESC"
+msgstr "Tournament room not found"
+
+msgid "IDS_TOURNAMENT_ROOM_LOADING"
+msgstr "Awaiting battle parameters"
+
+msgid "IDS_TOURNAMENT_ROOM_QUITING"
+msgstr "Leaving the tournament room"
+
+msgid "IDS_TOURNAMENT_ROOM_TIMER"
+msgstr "If players do not confirm readiness in time, the battle will be canceled"
+
+msgid "IDS_X_MULTIPLIER"
+msgstr "×"
+
+msgid "IDS_YOU_ARE_IN_DIVISION_TRAINING_ACCEPT_DENY_TO_TOURNAMENT"
+msgstr "You cannot join the tournament while you are in a Division, training room, or another tournament"

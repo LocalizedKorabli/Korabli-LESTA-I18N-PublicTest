@@ -1,0 +1,284 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED"
+msgstr "Can be completed in Random, Ranked and Rating Battles."
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "Can earn commemorative tokens"
+
+msgid "IDS_CURRENCY_EVENTUM_2"
+msgstr "Commemorative Tokens"
+
+msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
+msgstr "For completing tasks in the 'Baltic Fleet Feats' event during update 25.5, reaching level 20 of the Basic Battle Pass, and from Admiralty bundles until the end of update 25.5."
+
+msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
+msgstr "For Tier VIII battleship Frunze and Tier IX destroyer Sovremenny with permanent 'Victory of Valor' and 'Victory of Courage' camouflages, 'Glory to the Victors!' premium container, and other items until the end of update 25.5."
+
+msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
+msgstr "Temporary resource. Tokens will be removed without compensation when update 25.6 releases."
+
+msgid "IDS_CURRENCY_EVENTUM_5"
+msgstr "Colorful Tokens"
+
+msgid "IDS_CURRENCY_EVENTUM_5_GET_DESCRIPTION"
+msgstr "For completing event combat tasks during update 25.5, from 'Colorful Regatta' premium containers and Admiralty bundles until the end of update 25.5."
+
+msgid "IDS_CURRENCY_EVENTUM_5_SPEND_DESCRIPTION"
+msgstr "For Tier IX destroyer Jutland CLR, Tier X battleship Yamato CLR, super cruiser Condé CLR, 'Colorful Regatta' premium containers, and other items until the end of update 25.5."
+
+msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
+msgstr "Temporary event resource for 'Colorful Regatta'. Tokens will be removed without compensation when update 25.6 releases."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY327_IMPROVESPEED_H2019"
+msgstr "Your ship and all allies within 5 km receive the 'Ship Maneuverability' upgrade. For each ally within 5 km, your ship receives an additional upgrade. Upgrades last until the end of battle."
+
+msgid "IDS_GO_TO_STRATEGIC_ACTIONS_MOUSE_INSTRUCTION"
+msgstr "Go to 'Baltic Fleet Feats' event screen"
+
+msgid "IDS_GUIDING_TIP_272_DESC"
+msgstr "Join the Baltic Fleet through key naval episodes of the Great Patriotic War!"
+
+msgid "IDS_GUIDING_TIP_274_DESC"
+msgstr "You have earned a reward: claim it and proceed to the next operation!"
+
+msgid "IDS_GUIDING_TIP_274_HEADER"
+msgstr "Operation completed"
+
+msgid "IDS_GUIDING_TIP_276_DESC"
+msgstr "Go to the operation to view progress, current task and rewards."
+
+msgid "IDS_GUIDING_TIP_276_HEADER"
+msgstr "Selected operation"
+
+msgid "IDS_GUIDING_TIP_277_DESC"
+msgstr "Each operation has a task list - only one task can be completed per battle. The current task changes with each battle."
+
+msgid "IDS_GUIDING_TIP_278_DESC"
+msgstr "To complete an operation, earn progress points by completing tasks."
+
+msgid "IDS_GUIDING_TIP_279_DESC"
+msgstr "You can claim operation rewards after completing it fully."
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Every ship in your Port from Tier III to super ships has a holiday reward. To claim a ship's reward, enter battle with it and earn 300 base XP or achieve victory."
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_1"
+msgstr ""
+"50 ships: +1 for 350 XP;\n"
+"100 ships: +2 for 400 XP;\n"
+"200 ships: +3 for 500 XP;\n"
+"300 ships: +4 for 600 XP;\n"
+"400 ships: +5 for 700 XP;\n"
+"500 ships: +6 for 800 XP;\n"
+"600 ships: +7 for 1,000 XP."
+
+msgid "IDS_NEWBIE_QUESTS_PCON015_DESCRIPTION"
+msgstr "In Ranked Battles, compete for valuable rewards by advancing through ranks and leagues. Ranked Battles are only available during ranked seasons."
+
+msgid "IDS_PARAMS_MODIFIER_ARTILLERYDAMAGECOEF"
+msgstr "Artillery damage dealt"
+
+msgid "IDS_PARAMS_MODIFIER_RECEIVEARTILLERYDAMAGECOEFF"
+msgstr "Artillery damage received"
+
+msgid "IDS_PCZC355_SOVIETBBARC_ADMIRAL_DESCRIPTION"
+msgstr "<p>Admiral Nikolai Gerasimovich Kuznetsov's career saw many rises and falls due to his conflicts with the country's party leadership. Repeated demotions were often followed by promotions. In his memoirs, he bitterly joked about the 'uniqueness' of his service, having been a rear admiral twice, vice admiral three times, and fleet admiral twice.</p><p class=\"p_spacing\"> </p><p>In May 1955, the rank of 'fleet admiral' was renamed to 'Admiral of the Fleet of the Soviet Union', with recipients receiving a special distinction - the Marshal's Star. The star was worn around the neck with dress uniform. Since 1952, admirals were required to wear a black jacket with gold epaulets and a gold-embroidered collar for parades. The cap badge also featured special embroidery.</p>"
+
+msgid "IDS_PFGT156_550MM_2TUBE_DIANE"
+msgstr "550-mm tube lance-torpilles"
+
+msgid "IDS_PFGT158_550MM_TRIPLE_CASABIANCA"
+msgstr "550-mm tube lance-torpilles"
+
+msgid "IDS_PFGT170_INVISIBLE_TA_LEFT"
+msgstr "550-mm tube lance-torpilles"
+
+msgid "IDS_PFGT171_INVISIBLE_TA_RIGHT"
+msgstr "550-mm tube lance-torpilles"
+
+msgid "IDS_PFPT027_DIANE"
+msgstr "400-mm M26V / 550-mm 24V Mle 5"
+
+msgid "IDS_PFPT029_AFRICAINE"
+msgstr "550-mm 24V Mle 5"
+
+msgid "IDS_PFSC111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFUS930_C11_SUO_STOCK"
+msgstr "PCA n°11"
+
+msgid "IDS_PJUA102_ART_MIKASA"
+msgstr "HE Shells / 305-mm in twin turret"
+
+msgid "IDS_PJUA104_ART_SAZANAMI"
+msgstr "HE Shells / 76-mm in single mount"
+
+msgid "IDS_PJUH102_MIKASA_1904"
+msgstr "Mikasa / HE secondary shells"
+
+msgid "IDS_PRUA104_ART_BOYKIY"
+msgstr "AP Shells / 75-mm on Meller mount"
+
+msgid "IDS_PRUE926_ENG_SUBTEST"
+msgstr "8,400 hp Power Plant"
+
+msgid "IDS_REWARD_EVENTUM_2_TITLE"
+msgstr "Commemorative Tokens"
+
+msgid "IDS_REWARD_EVENTUM_5_TITLE"
+msgstr "Colorful Tokens"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_TITLE_FULL"
+msgstr "Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier X Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier X"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ACOUSTIC_HIT"
+msgstr "Hit an enemy ship with sonar pulse."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BOMB"
+msgstr "Hit an enemy ship with bomb."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_PLANE"
+msgstr "Destroy enemy aircraft with AA guns."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ROCKET"
+msgstr "Hit an enemy ship with rocket."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_TORPEDO"
+msgstr "Hit an enemy ship with torpedo."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
+msgstr "Hit an enemy ship with main battery guns but did not penetrate armor."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_OVER_PENETRATION"
+msgstr "Over-penetrated an enemy ship with main battery shell."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_PENETRATION"
+msgstr "Penetrated an enemy ship's armor with main battery shell."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_RICOCHET"
+msgstr "Your main battery shell ricocheted off enemy ship's armor."
+
+msgid "IDS_STRATEGIC_ACTIONS_BANNER_TEXT_TERRITORY"
+msgstr "Select operation"
+
+msgid "IDS_STRATEGIC_ACTIONS_BUTTON_TOOLTIP_MESSAGE"
+msgstr "Read report"
+
+msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE"
+msgstr "Baltic Fleet Feats"
+
+msgid "IDS_STRATEGIC_ACTIONS_INFO_POINTS_TOOLTIP_TEXT"
+msgstr "Complete operation tasks to earn progress points."
+
+msgid "IDS_STRATEGIC_ACTIONS_NOTIFICATION_BONUS_STATUS"
+msgstr "Active during the 'Baltic Fleet Feats' event in update 25.5"
+
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_0"
+msgstr "Participate in Baltic Fleet battles during the final stage of the Great Patriotic War."
+
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_1"
+msgstr "Complete combat tasks and follow Soviet operations in the Baltic Sea."
+
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_2"
+msgstr "Rewards are given for each operation. Complete all operations to receive the final reward!"
+
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TITLE_1"
+msgstr "Operations"
+
+msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_TERRITORY"
+msgstr "Go to operation"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TERRITORIES"
+msgstr "Operations completed"
+
+msgid "IDS_STRATEGIC_ACTIONS_STATUS_TASK"
+msgstr "You can continue completing tasks from other operations and earning rewards."
+
+msgid "IDS_STRATEGIC_ACTIONS_STATUS_TERRITORY"
+msgstr "Select an operation to start completing tasks"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_ACTIVE_TASK_TOOLTIP_TEXT"
+msgstr "Each operation has a task list - only one task can be completed per battle. The current task changes with each battle."
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_AVAILABLE"
+msgstr "Select operation"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_LOCKED"
+msgstr "First operation not completed"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_MARKER_TOOLTIP_STATUS_LOCKED"
+msgstr "First operation not completed"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TITLE"
+msgstr "Operation completion rewards"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TOOLTIP"
+msgstr "Operation rewards"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SELECTED"
+msgstr "Operation selected"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_STATUS_DONE"
+msgstr "Operation completed"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_TASKS_LIST"
+msgstr "Operation tasks"
+
+msgid "IDS_STRATEGIC_ACTIONS_TOOLTIP_PROGRESSBAR_TITLE"
+msgstr "Until next reward:"
+
+msgid "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
+msgid_plural "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
+msgstr[0] "Requires completing %(_count)s operation"
+msgstr[1] "Requires completing %(_count)s operations"
+
+msgid "IDS_SUBST_STRATEGIC_ACTIONS_COMMON_EVENT_STATUS_TIME"
+msgstr "Until event ends: %(_timeLeft)s"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
+msgstr "Commemorative Tokens purchased"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
+msgstr "Colorful Tokens purchased"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
+msgstr "Received Commemorative Tokens"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_5"
+msgstr "Received Colorful Tokens"
+
+msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARDS_CLAIM"
+msgstr "'Baltic Fleet Feats' event rewards"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
+msgstr "Commemorative Tokens written off"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
+msgstr "Colorful Tokens written off"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_0"
+msgstr "The Supreme High Command is preparing operations to liberate occupied territories. The fleet's mission: counter enemy naval actions and ensure maritime transport."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_1"
+msgstr "The enemy was defeated, and the USSR achieved victory in the Great Patriotic War. The Baltic Fleet completed its assigned missions and provided significant support to the Red Army."
