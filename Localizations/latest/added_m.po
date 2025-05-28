@@ -4,2402 +4,1547 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: LocalizedKorabli <localizedkorabli@outlook.com>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.6\n"
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_SUPERWARRIOR"
-msgstr "Destroy 20 enemy ships in a single battle."
+msgid "IDS_ACHIEVEMENT_COLLECTION_MKBIRTHDAY_COMPLETED"
+msgstr "Second Game Anniversary"
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_TRIPLE_KILL"
-msgstr "Destroy 3 enemy ships within no more than 20 seconds."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECTION_MKBIRTHDAY_COMPLETED"
+msgstr "Complete the Second Game Anniversary collection."
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_TROPHY_WIN_MEMORABLE"
-msgstr "Win a battle while fighting aboard an Iron Horde trophy cruiser."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FEST2016"
+msgstr "For your participation in Fest 2016."
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_WIN_MEMORABLE"
-msgstr "Defeat the bot horde while fighting as part of the united forces of the Russian and Japanese Empires."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FEST2017"
+msgstr "For your participation in Fest 2017."
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_9MAY_FULL"
-msgstr "Complete all operations in the 'Baltic Fleet Feats' event."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_MKBD6_COMPLETED"
+msgstr "Complete the Sixth Game Anniversary collection."
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_VICTORYDAY"
-msgstr "Take part in the celebration of the 80th anniversary of the victory in the Great Patriotic War."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_MKBD7_2022_COMPLETED"
+msgstr "Complete the Seven Seas collection."
 
-msgid "IDS_ACHIEVEMENT_PVE_DREADNOUGHT_SUPERWARRIOR"
-msgstr "Machine Destroyer"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_TM_COMPLETED"
+msgstr "Complete the Tsar Morey collection."
 
-msgid "IDS_ACHIEVEMENT_PVE_DREADNOUGHT_TRIPLE_KILL"
-msgstr "Triple Strike"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SPB_STAFF"
+msgstr "Dev Team Employee."
 
-msgid "IDS_ACHIEVEMENT_PVE_DREADNOUGHT_TROPHY_WIN_MEMORABLE"
-msgstr "Trophy Hunter"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_ACHIEVEMENT_PVE_DREADNOUGHT_WIN_MEMORABLE"
-msgstr "Union of Empires"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM14"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVE_DREADNOUGHT"
-msgstr "Available in the 'Iron Horde' event."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM15"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_ACHIEVEMENT_STRATOPS_9MAY_FULL"
-msgstr "Baltic Fleet Feats"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_IX"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_ACHIEVEMENT_VICTORYDAY"
-msgstr "80 Years of the Great Victory"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_VI"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_ARCHIVE_BUTTON_SOUND"
-msgstr "Listen to the recording"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_VII"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_ARCHIVE_TITLE"
-msgstr "Baltic Fleet Feats"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_VIII"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_BATTLEPASS_SPLASH_SCREEN_OBSERVE_ELITE_CREW_BOOK"
-msgstr "To the Battle Pass"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_X"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_BATTLEPASS_SPLASH_SCREEN_SUBTITLE"
-msgstr "Do you have a commander who has been through fire and water with you, whose skills have saved you many times? Now you can promote your commander to elite rank to unlock a national talent and enhanced skills. To do this, you'll need an Elite Commander's Manual — complete the Battle Pass to earn it!"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_XI"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_BATTLEPASS_SPLASH_SCREEN_TITLE"
-msgstr "Elite Commander's Manual"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_XII"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_BB_NAME1_1"
-msgstr "Destroyer-01"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_XIII"
+msgstr "Hard work and training pay off! Place among the top three teams in the player tournament."
 
-msgid "IDS_BB_NAME1_10"
-msgstr "Constructor-14"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TWITCH"
+msgstr "Welcome to the game!"
 
-msgid "IDS_BB_NAME1_2"
-msgstr "Techno-77"
+msgid "IDS_ACHIEVEMENT_FEST2016"
+msgstr "Fest 2016"
 
-msgid "IDS_BB_NAME1_3"
-msgstr "Rust-3000"
+msgid "IDS_ACHIEVEMENT_FEST2017"
+msgstr "Fest 2017"
 
-msgid "IDS_BB_NAME1_4"
-msgstr "Spark-12"
+msgid "IDS_ACHIEVEMENT_FILLALBUM_MKBD6_COMPLETED"
+msgstr "Sixth Game Anniversary"
 
-msgid "IDS_BB_NAME1_5"
-msgstr "Cataclysm-13"
+msgid "IDS_ACHIEVEMENT_FILLALBUM_MKBD7_2022_COMPLETED"
+msgstr "Seven Seas"
 
-msgid "IDS_BB_NAME1_6"
-msgstr "Strike-99"
+msgid "IDS_ACHIEVEMENT_FILLALBUM_TM_COMPLETED"
+msgstr "Tsar Morey"
 
-msgid "IDS_BB_NAME1_7"
-msgstr "Cyber-17"
+msgid "IDS_ACHIEVEMENT_SPB_STAFF"
+msgstr "Developer"
 
-msgid "IDS_BB_NAME1_8"
-msgstr "Machine-77"
+msgid "IDS_ACHIEVEMENT_TM"
+msgstr "Finalist in the player tournament V"
 
-msgid "IDS_BB_NAME1_9"
-msgstr "Electron-66"
+msgid "IDS_ACHIEVEMENT_TM14"
+msgstr "Finalist in the player tournament XIV"
 
-msgid "IDS_BEST_RATING"
-msgstr "Best Rating"
+msgid "IDS_ACHIEVEMENT_TM15"
+msgstr "Finalist in the player tournament XV"
 
-msgid "IDS_BEST_RATING_TOOLTIP"
-msgstr "The best rating you achieved in Rating Battles"
+msgid "IDS_ACHIEVEMENT_TM_IX"
+msgstr "Finalist in the player tournament IX"
 
-msgid "IDS_CAROUSEL_RATINGBATTLE_FILTER"
-msgstr "Filter ships suitable for the Rating Battle"
+msgid "IDS_ACHIEVEMENT_TM_VI"
+msgstr "Finalist in the player tournament VI"
 
-msgid "IDS_CA_NAME1_1"
-msgstr "Synthesizer-9"
+msgid "IDS_ACHIEVEMENT_TM_VII"
+msgstr "Finalist in the player tournament VII"
 
-msgid "IDS_CA_NAME1_10"
-msgstr "Hammer-7"
+msgid "IDS_ACHIEVEMENT_TM_VIII"
+msgstr "Finalist in the player tournament VIII"
 
-msgid "IDS_CA_NAME1_2"
-msgstr "Conflict-66"
+msgid "IDS_ACHIEVEMENT_TM_X"
+msgstr "Finalist in the player tournament X"
 
-msgid "IDS_CA_NAME1_3"
-msgstr "Armageddon-3"
+msgid "IDS_ACHIEVEMENT_TM_XI"
+msgstr "Finalist in the player tournament XI"
 
-msgid "IDS_CA_NAME1_4"
-msgstr "Battle-X"
+msgid "IDS_ACHIEVEMENT_TM_XII"
+msgstr "Finalist in the player tournament XII"
 
-msgid "IDS_CA_NAME1_5"
-msgstr "Iron-19"
+msgid "IDS_ACHIEVEMENT_TM_XIII"
+msgstr "Finalist in the player tournament XIII"
 
-msgid "IDS_CA_NAME1_6"
-msgstr "Scrap-X"
+msgid "IDS_ACHIEVEMENT_TWITCH"
+msgstr "Twitch Welcome"
 
-msgid "IDS_CA_NAME1_7"
-msgstr "Technologist-77"
+msgid "IDS_ALCHEMY_DENY_NOT_ENOUGH"
+msgstr "Not enough to exchange: %(_deficit)d"
 
-msgid "IDS_CA_NAME1_8"
-msgstr "Mechanic-9"
+msgid "IDS_ALCHEMY_NOT_EXCHANGEABLE_TOOLTIP"
+msgstr "Not exchangeable"
 
-msgid "IDS_CA_NAME1_9"
-msgstr "Steel-9"
+msgid "IDS_CANNOT_HIT_TARGET_TOO_FAR"
+msgstr "TORPEDOES WON'T REACH THE TARGET"
 
-msgid "IDS_CHAT_DREADNOUGHT_PVE_MAKAROV_1"
-msgstr "They look like copies of our ships, but without a soul. We're fighting not just for our empires, but for the very idea of humanity."
+msgid "IDS_CANNOT_HIT_TARGET_WRONG_TARGET_TYPE"
+msgstr "INVULNERABLE TO SELECTED TORPEDOES"
 
-msgid "IDS_CHAT_DREADNOUGHT_PVE_MAKAROV_2"
-msgstr "Agreed. And may the storm be on our side. Charge!"
+msgid "IDS_DESCRIPTION_PCZA020_TM"
+msgstr "The collection is dedicated to the exciting competitions of Mir Korabley! Individual players and entire teams compete in the art of battle and fight for the title of Tsar of the Seas! Learn about the categories participants are divided into, why some judges prefer the stick to the carrot, what the duties of organizers include, and why destroyers turn their stern to capture a control point."
 
-msgid "IDS_CHAT_DREADNOUGHT_PVE_TOGO_1"
-msgstr "Makarov, they're coming. They're countless, but we must try to stop them."
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_1"
+msgstr "Deal damage with torpedoes"
 
-msgid "IDS_CHAT_DREADNOUGHT_PVE_TOGO_2"
-msgstr "Then let this battle prove that machines will never surpass humans. You take the flank, I'll take the center."
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_2"
+msgstr "Deal damage with torpedoes"
 
-msgid "IDS_CHOOSE_RATINGBATTLE"
-msgstr "Select Rating Battle"
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_3"
+msgstr "Deal damage with torpedoes while remaining undetected"
 
-msgid "IDS_CLICK_TO_SET_PORT"
-msgstr "Click on the Port image to set it as your default Port."
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_4"
+msgstr "Deal damage with torpedoes along with your allies"
 
-msgid "IDS_CONTINUE_QUESTION"
-msgstr "Continue?"
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_5"
+msgstr "Capture a control point and deal damage with torpedoes"
 
-msgid "IDS_CREW_EPIC_PROMOTE_DENY_REASON_IN_FORMATION"
-msgstr "Status is set to 'Ready for battle in a squad.' Click 'Not Ready' to apply the Elite Commander's Manual."
+msgid "IDS_DOCK_AMMO_DESCRIPTION_SS"
+msgstr "Create a smoke screen in the burst zone. The smoke screen reduces the likelihood of detection by the enemy."
 
-msgid "IDS_CREW_EPIC_PROMOTE_DENY_REASON_IS_IN_BATTLE"
-msgstr "Wait for the commander to return from battle to apply the Elite Commander's Manual."
+msgid "IDS_DOCK_AMMO_TITLE_SS"
+msgstr "Дымовые снаряды"
 
-msgid "IDS_CREW_EPIC_SKILL_NO_OTHER_SKILL_HOSTS_ON_ACCOUNT"
-msgstr "You have no other commanders with this enhanced skill."
+msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_TM"
+msgstr "Состязание игроков"
 
-msgid "IDS_CREW_EPIC_SKILL_WITH_NO_OTHER_SKILL_HOSTS_DENY_CONSEQUENCE"
-msgstr "If you reject the enhancement, other elite commanders will lose access to it."
+msgid "IDS_EXCHANGE"
+msgstr "Exchange"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_0"
-msgstr "Francisco"
+msgid "IDS_EXCHANGE_ARROW_TEXT"
+msgstr "Exchange"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_1"
-msgstr "Juan"
+msgid "IDS_EXCHANGE_ECOBOOSTS"
+msgstr "Exchange"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_10"
-msgstr "Edgar"
+msgid "IDS_EXCHANGE_ECOBOOSTS_HINT"
+msgstr "Exchange economic bonuses"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_11"
-msgstr "Gustavo"
+msgid "IDS_EXCHANGE_ECOBOOSTS_TAB"
+msgstr "Economic Bonuses"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_12"
-msgstr "Julio"
+msgid "IDS_EXCHANGE_ITEMS_HEADER"
+msgstr "ITEM EXCHANGE"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_13"
-msgstr "Miguel"
+msgid "IDS_EXCHANGE_SIGNALS"
+msgstr "Exchange"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_14"
-msgstr "Carlos"
+msgid "IDS_EXCHANGE_SIGNALS_HINT"
+msgstr "Exchange signals"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_15"
-msgstr "Ronald"
+msgid "IDS_EXCHANGE_SIGNALS_TAB"
+msgstr "Signals"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_16"
-msgstr "Alejandro"
+msgid "IDS_FIRST_TMSUBCOLLECTION_NAME"
+msgstr "Players"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_17"
-msgstr "Enrique"
+msgid "IDS_FOR_ALCHEMY_EXCHANGE"
+msgstr "Exchange:"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_18"
-msgstr "Nicolás"
+msgid "IDS_FOURTH_TMSUBCOLLECTION_NAME"
+msgstr "Strategies"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_19"
-msgstr "Diosdado"
+msgid "IDS_GUIDING_TIP_333_DESC"
+msgstr "You can now exchange materials for a random ship blueprint."
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_2"
-msgstr "Jorge"
+msgid "IDS_GUIDING_TIP_333_HEADER"
+msgstr "Get a new blueprint"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_20"
-msgstr "Elías"
+msgid "IDS_GUIDING_TIP_334_DESC"
+msgstr "Click to exchange materials for a random blueprint."
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_21"
-msgstr "Remiglio"
+msgid "IDS_GUIDING_TIP_334_HEADER"
+msgstr "New blueprint"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_22"
-msgstr "Lucas"
+msgid "IDS_MK_MT"
+msgstr "Maxim Metky"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_23"
-msgstr "Rafael"
+msgid "IDS_MODAL_WINDOW_PCVT004_MANEUVER_PRIME_BATTLE_RULES_HEADER"
+msgstr "Destroyer Maneuvers"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_24"
-msgstr "Manuel"
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_5_HEADER"
+msgstr "POINTS"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_25"
-msgstr "Ernesto"
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_5_TEXT_1"
+msgstr "Each phase has different point earning conditions. Points are lost when the enemy hits your ship."
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_26"
-msgstr "Ricardo"
+msgid "IDS_MT_KATUKOV"
+msgstr "Mikhail Katukov"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_27"
-msgstr "Félix"
+msgid "IDS_NAME110"
+msgstr "Target"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_28"
-msgstr "Antonio"
+msgid "IDS_NAME111"
+msgstr "Target"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_29"
-msgstr "Jesús"
+msgid "IDS_NAME112"
+msgstr "Target"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_3"
-msgstr "Fernando"
+msgid "IDS_NAME113"
+msgstr "Target"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_4"
-msgstr "Ramón"
+msgid "IDS_NAME114"
+msgstr "Target"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_5"
-msgstr "José"
+msgid "IDS_NAME115"
+msgstr "Target"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_6"
-msgstr "Daniel"
+msgid "IDS_NAME116"
+msgstr "Target"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_7"
-msgstr "Luis"
+msgid "IDS_NAME117"
+msgstr "Target"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_8"
-msgstr "Hugo"
+msgid "IDS_NAME118"
+msgstr "Target"
 
-msgid "IDS_CREW_FIRSTNAME_VENEZUELA_9"
-msgstr "Eliseo"
+msgid "IDS_NAME119"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_0"
-msgstr "Gallardo Moros"
+msgid "IDS_NAME120"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_1"
-msgstr "Moreno Lagleyze"
+msgid "IDS_NAME121"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_10"
-msgstr "Soteldo Olivares"
+msgid "IDS_NAME122"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_11"
-msgstr "Guererro Martínez"
+msgid "IDS_NAME123"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_12"
-msgstr "Quiento Andrande"
+msgid "IDS_NAME124"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_13"
-msgstr "Gomes Alvarez"
+msgid "IDS_NAME210"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_14"
-msgstr "Seijas Fossa"
+msgid "IDS_NAME211"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_15"
-msgstr "Chacón Villalobos"
+msgid "IDS_NAME212"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_16"
-msgstr "Rivero Blanco"
+msgid "IDS_NAME213"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_17"
-msgstr "Falcón Castellano"
+msgid "IDS_NAME214"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_18"
-msgstr "Benatuil Córdova"
+msgid "IDS_NAME215"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_19"
-msgstr "Rivero Núñez"
+msgid "IDS_NAME216"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_2"
-msgstr "Machado Vivas"
+msgid "IDS_NAME217"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_20"
-msgstr "Medina Veloz"
+msgid "IDS_NAME218"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_21"
-msgstr "Romero Cedeño"
+msgid "IDS_NAME219"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_22"
-msgstr "Osorio Nader"
+msgid "IDS_NAME220"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_23"
-msgstr "Paredes Altuve"
+msgid "IDS_NAME221"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_24"
-msgstr "Rondon Flores"
+msgid "IDS_NAME222"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_25"
-msgstr "Arango Vizcarrondo"
+msgid "IDS_NAME223"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_26"
-msgstr "Delgado Rivas"
+msgid "IDS_NAME224"
+msgstr "Target"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_27"
-msgstr "Ichaso Caripe"
+msgid "IDS_NAME_ALLY_4_11"
+msgstr "Ally"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_28"
-msgstr "Carrera Vásquez"
+msgid "IDS_NAME_ALLY_4_12"
+msgstr "Ally"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_29"
-msgstr "Ruiz Sevillano"
+msgid "IDS_NAME_ALLY_4_NAR"
+msgstr "Ally"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_3"
-msgstr "Chávez Pérez"
+msgid "IDS_PAES358_NORTHCAROLINA_TM"
+msgstr "Bane of the Seas"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_4"
-msgstr "Maduro Guastini"
+msgid "IDS_PBPA152_152MM_ATBA_30HE"
+msgstr "152 mm HE Mk V"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_5"
-msgstr "Bolívar Lezama"
+msgid "IDS_PCEC017_CAMO_MK_BIRTHDAY_TILE"
+msgstr "Thetis"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_6"
-msgstr "Pereira Ochoa"
+msgid "IDS_PCEC065_FEST_2018"
+msgstr "Smoldering Fire"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_7"
-msgstr "Hernández Frias"
+msgid "IDS_PCEC086_TMCAMO"
+msgstr "Tsar Morey"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_8"
-msgstr "Seijas Contreras"
+msgid "IDS_PCEC118_TM13_RED_CAMO"
+msgstr "Tsar Morey — Red"
 
-msgid "IDS_CREW_LASTNAME_VENEZUELA_9"
-msgstr "Lanz Navarro"
+msgid "IDS_PCEC119_TM13_GREEN_CAMO"
+msgstr "Tsar Morey — Green"
 
-msgid "IDS_CREW_RANK_VENEZUELA_0"
-msgstr "Guardiamarina"
+msgid "IDS_PCEC143_CAMO_TM_LUKOMORYE_RED"
+msgstr "Crimson and Gold"
 
-msgid "IDS_CREW_RANK_VENEZUELA_1"
-msgstr "Alférez de navío"
+msgid "IDS_PCEC144_CAMO_TM_LUKOMORYE_GREEN"
+msgstr "Green Oak"
 
-msgid "IDS_CREW_RANK_VENEZUELA_10"
-msgstr "Almirante en Jefe"
+msgid "IDS_PCEE022_FLAG_LESTA"
+msgstr "Dev Cycle"
 
-msgid "IDS_CREW_RANK_VENEZUELA_2"
-msgstr "Teniente de fragata"
+msgid "IDS_PCEE022_FLAG_LESTA_DESCRIPTION"
+msgstr "Our whole life is a game."
 
-msgid "IDS_CREW_RANK_VENEZUELA_3"
-msgstr "Teniente de navío"
+msgid "IDS_PCEE058_FEST"
+msgstr "Fest 2016"
 
-msgid "IDS_CREW_RANK_VENEZUELA_4"
-msgstr "Capitán de corbeta"
+msgid "IDS_PCEE058_FEST_DESCRIPTION"
+msgstr "For your participation in Fest 2016."
 
-msgid "IDS_CREW_RANK_VENEZUELA_5"
-msgstr "Capitán de fragata"
+msgid "IDS_PCEE062_TM"
+msgstr "Naval Battle"
 
-msgid "IDS_CREW_RANK_VENEZUELA_6"
-msgstr "Capitán de navío"
+msgid "IDS_PCEE062_TM_DESCRIPTION"
+msgstr "You fight on equal terms with any opponent. In the harsh conditions of naval battles, you have proven your superiority, elevating it to an art form. You are the Tsar of the Seas and will remain so until someone comes along who can take this title from you."
 
-msgid "IDS_CREW_RANK_VENEZUELA_7"
-msgstr "Contraalmirante"
+msgid "IDS_PCEE062_TM_EXTRA_DESCRIPTION"
+msgstr "In honor of the \"Tsar Morey\" tournament."
 
-msgid "IDS_CREW_RANK_VENEZUELA_8"
-msgstr "Vicealmirante"
+msgid "IDS_PCEE120_SUMMER_FEST_2017"
+msgstr "Summer Fest 2017"
 
-msgid "IDS_CREW_RANK_VENEZUELA_9"
-msgstr "Almirante"
+msgid "IDS_PCEE120_SUMMER_FEST_2017_DESCRIPTION"
+msgstr "For participating in the first Summer Fest."
 
-msgid "IDS_CUSTOM_MAP_PCVO032"
-msgstr "Storm in the Quiet Sea"
+msgid "IDS_PCEE120_SUMMER_FEST_2017_EXTRA_DESCRIPTION"
+msgstr "Thank you for your dedication to the games we make! We hope you never stop enjoying them!"
 
-msgid "IDS_DD_NAME1_1"
-msgstr "Relentless-17"
+msgid "IDS_PCEE134_ANNIVERSARY"
+msgstr "Nineteen Years"
 
-msgid "IDS_DD_NAME1_10"
-msgstr "Adapter-66"
+msgid "IDS_PCEE134_ANNIVERSARY_DESCRIPTION"
+msgstr "Time-tested!"
 
-msgid "IDS_DD_NAME1_2"
-msgstr "Karga-K47"
+msgid "IDS_PCEE135_FEST_2017"
+msgstr "Fest 2017"
 
-msgid "IDS_DD_NAME1_3"
-msgstr "Whirlwind-9"
+msgid "IDS_PCEE135_FEST_2017_DESCRIPTION"
+msgstr "For your participation in Fest 2017."
 
-msgid "IDS_DD_NAME1_4"
-msgstr "Ruins-88"
+msgid "IDS_PCEE222_FEST_2018_FLAG"
+msgstr "Brought the Heat!"
 
-msgid "IDS_DD_NAME1_5"
-msgstr "Landing-17"
+msgid "IDS_PCEE222_FEST_2018_FLAG_DESCRIPTION"
+msgstr "Officially confirmed: the bearer of this flag rocked the Fest 2018."
 
-msgid "IDS_DD_NAME1_6"
-msgstr "Knight-6"
+msgid "IDS_PCEE260_MK_FLAG"
+msgstr "Legends"
 
-msgid "IDS_DD_NAME1_7"
-msgstr "Claw-92"
+msgid "IDS_PCEE260_MK_FLAG_DESCRIPTION"
+msgstr "In honor of true naval legends."
 
-msgid "IDS_DD_NAME1_8"
-msgstr "Apocalypse-5"
+msgid "IDS_PCEE330_TM_X_FLAG"
+msgstr "Marine Throne"
 
-msgid "IDS_DD_NAME1_9"
-msgstr "Scar-0"
+msgid "IDS_PCEE330_TM_X_FLAG_DESCRIPTION"
+msgstr ""
+"There is a throne — adorned with pearls and amber,\n"
+"Upon it sits a King like the old waves.\n"
+"He stretches his hand to the bay, to the ocean,\n"
+"And with a sapphire scepter, he commands the waters."
 
-msgid "IDS_DE_ASYMM_DOMINATION_DESCRIPTION"
-msgstr "The course of the Russo-Japanese War was disrupted when naval forces of both countries were attacked by a mysterious enemy. Clanking and hissing through the torrential rain emerged a squadron of crude copies of Russian and Japanese ships. No living souls were aboard, and semaphores flashed a single repeated signal: “Surrender to the might of the Iron Horde.” The rivals had no choice but to join forces against the common threat."
+msgid "IDS_PCEE330_TM_X_FLAG_EXTRA_DESCRIPTION"
+msgstr "In honor of the \"Tsar Morey\" tournament."
 
-msgid "IDS_DE_ASYMM_DOMINATION_GOAL"
-msgstr "Score 1000 points by destroying enemy ships."
+msgid "IDS_PCEE461_TM13_FLAG"
+msgstr "Player Tournament XIII"
 
-msgid "IDS_DE_ASYMM_DOMINATION_NAME"
-msgstr "Iron Horde"
+msgid "IDS_PCEE461_TM13_FLAG_DESCRIPTION"
+msgstr "In honor of the thirteenth season of the player tournament."
 
-msgid "IDS_DE_ASYMM_DOMINATION_NAME_RESULT_SCREEN"
-msgstr "Iron Horde"
+msgid "IDS_PCEE521_TM_XIV_FLAG"
+msgstr "Player Tournament XIV"
 
-msgid "IDS_DOGTAG_PCNB458_DESCRIPTION"
-msgstr "In honor of the 80th anniversary of the Soviet people's victory in the Great Patriotic War against Nazi Germany."
+msgid "IDS_PCEE521_TM_XIV_FLAG_DESCRIPTION"
+msgstr "In honor of the fourteenth season of the player tournament."
 
-msgid "IDS_DOGTAG_PCNB458_NAME"
-msgstr "80 Years of Great Victory"
+msgid "IDS_PCEE560_MK_MT_FLAG"
+msgstr "World of Military Vehicles"
 
-msgid "IDS_DREADNOUGHT_EVENT_ANTIRAM"
-msgstr "Ship takes minor damage when ramming"
+msgid "IDS_PCEE560_MK_MT_FLAG_DESCRIPTION"
+msgstr "In honor of the games Mir Korabley, Mir Tankov, and Tanks Blitz."
 
-msgid "IDS_DREADNOUGHT_EVENT_AP_HIGH_DAMAGE"
-msgstr "AP shells deal high damage"
+msgid "IDS_PCEE583_TM15_FLAG"
+msgstr "Lord of the Sea"
 
-msgid "IDS_DREADNOUGHT_EVENT_AP_ONLY"
-msgstr "Only AP shells available"
+msgid "IDS_PCEE583_TM15_FLAG_DESCRIPTION"
+msgstr "The wrath of the Lord of the Sea is terrifying: waves rise to the heavens, winds tear sails to shreds, and monsters threaten to drag you into the underwater kingdom."
 
-msgid "IDS_DREADNOUGHT_EVENT_AP_SECONDARIES"
-msgstr "Secondary guns fire AP shells"
+msgid "IDS_PCEE583_TM15_FLAG_EXTRA_DESCRIPTION"
+msgstr "In honor of the \"Tsar Morey\" tournament."
 
-msgid "IDS_DREADNOUGHT_EVENT_AP_STANDARD"
-msgstr "Only AP shells in basic modules"
+msgid "IDS_PCEE739_SOVETSKAYA_GRUZIA_FLAG"
+msgstr "Georgian SSR"
 
-msgid "IDS_DREADNOUGHT_EVENT_AVRORA"
-msgstr "Highest damage per minute"
+msgid "IDS_PCEE739_SOVETSKAYA_GRUZIA_FLAG_DESCRIPTION"
+msgstr "In 1951, by decree of the Presidium of the Supreme Soviet of the Georgian SSR, the republic's flag designed by artist S.D. Maisashvili was approved. The flag colors were not officially interpreted, but it was believed that the blue color symbolized the sea, while the square with sun rays represented a cloudless sky."
 
-msgid "IDS_DREADNOUGHT_EVENT_BOYKIY_B_HULL"
-msgstr "Researchable hull improves survivability"
+msgid "IDS_PCEE752_FORBIN_FLAG"
+msgstr "Forbin"
 
-msgid "IDS_DREADNOUGHT_EVENT_GOOD_SMOKES"
-msgstr "“Full Speed Smoke Generator” available"
+msgid "IDS_PCEE752_FORBIN_FLAG_DESCRIPTION"
+msgstr "Claude Forbin - French naval commander and diplomat, Knight of the Order of Saint Louis. Forbin served in the French diplomatic mission in Siam, where he held the positions of Admiral, General of all Siamese armies, and Governor of Bangkok. For his merits in the War of the Spanish Succession, Claude Forbin was granted the title of Count by Louis XIV."
 
-msgid "IDS_DREADNOUGHT_EVENT_GOOD_SPEED_BOOSTER"
-msgstr "“Combat Engine Boost” available"
+msgid "IDS_PCEE753_IMPERO_FLAG"
+msgstr "RN Impero"
 
-msgid "IDS_DREADNOUGHT_EVENT_HE_HIGH_DAMAGE"
-msgstr "HE shells deal high damage"
+msgid "IDS_PCEE753_IMPERO_FLAG_DESCRIPTION"
+msgstr "The Italian colonial empire - the totality of Italy's possessions in the 19th-20th centuries - was portrayed by some politicians as a revived Roman Empire. Roman legions had a special standard called the signum, which featured a manuss - a raised palm gesture symbolizing the legionnaires' oath of allegiance - as its finial."
 
-msgid "IDS_DREADNOUGHT_EVENT_HE_ONLY"
-msgstr "Only HE shells available"
+msgid "IDS_PCEE754_I_2_FLAG"
+msgstr "I-2"
 
-msgid "IDS_DREADNOUGHT_EVENT_HE_SECONDARIES"
-msgstr "Secondary guns fire HE shells"
+msgid "IDS_PCEE754_I_2_FLAG_DESCRIPTION"
+msgstr "The Japanese navy had qualification badges for naval aviation pilots. The highest grade badge featured a chrysanthemum, anchor, and aircraft propeller. Imperial navy pilots served not only on aircraft carriers but also on submarine aircraft carriers."
 
-msgid "IDS_DREADNOUGHT_EVENT_HE_STANDARD"
-msgstr "Only HE shells in basic modules"
+msgid "IDS_PCEE755_JULANG_FLAG"
+msgstr "Julang"
 
-msgid "IDS_DREADNOUGHT_EVENT_MIDDLE_CALIBER_GOOD"
-msgstr "High efficiency of medium caliber"
+msgid "IDS_PCEE755_JULANG_FLAG_DESCRIPTION"
+msgstr "\"Julang\" (meaning \"big wave\" in Chinese) - a family of submarine-launched ballistic missiles armed on missile submarines of the People's Liberation Army Navy of China. The emblem of the PLA Navy features a badge with a silver anchor and star against waves."
 
-msgid "IDS_DREADNOUGHT_EVENT_MODULE_RESEARCH"
-msgstr "Researchable modules available"
+msgid "IDS_PCEE756_CHIKUGO_FLAG"
+msgstr "Chikugo"
 
-msgid "IDS_DREADNOUGHT_EVENT_NOVIK"
-msgstr "Highest ramming efficiency"
+msgid "IDS_PCEE756_CHIKUGO_FLAG_DESCRIPTION"
+msgstr "Chikugo - a river originating at Mount Aso and flowing into Ariake Bay. Most of its course runs through the ancient Chikugo Province. During Japan's feudal period and the Tokugawa shogunate, this province was ruled by the Hizen-Arima samurai clan."
 
-msgid "IDS_DREADNOUGHT_EVENT_SAZANAMI_B_HULL"
-msgstr "Researchable hull increases speed"
+msgid "IDS_PCEE757_LAZIO_FLAG"
+msgstr "RN Lazio"
 
-msgid "IDS_DREADNOUGHT_EVENT_TORPEDO"
-msgstr "High torpedo efficiency"
+msgid "IDS_PCEE757_LAZIO_FLAG_DESCRIPTION"
+msgstr "Lazio - a historical region in central Italy considered the core of both the Roman state and modern Italy. In the 1st millennium BC, before unification under Rome, Lazio was home to a federation of cities known as the Latin League."
 
-msgid "IDS_DREADNOUGHT_EVENT_VARYAG"
-msgstr "Highest main battery efficiency"
+msgid "IDS_PCVT004_MANEUVER_PRIME_BRIEFING_0"
+msgstr "each phase has different tasks and point earning conditions;"
 
-msgid "IDS_DREADNOUGHT_ICON_RULES_HEADER"
-msgstr "Upgrade Types"
+msgid "IDS_PCVT004_MANEUVER_PRIME_BRIEFING_1"
+msgstr "points are lost when torpedoes hit your ship."
 
-msgid "IDS_DREADNOUGHT_RULES_BULLET_1"
-msgstr "Pick up upgrades to enhance the combat performance of your team's ships."
+msgid "IDS_PCVT004_MANEUVER_PRIME_DESCRIPTION"
+msgstr "The trial consists of 5 phases, each lasting 3 minutes. If you complete the task early, you can earn bonus points that will be counted in the next phase."
 
-msgid "IDS_DREADNOUGHT_RULES_HEADER"
-msgstr "Mode Features"
+msgid "IDS_PCVT004_MANEUVER_PRIME_EXTRA_DESCRIPTION"
+msgstr "The more phases you complete, the more resources you will receive as a reward."
 
-msgid "IDS_DREADNOUGHT_SUBTITLE"
-msgstr "Battles against hordes of bots on ships from the ironclad era. The number of enemies constantly increases!"
+msgid "IDS_PCVT004_MANEUVER_PRIME_GOAL"
+msgstr "In this trial, you will hone your destroyer combat skills."
 
-msgid "IDS_DUAL_SSC_SS_CONSTRSIDE"
-msgstr "Hull Plating"
+msgid "IDS_PCVT004_MANEUVER_PRIME_NAME"
+msgstr "Destroyer Maneuvers"
 
-msgid "IDS_ELITE_CREW_MANUAL"
-msgstr "Elite Commander's Manual"
+msgid "IDS_PCVT004_MANEUVER_PRIME_TASK_DESCR"
+msgstr "Perform combat maneuvers on a destroyer."
 
-msgid "IDS_ELITE_CREW_MANUAL_BUTTON_GIVE_LABEL"
-msgstr "Assign to Commander"
+msgid "IDS_PCZA020_TM"
+msgstr "Tsar Morey"
 
-msgid "IDS_ELITE_CREW_MANUAL_CONDITIONS_TOOLTIP_DESCRIPTION"
-msgstr "Can be assigned to a commander on the 'Personal File' screen."
+msgid "IDS_PCZA020_TM_QUOTES"
+msgstr "\"Tsar Morey\""
 
-msgid "IDS_ELITE_CREW_MANUAL_CONDITIONS_TOOLTIP_HEADER"
-msgstr "How to Use"
+msgid "IDS_PCZC091_MK_ECO"
+msgstr "Economic Reforms"
 
-msgid "IDS_ELITE_CREW_MANUAL_PROMOTE_CREW_MODAL_EFFECT_DESCRIPTION"
-msgstr "The commander will become elite."
+msgid "IDS_PCZC091_MK_ECO_DESCRIPTION"
+msgstr "<p>First and foremost, Update 0.5.12 will be remembered by players and developers alike for its changes to the in-game economy. Actions that contribute to a team's success now affect the end-of-battle rewards. We want to encourage players to stay active and utilize diverse tactics, as opposed to just trying to avoid taking damage.</p><p class=\"p_spacing\"> </p><p>Getting used to the new system took time and effort. We introduced a few tweaks in the updates that followed. Anyway, all's well that ends well: we're nearly done tinkering with the economy. For now.</p>"
 
-msgid "IDS_ELITE_CREW_MANUAL_PROMOTE_CREW_MODAL_QUESTION"
-msgstr "Assign the Elite Commander's Manual?"
+msgid "IDS_PCZC092_MK_BRIT"
+msgstr "British Invasion"
 
-msgid "IDS_ELITE_CREW_MANUAL_PURPOSE_TOOLTIP_DESCRIPTION"
-msgstr "Promotes any standard, special, or rare commander to elite. Upon reaching level 21, an elite commander can gain a national talent and enhanced skills from other commanders."
+msgid "IDS_PCZC092_MK_BRIT_DESCRIPTION"
+msgstr "<p>The birth of the U.K. cruiser tech tree would make a good subject for a new opera. Or a ballet. Or—a thriller movie.</p><p class=\"p_spacing\"> </p><p>Help and support from players, a couple of coffeepots the size of supertankers, and defiance of realism within acceptable limits: these all yielded the desired result. The ships added to the game in Update 0.5.13 have distinctive features and quickly achieved well-deserved military glory. And who wouldn't with such a set of combat capabilities?</p>"
 
-msgid "IDS_ELITE_CREW_MANUAL_PURPOSE_TOOLTIP_HEADER"
-msgstr "Purpose"
+msgid "IDS_PCZC093_MK_LOOTBOX"
+msgstr "Battle Day Delivery"
 
-msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_RATINGBATTLE"
-msgstr "Special ships are not allowed to participate in Rating Battles."
+msgid "IDS_PCZC093_MK_LOOTBOX_DESCRIPTION"
+msgstr "<p>With Update 0.5.13, daily missions were replaced by the more interactive Containers. Their advantages were obvious but developers decided to have a Plan B and resorted to their most formidable weapon – imagination. That's where the \"torpedo dude\" turns up.</p><p class=\"p_spacing\"> </p><p>Tens of thousands containers are opened by thousands of players every day. Some do it in hopes of \"hitting the jackpot.\" Others, to restock their supplies of consumables and signal flags. And amidst all that activity, the torpedo dude bears his heavy burden, day and night.</p>"
 
-msgid "IDS_EV_25_01"
-msgstr "Screech-7"
+msgid "IDS_PCZC094_MK_HALLOWEEN"
+msgstr "The Struggle of Darkness and Light"
 
-msgid "IDS_EV_25_02"
-msgstr "Storm-45"
+msgid "IDS_PCZC094_MK_HALLOWEEN_DESCRIPTION"
+msgstr "<p>Fan modes are not uncommon in the game, but Halloween 2016 went down in history as the best in terms of scale and quality of execution.</p><p class=\"p_spacing\"> </p><p>While some players were fiercely overcoming the forces of evil and others were just as fiercely searching for hidden meanings, the developers, oddly enough, had no time for fun. After all, in addition to entertainment, the 'Saving Transylvania' mode had a serious purpose. A few months later, the developments from Halloween were used to create Operations.</p>"
 
-msgid "IDS_EV_25_03"
-msgstr "Phantom-13"
+msgid "IDS_PCZC095_MK_10CAMO"
+msgstr "Golden Paint"
 
-msgid "IDS_EV_25_04"
-msgstr "Robotron-404"
+msgid "IDS_PCZC095_MK_10CAMO_DESCRIPTION"
+msgstr "<p>Permanent camouflages rarely became a topic of discussion, but at one point it was the turn of Tier X ships. And then it dawned on everyone: 'Tier X ships are often left in the Port, but there are also many complaints about low earnings... let's kill two birds with one stone!' So, the permanent camouflages of the senior tiers began to provide a larger discount on ship maintenance.</p><p class=\"p_spacing\"> </p><p>The innovations of version 0.5.14 became popular. Players were given the opportunity to farm on their favorite Tier X ships, which had a positive effect on the 'maturing' process of the average Port.</p>"
 
-msgid "IDS_EV_25_05"
-msgstr "Thunder-99"
+msgid "IDS_PCZC096_MK_ALTJAPAN"
+msgstr "Ninja'd!!"
 
-msgid "IDS_EV_25_06"
-msgstr "Automaton-X"
+msgid "IDS_PCZC096_MK_ALTJAPAN_DESCRIPTION"
+msgstr "<p>The new sub-branch of Japanese destroyers added with Update 0.5.15 brought out lots of emotions and gave us an understanding that in the new realities these ships could and should rely more on their guns. But two outstanding ships – Shiratsuyu and Akizuki – turned out to be the icing on the cake.</p><p class=\"p_spacing\"> </p><p>The former can unleash a formidable number of metal fish per salvo. The latter boasts highly unconventional dual-purpose artillery.</p><p class=\"p_spacing\"> </p><p>But here's the bad news: the branch ends with Akizuki at Tier VIII. For now.</p>"
 
-msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_0"
-msgstr "Increased artillery damage"
+msgid "IDS_PCZC097_MK_CAMPAIGN"
+msgstr "Mission Briefing"
 
-msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_1"
-msgstr "Increased artillery accuracy"
+msgid "IDS_PCZC097_MK_CAMPAIGN_DESCRIPTION"
+msgstr "<p>Update 0.5.15 offered players one more new feature – two Campaigns. They served to supplement the process of accomplishing combat missions with a correlated narrative. To show how serious they are about their intentions, developers offered the Premium Tier VI destroyer Shinonome and seven days of Premium time as the ultimate rewards for completing the Honorable Service and The Science of Victory campaigns, respectively.</p><p class=\"p_spacing\"> </p><p>This was only the beginning. Players liked the new feature, and ever since Campaigns has been an essential part of the game.</p>"
 
-msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_2"
-msgstr "Faster artillery reload"
+msgid "IDS_PCZC098_MK_GERMDESTR"
+msgstr "Hunting the Hunters"
 
-msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_3"
-msgstr "Faster torpedo reload"
+msgid "IDS_PCZC098_MK_GERMDESTR_DESCRIPTION"
+msgstr "<p>\"Why the heck do we need all those destroyers with third-rate concealment and short-range torps?\" our players used to ask. \"To search for enemy ships with their hydroacoustics; to torp and surprise them with their armor-piercing shells,\" developers replied. But there wasn't much common ground between the two sides of the dialog, so the German destroyers weren't welcomed with open arms at first.</p><p class=\"p_spacing\"> </p><p>But after several updates and a number of balance changes, the new tech tree carved out its niche in the game, with some of the ships turning out to be among top at their tiers. It's been a bumpy ride, but we're finally getting into smoother waters.</p><p class=\"p_spacing\"> </p><p>Since that time it's been considered good etiquette to object in a friendly manner in any communication with developers by saying something like \"Hey, you don't wanna mess things up like you did with the German destroyers, right?\"</p>"
 
-msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_4"
-msgstr "Increased ship speed"
+msgid "IDS_PCZC099_MK_ARPOFF"
+msgstr "Ship Beauties"
 
-msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_5"
-msgstr "Health restoration"
+msgid "IDS_PCZC099_MK_ARPOFF_DESCRIPTION"
+msgstr "<p>Many players remember our pioneering effort to add some really exotic and distinctive content to the game. It took a couple of tweaks and the addition of the \"Oh my God, I don't wanna see it anymore!\" feature, but now the game incorporates flexible mechanics to add future content. Now there is no boundary to limit the developers' imagination.</p><p class=\"p_spacing\"> </p><p>Whether you liked the cuties or simply wanted to grab your copy of IJN ship for free, you'll never forget those days.</p>"
 
-msgid "IDS_GMIDEAL_RADIUS_CHANGED"
-msgstr "Maximum main battery shell dispersion reduced"
+msgid "IDS_PCZC100_MK_NYSPEE"
+msgstr "Chime of Bells"
 
-msgid "IDS_GMROTATION_SPEED_CHANGED"
-msgstr "Main battery traverse speed increased"
+msgid "IDS_PCZC100_MK_NYSPEE_DESCRIPTION"
+msgstr "<p>The \"Hunt for Graf Spee\" and \"Secret Santa\" campaigns lit the dark sky in December 2016 with the bright, cheerful fires of burning ships. Valuable prizes and incredible rewards granted in special containers perfectly matched the festive New Year's mood.</p><p class=\"p_spacing\"> </p><p>But when the smoke – mostly, from firecrackers – cleared, it was time to get back to work. In 2017, developers set a number of difficult yet important challenges while players fervently continued to conquer the high seas...</p>"
 
-msgid "IDS_GUIDING_TIP_332_DESC"
-msgstr "Click to view the full battle report."
+msgid "IDS_PCZC101_MK_CAPREWORK"
+msgstr "Winds of Change"
 
-msgid "IDS_GUIDING_TIP_332_HEADER"
-msgstr "Full Report"
+msgid "IDS_PCZC101_MK_CAPREWORK_DESCRIPTION"
+msgstr "<p>The highlight of version 0.6.0 was a major update to Commanders. Numerous changes, new skills, and the new feature – Elite Commander XP – immediately sparked stormy discussions even during the Public Test.</p><p class=\"p_spacing\"> </p><p>It took guts, but thanks to support from players (and a little black magic), developers went on to click on the \"Release Version\" button even though we did have some concerns. And the risk paid off – the updated system of Commander skills has successfully served the needs of players ever since.</p>"
 
-msgid "IDS_HINT_TALENT_EVENT_BALANCE_ATTENTION"
-msgstr "Talent activation conditions and effects may be adjusted during the event"
+msgid "IDS_PCZC102_MK_SMOKERANK"
+msgstr "I Smoke Wherever I Want"
 
-msgid "IDS_IMPOSSIBLE_TO_UNDO_ACTION"
-msgstr "You cannot undo this action."
+msgid "IDS_PCZC102_MK_SMOKERANK_DESCRIPTION"
+msgstr "<p>Ranked Battles Season Six was launched with the release of Update 0.6.1, and it turned out to be somewhat controversial. We did well in terms of the number of players involved and their activity, but there were critical remarks, too, that couldn't be shrugged off.</p><p class=\"p_spacing\"> </p><p>Thanks to feedback from players and our own observations, we noticed cases of smoke abuse tactics, certain controversial aspects on a number of maps and other problems related to ship balance.</p>"
 
-msgid "IDS_IN_RATINGBATTLE"
-msgstr "for a Rating Battle is"
+msgid "IDS_PCZC103_MK_MORESOVIETDESTR"
+msgstr "Need more DDs"
 
-msgid "IDS_MAKAROV"
-msgstr "Stepan Makarov"
+msgid "IDS_PCZC103_MK_MORESOVIETDESTR_DESCRIPTION"
+msgstr "<p>In Update 0.6.2, we added an alternative branch of Soviet destroyers, and it turned out a success. The main branch, with Khabarovsk (now Delny) on top, is well-suited to a playstyle based on cruiser-like artillery engagements. Staying on the move, maintaining constant fire, and delivering lightning-fast strikes – a thrilling combat experience guaranteed.</p><p class=\"p_spacing\"> </p><p>The playstyle of the alternative branch, headed by Grozovoi, will be closer to that of classic destroyers with effective torpedoes and guns used in support.</p>"
 
-msgid "IDS_MATCHMAKER_LEAVE_REASON_RATING_PRIME_OVER"
-msgstr "You were removed from the Rating Battle queue. The Rating Battle session has ended."
+msgid "IDS_PCZC104_MK_FRENCHCRUISER"
+msgstr "What's Next? Engine Boosters for Battleships?"
 
-msgid "IDS_MATCHMAKER_LEAVE_REASON_RATING_SEASON_OVER"
-msgstr "You were removed from the Rating Battle queue. The Rating Battle season has ended."
+msgid "IDS_PCZC104_MK_FRENCHCRUISER_DESCRIPTION"
+msgstr "<p>The French cruiser tech tree that appeared in the game with the release of Update 0.6.4 turned out to be well-balanced, with no apparent imbalances. At the same time, its release inspired players to learn a number of words from the glossary of French cuisine.</p><p class=\"p_spacing\"> </p><p>The Engine Boost consumable matched the ships' characteristics well, while Henri IV, the Tier X ship carrying formidable 240 mm guns, quickly assumed the role of the best cruiser for dealing damage.</p>"
 
-msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_HEADER"
-msgstr "Battle Features"
+msgid "IDS_PCZC105_MK_BISMARCK"
+msgstr "The Mighty Bismarck"
 
-msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_PARAGRAPH_1_HEADER"
-msgstr "ENEMY"
+msgid "IDS_PCZC105_MK_BISMARCK_DESCRIPTION"
+msgstr "<p>The Hunt for Bismarck campaign rolled out on a noble scale. Over 300 thousand participants, more than 141 thousand completed collections, and over 7 million containers received. More than 60 thousand Tier VIII battleships Bismarck distributed among players with widely varying levels of skills.</p><p class=\"p_spacing\"> </p><p>The addition of a story-telling element to the game client in the form of a historical reference to various campaign missions was a big plus of the event.</p>"
 
-msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Destroy bots on ships from the ironclad era. The number of enemies constantly increases!"
+msgid "IDS_PCZC106_MK_BOTREVENGE"
+msgstr "Revenge of the Bots"
 
-msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_PARAGRAPH_2_HEADER"
-msgstr "UPGRADES"
+msgid "IDS_PCZC106_MK_BOTREVENGE_DESCRIPTION"
+msgstr "<p>One beautiful frosty morning, the developers realized that a surprisingly large number of players were enjoying the Cooperative battles mode, where they fight against bots. This was quite a surprise, because the Co-op Battles mode was initially designed to let them try out new ships they obtained in the game – that's it. However, the number of people who like it and the success of the Halloween campaign showed that PvE battles deserve further consideration.</p><p class=\"p_spacing\"> </p><p>The first season of Operations came out with the release of Update 0.6.6 and offered four unique battle scenarios: defending a naval base, mounting an attack on a convoy, delivering a strike at a base, and escorting an aircraft carrier. It's noteworthy that bots got a bit smarter and PvE is gradually evolving from a shooting gallery with ships to a distinct, interesting battle mode.</p>"
 
-msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Some destroyed enemies drop upgrades. Pick them up while they're available!"
+msgid "IDS_PCZC420_TM_WINNER"
+msgstr "The Winner"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_HEADER"
-msgstr "Battle Features"
+msgid "IDS_PCZC420_TM_WINNER_DESCRIPTION"
+msgstr "<p>Long live the King!</p><p class=\"p_spacing\"> </p><p>Only one team deserves to win. And that team is made up of kings.</p><p class=\"p_spacing\"> </p><p>All they can see is a sea of glory—and a hefty haul of Steel. All they hear is roaring applause. All they feel is the sweet taste of another triumph.</p><p class=\"p_spacing\"> </p><p>But this satisfying feeling only lasts until a new tournament kicks off, where they will have to defend their title and prove their might in battles against the strongest teams.</p>"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_PARAGRAPH_1_HEADER"
-msgstr "ENEMY"
+msgid "IDS_PCZC421_TM_WAITING"
+msgstr "The Guy-Who-Is-Always-Late"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Destroy bots on ships from the ironclad era. The number of enemies constantly increases!"
+msgid "IDS_PCZC421_TM_WAITING_DESCRIPTION"
+msgstr "<p>\"Gimme a sec! I just gotta finish my lunch...\"</p><p class=\"p_spacing\"> </p><p>While half of his team is trying to reach them, here they are checking out a ship guide and calmly fixing their favorite chicken dish.</p>"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_PARAGRAPH_2_HEADER"
-msgstr "UPGRADES"
+msgid "IDS_PCZC422_TM_DRAGMAN"
+msgstr "The MVP"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Some destroyed enemies drop upgrades. Pick them up while they're available!"
+msgid "IDS_PCZC422_TM_DRAGMAN_DESCRIPTION"
+msgstr "<p>Not always the carrier, but carries his team.</p><p class=\"p_spacing\"> </p><p>The strategist, the tactician, the brain, the unicum, the… Call him what you want, he will carry his team to victory.</p>"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_HEADER"
-msgstr "Iron Horde"
+msgid "IDS_PCZC423_TM_BUGMAN"
+msgstr "Mr. Technical Issues"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_1_HEADER"
-msgstr "Battle Features"
+msgid "IDS_PCZC423_TM_BUGMAN_DESCRIPTION"
+msgstr "<p>\"But when I tested it yesterday, everything was working fine! Honest!\"</p><p class=\"p_spacing\"> </p><p>Yesterday maybe, but today's a different story. They forgot to install the latest client update; their PC is bursting into flames with the DCP on cooldown... Oh, and they accidentally deleted the Internet.</p><p class=\"p_spacing\"> </p><p>There is always someone haunted by technical issues.</p>"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "You will face a horde of bots on ships from the ironclad era. The number of enemies constantly increases."
+msgid "IDS_PCZC424_TM_ORGBOSS"
+msgstr "The Organizer"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Your objective: Score 1,000 points by destroying enemy ships."
+msgid "IDS_PCZC424_TM_ORGBOSS_DESCRIPTION"
+msgstr "<p>Burdened with responsibility and working tirelessly at the limit of their strength every day.</p><p class=\"p_spacing\"> </p><p>Competitions are often organized by groups of particularly proactive players.</p><p class=\"p_spacing\"> </p><p>What must an organizer do to ensure everything goes smoothly? Schedule and coordinate the tournament date, create the bracket, manage both streamers' work and the actual competition logistics.</p><p class=\"p_spacing\"> </p><p>The organizer dedicates themselves completely to this work - they're a true enthusiast whose Herculean efforts remain behind the scenes, because ultimately all glory goes to the players!</p>"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_2_HEADER"
-msgstr "Upgrades"
+msgid "IDS_PCZC425_TM_REFEREE1"
+msgstr "Whipping Adjudicator"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "In battle, you will encounter enemies with upgrades."
+msgid "IDS_PCZC425_TM_REFEREE1_DESCRIPTION"
+msgstr "<p>\"Attention, Group A! Your games start in 5 minutes. You had better be ready, or else you will be disqualified!\"</p><p class=\"p_spacing\"> </p><p>Adjudicators and volunteers help run Tsar of the Seas. They make sure that teams know who, where, and when they have to fight. They also settle minor conflicts between teams, and some of them really enjoy breaking out the whip when a team is out of line. </p><p class=\"p_spacing\"> </p><p>With these adjudicators, just the mere thought of typing your first joke into the chat will get you slapped with a second warning! But on the plus side, all the games start on time.</p>"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "Destroying such a ship allows you to pick up the upgrade for a limited time."
+msgid "IDS_PCZC426_TM_REFEREE2"
+msgstr "Generous Adjudicator"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_HEADER"
-msgstr "Modules"
+msgid "IDS_PCZC426_TM_REFEREE2_DESCRIPTION"
+msgstr "<p>\"Of course, I will be happy to explain how to open a Training Room. No, even better—let me just do it for you!\"</p><p class=\"p_spacing\"> </p><p>Adjudicators and volunteers help run Tsar of the Seas. They make sure that teams know who, where, and when they have to fight. They also settle minor conflicts between teams, and some of them are very protective of their assigned teams.</p><p class=\"p_spacing\"> </p><p>A generous adjudicator will happily postpone the starting times by 10 minutes, then another 10 minutes, and another 10 minutes...</p>"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Some ships have selectable modules."
+msgid "IDS_PCZC427_TM_STREAMER"
+msgstr "Streamer"
 
-msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "Switching modules allows you to choose shell types for main and secondary battery guns."
+msgid "IDS_PCZC427_TM_STREAMER_DESCRIPTION"
+msgstr "<p>\"The shells were in the air! What. A. Game.\"</p><p class=\"p_spacing\"> </p><p>Since the start of the tournament, streamers have been making Tsar of the Seas increasingly popular by casting the games in an entertaining way with great commentary.</p><p class=\"p_spacing\"> </p><p>To those who lost their voices while streaming, who forgot to switch on their microphones, who neglected to sink when ramming a fellow caster, who rooted for all teams equally (although a little more equally for their favorites)... and to those who forgot to switch the scene and only realized when the chat caught up to the delay.</p><p class=\"p_spacing\"> </p><p>Thank you for shaping the art of casting in our game!</p>"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_HEADER"
-msgstr "Rating Battle"
+msgid "IDS_PCZC428_TM_RAM"
+msgstr "Ramming Speed!"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_1_HEADER"
-msgstr "Battle Features"
+msgid "IDS_PCZC428_TM_RAM_DESCRIPTION"
+msgstr "<p>There is no better way to start a game than with a good ol' fashioned simultaneous triple ram.</p><p class=\"p_spacing\"> </p><p>Why did the streamers have to ram at the start of each battle?</p><p class=\"p_spacing\"> </p><p>Maybe they also wanted to fight? Or maybe their W key was stuck? Perhaps they were stuck in an endless cycle of revenge after being rammed in the previous battle?</p><p class=\"p_spacing\"> </p><p>It is none of the above! Back when there was no Spectator mode, the only way for streamers to get into the game was to spawn in on Tier I ships on both teams, and then allow the competitors to sink them.</p><p class=\"p_spacing\"> </p><p>In later editions, the streamers' ships spawned opposite each other and on opposing teams in the corner of the map. This enabled them to instantly ram each other and switch to the free camera mode.</p><p class=\"p_spacing\"> </p><p>And let's not start about suiciding in an aircraft carrier...</p>"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "You will fight against other players matched by combat effectiveness rating."
+msgid "IDS_PCZC429_TM_SMOKE"
+msgstr "Doomsnail"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "The rating is adjusted after each battle based on its outcome and the base XP earned."
+msgid "IDS_PCZC429_TM_SMOKE_DESCRIPTION"
+msgstr "<p>\"Why is that cloud shooting us? It's getting closer! RUN!\"</p><p class=\"p_spacing\"> </p><p>You can hide anything you want in smoke—cruisers, battleships, islands...</p><p class=\"p_spacing\"> </p><p>Before smoke fire penalties were introduced, teams would often push all their ships forward with the help of smoke screens. Because of the notoriously slow push, combined with the immense firepower within the cloud, this strategy was baptized \"doomsnail\".</p>"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_2_HEADER"
-msgstr "Leagues and Rating"
+msgid "IDS_PCZC430_TM_ISLAND"
+msgstr "Land Ho!"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Progress in Rating Battles resets each season. At the start of a season, you must complete 5 battles to receive a rating in one of the leagues."
+msgid "IDS_PCZC430_TM_ISLAND_DESCRIPTION"
+msgstr "<p>\"Who dropped this island right in front of me??!\"</p><p class=\"p_spacing\"> </p><p>Why did the ship beach on the island? Was it an enemy plot?</p><p class=\"p_spacing\"> </p><p>So many battles were decided by islands suddenly appearing out of nowhere! Who is to blame? We will never know for sure...</p>"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "The maximum rating in Iron, Bronze, Silver, and Gold Leagues is 100. Exceeding this value in your current league advances you to the next. The Obsidian League has no rating cap."
+msgid "IDS_PCZC431_TM_DETONATION"
+msgstr "Lucky Shot"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_3_HEADER"
-msgstr "Divisions"
+msgid "IDS_PCZC431_TM_DETONATION_DESCRIPTION"
+msgstr "<p>\"But I had a signal flag! I'm sure of it! I think…\"</p><p class=\"p_spacing\"> </p><p>Did you forget to enable auto-resupply for signals? Or did you mount a particular signal on one ship, but your Captain told you to pick another one? Or maybe you spent all those signals in Random Battles?</p><p class=\"p_spacing\"> </p><p>Let's be honest, we all know that one saves their signals for the final battle, particularly given that they are not consumed in the Training Room.</p>"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "A division's rating is the average rating of all members with a multiplier based on their number. The more members in a division, the higher the multiplier."
+msgid "IDS_PCZC432_TM_TORPEDOES"
+msgstr "Torpedo Magnet"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "When matching opponents, both player ratings and division ratings are considered."
+msgid "IDS_PCZC432_TM_TORPEDOES_DESCRIPTION"
+msgstr "<p> - \"I thought you ran Hydro!\"</p><p class=\"p_spacing\"> </p><p> - \"No. I thought you did.\"</p><p class=\"p_spacing\"> </p><p>Smoke screens: the original torpedo magnet!</p><p class=\"p_spacing\"> </p><p>There is a good chance that none of the ships sitting in smoke are running Hydro. </p><p class=\"p_spacing\"> </p><p>Casually send some torpedoes their way and enjoy your \"Devastating Double Strike\"! Oh wait, there are no achievements in the Training Room...</p>"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_4_HEADER"
-msgstr "Participation Conditions"
+msgid "IDS_PCZC433_TM_BASE"
+msgstr "Safety First!"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_4_TEXT_1"
-msgstr "Team composition may vary by season."
+msgid "IDS_PCZC433_TM_BASE_DESCRIPTION"
+msgstr "<p>\"No worries guys, this cap's as good as ours! Allllmost there... ARG!!! RADAR!!! RUN FOR YOUR LIVES!!!\"</p><p class=\"p_spacing\"> </p><p>When eager to secure a cap, the wily destroyer must first perform the back-up dance: turning the ship around and going into the circle stern-first.</p><p class=\"p_spacing\"> </p><p>This way, if danger rears its ugly head, the destroyer can high-tail it out of there at the tap of a key.</p><p class=\"p_spacing\"> </p><p>So, in case you witness such an extraordinary maneuver in Random Battles, don't assume that someone lost a bet and has to play 10 games in a row like this. It simply means that you may just have met a very experienced tournament player!</p>"
 
-msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_4_TEXT_2"
-msgstr "You can enter battle solo or in a division. Division size is limited only by team size."
+msgid "IDS_PCZC434_TM_HINDEN"
+msgstr "German Tank"
 
-msgid "IDS_MODAL_WINDOW_RULES_TAB_NAME_0"
-msgstr "Rules"
+msgid "IDS_PCZC434_TM_HINDEN_DESCRIPTION"
+msgstr "<p>2017 called. It wants its start back.</p><p class=\"p_spacing\"> </p><p>As one of the most versatile and tank-like cruisers, Hindenburg was the most popular ship during the first Tier X seasons of both Tsar of the Seas and Clan Battles. Teams would often bring three or four of these ships into battle at a time.</p><p class=\"p_spacing\"> </p><p>Players appreciated her good DPS, decent chances of starting fires, strong armor, and German Hydro! This is why she was the primary choice for professionals (and totally not because most players had only one Tier X ship back in the day).</p><p class=\"p_spacing\"> </p><p>She was later ousted from her place as top pick by Henri IV.</p>"
 
-msgid "IDS_MODAL_WINDOW_RULES_TAB_NAME_1"
-msgstr "Achievements"
+msgid "IDS_PCZC435_TM_HENRI"
+msgstr "French Flavor"
 
-msgid "IDS_NAVAL_FLAG_VENEZUELA"
-msgstr "Venezuelan Navy"
+msgid "IDS_PCZC435_TM_HENRI_DESCRIPTION"
+msgstr "<p>WWWW SSSS WWWW SSSS</p><p class=\"p_spacing\"> </p><p>In the early seasons, Hindenburg was considered one of the most versatile ships and was a real favorite among tournament participants.</p><p class=\"p_spacing\"> </p><p>But as time went by, French cruiser Henri IV eventually conquered the top pick position.</p><p class=\"p_spacing\"> </p><p>In tournaments and Random Battles alike, Henri IV was often seen daring to sail broadside to battleships, constantly accelerating or hitting the brakes.</p><p class=\"p_spacing\"> </p><p>But the game is ever-evolving, and there is no time to stand still or rest on one's laurels. Which ship do you think will enjoy the most popularity in the next tournament?</p>"
 
-msgid "IDS_NAVAL_FLAG_VENEZUELA_DESCRIPTION"
-msgstr "The flag of the National Bolivarian Navy of Venezuela is identical to the national flag. Its design is based on the flag of Francisco de Miranda, a fighter for South American independence, featuring three stripes: yellow, blue, and red. The blue stripe bears seven stars representing the country's seven provinces. Until 1930, the stars were arranged in a circle, later changed to an arc. Since 1954, the flag's canton has featured the country's coat of arms."
+msgid "IDS_PFES441_DUPERRE_CEREMONIAL"
+msgstr "Ceremonial"
 
-msgid "IDS_NO_BATTLES_PLAYED_IN_RATINGBATTLE"
-msgstr "You have not played a single Rating Battle"
+msgid "IDS_PFES442_FORBIN_CEREMONIAL"
+msgstr "Ceremonial"
 
-msgid "IDS_PBES509_JUTLAND_COLORFUL"
-msgstr "Pink Beam"
+msgid "IDS_PFPA109_75MM_35_SMOKE"
+msgstr "75 mm HE Mle 1925"
 
-msgid "IDS_PBGS168_6IN45_BL_MK_XII"
-msgstr "152 mm/45 BL Mk.XII in Casemate Mount"
+msgid "IDS_PFPA110_88MM_45_SMOKE"
+msgstr "88 mm CS"
 
-msgid "IDS_PBPA150_381MM_HE_R_SOVEREIGN"
-msgstr "381 mm HE Mk VIIIb"
+msgid "IDS_PFPA111_100MM_45_1892_SMOKE"
+msgstr "100 mm SAP OEA Mle 1910"
 
-msgid "IDS_PBPA151_381MM_AP_R_SOVEREIGN"
-msgstr "381 mm AP Mk XXIIb"
+msgid "IDS_PIAB510_LAZIO_STOCK"
+msgstr "Fiat G.55S"
 
-msgid "IDS_PBSB506"
-msgstr "Royal Sovereign"
+msgid "IDS_PIAD510_LAZIO_STOCK"
+msgstr "Savoia-Marchetti SM.93"
 
-msgid "IDS_PBSB506_DESCR"
-msgstr "<p>The R-class battleships were based on their predecessors, the Queen Elizabeth-class battleships. The armor layout was modified: the main armored deck was raised one level, and the main belt plates had uniform thickness throughout their height. The secondary battery casemate was redesigned.</p><p class=\"p_spacing\"> </p><p>HMS Royal Sovereign was commissioned during the height of World War I, just before the Battle of Jutland. Admiral J. Jellicoe deliberately left the battleship in port due to the crew's lack of readiness.</p><p class=\"p_spacing\"> </p><p>During World War II, Royal Sovereign participated in escort missions and interceptions of the Italian fleet, then escorted convoys in the Atlantic. In 1944, the ship was temporarily transferred to the Soviet Union as part of war reparations from Italy. In the Soviet Northern Fleet, the ship served until 1949 under the name \"Arkhangelsk.\"</p><p class=\"p_spacing\"> </p><p>When the battleship returned to Britain, parts of its gun turret mechanisms were used in the construction of a radio telescope in Cheshire.</p>"
+msgid "IDS_PIAD915_ASW_T10_CV"
+msgstr "CANT Z.508"
 
-msgid "IDS_PBSB506_FULL"
-msgstr "Royal Sovereign"
+msgid "IDS_PIAF510_LAZIO_STOCK"
+msgstr "Reggiane Re.2005"
 
-msgid "IDS_PBSB506_NUMBER"
-msgstr "5"
+msgid "IDS_PIAF511_LAZIO_STOCK_WARD"
+msgstr "Reggiane Re.2001"
 
-msgid "IDS_PBSB506_YEAR"
-msgstr "1916"
+msgid "IDS_PIGM119_406MM_50_BARRELS_4"
+msgstr "406 mm/50 Model 1940 in a turret"
 
-msgid "IDS_PBSD809"
-msgstr "Jutland CLR"
+msgid "IDS_PIGS120_120MM_50_OTO_MK10"
+msgstr "120 mm/50 OTO in Mk.10 mount"
 
-msgid "IDS_PBSD809_DESCR"
-msgstr "The Battle class was the result of lessons learned from destroyers in the early years of World War II: the focus shifted to air defense and anti-submarine warfare. HMS Jutland, originally named Malplaquet, was built between 1945 and 1947. The ship served in the 4th Destroyer Flotilla, in the 4th and 7th Destroyer Divisions. In 1953, Jutland participated in the fleet review for the coronation of Queen Elizabeth II."
+msgid "IDS_PIPA043_381MM_50_HE_IMPERO"
+msgstr "381 mm proiettili HE"
 
-msgid "IDS_PBSD809_FULL"
-msgstr "Jutland CLR"
+msgid "IDS_PIPA092_120_HE_M50_SG"
+msgstr "120 mm HE M1950"
 
-msgid "IDS_PBSD809_NUMBER"
-msgstr "42"
+msgid "IDS_PIPA093_152MM_55_1936_25HE"
+msgstr "152 mm proiettili HE"
 
-msgid "IDS_PBSD809_YEAR"
-msgstr "1947"
+msgid "IDS_PIPA095_406MM_CS_GALILEO"
+msgstr "406 mm proiettili CS 1940"
 
-msgid "IDS_PBUA509_ART_R_SOVEREIGN"
-msgstr "381 mm/42 Mk.I in Mk.I Mount"
+msgid "IDS_PIPA096_406MM_AP_GALILEO"
+msgstr "406 mm proiettili AP 1940"
 
-msgid "IDS_PBUA809_ART_CLR_JUTLAND"
-msgstr "113 mm/45 QF Mk.IV in RP10 Mk.IV*/RP50 Mk.V* Mount"
+msgid "IDS_PIPB002_LAZIO_STOCK"
+msgstr "SC-250"
 
-msgid "IDS_PBUE513_ENG_R_SOVEREIGN"
-msgstr "Propulsion: 40,000 hp"
+msgid "IDS_PIPD109_DEPTH_CV_10"
+msgstr "CS 160 kg"
 
-msgid "IDS_PBUE808_ENG_CLR_JUTLAND"
-msgstr "Propulsion: 50,000 hp"
+msgid "IDS_PIPR002_LAZIO_STOCK"
+msgstr "RZ.65"
 
-msgid "IDS_PBUH519_R_SOVEREIGN"
-msgstr "Royal Sovereign"
+msgid "IDS_PIPT026_LAZIO_STOCK"
+msgstr "450 mm F200"
 
-msgid "IDS_PBUH814_HULL_CLR_JUTLAND"
-msgstr "Jutland CLR"
+msgid "IDS_PISA510"
+msgstr "Lazio"
 
-msgid "IDS_PBUS514_SUO_R_SOVEREIGN"
-msgstr "Mk VI mod. 1"
+msgid "IDS_PISA510_DESCR"
+msgstr "<p>The battleship Impero was laid down in 1938 but was never completed due to World War II. By 1942 when construction halted, the ship was 28% complete (88% hull, 76% propulsion).</p><p class=\"p_spacing\"> </p><p>In the early 1940s, Italian naval leadership considered completing Impero as an aircraft carrier. The project was abandoned due to cost, shipyard workload, and later Italy's withdrawal from the war. The hull was eventually captured by German forces.</p>"
 
-msgid "IDS_PBUS814_SUO_CLR_JUTLAND"
-msgstr "Mk IX"
+msgid "IDS_PISA510_FULL"
+msgstr "Lazio"
 
-msgid "IDS_PBUT807_TORP_CLR_JUTLAND"
-msgstr "533 mm Mk IX**"
-
-msgid "IDS_PCEC151_CAMO_BRONEKORABLI_ENEMY"
-msgstr " "
-
-msgid "IDS_PCEC152_CAMO_BRONEKORABLI_ENEMYOFFSET"
-msgstr " "
-
-msgid "IDS_PCEC153_CAMO_BRONEKORABLI_ENEMY_BUFF"
-msgstr " "
-
-msgid "IDS_PCEC154_CAMO_BRONEKORABLI_ENEMY_BUFFOFFSET"
-msgstr " "
-
-msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG"
-msgstr "Jutland CLR"
-
-msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG_DESCRIPTION"
-msgstr "The crest of the destroyer HMS Jutland featured a maritime griffin. These creatures were supporters on the coat of arms of Admiral John Jellicoe, who commanded the British fleet at the Battle of Jutland in 1916."
-
-msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the dazzlingly bright ships."
-
-msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG"
-msgstr "Yamato CLR"
-
-msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG_DESCRIPTION"
-msgstr "In April 1945, the battleship Yamato set out on a combat mission against superior enemy forces. The ship had almost no chance of returning, and a white chrysanthemum—a symbol of immortality—was painted on its funnel."
-
-msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the dazzlingly bright ships."
-
-msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG"
-msgstr "Condé CLR"
-
-msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG_DESCRIPTION"
-msgstr "The coat of arms of the Princes of Condé—a junior branch of the royal House of Bourbon. This lineage gave France many prominent military leaders and statesmen, including the famous 17th-century commander Louis II de Bourbon (1621–1686)."
-
-msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the dazzlingly bright ships."
-
-msgid "IDS_PCEE746_VICTORYDAY_FLAG"
-msgstr "80 Years of the Great Victory"
-
-msgid "IDS_PCEE746_VICTORYDAY_FLAG_DESCRIPTION"
-msgstr "In honor of the 80th anniversary of the Soviet people's victory in the Great Patriotic War against the Nazi invaders."
-
-msgid "IDS_PCEE747_ROYAL_SOVEREIGN_FLAG"
-msgstr "HMS Royal Sovereign"
-
-msgid "IDS_PCEE747_ROYAL_SOVEREIGN_FLAG_DESCRIPTION"
-msgstr "In the first half of the 20th century, a project emerged for a flag that would reflect the entire territorial composition of the British Empire. In addition to the flags of England and Great Britain, this project included the coat of arms of Canada, the coats of arms of South Africa and Australia, the star of British India, and four stars representing New Zealand."
-
-msgid "IDS_PCEP313_PERMO_BRONE_2"
-msgstr " "
-
-msgid "IDS_PCVO032_EV25BRONEKORABLI_GOAL"
-msgstr "Battles against hordes of bots on ships from the ironclad era. The number of enemies constantly increases!"
-
-msgid "IDS_PCVO032_EV25BRONEKORABLI_NAME"
-msgstr "Iron Horde"
-
-msgid "IDS_PFES401_CONDE_COLORFUL"
-msgstr "Malachite Arrow"
-
-msgid "IDS_PFSC811"
-msgstr "Condé CLR"
-
-msgid "IDS_PFSC811_DESCR"
-msgstr "Hypothetical further development of the French heavy cruisers. The ship was intended to counter German heavy cruisers and was based on the pre-war development of a ship of this type. The main armament was three quadruple-gun turrets with 240 mm guns, which was typical for the French Navy."
-
-msgid "IDS_PFSC811_FULL"
-msgstr "Condé CLR"
-
-msgid "IDS_PFSC811_NUMBER"
+msgid "IDS_PISA510_NUMBER"
 msgstr "1"
 
-msgid "IDS_PFSC811_YEAR"
-msgstr "1957"
+msgid "IDS_PISA510_YEAR"
+msgstr "1942"
 
-msgid "IDS_PFUA913_ART_CLR_CONDE"
-msgstr "240 mm/50 Mle 1930 in Turret Mount"
+msgid "IDS_PISB111"
+msgstr "Galileo"
 
-msgid "IDS_PFUE912_ENG_CLR_CONDE"
-msgstr "Propulsion: 220,000 hp"
+msgid "IDS_PISB111_DESCR"
+msgstr "A hypothetical development of Italian battleships based on Vittorio Veneto-class elements. Compared to predecessors, this ship carries more main battery guns with increased 406 mm caliber. Presumably completed postwar with modernized radar, secondary guns, etc."
 
-msgid "IDS_PFUH910_HULL_CLR_CONDE"
-msgstr "Condé CLR"
+msgid "IDS_PISB111_FULL"
+msgstr "Galileo"
 
-msgid "IDS_PFUS909_SUO_CLR_CONDE"
-msgstr "PCA n°11"
-
-msgid "IDS_PFUT908_TORP_CLR_CONDE"
-msgstr "550 mm 23DT"
-
-msgid "IDS_PJES370_YAMATO_COLORFUL"
-msgstr "Blue Tsunami"
-
-msgid "IDS_PJGS240_152MM40_CASEMATE"
-msgstr "152 mm/40 EOC Pattern Z in Casemate Mount"
-
-msgid "IDS_PJGS241_152MM40"
-msgstr "152 mm/40 EOC Pattern Z in Single Mount"
-
-msgid "IDS_PJPA163_SHELL_305MM_AP_850LBS_MIKASA"
-msgstr "305 mm AP 850 lb"
-
-msgid "IDS_PJPA164_SHELL_305MM_HE_850LBS_MIKASA"
-msgstr "305 mm HE 850 lb"
-
-msgid "IDS_PJPA165_SHELL_76MM_HE_O_MK_2_MIKASA"
-msgstr "76 mm HE Elswick Pattern N"
-
-msgid "IDS_PJPA166_SHELL_152MM_HE_TYPE_0_MIKASA"
-msgstr "152 mm HE Type0"
-
-msgid "IDS_PJPA167_SHELL_152MM_AP_MOD_1_MIKASA"
-msgstr "152 mm AP Mod 1"
-
-msgid "IDS_PJPA168_47MM_HE_MIKASA"
-msgstr "47 mm HE"
-
-msgid "IDS_PJPA169_203MM_HE_ASAMA"
-msgstr "203 mm HE EOC Pattern U"
-
-msgid "IDS_PJPA170_203MM_AP_ASAMA"
-msgstr "203 mm AP EOC Pattern U"
-
-msgid "IDS_PJPA171_76MM_HE_ASAMA"
-msgstr "76 mm HE Elswick Pattern N"
-
-msgid "IDS_PJPA172_47MM_HE_ASAMA"
-msgstr "47 mm HE"
-
-msgid "IDS_PJPA173_152MM_HE_SA_ASAMA"
-msgstr "152 mm Common Type 0 HE"
-
-msgid "IDS_PJPA174_152MM_AP_SA_ASAMA"
-msgstr "152 mm Common Type 0 AP"
-
-msgid "IDS_PJPA175_76MM_HE_SAZANAMI"
-msgstr "76 mm HE Elswick Pattern N"
-
-msgid "IDS_PJPA177_57MM_HE_SAZANAMI"
-msgstr "57 mm HE"
-
-msgid "IDS_PJPT042_SAZANAMI_STOCK"
-msgstr "457 mm mod. 1"
-
-msgid "IDS_PJPT043_SAZANAMI_TOP"
-msgstr "457 mm mod. 2"
-
-msgid "IDS_PJPT125_ASAMA_STOCK"
-msgstr "457 mm mod. 1"
-
-msgid "IDS_PJPT126_ASAMA_TOP"
-msgstr "457 mm mod. 2"
-
-msgid "IDS_PJSB810"
-msgstr "Yamato CLR"
-
-msgid "IDS_PJSB810_DESCR"
-msgstr "The preliminary draft design of the battleship developed in Japan in the mid-1930s had a displacement of 49,000–69,500 tons, a speed of 24–31 knots, and a main gun caliber of 410–460 mm in various versions. The final version was Yamato, the largest battleship in the world. Admiral Yamamoto took command of the Japanese forces from her bridge during the Battle of Midway. On April 7, 1945, Yamato was sunk off Kyūshū island by attacking U.S. Navy aircraft during Operation Ten-Go."
-
-msgid "IDS_PJSB810_FULL"
-msgstr "Yamato CLR"
-
-msgid "IDS_PJSB810_NUMBER"
-msgstr "4"
-
-msgid "IDS_PJSB810_YEAR"
-msgstr "1941"
-
-msgid "IDS_PJUA103_ART_ASAMA_STOCK"
-msgstr "HE Shells / 203 mm in Twin Turret"
-
-msgid "IDS_PJUA105_ART_MIKASA"
-msgstr "AP Shells / 305 mm in Twin Turret"
-
-msgid "IDS_PJUA106_ART_ASAMA_TOP"
-msgstr "AP Shells / 203 mm in Twin Turret"
-
-msgid "IDS_PJUA914_ART_CLR_YAMATO"
-msgstr "460 mm/45 Type 94 in Triple Turret"
-
-msgid "IDS_PJUE917_ENG_CLR_YAMATO"
-msgstr "Propulsion: 150,000 hp"
-
-msgid "IDS_PJUH104_HULL_SAZANAMI_STOCK"
-msgstr "Sazanami / Standard Hull"
-
-msgid "IDS_PJUH105_HULL_MIKASA_1904"
-msgstr "Mikasa / AP Secondary Shells"
-
-msgid "IDS_PJUH106_HULL_SAZANAMI_TOP"
-msgstr "Sazanami / Lightened Hull"
-
-msgid "IDS_PJUH918_HULL_CLR_YAMATO"
-msgstr "Yamato CLR"
-
-msgid "IDS_PJUS917_SUO_CLR_YAMATO"
-msgstr "Type10 mod. 1"
-
-msgid "IDS_PJUT105_TORP_ASAMA_STOCK"
-msgstr "457 mm"
-
-msgid "IDS_PJUT109_TORP_SAZANAMI_STOCK"
-msgstr "457 mm"
-
-msgid "IDS_PJUT110_TORP_ASAMA_TOP"
-msgstr "457 mm"
-
-msgid "IDS_PJUT111_TORP_SAZANAMI_TOP"
-msgstr "457 mm"
-
-msgid "IDS_PLANE_SPREAD_MULTIPLIER_CHANGED"
-msgstr "Maximum squadron ammunition dispersion reduced"
-
-msgid "IDS_PRES305_PARIZHSKAYA_KOMMUNA_VICTORYDAY"
-msgstr "Victory of Honor"
-
-msgid "IDS_PRES348_FRUNZE_VICTORYDAY"
-msgstr "Victory of Valor"
-
-msgid "IDS_PRES509_SOVREMENNIY_VICTORYDAY"
-msgstr "Victory of Courage"
-
-msgid "IDS_PRGM251_152MM_45_CASEMATE_SHIELD"
-msgstr "152 mm/45 Model 1892 in Casemate Mount"
-
-msgid "IDS_PROFILE_RATING_BATTLES"
-msgstr "Rating"
-
-msgid "IDS_PRPA235_47MM_CS_HOTCHKISS"
-msgstr "47 mm SAP Round"
-
-msgid "IDS_PRPA236_47MM_AP_HOTCHKISS"
-msgstr "47 mm AP Round"
-
-msgid "IDS_PRPA242_203MM_HE_GROMOBOY"
-msgstr "203 mm HE Model 1892"
-
-msgid "IDS_PRPA243_203MM_AP_GROMOBOY"
-msgstr "203 mm AP Model 1892"
-
-msgid "IDS_PRPA244_75MM_AP_SG_GROMOBOY"
-msgstr "75 mm AP Model 1892"
-
-msgid "IDS_PRPA245_152MM_HE_SA_GROMOBOY"
-msgstr "152 mm HE Model 1892"
-
-msgid "IDS_PRPA246_152MM_AP_SA_GROMOBOY"
-msgstr "152 mm AP Model 1892"
-
-msgid "IDS_PRPA247_37MM_AP_SG_GROMOBOY"
-msgstr "37 mm AP Round"
-
-msgid "IDS_PRPA248_47MM_AP_SG_GROMOBOY"
-msgstr "47 mm AP Round"
-
-msgid "IDS_PRPA249_152MM_HE_SA_BORODINO"
-msgstr "152 mm HE Model 1892"
-
-msgid "IDS_PRPA250_152MM_AP_SA_BORODINO"
-msgstr "152 mm AP Model 1892"
-
-msgid "IDS_PRPA251_305MM_HE_BORODINO"
-msgstr "305 mm HE Model 1895"
-
-msgid "IDS_PRPA252_305MM_AP_BORODINO"
-msgstr "305 mm AP Model 1895"
-
-msgid "IDS_PRPA253_75MM_AP_BOYKIY"
-msgstr "75 mm AP Round"
-
-msgid "IDS_PRPA254_152_AP_VARYAG_EVENT"
-msgstr "152 mm AP 91 lb"
-
-msgid "IDS_PRPA255_152_HE_AVRORA_EVENT"
-msgstr "152 mm HE 109 lb"
-
-msgid "IDS_PRPA256_120_HE_NOVIK_EVENT"
-msgstr "120 mm HE Model 1907"
-
-msgid "IDS_PRPT081_BOYKIY_STOCK"
-msgstr "Torpedo Model 1895 mod. 1"
-
-msgid "IDS_PRPT090_BOYKIY_TOP"
-msgstr "Torpedo Model 1895 mod. 2"
-
-msgid "IDS_PRSC902"
-msgstr "Iron Aurora"
-
-msgid "IDS_PRSC902_DESCR"
-msgstr "<p>During the battles of 1904, the combined forces of Russia and Japan captured several units of combat equipment from the Iron Horde—a mysterious fleet that attacked both powers. A distinctive feature of the captured ships was the complete absence of a crew: control was carried out by mechanical devices located in central posts.</p><p class=\"p_spacing\"> </p><p>The hull of this specimen is assembled from heterogeneous steel sheets with rough riveted seams, in which elements of industrial equipment are visible in places. The ship is distinguished by an unusual artillery system: the guns demonstrate phenomenal rate of fire, but the shells move along a high ballistic trajectory with a low initial velocity.</p>"
-
-msgid "IDS_PRSC902_FULL"
-msgstr "Iron Aurora"
-
-msgid "IDS_PRSC902_NUMBER"
+msgid "IDS_PISB111_NUMBER"
 msgstr "1"
 
-msgid "IDS_PRSC902_YEAR"
-msgstr "1935"
+msgid "IDS_PISB111_YEAR"
+msgstr "1943"
 
-msgid "IDS_PRSC912"
-msgstr "Iron Novik"
+msgid "IDS_PISB539"
+msgstr "Impero"
 
-msgid "IDS_PRSC912_DESCR"
-msgstr "<p>During the battles of 1904, the combined forces of Russia and Japan captured several units of combat equipment from the Iron Horde—a mysterious fleet that attacked both powers. A distinctive feature of the captured ships was the complete absence of a crew: control was carried out by mechanical devices located in central posts.</p><p class=\"p_spacing\"> </p><p>The most unusual of the captured specimens is striking in its performance characteristics. Despite its primitive design, the ship is capable of reaching speeds of up to 200 knots thanks to a power plant that combines steam engines with complex rotating mechanisms. Computational devices, presumably intended for calculating ramming attacks, were found in the central post.</p>"
+msgid "IDS_PISB539_DESCR"
+msgstr "<p>The second pair of Vittorio Veneto-class battleships was built under the 1938 program. These ships featured a raised forecastle deck for better seakeeping. The fourth battleship Impero was laid down at Ansaldo shipyards in Genoa in May 1938.</p><p class=\"p_spacing\"> </p><p>Launched November 1939 but unfinished due to WWII. Towed to Brindisi in June 1940 where engines and some AA guns were installed. 28% complete when work stopped in 1942.</p><p class=\"p_spacing\"> </p><p>Moved to Venice then Trieste in 1942. After Italy's 1943 surrender, the incomplete ship was captured by Germans, bombed by Allies, and sank. Raised and scrapped in Venice 1947.</p>"
 
-msgid "IDS_PRSC912_FULL"
-msgstr "Iron Novik"
+msgid "IDS_PISB539_FULL"
+msgstr "Impero"
 
-msgid "IDS_PRSC912_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSC912_YEAR"
-msgstr "1935"
-
-msgid "IDS_PRSC922"
-msgstr "Iron Varyag"
-
-msgid "IDS_PRSC922_DESCR"
-msgstr "<p>During the battles of 1904, the combined forces of Russia and Japan captured several units of combat equipment from the Iron Horde—a mysterious fleet that attacked both powers. A distinctive feature of the captured ships was the complete absence of a crew: control was carried out by mechanical devices located in central posts.</p><p class=\"p_spacing\"> </p><p>This specimen is of particular interest to military engineers. Externally, it resembles an ordinary cruiser assembled from low-quality materials, but its main armament uses an unknown principle for launching shells. The guns emit a characteristic crack and produce bright electrical discharges when fired. The shells fly at incredible speed along an absolutely straight trajectory, piercing even armored targets.</p>"
-
-msgid "IDS_PRSC922_FULL"
-msgstr "Iron Varyag"
-
-msgid "IDS_PRSC922_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSC922_YEAR"
-msgstr "1935"
-
-msgid "IDS_PRUA102_ART_BORODINO_STOCK"
-msgstr "AP Shells / 305 mm in Turret Mount"
-
-msgid "IDS_PRUA103_ART_GROMOBOY_STOCK"
-msgstr "AP Shells / 203 mm in Single Mount"
-
-msgid "IDS_PRUA105_ART_AVRORA_EVENT"
-msgstr "HE Shells / 152 mm on Canet Mount"
-
-msgid "IDS_PRUA106_ART_NOVIK_EVENT"
-msgstr "HE Shells / 120 mm on Canet Mount"
-
-msgid "IDS_PRUA107_ART_VARYAG_EVENT"
-msgstr "AP Shells / 152 mm on Canet Mount"
-
-msgid "IDS_PRUA108_ART_GROMOBOY_TOP"
-msgstr "HE Shells / 203 mm in Single Mount"
-
-msgid "IDS_PRUA109_ART_BORODINO_TOP"
-msgstr "HE Shells / 305 mm in Turret Mount"
-
-msgid "IDS_PRUE105_ENG_AVRORA_EVENT"
-msgstr "Propulsion: 11,600 hp"
-
-msgid "IDS_PRUE106_ENG_NOVIK_EVENT"
-msgstr "Propulsion: 17,700 hp"
-
-msgid "IDS_PRUE107_ENG_VARYAG_EVENT"
-msgstr "Propulsion: 21,100 hp"
-
-msgid "IDS_PRUH102_HULL_BORODINO_STOCK"
-msgstr "Borodino / AP Secondary Shells"
-
-msgid "IDS_PRUH103_HULL_GROMOBOY_STOCK"
-msgstr "Gromoboy / AP Secondary Shells"
-
-msgid "IDS_PRUH104_HULL_BOYKIY_STOCK"
-msgstr "Boykiy / Standard Hull"
-
-msgid "IDS_PRUH105_HULL_BOYKIY_TOP"
-msgstr "Boykiy / Reinforced Hull"
-
-msgid "IDS_PRUH106_HULL_AVRORA_EVENT"
-msgstr "Iron Aurora"
-
-msgid "IDS_PRUH107_HULL_NOVIK_EVENT"
-msgstr "Iron Novik"
-
-msgid "IDS_PRUH108_HULL_VARYAG_EVENT"
-msgstr "Iron Varyag"
-
-msgid "IDS_PRUH109_HULL_GROMOBOY_TOP"
-msgstr "Gromoboy / HE Secondary Shells"
-
-msgid "IDS_PRUH110_HULL_BORODINO_TOP"
-msgstr "Borodino / HE Secondary Shells"
-
-msgid "IDS_PRUS105_SUO_AVRORA_EVENT"
-msgstr "FCS II"
-
-msgid "IDS_PRUS106_SUO_NOVIK_EVENT"
-msgstr "FCS II"
-
-msgid "IDS_PRUS107_SUO_VARYAG_EVENT"
-msgstr "FCS II"
-
-msgid "IDS_PRUT105_TORP_BOYKIY_STOCK"
-msgstr "Torpedo Model 1895"
-
-msgid "IDS_PRUT106_TORP_BOYKIY_TOP"
-msgstr "Torpedo Model 1895"
-
-msgid "IDS_PXSB502"
-msgstr "Borodino '04"
-
-msgid "IDS_PXSB502_DESCR"
-msgstr "<p>A series of ships built under an improved design based on the battleship 'Tsesarevich,' laid down in St. Petersburg in 1900–1902. The ships differed from the prototype in their more powerful power plants and heavier turrets, requiring designers to increase displacement while slightly reducing armor weight. The battleships took part in the voyage of the Second Pacific Squadron to the Far East and in the Battle of Tsushima.</p><p class="p_spacing"> </p><p>Borodino was laid down at the New Admiralty Shipyards in May 1900, launched in September 1901, and commissioned in September 1904. Under the command of Captain 1st Rank P. Serebrennikov, the battleship made the voyage from Kronstadt to the Sea of Japan. During the Battle of Tsushima, the ship suffered heavy damage and sank.</p>"
-
-msgid "IDS_PXSB502_FULL"
-msgstr "Borodino '04"
-
-msgid "IDS_PXSB502_NUMBER"
-msgstr "5"
-
-msgid "IDS_PXSB502_YEAR"
-msgstr "1904"
-
-msgid "IDS_PXSB512"
-msgstr "Mikasa '04"
-
-msgid "IDS_PXSB512_DESCR"
-msgstr "<p>The last of the four battleships ordered under the ten-year program of 1896. In terms of design, it was similar to its predecessors, with its main difference being improved casemate armor for the anti-torpedo guns.</p><p class="p_spacing"> </p><p>The battleship was designed and built by Armstrong, surpassing the latest British battleships. Laid down in Elswick in January 1899, launched in November 1900, and commissioned in March 1902. It was Admiral Togo's flagship during the Russo-Japanese War, taking part in the battles in the Yellow Sea and the Battle of Tsushima.</p>"
-
-msgid "IDS_PXSB512_FULL"
-msgstr "Mikasa '04"
-
-msgid "IDS_PXSB512_NUMBER"
-msgstr "1"
-
-msgid "IDS_PXSB512_YEAR"
-msgstr "1902"
-
-msgid "IDS_PXSC512"
-msgstr "Gromoboy"
-
-msgid "IDS_PXSC512_DESCR"
-msgstr "<p>Gromoboy was a further development of the armored cruisers—commerce raiders 'Rurik' and 'Rossiya,' featuring a completely new power plant with three identical triple-expansion steam engines and improved armor.</p><p class="p_spacing"> </p><p>The cruiser was laid down at the Baltic Shipyard in May 1898, launched a year later, and commissioned in November 1899. Immediately after acceptance trials, the ship was transferred to the Far East, where it joined the Pacific Squadron.</p><p class="p_spacing"> </p><p>During the Russo-Japanese War, Gromoboy was part of the Vladivostok Cruiser Squadron. It took part in the Battle of the Korea Strait in August 1904. In October 1904, the ship was damaged in Posyet Bay. After repairs were completed in May 1905, it struck a mine and remained under repair until the end of the war. In 1906, the cruiser returned to the Baltic. It participated in World War I and remained in Kronstadt from the end of 1917.</p>"
-
-msgid "IDS_PXSC512_FULL"
-msgstr "Gromoboy"
-
-msgid "IDS_PXSC512_NUMBER"
-msgstr "1"
-
-msgid "IDS_PXSC512_YEAR"
-msgstr "1899"
-
-msgid "IDS_PXSC522"
-msgstr "Asama"
-
-msgid "IDS_PXSC522_DESCR"
-msgstr "<p>In 1896, a fleet expansion program was adopted, which included the construction of four armored cruisers. A year later, the number of planned ships was increased to six. The first two cruisers—Asama and Tokiwa—were ordered from Britain. These ships were an improved version of the cruiser O'Higgins, built for Chile. During trials, the cruisers exceeded their design speed by one and a half knots. Both ships participated in the Russo-Japanese War and World War I.</p><p class="p_spacing"> </p><p>Asama was laid down in Elswick in November 1896, launched in March 1898, and commissioned in March 1899. During the Russo-Japanese War, the cruiser was part of Admiral Kamimura's squadron, taking part in the battles of Chemulpo, the Yellow Sea, and Tsushima. In World War I, Asama was heavily damaged after running aground off the coast of Mexico in 1915.</p><p class="p_spacing"> </p><p>During World War II, Asama served as a training ship for naval gunners in Shimonoseki.</p>"
-
-msgid "IDS_PXSC522_FULL"
-msgstr "Asama"
-
-msgid "IDS_PXSC522_NUMBER"
+msgid "IDS_PISB539_NUMBER"
 msgstr "2"
 
-msgid "IDS_PXSC522_YEAR"
-msgstr "1899"
+msgid "IDS_PISB539_YEAR"
+msgstr "1934"
 
-msgid "IDS_PXSD512"
-msgstr "Boykiy"
+msgid "IDS_PIUA809_ART_IMPERO"
+msgstr "381 mm/50 Model 1934 on a Model 1934 mount"
 
-msgid "IDS_PXSD512_DESCR"
-msgstr "<p>The 350-ton torpedo boat project of the 'Buyny' class was ordered from the British firm Yarrow in 1897. The design was based on the series of torpedo boats of the 'Ikazuchi' type built for Japan. The ships were built in St. Petersburg in 1901–1902.</p><p class="p_spacing"> </p><p>Boykiy was the lead ship in a series of ten torpedo boats, laid down in June 1901 and launched in August of the same year. It took part in the Russo-Japanese War, engaging in battles with torpedo boats and fighting in the Battle of the Yellow Sea. In December 1904, before the surrender of Port Arthur, it broke through to Chefoo, where it was interned. The ship was part of the Siberian Flotilla and underwent modernization between the wars.</p><p class="p_spacing"> </p><p>From 1914 to 1922, it was in storage in Vladivostok. During the occupation of Vladivostok by Allied forces, the ship was captured by French forces and renamed 'Quentin Roosevelt.' After the departure of the interventionist forces, the destroyer was not reactivated.</p>"
+msgid "IDS_PIUA909_BB11_ART_STOCK"
+msgstr "406 mm/50 Model 1940 in a turret"
 
-msgid "IDS_PXSD512_FULL"
-msgstr "Boykiy"
+msgid "IDS_PIUB901_TB_LAZIO"
+msgstr "Fiat G.55s"
 
-msgid "IDS_PXSD512_NUMBER"
-msgstr "10"
+msgid "IDS_PIUD900_DB_LAZIO"
+msgstr "Savoia-Marchetti SM.93"
 
-msgid "IDS_PXSD512_YEAR"
-msgstr "1902"
+msgid "IDS_PIUE809_ENG_IMPERO"
+msgstr "Propulsion: 130,000 hp"
 
-msgid "IDS_PXSD522"
-msgstr "Sazanami"
+msgid "IDS_PIUE909_ENG_LAZIO"
+msgstr "Propulsion: 139,320 hp"
 
-msgid "IDS_PXSD522_DESCR"
-msgstr "<p>The Ikazuchi-class torpedo boats were built between 1897 and 1899 by the British firm Yarrow. The ships participated in the suppression of the Boxer Rebellion in China and then fought in the Russo-Japanese War.</p><p class="p_spacing"> </p><p>Sazanami was laid down in June 1897, launched and commissioned in August 1899, and arrived in Japan in 1900. It participated in the Russo-Japanese War, engaging in battle with the Russian torpedo boat Steregushchy and capturing the severely wounded Admiral Z. Rozhestvensky, who was aboard the destroyer Bedovy during the Battle of Tsushima.</p>"
+msgid "IDS_PIUE910_BB11_ENG_STOCK"
+msgstr "Propulsion: 210,000 hp"
 
-msgid "IDS_PXSD522_FULL"
-msgstr "Sazanami"
+msgid "IDS_PIUF901_FC_LAZIO"
+msgstr "Mk8 mod. 1"
 
-msgid "IDS_PXSD522_NUMBER"
+msgid "IDS_PIUH812_HULL_IMPERO"
+msgstr "Impero"
+
+msgid "IDS_PIUH909_HULL_LAZIO"
+msgstr "Lazio"
+
+msgid "IDS_PIUH910_BB11_HULL_STOCK"
+msgstr "Galileo"
+
+msgid "IDS_PIUI901_F_LAZIO"
+msgstr "Reggiane Re.2005"
+
+msgid "IDS_PIUS812_SUO_IMPERO"
+msgstr "SDT 9"
+
+msgid "IDS_PIUS909_BB11_SUO_STOCK"
+msgstr "SDT 11"
+
+msgid "IDS_PJAM520_I2_STOCK"
+msgstr "Aichi M6A1 Seiran"
+
+msgid "IDS_PJGM239_100MM65_TYPE_98"
+msgstr "100-mm/65 Type 98 in Model A2 mount"
+
+msgid "IDS_PJPA178_100MM_HE_CHIKUGO"
+msgstr "100 mm HE Type98"
+
+msgid "IDS_PJPA179_100MM_AP_CHIKUGO"
+msgstr "100 mm AP Type98"
+
+msgid "IDS_PJPM520_I2_STOCK"
+msgstr "Type JI Mod. 2"
+
+msgid "IDS_PJPT068_I2_MZ"
+msgstr "Type95 mod. 5 MZ"
+
+msgid "IDS_PJPT069_610MM_CHIKUGO"
+msgstr "Type93"
+
+msgid "IDS_PJPT070_I2_SUB"
+msgstr "Type95 mod. 5"
+
+msgid "IDS_PJSC540"
+msgstr "Chikugo"
+
+msgid "IDS_PJSC540_DESCR"
+msgstr "<p>The 1941 fleet replenishment program included four specialized AA cruisers to lead Akizuki-class destroyer flotillas. These \"Project 815\" ships were small cruisers with 5,800t standard displacement.</p><p class=\"p_spacing\"> </p><p>An alternative considered converting Ōyodo-class cruisers or building new ones based on their hulls. The cruisers would carry twelve twin 100-mm/65 guns, matching three Akizuki-class destroyers' firepower. Enclosed mounts were planned amidships, semi-enclosed along sides.</p>"
+
+msgid "IDS_PJSC540_FULL"
+msgstr "Chikugo"
+
+msgid "IDS_PJSC540_NUMBER"
 msgstr "1"
 
-msgid "IDS_PXSD522_YEAR"
-msgstr "1904"
+msgid "IDS_PJSC540_YEAR"
+msgstr "1940"
 
-msgid "IDS_PXUA101_ART_GROMOBOY"
+msgid "IDS_PJSS520"
+msgstr "I-2"
+
+msgid "IDS_PJSS520_DESCR"
+msgstr "The Kai-Ko-Taka AM type, an improved Ko-Gata A2 type, planned two submarine series. The second series carried two strike aircraft instead of one reconnaissance plane, intended for attacking Panama Canal locks. The cylindrical hangar was offset, giving an unusual appearance. Four were planned but never laid down as Japanese naval focus shifted to carriers."
+
+msgid "IDS_PJSS520_FULL"
+msgstr "I-2"
+
+msgid "IDS_PJSS520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSS520_YEAR"
+msgstr "1942"
+
+msgid "IDS_PJUA915_ART_CHIKUGO"
+msgstr "100-mm/65 Type 98 in Model A and A2 mounts"
+
+msgid "IDS_PJUE918_ENG_I2"
+msgstr "Propulsion: 4,400 hp"
+
+msgid "IDS_PJUE919_ENG_CHIKUGO"
+msgstr "Propulsion: 118,860 hp"
+
+msgid "IDS_PJUF908_FC_I2"
+msgstr "Type10"
+
+msgid "IDS_PJUH919_HULL_I2"
+msgstr "I-2"
+
+msgid "IDS_PJUH920_HULL_CHIKUGO"
+msgstr "Chikugo"
+
+msgid "IDS_PJUO901_M_I2"
+msgstr "Aichi M6A1 Seiran"
+
+msgid "IDS_PJUQ900_SONAR_I2"
+msgstr "Type10"
+
+msgid "IDS_PJUS918_SUO_CHIKUGO"
+msgstr "Type10"
+
+msgid "IDS_PJUT920_TORP_I2"
+msgstr "533 mm"
+
+msgid "IDS_PJUT921_TORP_CHIKUGO"
+msgstr "Type 92"
+
+msgid "IDS_PRES319_SOVETSKAYA_GRUZIA"
+msgstr "Snowy Peaks"
+
+msgid "IDS_PRES448_ALNESVSKII_RUSSIA"
+msgstr "Russian Tricolor"
+
+msgid "IDS_PRGM248_18IN48_MK1_TWIN"
+msgstr "457 mm/48 Mk.1 in a turret"
+
+msgid "IDS_PRGS249_5IN38_MK38_MOD0"
+msgstr "127 mm/38 Mk.12 on a Mk.38 mount"
+
+msgid "IDS_PRPA257_457MM_HE_S_GRUZIA"
+msgstr "457 mm HE Type B"
+
+msgid "IDS_PRPA258_457MM_AP_S_GRUZIA"
+msgstr "457 mm AP Type B"
+
+msgid "IDS_PRPA259_152MM_25HE_1907"
+msgstr "152 mm HE Model 1907"
+
+msgid "IDS_PRPA260_152MM_OFU35_25HE_SG"
+msgstr "OFU-35"
+
+msgid "IDS_PRPA916_HE_DESTROYER_CHALLENGE"
+msgstr "120 mm HE"
+
+msgid "IDS_PRPA917_AP_DESTROYER_CHALLENGE"
+msgstr "120 mm AP"
+
+msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
+msgstr "533 mm Mk VII"
+
+msgid "IDS_PRSB549"
+msgstr "Sakartvelo"
+
+msgid "IDS_PRSB549_DESCR"
+msgstr "<p>Beyond the gorge gates where castle towers stand like giant sentinels, lies an ancient land. There, emerald valleys slumber under golden clouds while eternal snow crowns the peaks. This land is harsh and proud, yet full of life like its ancient fortresses.</p><p class=\"p_spacing\"> </p><p>Beyond the wind-carved cliffs lies a land where legends live and sweet songs flow - ancient yet forever young.</p>"
+
+msgid "IDS_PRSB549_FULL"
+msgstr "Sakartvelo"
+
+msgid "IDS_PRSB549_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB549_YEAR"
+msgstr "1933"
+
+msgid "IDS_PRSD916"
+msgstr "Uporniy"
+
+msgid "IDS_PRSD916_DESCR"
+msgstr "Ship for Training Trials participation."
+
+msgid "IDS_PRSD916_FULL"
+msgstr "Uporniy"
+
+msgid "IDS_PRSD916_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSD916_YEAR"
+msgstr "1937"
+
+msgid "IDS_PRUA509_ART_DESTROYER_CHALLENGE"
+msgstr "120 mm/45 QF Mk.IX on a CPXIV/XVII/XVIII mount"
+
+msgid "IDS_PRUA825_ART_S_GRUZIA"
+msgstr "457 mm/48 Mk.1 in a turret"
+
+msgid "IDS_PRUE510_ENG_DESTROYER_CHALLENGE"
+msgstr "Propulsion: 80,000 hp"
+
+msgid "IDS_PRUE822_ENG_S_GRUZIA"
+msgstr "Propulsion: 230,000 hp"
+
+msgid "IDS_PRUH519_HULL_DESTROYER_CHALLENGE"
+msgstr "Uporniy"
+
+msgid "IDS_PRUH831_HULL_S_GRUZIA"
+msgstr "Sakartvelo"
+
+msgid "IDS_PRUS515_SUO_DESTROYER_CHALLENGE"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS829_SUO_S_GRUZIA"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUT506_TORP_DESTROYER_CHALLENGE"
+msgstr "533 mm Mk VIII"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_CANCELED"
+msgstr "TASK CANCELED"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_FAILURE"
+msgstr "FAILED"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_IN_PROGRESS"
+msgstr "NEW TASK"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_NOT_STARTED"
+msgstr "NEW TASK"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_SUCCESS"
+msgstr "COMPLETED"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_UPDATED"
+msgstr "TASK UPDATED"
+
+msgid "IDS_PWES510_HALLAND_TM"
+msgstr "Tsar Morey — Viking"
+
+msgid "IDS_PZGM182_305MM_61_SM31"
+msgstr "305 mm/61 SM-33 on an SM-31 mount"
+
+msgid "IDS_PZGS183_130MM_57_BL_132_B"
+msgstr "130 mm/58 on a BL-132B mount"
+
+msgid "IDS_PZPA094_305MM_HE_JULANG"
+msgstr "305 mm HE Model 1928"
+
+msgid "IDS_PZPA095_305MM_AP_JULANG"
+msgstr "305 mm AP Model 1928"
+
+msgid "IDS_PZPA096_130MM_HE_OF_46_B2U_SG"
+msgstr "HE-46"
+
+msgid "IDS_PZSB549"
+msgstr "Julang"
+
+msgid "IDS_PZSB549_DESCR"
+msgstr "A Soviet Project 21 battleship significantly modernized in the 1950s. Main guns replaced with Project 82 (\"Stalingrad\"-class heavy cruiser) weapons. Medium and long-range AA replaced with 130mm universal mounts, light AA with ZIF-75 and 4M-120. Potentially could have been transferred to China under USSR naval assistance programs."
+
+msgid "IDS_PZSB549_FULL"
+msgstr "Julang"
+
+msgid "IDS_PZSB549_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB549_YEAR"
+msgstr "1954"
+
+msgid "IDS_PZUA811_ART_JULANG"
+msgstr "305 mm/61 SM-33 on an SM-31 mount"
+
+msgid "IDS_PZUE811_ENG_JULANG"
+msgstr "Propulsion: 201,000 hp"
+
+msgid "IDS_PZUH813_HULL_JULANG"
+msgstr "Julang"
+
+msgid "IDS_PZUS813_SUO_JULANG"
+msgstr "GFCS IX"
+
+msgid "IDS_QUEST_TM_CHAMPION"
+msgstr "Become a player tournament champion with your team."
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUA102_ART_BORODINO"
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_0_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUA103_ART_MIKASA"
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUA104_ART_ASAMA_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_1_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUA105_ART_BOYKIY_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUA106_ART_SAZANAMI_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_2_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUE102_ENG_BORODINO"
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_TITLE"
+msgstr "Tactical Big container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_TITLE_SHORT"
+msgstr "Tactical Big"
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUE103_ENG_MIKASA"
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_0_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUE104_ENG_ASAMA_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUE105_ENG_BOYKIY_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_1_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUE106_ENG_SAZANAMI_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUE107_ENG_GROMOBOY"
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_2_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUH102_HULL_BORODINO"
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_TITLE"
+msgstr "Tactical Giant container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_TITLE_SHORT"
+msgstr "Tactical Giant"
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUH103_HULL_MIKASA"
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_0_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUH104_HULL_ASAMA_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUH105_HULL_BOYKIY_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_1_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUH106_HULL_SAZANAMI_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUH107_HULL_GROMOBOY"
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_2_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUS101_SUO_GROMOBOY"
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_TITLE"
+msgstr "Tactical Special container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_TITLE_SHORT"
+msgstr "Tactical Special"
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUS102_SUO_BORODINO"
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_0_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUS103_SUO_MIKASA"
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUS104_SUO_ASAMA_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_1_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUS105_SUO_BOYKIY_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUS106_SUO_SAZANAMI_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_2_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUT101_TORP_GROMOBOY"
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_TITLE"
+msgstr "Tactical container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_TITLE_SHORT"
+msgstr "Tactical"
+
+msgid "IDS_REWARD_LOOTBOX_PCL097_TM_COLL_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUT102_TORP_BORODINO"
+msgid "IDS_REWARD_LOOTBOX_PCL097_TM_COLL_SLOT_0_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUT103_TORP_MIKASA"
+msgid "IDS_REWARD_LOOTBOX_PCL097_TM_COLL_TITLE"
+msgstr "Tsar Morey container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL097_TM_COLL_TITLE_SHORT"
+msgstr "Tsar Morey"
+
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUT104_TORP_ASAMA_BOT"
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_PXUT105_TORP_BOYKIY_BOT"
-msgstr " "
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium ship"
 
-msgid "IDS_PXUT106_TORP_SAZANAMI_BOT"
-msgstr " "
-
-msgid "IDS_RATINGBATTLE"
-msgstr "Rating Battle"
-
-msgid "IDS_RATINGBATTLE_DESCRIPTION"
-msgstr "Battles where players are matched by combat effectiveness rating."
-
-msgid "IDS_RATING_BATTLES_ACCOUNT_LEVEL_TOO_LOW"
-msgstr "Your account level is too low to participate in this battle type"
-
-msgid "IDS_RATING_BATTLES_DENY_REASON_NO_CURRENT_PRIME_TIME"
-msgstr "Rating Battles are not currently being held."
-
-msgid "IDS_RATING_BATTLES_DENY_REASON_SEASON_NOT_STARTED"
-msgstr "Await the start of the season."
-
-msgid "IDS_RATING_BATTLES_DENY_REASON_WRONG_SHIP_LEVEL"
-msgstr "Select a ship of the appropriate level."
-
-msgid "IDS_RATING_BATTLES_INFORMER_TYPE_0"
-msgstr "The Rating Battle season has begun!"
-
-msgid "IDS_RATING_BATTLES_INFORMER_TYPE_1"
-msgstr "The Rating Battle season will soon end"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_BRONZE"
-msgstr "Bronze"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_BRONZE_FULL"
-msgstr "%(_rating)s, Bronze League"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_GOLD"
-msgstr "Gold"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_GOLD_FULL"
-msgstr "%(_rating)s, Gold League"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_IRON"
-msgstr "Iron"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_IRON_FULL"
-msgstr "%(_rating)s, Iron League"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_MOUSE_INSTRUCTION"
-msgstr "View league rewards"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_PASSED_REWARDS"
-msgstr "For advancing to the league:"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_PLATINUM"
-msgstr "Obsidian"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_PLATINUM_FULL"
-msgstr "%(_rating)s, Obsidian League"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_REWARDS_TITLE"
-msgstr "League Rewards"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_SILVER"
-msgstr "Silver"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_SILVER_FULL"
-msgstr "%(_rating)s, Silver League"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_STATUS_0"
-msgstr "Current league"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_STATUS_1"
-msgstr "League completed"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_STATUS_2"
-msgstr "Previous league not completed"
-
-msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_0"
-msgstr "Rewards are given for advancing to a league and for each victory in battle."
-
-msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_1"
-msgstr "The reward for advancing to a league can only be received once."
-
-msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_2"
-msgstr "Each resource has a cap that you cannot exceed by receiving rewards during the season."
-
-msgid "IDS_RATING_BATTLES_LEAGUE_VICTORIES_REWARDS"
-msgstr "For each victory:"
-
-msgid "IDS_RATING_BATTLES_QUALIFICATION"
-msgstr "Qualification"
-
-msgid "IDS_RATING_BATTLES_QUALIFICATION_DESCRIPTION"
-msgstr "Complete 5 battles to receive a rating in one of the leagues"
-
-msgid "IDS_RATING_BATTLES_QUALIFICATION_RESULTS_TEXT"
-msgstr "Battles completed:"
-
-msgid "IDS_RATING_BATTLES_QUALIFICATION_REWARDS"
-msgstr "Qualification reward:"
-
-msgid "IDS_RATING_BATTLES_QUALIFICATION_TEXT"
-msgstr "The rating reflects your combat effectiveness and is adjusted after each battle."
-
-msgid "IDS_RATING_BATTLES_RESULTS_QUALIFICATION_REWARDS"
-msgstr "Completion reward:"
-
-msgid "IDS_RATING_BATTLES_RESULTS_STATUS_QUALIFICATION"
-msgstr "Qualification"
-
-msgid "IDS_RATING_BATTLES_RESULTS_STATUS_QUALIFICATION_PASSED"
-msgstr "Qualification completed"
-
-msgid "IDS_RATING_BATTLES_RESULTS_STATUS_RATING_LOSS"
-msgstr "Rating decreased"
-
-msgid "IDS_RATING_BATTLES_RESULTS_STATUS_RATING_NOT_CHANGED"
-msgstr "Rating unchanged"
-
-msgid "IDS_RATING_BATTLES_RESULTS_STATUS_RATING_RAISED"
-msgstr "Rating increased"
-
-msgid "IDS_RATING_BATTLES_RESULTS_TEXT"
-msgstr "Your rating:"
-
-msgid "IDS_RATING_BATTLES_SEASON"
-msgstr "Rating Battles"
-
-msgid "IDS_RATING_BATTLES_STATS_BATTLES_COUNT"
-msgstr "Battles played"
-
-msgid "IDS_RATING_BATTLES_STATS_DAMAGE_MAX"
-msgstr "Maximum damage"
-
-msgid "IDS_RATING_BATTLES_STATS_DESTROYED_MAX"
-msgstr "Most destroyed"
-
-msgid "IDS_RATING_BATTLES_STATS_EXP_MAX"
-msgstr "Maximum XP"
-
-msgid "IDS_RATING_BATTLES_STATS_RATING_MAX"
-msgstr "Maximum rating"
-
-msgid "IDS_RATING_BATTLES_STATS_RATING_START"
-msgstr "Initial rating"
-
-msgid "IDS_RATING_BATTLES_STATS_VICTORIES"
-msgstr "Victories"
-
-msgid "IDS_RATING_BATTLES_SUMMARY_TITLE"
-msgstr "Season completed"
-
-msgid "IDS_RATING_DIVISION_TOOLTIP"
-msgstr "A division's rating is the average rating of all members with a multiplier based on their number. The more members in a division, the higher the multiplier."
-
-msgid "IDS_RATING_SEASON_FINISH_TEXT"
-msgstr "Rating Battles are not currently being held. Await the start of the next season."
-
-msgid "IDS_REWARD_ELITE_CREW_BOOK_TITLE"
-msgstr "Elite Commander's Manual"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Tier IX Ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Tier IX"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Tier VIII Ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "Tier VIII"
-
-msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Ship"
 
-msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Special Tier X Ship"
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_TITLE"
+msgstr "Tactical Small container"
 
-msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Tier X"
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_TITLE_SHORT"
+msgstr "Tactical Small"
 
-msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Legendary Tier VIII–X Ship"
+msgid "IDS_SCENARIO_DOMINATION_SPECIAL_GLOBALWEATHER"
+msgstr "Blitz. Domination - Storm"
 
-msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Tier VIII–X"
+msgid "IDS_SCENARIO_PCVT004_MANEUVER_PRIME"
+msgstr "Destroyer Maneuvers"
 
-msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_TITLE"
-msgstr "Premium Container \"Glory to the Victors!\""
+msgid "IDS_SCORES_CAN_BE_SUBSTRUCTED"
+msgstr "Points are lost with each hit you take"
 
-msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_TITLE_SHORT"
-msgstr "Glory to the Victors!"
+msgid "IDS_SECOND_TMSUBCOLLECTION_NAME"
+msgstr "Tournament Setup"
 
-msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIPCOMPONENT_ALL_TITLE"
+msgstr "All blueprints"
 
-msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIPCOMPONENT_FULL_TITLE"
+msgstr "Ship blueprint"
 
-msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIPCOMPONENT_INFO_TITLE"
+msgstr "Repair requirements"
 
-msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr " "
+msgid "IDS_SHIPMATERIAL_SUPERSHIP"
+msgstr "Superships"
 
-msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_AIRCARRIER"
+msgstr "Aircraft carriers are not allowed in the selected trial."
 
-msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr " "
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_BATTLESHIP"
+msgstr "Battleships are not allowed in the selected trial."
 
-msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_TITLE"
-msgstr "Container \"Standard Signals\""
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_CRUISER"
+msgstr "Cruisers are not allowed in the selected trial."
 
-msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_TITLE_SHORT"
-msgstr "Standard Signals"
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_DESTROYER"
+msgstr "Destroyers are not allowed in the selected trial."
 
-msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_SUBMARINE"
+msgstr "Submarines are not allowed in the selected trial."
 
-msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_BUTTON_TEXT"
+msgstr "Exchange"
 
-msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_DESCRIPTION"
+msgstr "<p>Here you can exchange materials for a random ship blueprint.</p><p class="
 
-msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_EMPTY_LIST"
+msgstr "<p>View the full list of blueprints available in exchange for materials.</p><p>The list is periodically updated - stay tuned!</p>"
 
-msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_LEVEL_TITLE"
+msgstr "Select level:"
 
-msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_PERCENT_RATE"
+msgstr ""
+"<p>Chance to receive\n"
+"new blueprint: <span class="
 
-msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_TITLE"
-msgstr "Container \"Special Signals\""
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_TITLE"
+msgstr "Exchange materials for blueprint"
 
-msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_TITLE_SHORT"
-msgstr "Special Signals"
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_WARNING"
+msgstr "No suitable resources for exchange "
 
-msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_GET_TITLE"
+msgstr "Obtaining blueprints"
 
-msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_LIST_ALL"
+msgstr "Full list"
 
-msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_LIST_ALL_TOOLTIP"
+msgstr "View full list of available blueprints"
 
-msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_LIST_TITLE"
+msgstr "All blueprints"
 
-msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_TO_EXCHANGE"
+msgstr "To exchange screen"
 
-msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr " "
+msgid "IDS_SHIP_COMPONENTS_TO_REPAIR_DOCK"
+msgstr "To Repair Dock"
 
-msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_TITLE"
-msgstr "Container \"Rare Signals\""
+msgid "IDS_SHIP_COMPONENT_IN_PORT"
+msgstr "Available in Port"
 
-msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_TITLE_SHORT"
-msgstr "Rare Signals"
+msgid "IDS_SHIP_MATERIALS_TOOLTIP_MOUSE_CANCEL"
+msgstr "Cancel selection"
 
-msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_MATERIALS_TOOLTIP_MOUSE_SELECT"
+msgstr "Select level"
 
-msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_MATERIALS_TOOLTIP_REWARDS_TITLE"
+msgstr "Compensation:"
 
-msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_MATERIALS_TOOLTIP_STATUS_SELECTED"
+msgstr "Selected"
 
-msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr " "
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_VISIBILITY"
+msgstr "Concealment enhancement"
 
-msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_PARAM_AMMO_SS"
+msgstr "Smoke shell"
 
-msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr " "
+msgid "IDS_SHIP_PARAM_AMMO_SS_FULL_NAME"
+msgstr "Smoke shell"
 
-msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_TITLE"
-msgstr "Container \"Elite Signals\""
+msgid "IDS_SHIP_PARAM_AMMO_SS_SEC"
+msgstr "Smoke shell (modified)"
 
-msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_TITLE_SHORT"
-msgstr "Elite Signals"
+msgid "IDS_SHIP_PARAM_SMOKE_RADIUS_SS"
+msgstr "Action radius"
 
-msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
+msgid "IDS_SHIP_PARAM_SMOKE_TIME_SS"
+msgstr "Smoke screen dispersion time"
 
-msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_TITLE_FULL"
-msgstr "Ship"
+msgid "IDS_SHIP_SHARDS_ALL_TITLE"
+msgstr "All materials"
 
-msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium Tier VIII Ship"
+msgid "IDS_SHIP_SHARDS_COMPONENTS_GET_BUTTON"
+msgstr "Get blueprint"
 
-msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Tier VIII"
+msgid "IDS_SHIP_SHARDS_TOOLTIP_PROGRESS_TITLE"
+msgstr "Repair readiness"
 
-msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Premium Ship"
+msgid "IDS_SHIP_SHARDS_TTX_BUTTON_FEATURES"
+msgstr "Ship features"
 
-msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Premium Ship"
+msgid "IDS_SHIP_TOOLTIP_REPAIR_WITH_MATERIALS_AVAILABLE"
+msgstr "Ready for repair"
 
-msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_TITLE"
-msgstr "Premium Container \"Premium Ship\""
+msgid "IDS_SOUND_MOD_VIKING_TM"
+msgstr "Björn Konungr"
 
-msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_TITLE_SHORT"
-msgstr "Premium Ship"
+msgid "IDS_SUBST_SHIP_SHARDS_TTX_REPAIR_SHIPMATERIAL_LEVEL"
+msgstr "Required %(_shipLevel)s level materials:"
 
-msgid "IDS_REWARD_MAP_UNLOCK_DESCRIPTION"
-msgstr "Access to the \"Last Harbor\" map in battles."
+msgid "IDS_SUBST_TILL_SHARE_ENDS"
+msgstr "Until promotion ends: %(_timeLeft)s"
 
-msgid "IDS_REWARD_MAP_UNLOCK_TITLE"
-msgstr "Map \"Last Harbor\""
+msgid "IDS_SYS_MSG_ECOBOOST"
+msgstr "Economic Bonuses"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_BLOCK"
-msgstr "You hit an enemy ship with a sonar pulse, but the enemy dispersed your pulse."
+msgid "IDS_SYS_MSG_HEADER_ALCHEMY_ECOBOOST_EXCHANGE"
+msgstr "Economic bonuses exchange"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_CURR"
-msgstr "Hit an enemy ship with a sonar pulse twice."
+msgid "IDS_SYS_MSG_HEADER_ALCHEMY_SIGNAL_EXCHANGE"
+msgstr "Signals exchange"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
-msgstr "Hit an enemy ship with a sonar pulse once."
+msgid "IDS_SYS_MSG_SHIP_MATERIAL_EXCHANGED"
+msgstr "Materials exchanged for blueprint"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_AIRSHIP_BOOST"
-msgstr "Boost an allied airship."
+msgid "IDS_SYS_MSG_SIGNAL"
+msgstr "Signals"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_AIRSHIP_BOOST_ASSIST"
-msgstr "Assist in boosting an allied airship."
+msgid "IDS_THIRD_TMSUBCOLLECTION_NAME"
+msgstr "Specifics of Gameplay"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_AIRSHIP_SLOW"
-msgstr "Slow an enemy airship."
+msgid "IDS_TIPS_ARMAMENT_SS"
+msgstr "Smoke shells"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
-msgstr "Assist in slowing an enemy airship."
+msgid "IDS_TIPS_ARMAMENT_SS_DESCRIPTION"
+msgstr "<p>Smoke shells are selected with [CMD_AMMO_SLOT_1].</p><p class=\"p_spacing\"> </p><p>Create smoke screens at impact point.</p><p class=\"p_spacing\"> </p><p>Smoke can conceal you or allies from enemies.</p>"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BASE_CAPTURE"
-msgstr "Capture an enemy control point or base."
+msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_NOT_SWITCHABLE"
+msgstr "Only \"Burst Fire\" mode available"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BASE_CAPTURE_ASSIST"
-msgstr "Assist in capturing an enemy control point or base."
+msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_NOT_SWITCHABLE_DESCRIPTION"
+msgstr "<p>Your ship's guns only fire in \"Burst Fire\" mode.</p><p class=\"p_spacing\"> </p><p>You can fire several salvos with short intervals, followed by a longer reload.</p>"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BASE_DEFENSE"
-msgstr "Hit an enemy capturing a control point or allied base."
+msgid "IDS_TIPS_SHOOTING_SS"
+msgstr "Firing smoke shells"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_BULGE"
-msgstr "Hit an enemy ship's torpedo bulge with a bomb."
+msgid "IDS_TIPS_SHOOTING_SS_DESCRIPTION"
+msgstr "When firing smoke shells [CMD_AMMO_SLOT_1], lead targets to timely cover allies."
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_NO_PENETRATION"
-msgstr "Hit an enemy ship with a bomb but did not penetrate the armor."
+msgid "IDS_TM13_GER"
+msgstr "Klaus Sternberger"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_OVER_PENETRATION"
-msgstr "Over-penetrated an enemy ship with a bomb."
+msgid "IDS_TM13_JAP"
+msgstr "Kenji Shiraishi"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_PENETRATION"
-msgstr "Penetrated an enemy ship's armor with a bomb."
+msgid "IDS_TM13_RUS"
+msgstr "Stepan Yermakov"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_RICOCHET"
-msgstr "Your bomb ricocheted off an enemy ship's armor."
+msgid "IDS_TM13_USA"
+msgstr "Edward Turner"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BULGE"
-msgstr "Hit an enemy ship's torpedo bulge with main battery guns."
+msgid "IDS_TRIAL_MANEUVER"
+msgstr "DESTROYER MANEUVERS"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DAMAGED_SEGMENT"
-msgstr "Damaged an enemy ship's armor."
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_1"
+msgstr "Deal torpedo damage"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DESTROYED_SEGMENT"
-msgstr "Destroyed an enemy ship's armor."
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_2"
+msgstr "Deal torpedo damage"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DROP"
-msgstr "Pick up an upgrade for your team."
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_3"
+msgstr "Deal torpedo damage while remaining undetected"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_BULGE"
-msgstr "Hit an enemy ship's torpedo bulge with a rocket."
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_4"
+msgstr "Deal torpedo damage with allies"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_NO_PENETRATION"
-msgstr "Hit an enemy ship with a rocket but did not penetrate the armor."
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_5"
+msgstr "Capture control point and deal torpedo damage"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_OVER_PENETRATION"
-msgstr "Over-penetrated an enemy ship with a rocket."
+msgid "IDS_TRIAL_MAN_TEXT_ALLIES_DAMAGE_POINTS_SUBTRACTING_SCORE_VAR_3"
+msgstr "You gain bonus points when allies damage enemies. You lose points when enemies hit your ship."
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_PENETRATION"
-msgstr "Penetrated an enemy ship's armor with a rocket."
+msgid "IDS_TRIAL_MAN_TEXT_CAPTURING_AREA_R3_02"
+msgstr "Captured control points grant bonus points"
 
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_RICOCHET"
-msgstr "Your rocket ricocheted off an enemy ship's armor."
+msgid "IDS_TRIAL_MAN_TEXT_FORSAJ_R2_19"
+msgstr "Activate \"Engine Boost\" to quickly disengage"
 
-msgid "IDS_RIBBON_SSE_RIBBON_ACID"
-msgstr "Hit with acid"
+msgid "IDS_TRIAL_MAN_TEXT_GUP"
+msgstr "Use \"Hydroacoustic Search\" consumable to detect torpedoes!"
 
-msgid "IDS_RIBBON_SSE_RIBBON_ACOUSTIC_HIT"
-msgstr "Hit with sonar"
+msgid "IDS_TRIAL_MAN_TEXT_ISLANDS"
+msgstr "Use islands for cover from enemy ships and shells"
 
-msgid "IDS_RIBBON_SSE_RIBBON_BOMB"
-msgstr "Hit with bomb"
+msgid "IDS_TRIAL_MAN_TEXT_KEY_X_R1_13"
+msgstr "Aim at a ship and press [KEY_X] to lock on. Fire toward the white sector."
 
-msgid "IDS_RIBBON_SSE_RIBBON_BUILDING_KILL"
-msgstr "Destroyed coastal structure"
+msgid "IDS_TRIAL_MAN_TEXT_RADIUS_VISIBILITY_1"
+msgstr "If enemies enter your detection range, they will spot and attack you"
 
-msgid "IDS_RIBBON_SSE_RIBBON_BURN"
-msgstr "Set on fire"
+msgid "IDS_TRIAL_MAN_TEXT_RADIUS_VISIBILITY_2"
+msgstr "Warning! Enemy ship is within your detection range."
 
-msgid "IDS_RIBBON_SSE_RIBBON_CITADEL"
-msgstr "Hit citadel"
+msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_1"
+msgstr "When in smoke, your detection range is reduced to 2 km"
 
-msgid "IDS_RIBBON_SSE_RIBBON_CRIT"
-msgstr "Disabled"
+msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_2"
+msgstr "Use \"Smoke Generator\" to conceal yourself from enemies"
 
-msgid "IDS_RIBBON_SSE_RIBBON_DBOMB"
-msgstr "Hit with depth charge"
+msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_3"
+msgstr "Use \"Smoke Generator\" to cover an ally"
 
-msgid "IDS_RIBBON_SSE_RIBBON_DEMINING_MINE"
-msgstr "Destroyed mine"
+msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_GUP_R3_20"
+msgstr "Use \"Hydroacoustic Search\" to see enemies through smoke"
 
-msgid "IDS_RIBBON_SSE_RIBBON_DETECTED"
-msgstr "Detected"
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_1"
+msgstr "Deal as much torpedo damage as possible"
 
-msgid "IDS_RIBBON_SSE_RIBBON_EFFECTIVE_SMOKES"
-msgstr "Covered"
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_2"
+msgstr "Deal as much torpedo damage as possible"
 
-msgid "IDS_RIBBON_SSE_RIBBON_FLOOD"
-msgstr "Flooded"
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_3"
+msgstr "Deal as much torpedo damage as possible while remaining undetected"
 
-msgid "IDS_RIBBON_SSE_RIBBON_FRAG"
-msgstr "Destroyed"
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_4"
+msgstr "Deal as much damage as possible with allies while staying concealed and covering friendly ships"
 
-msgid "IDS_RIBBON_SSE_RIBBON_HELP_TEAM"
-msgstr "Tactical contribution"
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_5"
+msgstr "Deal as much torpedo damage as possible while holding the control point"
 
-msgid "IDS_RIBBON_SSE_RIBBON_HIT_SEGMENT"
-msgstr "Hit armor"
+msgid "IDS_TRIAL_MAN_TEXT_SUBTRACTING_SCORE_1"
+msgstr "You lose points each time enemies hit your ship"
 
-msgid "IDS_RIBBON_SSE_RIBBON_MAIN_CALIBER"
-msgstr "Hit with main battery"
+msgid "IDS_TRIAL_MAN_TEXT_SUBTRACTING_SCORE_2"
+msgstr "Your ship was hit by a torpedo and lost points. Avoid enemy torpedoes!"
 
-msgid "IDS_RIBBON_SSE_RIBBON_MINE"
-msgstr "Damaged enemy ship with mine"
+msgid "IDS_TRIAL_MAN_TEXT_TORPEDO_FAN_R1_09"
+msgstr "Press [KEY_3] to adjust torpedo spread width"
 
-msgid "IDS_RIBBON_SSE_RIBBON_PLANE"
-msgstr "Shot down plane"
+msgid "IDS_TRIAL_MAN_TEXT_VISIBILITY_5_7_R2_03"
+msgstr "Your ship's detection range is 5.7 km. Keep enemies out of this distance!"
 
-msgid "IDS_RIBBON_SSE_RIBBON_ROCKET"
-msgstr "Hit with rocket"
+msgid "IDS_TRIAL_MAN_TEXT_VISIBILITY_MAIN_GK_R2_09"
+msgstr "Firing main guns increases your detectability. Switch to torpedoes to avoid increasing detection range."
 
-msgid "IDS_RIBBON_SSE_RIBBON_SECONDARY_CALIBER"
-msgstr "Hit with secondary battery"
-
-msgid "IDS_RIBBON_SSE_RIBBON_SPLANE"
-msgstr "Shot down with fighter"
-
-msgid "IDS_RIBBON_SSE_RIBBON_SUPPRESSED"
-msgstr "Suppressed"
-
-msgid "IDS_RIBBON_SSE_RIBBON_TANKING"
-msgstr "Tanked damage"
-
-msgid "IDS_RIBBON_SSE_RIBBON_TORPEDO"
-msgstr "Hit with torpedo"
-
-msgid "IDS_RIBBON_SSE_RIBBON_VICTORY_ACTION"
-msgstr "Strategic contribution"
-
-msgid "IDS_RIBBON_SSE_RIBBON_WAVE"
-msgstr "Hit with wave"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_BLOCK"
-msgstr "Pulse dispersed"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_CURR"
-msgstr "Double hit"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
-msgstr "Single hit"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_BOOST"
-msgstr "Boosted airship"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_BOOST_ASSIST"
-msgstr "Assisted boost"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_SLOW"
-msgstr "Slowed airship"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
-msgstr "Assisted slow"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_CAPTURE"
-msgstr "Captured point"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_CAPTURE_ASSIST"
-msgstr "Assisted capture"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_DEFENSE"
-msgstr "Defended point"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_BULGE"
-msgstr "Hit torpedo bulge with bomb"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_NO_PENETRATION"
-msgstr "Non-penetration with bomb"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_OVER_PENETRATION"
-msgstr "Over-penetration with bomb"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_PENETRATION"
-msgstr "Penetration with bomb"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_RICOCHET"
-msgstr "Bomb ricochet"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_BULGE"
-msgstr "Hit torpedo bulge with main battery"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_DAMAGED_SEGMENT"
-msgstr "Armor damaged"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_DBOMB_FULL_DAMAGE"
-msgstr "Direct hit with depth charge"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_DBOMB_PARTIAL_DAMAGE"
-msgstr "Depth charge explosion near target"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_DESTROYED_SEGMENT"
-msgstr "Armor destroyed"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_DROP"
-msgstr "Picked up upgrade"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
-msgstr "Non-penetration with main battery"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_OVER_PENETRATION"
-msgstr "Over-penetration with main battery"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_PENETRATION"
-msgstr "Penetration with main battery"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_RICOCHET"
-msgstr "Main battery ricochet"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_BULGE"
-msgstr "Hit torpedo bulge with rocket"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_NO_PENETRATION"
-msgstr "Non-penetration with rocket"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_OVER_PENETRATION"
-msgstr "Over-penetration with rocket"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_PENETRATION"
-msgstr "Penetration with rocket"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_RICOCHET"
-msgstr "Rocket ricochet"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_CUT_WAVE"
-msgstr "Cut wave with wave"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_HIT_VEHICLE"
-msgstr "Hit ship with wave"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_KILL_TORPEDO"
-msgstr "Destroyed torpedo with wave"
-
-msgid "IDS_SCENARIO_DE_ASYMM_DOMINATION"
-msgstr "Iron Horde"
-
-msgid "IDS_SCENARIO_DOMINATION_2POINT_COOP_TEMP"
-msgstr "Standard Battle — Co-op"
-
-msgid "IDS_SCENARIO_DOMINATION_2POINT_TEMP"
-msgstr "Standard Battle"
-
-msgid "IDS_SCENARIO_DOMINATION_3POINT_COOP_TEMP"
-msgstr "Domination — Co-op"
-
-msgid "IDS_SCENARIO_DOMINATION_3POINT_TEMP"
-msgstr "Domination"
-
-msgid "IDS_SCENARIO_DOMINATION_4POINT_COOP_TEMP"
-msgstr "Domination — Four Points — Co-op"
-
-msgid "IDS_SCENARIO_DOMINATION_4POINT_TEMP"
-msgstr "Domination — Four Points"
-
-msgid "IDS_SGRUDDER_TIME_CHANGED"
-msgstr "Main battery traverse speed increased"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM185_ENGINEBOOST_DE2025"
-msgstr "Increased ship speed"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM185_ENGINEBOOST_DE2025_APPLIED"
-msgstr " "
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM186_TORPEDOBUFF_DE2025"
-msgstr "Faster torpedo reload"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM186_TORPEDOBUFF_DE2025_APPLIED"
-msgstr " "
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM187_GMIDEALRADIUS_DE2025"
-msgstr "Increased artillery accuracy"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM187_GMIDEALRADIUS_DE2025_APPLIED"
-msgstr " "
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM188_GMSHOTDELAY_DE2025"
-msgstr "Faster artillery reload"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM188_GMSHOTDELAY_DE2025_APPLIED"
-msgstr " "
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM189_ARTILLERYDAMAGECOEF_DE2025"
-msgstr "Increased artillery damage"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM189_ARTILLERYDAMAGECOEF_DE2025_APPLIED"
-msgstr " "
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM190_REGENERATION_DE2025"
-msgstr "Health restoration"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM190_REGENERATION_DE2025_APPLIED"
-msgstr " "
-
-msgid "IDS_SHIP_MODIFIER_PXOM185_ENGINEBOOST_DE2025_APPLIED"
-msgstr "Increased ship speed"
-
-msgid "IDS_SHIP_MODIFIER_PXOM186_TORPEDOBUFF_DE2025_APPLIED"
-msgstr "Faster torpedo reload"
-
-msgid "IDS_SHIP_MODIFIER_PXOM187_GMIDEALRADIUS_DE2025_APPLIED"
-msgstr "Increased artillery accuracy"
-
-msgid "IDS_SHIP_MODIFIER_PXOM188_GMSHOTDELAY_DE2025_APPLIED"
-msgstr "Faster artillery reload"
-
-msgid "IDS_SHIP_MODIFIER_PXOM189_ARTILLERYDAMAGECOEF_DE2025_APPLIED"
-msgstr "Increased artillery damage"
-
-msgid "IDS_SHIP_MODIFIER_PXOM190_REGENERATION_DE2025_APPLIED"
-msgstr "Health restoration"
-
-msgid "IDS_SKILLS_LEARNING_UNAVAILABLE"
-msgstr "Skill learning is unavailable for this commander"
-
-msgid "IDS_SOUND_MOD_DREADNOUGHT_MAKAROV"
-msgstr "Stepan Makarov"
-
-msgid "IDS_SOUND_MOD_DREADNOUGHT_TOGO"
-msgstr "Tōgō Heihachirō"
-
-msgid "IDS_SSE_GLOBAL_STRATEGIC_ACTIONS_DONE"
-msgstr "Your contribution has been counted"
-
-msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE_SHORT"
-msgstr "PBF"
-
-msgid "IDS_STRATEGIC_ACTIONS_POINTS_TILL_NEXT_STAGE"
-msgstr "Until next stage:"
-
-msgid "IDS_STRATEGIC_ACTIONS_POINTS_TILL_REWARD"
-msgstr "Until reward:"
-
-msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_ARCHIVE"
-msgstr "Go to report archive"
-
-msgid "IDS_SUBST_RATING_SEASON_STARTS_IN"
-msgstr "Until season start: %(_timeTillStart)s"
-
-msgid "IDS_SYS_MSG_CREW_LEARNED_ELITE_CREW_BOOK"
-msgstr "Elite Commander's Manual assigned"
-
-msgid "IDS_SYS_MSG_RECEIVED_ELITE_CREW_BOOK"
-msgstr "Received Elite Commander's Manual"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_ELITE_CREW_BOOK"
-msgstr "Elite Commander's Manual written off"
-
-msgid "IDS_TALENT_ACTIVATED_PJW461_ACHIEVEMENT_8_20_21"
-msgstr "\"Energetic\" talent activated."
-
-msgid "IDS_TALENT_ACTIVATED_PJW461_RIBBONS_2"
-msgstr "\"Armament Reload Master\" talent activated."
-
-msgid "IDS_TALENT_ACTIVATED_PRW444_DEADALLIES_0_10_17"
-msgstr "\"Reserve Supplies\" talent activated."
-
-msgid "IDS_TALENT_ACTIVATED_PRW444_RIBBONS_9_22"
-msgstr "\"Gun Traverse Master\" talent activated."
-
-msgid "IDS_TALENT_ACTIVATED_PXW172_DAMAGE_8_20_21"
-msgstr "\"Energetic\" talent activated."
-
-msgid "IDS_TALENT_ACTIVATED_PXW172_RIBBONS_2"
-msgstr "\"Armament Reload Master\" talent activated."
-
-msgid "IDS_TALENT_ACTIVATED_PXW173_DEADALLIES_0_10_17"
-msgstr "\"Reserve Supplies\" talent activated."
-
-msgid "IDS_TALENT_ACTIVATED_PXW173_RIBBONS_9_22"
-msgstr "\"Gun Traverse Master\" talent activated."
-
-msgid "IDS_TALENT_PJW461_ACHIEVEMENT_8_20_21"
-msgstr "Energetic"
-
-msgid "IDS_TALENT_PJW461_ACHIEVEMENT_8_20_21_DESCRIPTION"
-msgstr "Activates upon receiving the \"Main Battery\" achievement."
-
-msgid "IDS_TALENT_PJW461_RIBBONS_2"
-msgstr "Armament Reload Master"
-
-msgid "IDS_TALENT_PJW461_RIBBONS_2_DESCRIPTION"
-msgstr "Activates each time an enemy ship is destroyed."
-
-msgid "IDS_TALENT_PRW444_DEADALLIES_0_10_17"
-msgstr "Reserve Supplies"
-
-msgid "IDS_TALENT_PRW444_DEADALLIES_0_10_17_DESCRIPTION"
-msgstr "Activates once per battle upon losing 4 allies."
-
-msgid "IDS_TALENT_PRW444_RIBBONS_9_22"
-msgstr "Gun Traverse Master"
-
-msgid "IDS_TALENT_PRW444_RIBBONS_9_22_DESCRIPTION"
-msgstr "Activates each time an enemy ship is destroyed."
-
-msgid "IDS_TALENT_PXW172_DAMAGE_8_20_21"
-msgstr "Energetic"
-
-msgid "IDS_TALENT_PXW172_DAMAGE_8_20_21_DESCRIPTION"
-msgstr "Activates once per battle upon dealing 100,000 damage to enemy ships."
-
-msgid "IDS_TALENT_PXW172_RIBBONS_2"
-msgstr "Armament Reload Master"
-
-msgid "IDS_TALENT_PXW172_RIBBONS_2_DESCRIPTION"
-msgstr "Activates each time an enemy ship is destroyed."
-
-msgid "IDS_TALENT_PXW173_DEADALLIES_0_10_17"
-msgstr "Reserve Supplies"
-
-msgid "IDS_TALENT_PXW173_DEADALLIES_0_10_17_DESCRIPTION"
-msgstr "Activates once per battle upon losing 2 allies."
-
-msgid "IDS_TALENT_PXW173_RIBBONS_9_22"
-msgstr "Gun Traverse Master"
-
-msgid "IDS_TALENT_PXW173_RIBBONS_9_22_DESCRIPTION"
-msgstr "Activates each time an enemy ship is destroyed."
-
-msgid "IDS_TERRITORY_ARCHIVE_DOC_CODE"
-msgstr "Code:"
-
-msgid "IDS_TERRITORY_ARCHIVE_DOC_NUMBER"
-msgstr "<body><h3>Incoming No.</h3>: %(_index)s</body>"
-
-msgid "IDS_TERRITORY_ARCHIVE_ITEM_TITLE"
-msgstr "Report"
-
-msgid "IDS_TERRITORY_ARCHIVE_MESSAGE_STATUS_LOCKED"
-msgstr "Previous stage not completed"
-
-msgid "IDS_TERRITORY_ARCHIVE_MESSAGE_TITLE_LOCKED"
-msgstr "Access denied"
-
-msgid "IDS_TERRITORY_ARCHIVE_STEP"
-msgstr "Stage %(_step)d"
-
-msgid "IDS_TERRITORY_ARCHIVE_STEP_LAST"
-msgstr "Results"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_GLOBAL_0"
-msgstr "<p>The Soviet High Command in 1944 planned to build on the success of the 1943 turning point in the war.</p><p class=\"p_spacing\"> </p><p>Offensive operations were planned to defeat the enemy and liberate the USSR and European countries from German occupation.</p><p class=\"p_spacing\"> </p><p>The Soviet Navy was tasked with supporting coastal flanks, countering enemy naval actions, and ensuring maritime transport.</p><p class=\"p_spacing\"> </p><p>The first strike near Leningrad was to be supported by the Red Banner Baltic Fleet.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_GLOBAL_1"
-msgstr "<p>During the 1944-1945 campaigns, the Red Banner Baltic Fleet successfully completed its assigned missions.</p><p class=\"p_spacing\"> </p><p>Fleet forces operated in the Gulf of Finland, central and southern Baltic Sea, supporting Soviet advances along the Baltic coast.</p><p class=\"p_spacing\"> </p><p>The enemy suffered defeat in this theater, contributing to the USSR's ultimate victory in the Great Patriotic War.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_0"
-msgstr "<p>Nerva Island near Vyborg Bay held strategic importance.</p><p class=\"p_spacing\"> </p><p>On the night of June 19-20, 1944, a Red Banner Baltic Fleet landing force successfully occupied the island.</p><p class=\"p_spacing\"> </p><p>Simultaneously, German destroyers approached the Björkö archipelago and were later spotted near Nerva Island.</p><p class=\"p_spacing\"> </p><p>Soviet torpedo boats under Captain 3rd Rank S.A. Osipov, tasked with defending the landing force on Nerva Island, attacked the German destroyers. Reports confirmed one enemy vessel sunk.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_1"
-msgstr "<p>The Björkö archipelago could become an enemy bridgehead for attacks against Leningrad Front's rear.</p><p class=\"p_spacing\"> </p><p>The heavily fortified islands were held by significant Finnish garrisons. Powerful coastal artillery and minefields prevented Soviet ships from entering Vyborg Bay.</p><p class=\"p_spacing\"> </p><p>Landing forces were ordered to clear the Björkö archipelago of enemy troops.</p><p class=\"p_spacing\"> </p><p>The initial objective was the least fortified island, Piisaari, whose capture would force enemy evacuation from other archipelago islands.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_2"
-msgstr "<p>Red Banner Baltic Fleet command became aware of increased German U-boat activity in the eastern Gulf of Finland.</p><p class=\"p_spacing\"> </p><p>Soviet ships suffered multiple attacks. On July 30, 1944, patrol boat MO-105 was sunk.</p><p class=\"p_spacing\"> </p><p>That evening, a smoke-screen boat visually detected a German submarine running shallow. Summoned patrol boat MO-103 destroyed it with depth charges.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_3"
-msgstr "<p>During summer 1944, the Red Banner Baltic Fleet participated in the Vyborg offensive against Finnish forces on the Karelian Isthmus.</p><p class=\"p_spacing\"> </p><p>Naval landings secured the Björkö archipelago and Vyborg Bay islands.</p><p class=\"p_spacing\"> </p><p>Fleet heavy artillery and aviation struck enemy defenses, ships, transports and bases.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP02_0"
-msgstr "<p>Following their Leningrad defeat, the enemy strengthened minefields and patrols in Narva Bay, fearing flank attacks against their land positions.</p><p class=\"p_spacing\"> </p><p>From March 1944, Red Banner Baltic Fleet naval aviation regularly struck German patrol ships guarding minefields and their army's left flank.</p><p class=\"p_spacing\"> </p><p>Major success came July 20-21, 1944 when the enemy suffered heavy losses.</p><p class=\"p_spacing\"> </p><p>Naval operations in Narva Bay continued.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP02_1"
-msgstr "<p>In early July 1944, a warship—believed to be Finnish coastal defense ship Väinämöinen—was spotted in Kotka harbor.</p><p class=\"p_spacing\"> </p><p>Red Banner Baltic Fleet aviation was tasked with sinking the enemy vessel.</p><p class=\"p_spacing\"> </p><p>The July 12 raid failed, but on July 16 bombs scored hits and the target began sinking. Enemy ship destruction was confirmed.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP02_2"
-msgstr "<p>In late September 1944, landing operations began to capture the Moonsund Islands.</p><p class=\"p_spacing\"> </p><p>Vormsi Island fell September 27, Muhu Island by October 1 morning. After October 10, the enemy held only the Sõrve Peninsula on Saaremaa Island.</p><p class=\"p_spacing\"> </p><p>During fierce fighting, landings were supported by Red Banner Baltic Fleet ships, coastal artillery and naval aviation.</p><p class=\"p_spacing\"> </p><p>The enemy deployed heavy cruisers and destroyers. Despite this, the archipelago was fully cleared by November 24.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP02_3"
-msgstr "<p>By late autumn 1944, most of the Baltic region was liberated.</p><p class=\"p_spacing\"> </p><p>Red Banner Baltic Fleet landings supported Red Army advances. Naval aviation inflicted significant enemy losses.</p><p class=\"p_spacing\"> </p><p>After the September 19, 1944 armistice with Finland, the Baltic Fleet gained access to Finnish bases and northern Gulf of Finland shipping lanes.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_0"
-msgstr "<p>During 1945 operations, Soviet submarines successfully operated in the southern Baltic from Finnish ports.</p><p class=\"p_spacing\"> </p><p>On January 30 and February 10, submarine S-13 under Captain 3rd Rank A.I. Marinesko conducted successful torpedo attacks near Stolpe Bank, sinking two major targets.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_1"
-msgstr "<p>During operations to capture Königsberg and Pillau and defeat enemy groupings, Red Banner Baltic Fleet forces completed diverse missions.</p><p class=\"p_spacing\"> </p><p>Railway artillery destroyed enemy fortifications.</p><p class=\"p_spacing\"> </p><p>Naval aviation struck targets in Frisches Haff, mined Königsberg Canal and approaches to Pillau.</p><p class=\"p_spacing\"> </p><p>Baltic Fleet tactical landings contributed to overall success.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_2"
-msgstr "<p>As of May 8, 1945, German sea evacuations of troops and civilians westward continued.</p><p class=\"p_spacing\"> </p><p>Landing operations commenced to occupy Bornholm Island and Baltic ports to disrupt German maritime traffic.</p><p class=\"p_spacing\"> </p><p>On May 9 morning, torpedo boats with landing parties intercepted several German vessels. Landings on Bornholm began negotiations for the German garrison's surrender.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_3"
-msgstr "<p>The Red Banner Baltic Fleet actively participated in East Prussian and East Pomeranian operations.</p><p class=\"p_spacing\"> </p><p>Ships, naval aviation and coastal artillery intercepted and destroyed enemy vessels, bombarded land defenses, conducted landings, transported troops, laid and cleared mines.</p><p class=\"p_spacing\"> </p><p>Baltic Fleet operational zone reached the Danish Straits in the western Baltic.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP0_0"
-msgstr "<p>The winter 1944 campaign planned operations against German forces near Leningrad and Novgorod.</p><p class=\"p_spacing\"> </p><p>The Red Banner Baltic Fleet was tasked with transporting the 2nd Shock Army to the Oranienbaum bridgehead and supporting the offensive with artillery and naval aviation.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP0_1"
-msgstr "<p>The offensive succeeded. In January 1944, the Leningrad blockade was lifted.</p><p class=\"p_spacing\"> </p><p>German siege forces were defeated.</p><p class=\"p_spacing\"> </p><p>By late February, nearly all Leningrad Oblast and parts of Kalinin Oblast were liberated.</p>"
-
-msgid "IDS_TERRITORY_MESSAGE_LEARN_MORE"
-msgstr "Read full report"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL_0"
-msgstr "Early 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL_1"
-msgstr "May 1945"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP01_0"
-msgstr "June 20, 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP01_1"
-msgstr "June 20, 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP01_2"
-msgstr "July 30, 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP01_3"
-msgstr "July 30, 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP02_0"
-msgstr "March-July 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP02_1"
-msgstr "July 16, 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP02_2"
-msgstr "September-November 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP02_3"
-msgstr "September 28, 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP03_0"
-msgstr "February 15, 1945"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP03_1"
-msgstr "April 25, 1945"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP03_2"
-msgstr "May 9, 1945"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP03_3"
-msgstr "May 14, 1945"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP0_0"
-msgstr "January 14, 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP0_1"
-msgstr "February 28, 1944"
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_0"
-msgstr "Baltic Fleet landing forces occupied Nerva Island. Simultaneously, German destroyers approached the Björkö archipelago and were spotted near Nerva. Soviet ships attacked the enemy."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_1"
-msgstr "Landing forces were ordered to clear the Björkö archipelago—a potential enemy bridgehead for rear attacks. The initial objective was the least fortified island, Piisaari."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_2"
-msgstr "Command became aware of German U-boat activity in the eastern Gulf of Finland. Soviet ships came under attack as countermeasures were implemented."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_3"
-msgstr "Operations secured the Björkö archipelago and Vyborg Bay islands. Fleet forces struck enemy defenses, ships, transports and bases."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP02_0"
-msgstr "After their Leningrad defeat, the enemy strengthened minefields and patrols in Narva Bay. Baltic Fleet naval aviation struck German ships."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP02_1"
-msgstr "A warship—believed to be Finnish coastal defense ship Väinämöinen—was spotted in Kotka harbor. Naval aviation bombed the target. Ship destruction was confirmed."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP02_2"
-msgstr "Landing operations began to capture the Moonsund Islands with Baltic Fleet ship and aviation support. The enemy deployed heavy cruisers and destroyers."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP02_3"
-msgstr "Most of the Baltic region was liberated. After the Finnish armistice, the Baltic Fleet gained access to bases and shipping lanes along the northern Gulf of Finland."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP03_0"
-msgstr "Submarine S-13 under Captain 3rd Rank A.I. Marinesko conducted two torpedo attacks near Stolpe Bank, sinking two major targets."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP03_1"
-msgstr "During operations to capture Königsberg and Pillau, the Baltic Fleet completed diverse missions. Naval aviation and tactical landings contributed to success."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP03_2"
-msgstr "Operations commenced to occupy Bornholm Island and Baltic ports to disrupt German maritime traffic. On May 9 morning, torpedo boats with landing parties put to sea."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP03_3"
-msgstr "During East Prussian and East Pomeranian operations, Baltic Fleet forces intercepted and destroyed enemy ships, conducted landings and transported troops."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP0_0"
-msgstr "Operations were planned near Leningrad and Novgorod. The Baltic Fleet was tasked with transporting the 2nd Shock Army to the Oranienbaum bridgehead and supporting the offensive."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP0_1"
-msgstr "The operation succeeded, lifting the Leningrad blockade. By late February, nearly all Leningrad Oblast and parts of Kalinin Oblast were liberated."
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL_0"
-msgstr "Baltic Sea Operations"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL_1"
-msgstr "Contribution to Victory"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP01_0"
-msgstr "Battle of Nerva Island"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP01_1"
-msgstr "Björkö Landing"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP01_2"
-msgstr "Sinking of German Submarine"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP01_3"
-msgstr "Vyborg Operation Results"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP02_0"
-msgstr "Hunting the 'Narva Patrol'"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP02_1"
-msgstr "Kotka Harbor Airstrikes"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP02_2"
-msgstr "Moonsund Landing"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP02_3"
-msgstr "Eastern Baltic Operations Results"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_0"
-msgstr "Convoy Attacks"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_1"
-msgstr "Assault on Königsberg and Pillau"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_2"
-msgstr "Bornholm Landing"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_3"
-msgstr "Western Baltic Operations Results"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP0_0"
-msgstr "Offensive from Oranienbaum Bridgehead"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP0_1"
-msgstr "Liberation of Leningrad Oblast"
-
-msgid "IDS_TERRITORY_TITLE_GLOBAL_0_SHORT"
-msgstr "BSO"
-
-msgid "IDS_TERRITORY_TITLE_GLOBAL_1_SHORT"
-msgstr "CV"
-
-msgid "IDS_TERRITORY_TITLE_MAP0"
-msgstr "Lifting the Leningrad Blockade"
-
-msgid "IDS_TERRITORY_TITLE_MAP01"
-msgstr "Vyborg Operation"
-
-msgid "IDS_TERRITORY_TITLE_MAP01_SHORT"
-msgstr "VO"
-
-msgid "IDS_TERRITORY_TITLE_MAP02"
-msgstr "Eastern Baltic"
-
-msgid "IDS_TERRITORY_TITLE_MAP02_SHORT"
-msgstr "EB"
-
-msgid "IDS_TERRITORY_TITLE_MAP03"
-msgstr "Western Baltic"
-
-msgid "IDS_TERRITORY_TITLE_MAP03_SHORT"
-msgstr "WB"
-
-msgid "IDS_TERRITORY_TITLE_MAP0_SHORT"
-msgstr "LLB"
-
-msgid "IDS_TOGO"
-msgstr "Tōgō Heihachirō"
-
-msgid "IDS_UNLOCKS_2417"
+msgid "IDS_UNLOCKS_17"
 msgstr "Research and purchase new ships."
 
-msgid "IDS_UNLOCKS_31"
+msgid "IDS_UNLOCKS_3124"
 msgstr "Complete scenario missions with a team, fighting against bots."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_2417_0"
+msgid "IDS_UNLOCKS_DESCRIPTION_17_0"
 msgstr "The game features ships from various nations and classes: versatile cruisers, stealthy destroyers, heavily armored battleships, and aircraft carriers with fast and powerful planes. Choose your role in battle."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_2417_1"
+msgid "IDS_UNLOCKS_DESCRIPTION_17_1"
 msgstr "After each battle, you earn experience and credits for researching and purchasing ships. You can also research and buy modules to upgrade your ships."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_31_0"
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
 msgstr "In Operations, your team must complete various missions while fighting bots. Each Operation has unique story elements."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_31_1"
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
 msgstr "Achieve the primary objective to win. Completing secondary tasks increases the resources earned in battle."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_31_2"
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
 msgstr "Operation difficulty depends on the levels and classes of ships in your team."
 
-msgid "IDS_UNLOCKS_LEVEL_UP_2417"
+msgid "IDS_UNLOCKS_LEVEL_UP_17"
 msgstr ""
 "<body>You now have access to\n"
 "<h3>Ship Research and Upgrades</h3></body>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_31"
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
 msgstr ""
 "<body>You have unlocked\n"
 "<h3>Operations</h3></body>"
 
-msgid "IDS_UNLOCKS_LOCATION_2417"
-msgstr "New ships are available in the 'Development' tab. Upgrades are available in the 'Equipment' tab."
+msgid "IDS_UNLOCKS_LOCATION_17"
+msgstr "New ships are available in the \"Development\" tab. Upgrades are available in the \"Equipment\" tab."
 
-msgid "IDS_UNLOCKS_LOCATION_31"
+msgid "IDS_UNLOCKS_LOCATION_3124"
 msgstr "Available on the battle type selection screen."
 
-msgid "IDS_UNLOCKS_TITLE_2417"
+msgid "IDS_UNLOCKS_TITLE_17"
 msgstr "Ship Research and Upgrades"
 
-msgid "IDS_UNLOCKS_TITLE_31"
+msgid "IDS_UNLOCKS_TITLE_3124"
 msgstr "Operations"
+
+msgid "IDS_VIKING_TM"
+msgstr "Björn Konungr"
+
+msgid "IDS_QUEST_TMBATTLES_WIN"
+msgid_plural "IDS_QUEST_TMBATTLES_WIN"
+msgstr[0] "Achieve %(achievementCount)s victory with your team in the player tournament."
+msgstr[1] "Achieve %(achievementCount)s victories with your team in the player tournament."
