@@ -1188,7 +1188,7 @@ msgid "IDS_SSE_CONDITIONS_COMPLETE_TASK_SHORT"
 msgstr "complete tasks"
 
 msgid "IDS_SSE_CONDITIONS_DAMAGE_MODULES"
-msgstr "damage %(times)s %(moduleTypes)s on%(level)s %(nation)s %(shipClass)s"
+msgstr "damage %(moduleTypes)s %(times)s on%(level)s %(nation)s %(shipClass)s"
 
 msgid "IDS_SSE_CONDITIONS_DAMAGE_MODULES_SHORT"
 msgstr "damage a ship module"
@@ -1215,7 +1215,7 @@ msgid "IDS_SSE_CONDITIONS_DESTROY_SPECIFIC_SHIPS_SHORT"
 msgstr "destroy %(shipIds)s"
 
 msgid "IDS_SSE_CONDITIONS_DO_STRATEGIC_ACTIONS_TERRITORIES"
-msgstr "complete %(times)s operations in the 'Baltic Fleet Feats' event"
+msgstr "complete operations %(times)s in the 'Baltic Fleet Feats' event"
 
 msgid "IDS_SSE_CONDITIONS_DO_STRATEGIC_ACTIONS_TERRITORIES_SHORT"
 msgstr "complete operations in the 'Baltic Fleet Feats' event"
@@ -1278,19 +1278,19 @@ msgid "IDS_SSE_CONDITIONS_MODULE_TORPEDOES"
 msgstr "torpedo tube"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_DAMAGE_USING_MINE_SHIPS"
-msgstr "damage %(times)s enemy %(shipClass)s with mines"
+msgstr "damage enemy %(shipClass)s %(times)s with mines"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_DAMAGE_USING_MINE_SHIPS_SHORT"
 msgstr "damage a ship with mines"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_HIT_SHIPS"
-msgstr "hit %(times)s enemy %(shipClass)s %(hitTypes)s"
+msgstr "hit enemy %(shipClass)s %(times)s %(hitTypes)s"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_HIT_SHIPS_SHORT"
 msgstr "hit a ship %(hitTypes)s"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_IGNITE_SHIPS"
-msgstr "set %(times)s fires on%(level)s %(nation)s %(shipClass)s"
+msgstr "set fires %(times)s on%(level)s %(nation)s %(shipClass)s"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_IGNITE_SHIPS_SHORT"
 msgstr "set a fire on a ship"
@@ -1311,7 +1311,7 @@ msgid "IDS_SSE_CONDITIONS_SCOUTING_DAMAGE_SHORT"
 msgstr "provide spotting for damage"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_HIT_CITADELS"
-msgstr "hit %(times)s citadels on%(level)s %(nation)s %(shipClass)s"
+msgstr "hit citadels %(times)s on%(level)s %(nation)s %(shipClass)s"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_HIT_CITADELS_ONE_TIME"
 msgstr "hit a citadel on%(level)s %(nation)s %(shipClass)s"
@@ -1320,7 +1320,7 @@ msgid "IDS_SSE_CONDITIONS_SHIP_HIT_CITADELS_SHORT"
 msgstr "hit a ship's citadel"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_START_FLOOD"
-msgstr "cause %(times)s floodings on%(level)s %(nation)s %(shipClass)s"
+msgstr "cause floodings %(times)s on%(level)s %(nation)s %(shipClass)s"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_START_FLOOD_ONE_TIME"
 msgstr "cause flooding on%(level)s %(nation)s %(shipClass)s"
