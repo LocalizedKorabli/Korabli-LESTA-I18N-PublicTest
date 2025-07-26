@@ -1,0 +1,26 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_PIPA043_381MM_50_HE_IMPERO"
+msgstr "381-мм proiettili HE"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_2"
+msgstr ""
+"У каждого ресурса есть предельное значение, которое вы не можете превысить, "
+"получая награды в течение сезона."
+
+msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_3POINT"
+msgstr "Турнир. Превосходство"
+
+msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_3POINT_ALT"
+msgstr "Турнир. Превосходство — Альтернативный"
+
+msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_4POINT"
+msgstr "Турнир. Превосходство — Четыре точки"
+
+msgid "IDS_SHIP_PARAM_WAVE_WIDTH"
+msgstr "Ширина импульса"
+
+msgid "IDS_TOOLTIP_WAVE_WIDTH"
+msgstr "Ширина акустического импульса сонара."

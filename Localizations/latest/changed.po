@@ -2,308 +2,131 @@
 msgid ""
 msgstr ""
 
-msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_RANDOM_OR_RANK"
-msgstr "Случайные, Ранговые и Рейтинговые бои"
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "Можно получить летних жетонов"
 
-msgid "IDS_COMMON_OVERRIDE_FOR_WEB"
-msgstr "Без нации"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Прикройте союзный корректировщик огня!"
 
-msgid "IDS_CURRENCY_BRASS_GET_DESCRIPTION"
-msgstr "За высокие результаты в Ранговых, Клановых и Рейтинговых боях."
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
+msgstr "Прикройте союзный корректировщик огня!"
 
-msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr "Праздничные жетоны"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_SCOUT"
+msgstr "Прикройте союзный корректировщик огня!"
 
-msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_SCOUT_NO_OWNER"
+msgstr "Прикройте союзный корректировщик огня!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Внимание на корректировщик огня противника!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_SCOUT"
+msgstr "Внимание на корректировщик огня противника!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Союзный корректировщик огня!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
+msgstr "Союзный корректировщик огня!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_SCOUT"
+msgstr "Союзный корректировщик огня!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_SCOUT_NO_OWNER"
+msgstr "Союзный корректировщик огня!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Корректировщик огня противника!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_SCOUT"
+msgstr "Корректировщик огня противника!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Союзный корректировщик огня!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
+msgstr "Союзный корректировщик огня!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_SCOUT"
+msgstr "Союзный корректировщик огня!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_SCOUT_NO_OWNER"
+msgstr "Союзный корректировщик огня!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Корректировщик огня противника!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_SCOUT"
+msgstr "Корректировщик огня противника!"
+
+msgid "IDS_CURRENCY_EVENTUM_2"
+msgstr "Летние жетоны"
+
+msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
 msgstr ""
-"За достижение уровней Боевого пропуска, в качестве награды Постпрогресса "
-"в категории, посвящённой Дню России, а также из наборов в Адмиралтействе "
-"до конца обновления 25.6."
+"За выполнение боевых задач в течение ограниченного времени "
+"в обновлении 25.8, а также за достижение уровней Боевого пропуска "
+"и из наборов в Адмиралтействе до конца обновления 25.8."
 
-msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
+msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
 msgstr ""
-"На награды в категории Адмиралтейства, посвящённой Дню России, среди которых"
-" линкор IX уровня «Грузия», крейсер IX уровня «Русская Аляска», крейсер "
-"IX уровня «Тольятти», а также на другое имущество до конца обновления 25.6."
+"На случайные наборы с суперавианосцем «Ульяновск», суперэсминцем "
+"Robespierre, премиум линкором IX уровня Bernadotte с постоянным камуфляжем "
+"«На юг!», контейнером «Премиум корабль VIII. Запасы коллекционера» и другим "
+"имуществом, а также на премиум линкор VII уровня West Virginia '44, премиум "
+"контейнеры «Сокровищница флота» и другое имущество до конца обновления 25.8."
 
-msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
+msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
 msgstr ""
-"Временный ресурс. С выходом обновления 25.7 жетоны будут списаны "
-"без компенсации."
+"Временный ресурс события «Пора на юга!». С выходом обновления 25.9 жетоны "
+"будут списаны без компенсации."
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT"
+msgid "IDS_DOGTAG_PCNU064_NAME"
+msgstr "Начинающий мододел"
+
+msgid "IDS_FIGHTER_AIRSUP"
+msgstr "Авиаудар. Истребители"
+
+msgid "IDS_PRGM009_130MM_B_13"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-13-Iс"
+
+msgid "IDS_PRUA411_130_50_B13"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-13-Iс"
+
+msgid "IDS_PRUA421_D5_ART_STOCK"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-13-Iс"
+
+msgid "IDS_PRUA522_D6_ART_STOCK_2"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-13-Iс"
+
+msgid "IDS_PRUA612_D7_ART_STOCK_2"
+msgstr "130-мм/50 обр. 1936 г. в установке Б-13-Iс"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_0"
+msgstr "Награда за переход в лигу может быть получена только один раз."
+
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_1"
 msgstr ""
-"Чертёж —\n"
-"%(_shipName)s"
+"Количество каждого ресурса, который вы можете получить в качестве награды "
+"за победы в течение сезона, ограниченно."
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT_GET_DESCRIPTION"
-msgstr "За участие в событиях, а также в обмен за материалы."
+msgid "IDS_RATING_BATTLES_STATS_VICTORIES"
+msgstr "Победы"
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
-msgstr "Чертёж — %(_shipName)s"
+msgid "IDS_REWARD_EVENTUM_2_TITLE"
+msgstr "Летние жетоны"
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT_OVERRIDE_FOR_WEB"
-msgstr "Чертёж"
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
+msgstr "Летние жетоны куплены"
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT_SPEND_DESCRIPTION"
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
+msgstr "Получены летние жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
+msgstr "Списаны летние жетоны"
+
+msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY_DESCRIPTION"
 msgstr ""
-"Нужен, чтобы корабль появился в Ремонтном доке и вы могли начать его ремонт."
-
-msgid "IDS_CURRENCY_SHIPMATERIAL"
-msgstr "Материалы — %(_shipLevel)s"
-
-msgid "IDS_CURRENCY_SHIPMATERIAL_GET_DESCRIPTION"
-msgstr "Из контейнера «Ремонтный» и за участие в событиях."
-
-msgid "IDS_CURRENCY_SHIPMATERIAL_SPEND_DESCRIPTION"
-msgstr ""
-"Можно ремонтировать корабли соответствующего уровня в Ремонтном доке или "
-"менять на чертежи."
-
-msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
-msgstr "Вы не можете использовать снаряжение."
-
-msgid "IDS_DOGTAG_PCNB122_DESCRIPTION"
-msgstr "За участие в состязании игроков."
-
-msgid "IDS_DOGTAG_PCNB122_NAME"
-msgstr "Участник состязания"
-
-msgid "IDS_DOGTAG_PCNB355_DESCRIPTION"
-msgstr "В честь четырнадцатого сезона состязания игроков."
-
-msgid "IDS_DOGTAG_PCNB355_NAME"
-msgstr "Состязание игроков XIV"
-
-msgid "IDS_DOGTAG_PCNU066_DESCRIPTION"
-msgstr ""
-"Масштабные состязания, которые проходили в сообществе игроков. Команды "
-"соревновались в тактике и стратегии, а зрители, затаив дыхание, следили "
-"за ходом боя."
-
-msgid "IDS_DOGTAG_PCNU066_NAME"
-msgstr "Участник состязания — Новичок"
-
-msgid "IDS_DOGTAG_PCNU067_DESCRIPTION"
-msgstr ""
-"Масштабные состязания, которые проходили в сообществе игроков. Команды "
-"соревновались в тактике и стратегии, а зрители, затаив дыхание, следили "
-"за ходом боя."
-
-msgid "IDS_DOGTAG_PCNU067_NAME"
-msgstr "Участник состязания — Ветеран"
-
-msgid "IDS_DOGTAG_PCNU068_DESCRIPTION"
-msgstr ""
-"Масштабные состязания, которые проходили в сообществе игроков. Команды "
-"соревновались в тактике и стратегии, а зрители, затаив дыхание, следили "
-"за ходом боя."
-
-msgid "IDS_DOGTAG_PCNU068_NAME"
-msgstr "Участник состязания — Элита"
-
-msgid "IDS_DOGTAG_PCNU069_DESCRIPTION"
-msgstr ""
-"Масштабные состязания, которые проходили в сообществе игроков. Команды "
-"соревновались в тактике и стратегии, а зрители, затаив дыхание, следили "
-"за ходом боя."
-
-msgid "IDS_DOGTAG_PCNU069_NAME"
-msgstr "Участник состязания — Победитель"
-
-msgid "IDS_GUIDING_TIP_294_DESC"
-msgstr ""
-"Здесь находятся корабли, требующие ремонта. Отремонтируйте их — и они станут"
-" вашими!"
-
-msgid "IDS_GUIDING_TIP_294_HEADER"
-msgstr "Получите новые корабли"
-
-msgid "IDS_GUIDING_TIP_295_DESC"
-msgstr ""
-"Когда вы получаете чертёж, соответствующий корабль появляется в вашем "
-"Ремонтном доке."
-
-msgid "IDS_GUIDING_TIP_296_DESC"
-msgstr "Для ремонта корабля нужны материалы соответствующего уровня."
-
-msgid "IDS_GUIDING_TIP_296_HEADER"
-msgstr "Cобирайте материалы"
-
-msgid "IDS_GUIDING_TIP_297_DESC"
-msgstr ""
-"Здесь можно посмотреть, сколько у вас есть материалов для ремонта кораблей "
-"разных уровней."
-
-msgid "IDS_GUIDING_TIP_301_DESC"
-msgstr ""
-"Вы получили материалы, которые вы сможете использовать для ремонта кораблей!"
-" Первый корабль появится в вашем Ремонтном доке, когда у вас будет чертёж "
-"этого корабля."
-
-msgid "IDS_GUIDING_TIP_302_DESC"
-msgstr ""
-"Здесь можно посмотреть, сколько у вас есть материалов для ремонта кораблей "
-"разных уровней."
-
-msgid "IDS_GUIDING_TIP_303_DESC"
-msgstr ""
-"<p>Для ремонта корабля нужны материалы соответствующего уровня.</p><p "
-"class=\"p_spacing\"> </p><p>Нажмите «Отремонтировать», чтобы корабль стал "
-"вашим!</p>"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr ""
-"Выполните задачу текущего этапа, чтобы перейти в следующий. Чем больше "
-"этапов вы пройдёте, тем больше ресурсов получите по итогам испытания."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr ""
-"Ведите огонь по целям с отметками, чтобы получить больше очков. Используйте "
-"указанный тип вооружения или наносите указанный вид урона."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
-msgstr ""
-"Каждое испытание состоит из 5 этапов. Чтобы перейти в следующий этап, нужно "
-"выполнить задачу текущего."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
-msgstr ""
-"Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам "
-"испытания."
-
-msgid "IDS_PCEA014_CRBOOST_4"
-msgstr "Кредиты +480%"
-
-msgid "IDS_PCEA024_TOTALXPBOOST_4"
-msgstr "Опыт корабля +2400%"
-
-msgid "IDS_PCEA034_CREWXPBOOST_4"
-msgstr "Опыт командира +2400%"
-
-msgid "IDS_PCZC511_BD098_TRENTO_DESCRIPTION"
-msgstr ""
-"<p>Решающее влияние Вашингтонская конференция 1922 года оказала на развитие "
-"класса крейсеров. Обозначив предельные характеристики — 10 000 тонн "
-"водоизмещения и 203-мм артиллерия, — конференция задала таким образом планку"
-" для всего мирового крейсеростроения.</p><p class=\"p_spacing\"> "
-"</p><p>В составе Королевского флота Италии первыми кораблями этого класса, "
-"построенными по данным «стандартам», стали Trento и Trieste, вошедшие "
-"в строй в 1928–1929 годах. Итальянцы пошли на ухищрения, жертвы "
-"и компромиссы в конструктивном плане, создав быстроходные корабли "
-"с впечатляющим вооружением, обладавшие, впрочем, типичным для "
-"«вашингтонских» крейсеров недостатком — сравнительно слабым "
-"бронированием.</p>"
-
-msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
-msgstr ""
-"<p>Первый в мире автоматический самоходный аппарат на поверхности другого небесного тела.</p><p class=\"p_spacing\"> </p><p>Технические характеристики:\n"
-"• масса — 756 кг;\n"
-"• длина с открытой солнечной батареей — 4,42 м;\n"
-"• ширина — 2,15 м;\n"
-"• высота — 1,92 м;\n"
-"• диаметр колёс — 0,51 м;\n"
-"• ширина колеи — 1,6 м.</p><p class=\"p_spacing\"> </p><p>Автоматическая станция «Луна-17» с самоходным аппаратом «Луноход-1» была запущена 10 ноября 1970 г. с помощью ракеты-носителя «Протон». 17 ноября 1970 г. «Луноход-1» доставлен на Луну в район Моря Дождей.</p><p class=\"p_spacing\"> </p><p>Успешная работа лунохода продолжалась 318 суток. За 116 сеансов движения «Луноход-1» прошёл расстояние 10 540 м, что позволило детально обследовать лунную поверхность на площади 80 000 км². Максимальная скорость движения составила 2 км/час.</p><p class=\"p_spacing\"> </p><p>За это время на Землю было передано 210 телефотометрических панорам и около 20 тысяч снимков малокадрового телевидения. В ходе съёмки получены стереоскопические изображения наиболее интересных особенностей рельефа, позволяющие провести детальное изучение их строения.</p><p class=\"p_spacing\"> </p><p>С «Луноходом-1» был проведён 171 сеанс связи, в ходе которых было передано 24 829 команд.</p><p class=\"p_spacing\"> </p><p>С помощью отражателя лазерных лучей, изготовленного во Франции, в соответствии с совместной советско-французской программой исследований космического пространства, была проведена лазерная локация Луны. Расстояние между прибором на Земле и «Луноходом» было измерено с точностью до нескольких метров.</p><p class=\"p_spacing\"> </p><p>Последний сеанс связи с «Луноходом-1» состоялся 14 сентября 1971 г.</p><p class=\"p_spacing\"> </p><p>«Луноход-1» был разработан в НПО им. С. А. Лавочкина под руководством Главного конструктора Г. Н. Бабакина.</p><p class=\"p_spacing\"> </p><p>Самоходное шасси разработано во Всесоюзном научно-исследовательском институте транспортного машиностроения (ВНИИТрансмаш) под руководством Главного конструктора А. Л. Кемурджиана.</p>"
-
-msgid "IDS_PFSD111_DESCR"
-msgstr ""
-"<p>Во время Второй мировой войны командование французского флота режима Виши"
-" поставило задачу разработать эсминцы нового поколения. Проект, известный "
-"как T 42, получил дальнейшее развитие в виде группы эскизов с общим индексом"
-" E 43. В ходе проработки проекта рассматривались, в числе прочего, варианты "
-"укрупнения корабля до лёгкого крейсера.</p><p class=\"p_spacing\"> "
-"</p><p>Корабль должен был нести вооружение из 120 и 130-мм орудий, "
-"а количество установок на разных эскизах варьировалось от трёх до четырёх. "
-"Проект Е 43 реализован не был, а дальнейшие его проработки привели "
-"к появлению проекта Т 47.</p>"
-
-msgid "IDS_PRSB530"
-msgstr "Красное Знамя"
-
-msgid "IDS_PRSD317_DESCR"
-msgstr ""
-"<p>В начале августа 1937 г. на совещании Комитета обороны было решено "
-"отказаться от дальнейшего строительства эсминцев проекта 7, а вместо них "
-"спроектировать новый эсминец с учётом опыта войны в Испании. Тактико-"
-"техническое задание на проект эсминца, получивший индекс 30, было утверждено"
-" в ноябре 1937 г. Разработка велась КБ завода № 190 в Ленинграде. Корабль "
-"должен был быть частично унифицирован с лидером проекта 48, в том числе "
-"в плане артиллерии (лидер нёс три спаренные установки, эсминец — две).</p><p"
-" class=\"p_spacing\"> </p><p>«Осмотрительный» был заложен на заводе № 402 "
-"в Молотовске 5 мая 1940 г., спущен на воду в августе 1944 г. Корабль вступил"
-" в строй 29 сентября 1947 г., войдя в состав Северного флота, в котором "
-"прослужил 11 лет.</p>"
-
-msgid "IDS_REWARD_EVENTUM_7_TITLE"
-msgstr "Праздничные жетоны"
-
-msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE"
-msgstr "Контейнер «Ремонтный»"
-
-msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE_SHORT"
-msgstr "Ремонтный"
-
-msgid "IDS_SHIPCOMPONENT_INFO_DESCRIPTION"
-msgstr "Нужен, чтобы корабль появился в вашем Ремонтном доке"
-
-msgid "IDS_SHIPCOMPONENT_SHORT_TITLE"
-msgstr "Чертёж"
-
-msgid "IDS_SHIPMATERIAL_INFO_DESCRIPTION"
-msgstr "Нужны для ремонта корабля соответствующего уровня"
-
-msgid "IDS_SHIPMATERIAL_NONE"
-msgstr "У вас нет материалов для ремонта кораблей."
-
-msgid "IDS_SHIPMATERIAL_SHORT_TITLE"
-msgstr "Материалы"
-
-msgid "IDS_SHIPSHARDS_PROGRESS_TITLE"
-msgstr "Готовность к ремонту"
-
-msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
-msgstr "Duperré построен"
-
-msgid "IDS_SHIP_PARAM_DRUM_SHOT_DELAY"
-msgid_plural "IDS_SHIP_PARAM_DRUM_SHOT_DELAY"
-msgstr[0] "Перезарядка %(_shotCount)s-го залпа"
-msgstr[1] ""
-msgstr[2] ""
-
-msgid "IDS_SHIP_PARAM_TORPEDO_SHOT_DELAY"
-msgid_plural "IDS_SHIP_PARAM_TORPEDO_SHOT_DELAY"
-msgstr[0] "Перезарядка %(_shotCount)s-й торпеды"
-msgstr[1] ""
-msgstr[2] ""
-
-msgid "IDS_SHIP_SHARDS_INFO_TEXT_1"
-msgstr ""
-"Здесь будут появляться корабли, которые требуют ремонта. После того как вы "
-"отремонтируете корабль, он станет вашим!"
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
-msgstr "Праздничные жетоны куплены"
-
-msgid "IDS_SYS_MSG_BOUGHT_SHIP_COMPONENT"
-msgstr "Чертёж корабля куплен"
-
-msgid "IDS_SYS_MSG_BOUGHT_SHIP_MATERIAL"
-msgstr "Материалы куплены"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
-msgstr "Получены праздничные жетоны"
-
-msgid "IDS_SYS_MSG_RECEIVED_SHIP_COMPONENT"
-msgstr "Получен чертёж корабля"
-
-msgid "IDS_SYS_MSG_RECEIVED_SHIP_MATERIAL"
-msgstr "Получены материалы"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
-msgstr "Списаны праздничные жетоны"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_COMPONENT"
-msgstr "Списан чертёж корабля"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_MATERIAL"
-msgstr "Списаны материалы"
+"<p>Из подводного положения вы не можете поразить надводные цели, которые "
+"находятся слишком близко.</p><p class=\"p_spacing\"> </p><p>Торпедам "
+"необходимо время на всплытие.</p>"

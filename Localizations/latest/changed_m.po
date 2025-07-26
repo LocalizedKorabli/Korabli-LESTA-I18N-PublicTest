@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -13,408 +13,116 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.6\n"
 
-msgid "IDS_BURN_CHANCE_BONUS_CHANGED"
-msgstr "Fire chance increased"
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "You can get summer tokens"
 
-msgid "IDS_BURN_CHANCE_FACTOR_BIG_CHANGED"
-msgstr "Fire chance increased"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Provide cover for allied spotting aircraft!"
 
-msgid "IDS_BY_EXPERIENCE"
-msgstr "Base XP"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
+msgstr "Provide cover for allied spotting aircraft!"
 
-msgid "IDS_CONTEXT_BATTLE_AGAINST_SUBMARINE_HINT"
-msgstr "When detecting a submarine at depth, use depth charges to destroy it"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_SCOUT"
+msgstr "Provide cover for allied spotting aircraft!"
 
-msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_PLAYER_SUBMARINE_HINT"
-msgstr "A sonar pulse hit your submarine! Enemy submarine torpedoes may be homing in on you."
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_SCOUT_NO_OWNER"
+msgstr "Provide cover for allied spotting aircraft!"
 
-msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_RESET_HINT"
-msgstr "Using the 'Damage Control Party' consumable prevents enemy submarine torpedoes from homing in"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Attention, enemy spotting aircraft!"
 
-msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_US_HINT"
-msgstr "A sonar pulse hit your ship! Enemy submarine torpedoes may be homing in on you."
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_SCOUT"
+msgstr "Attention, enemy spotting aircraft!"
 
-msgid "IDS_CONTEXT_OIL_LEAK_PENDING_HINT"
-msgstr "Fuel system damage - when submerged, the submarine will leave a visible oil trail on the water surface"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Allied spotting aircraft!"
 
-msgid "IDS_CONTEXT_PINGER_GUN_HOW_TO"
-msgstr "Hit an enemy ship with a sonar pulse to mark it as a target for your torpedoes"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
+msgstr "Allied spotting aircraft!"
 
-msgid "IDS_CONTEXT_PINGER_GUN_TORPEDOES_SHOT"
-msgstr "The next torpedo launched will home in on the ship marked by the sonar pulse"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_SCOUT"
+msgstr "Allied spotting aircraft!"
 
-msgid "IDS_CONTEXT_SUBMARINE_MULTIPLE_TARGETS_HINT"
-msgstr "You can attack multiple targets simultaneously. To do this, mark different ships with sonar pulses and launch torpedoes."
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_SCOUT_NO_OWNER"
+msgstr "Allied spotting aircraft!"
 
-msgid "IDS_CONTEXT_SUBMARINE_SELECT_ACTIVE_WAVE_HIT"
-msgstr "Mark another ship with a sonar pulse so the next torpedo homes in on it"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Enemy spotting aircraft!"
 
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PERISCOPE"
-msgstr "At periscope depth, battery is not consumed, hydrophone is constantly active, but speed and visibility are reduced"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_SCOUT"
+msgstr "Enemy spotting aircraft!"
 
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_WORKING"
-msgstr "At operating depth, submarines have high speed and constant hydrophone operation, but ship visibility is greatly reduced"
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Allied spotting aircraft!"
 
-msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "Fleet Tokens"
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
+msgstr "Allied spotting aircraft!"
 
-msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "For completing combat missions during the limited time in update 25.7 and from bundles in the Armory until the end of update 25.7."
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_SCOUT"
+msgstr "Allied spotting aircraft!"
 
-msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "For Tier IX cruiser Shcherbakov and Tier VIII cruiser Dmitry Pozharsky, for permanent Brilliant camouflages for Shcherbakov and Tier X battleship Krasnoye Znamya, for premium Marine Celebration containers, and other items until the end of update 25.7."
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_SCOUT_NO_OWNER"
+msgstr "Allied spotting aircraft!"
 
-msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "Temporary resource. Tokens will be removed without compensation when update 25.8 releases."
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_CONSUMABLE_SCOUT"
+msgstr "Enemy spotting aircraft!"
 
-msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "French Tokens"
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_SCOUT"
+msgstr "Enemy spotting aircraft!"
 
-msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "For completing combat missions and reaching Battle Pass levels until the end of update 25.7, as well as from bundles in the Armory until the end of update 25.8."
+msgid "IDS_CURRENCY_EVENTUM_2"
+msgstr "Summer Tokens"
 
-msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "For sequential bundles with early access ships Tiers VIII and X L'Africaine and Casabianca, with economic packages for L'Africaine and early access Tier VI ship Diane, with permanent camouflages for L'Africaine and Casabianca, and other items until the end of update 25.8."
+msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
+msgstr "For completing combat missions within a limited time frame in Update 25.8, as well as for reaching Battle Pass levels and completing sets in the Armory before the end of Update 25.8."
 
-msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "Temporary resource for the 'French Submarines' event. Tokens will be removed without compensation when update 25.9 releases."
+msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
+msgstr "For random sets with the super aircraft carrier Ulyanovsk, super destroyer Robespierre, premium tier IX battleship Bernadotte with permanent camouflage \"To the South!\", \"Premium Ship VIII Collector's Reserves\" container, and other items, as well as the premium tier VII battleship West Virginia '44, \"Fleet Treasury\" premium containers, and other items until the end of the 25.8 update."
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE"
-msgstr "<p>Conducts a depth charge bombardment of the marked area.</p><p class=\"p_spacing\"> </p><p>Depth charges remain in the water for a certain time and explode near submarines or other targets. Have a chance to cause fire, flooding, and disable modules. Have an increased chance to disable sonar. Destroy torpedoes and mines, and also deal minor damage to surface targets.</p>"
+msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
+msgstr "Temporary resource for the event \"Time to head south!\" With the release of update 25.9, tokens will be deducted without compensation."
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE_AUTO"
-msgstr "<p>Automatically conducts a depth charge bombardment of the area where a submarine is presumed to be if it reveals its location.</p><p class=\"p_spacing\"> </p><p>Depth charges remain in the water for a certain time and explode near submarines or other targets. Have a chance to cause fire, flooding, and disable modules. Have an increased chance to disable sonar. Destroy torpedoes and mines, and also deal minor damage to surface targets.</p>"
+msgid "IDS_DOGTAG_PCNU064_NAME"
+msgstr "Beginning Modder"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_DEPTHCHARGE"
-msgstr "<p>Remain in the water for a certain time and explode near submarines or other targets.</p><p class=\"p_spacing\"> </p><p>Have a chance to cause fire, flooding, and disable modules. Have an increased chance to disable sonar.</p><p class=\"p_spacing\"> </p><p>Destroy torpedoes and mines, and also deal minor damage to surface targets.</p>"
+msgid "IDS_FIGHTER_AIRSUP"
+msgstr "Airstrikes: Fighters"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_PINGER"
-msgstr "<p>Hitting an enemy ship with a sonar pulse marks a sector on it for homing acoustic torpedoes.</p><p class=\"p_spacing\"> </p><p>Hitting the marked sector again extends its duration and increases the maneuverability of torpedoes homing in on it.</p><p class=\"p_spacing\"> </p><p>Launched torpedoes home in on the priority target - the last marked sector.</p>"
+msgid "IDS_PRGM009_130MM_B_13"
+msgstr "130 mm/50 Model 1936 on a B-13-Ic mount"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_SS"
-msgstr "<p>Creates a smoke screen in the explosion area. The smoke screen reduces the chance of being detected by the enemy.</p><p class=\"p_spacing\"> </p><p>Deals no damage.</p>"
+msgid "IDS_PRUA411_130_50_B13"
+msgstr "130 mm/50 Model 1936 on a B-13-Ic mount"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT"
-msgstr "<p>Home in on enemy ships, deal significant damage, and can cause flooding.</p><p class=\"p_spacing\"> </p><p>Before launching each torpedo, you must mark an enemy ship with a sonar pulse for homing. Switching between sonar and torpedo tubes happens automatically.</p><p class=\"p_spacing\"> </p><p>Effective against maneuverable and lightly armored targets.</p>"
+msgid "IDS_PRUA421_D5_ART_STOCK"
+msgstr "130 mm/50 Model 1936 on a B-13-Ic mount"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT_IMPROVE"
-msgstr "<p>Home in on enemy ships, deal significant damage, and can cause flooding.</p><p class=\"p_spacing\"> </p><p>Before launching each torpedo, you must mark an enemy ship with a sonar pulse for homing. Switching between sonar and torpedo tubes happens automatically.</p><p class=\"p_spacing\"> </p><p>Effective against maneuverable and lightly armored targets.</p>"
+msgid "IDS_PRUA522_D6_ART_STOCK_2"
+msgstr "130 mm/50 Model 1936 on a B-13-Ic mount"
 
-msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT_IMPROVE"
-msgstr "Acoustic Torpedoes"
+msgid "IDS_PRUA612_D7_ART_STOCK_2"
+msgstr "130 mm/50 Model 1936 on a B-13-Ic mount"
 
-msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCHPREMIUM"
-msgstr "<p>Detects ships and submarines at periscope depth or on the surface, as well as torpedoes, mines, and depth charges, including within a smoke screen area.</p><p class=\"p_spacing\"> </p><p>Shows approximate positions of submarines at operating depth.</p>"
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_0"
+msgstr "The award for moving up to the league can only be received once."
 
-msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY020_RLSSEARCHPREMIUM"
-msgstr "Detects ships and submarines on the surface, including within a smoke screen area."
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_1"
+msgstr "The amount of each resource that you can receive as a reward for victories during the season is limited."
 
-msgid "IDS_DOCK_RAGE_MODE_TITLE_TANKING_BOOST"
-msgstr "Operational Damage Control"
+msgid "IDS_RATING_BATTLES_STATS_VICTORIES"
+msgstr "Victories"
 
-msgid "IDS_GUIDING_TIP_123_DESC"
-msgstr "Select a new battle type and test your skills in it!"
+msgid "IDS_REWARD_EVENTUM_2_TITLE"
+msgstr "Summer tokens"
 
-msgid "IDS_GUIDING_TIP_123_HEADER"
-msgstr "New battle type available"
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
+msgstr "Summer Tokens purchased"
 
-msgid "IDS_GUIDING_TIP_124_DESC"
-msgstr "Compete with other players in the current season by progressing through leagues. The higher the league, the more valuable the rewards!"
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
+msgstr "Summer Tokens received"
 
-msgid "IDS_GUIDING_TIP_124_HEADER"
-msgstr "New battle type"
-
-msgid "IDS_GUIDING_TIP_58_DESC"
-msgstr "Select a new battle type and test your skills in it!"
-
-msgid "IDS_GUIDING_TIP_58_HEADER"
-msgstr "New battle type available"
-
-msgid "IDS_GUIDING_TIP_59_DESC"
-msgstr "Compete with other players in the current season by progressing through leagues. The higher the league, the more valuable the rewards!"
-
-msgid "IDS_GUIDING_TIP_59_HEADER"
-msgstr "New battle type"
-
-msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3_DESC_0"
-msgstr "Most aircraft carriers have secondary guns and consumables that is used automatically when needed."
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_0"
-msgstr "Before launching each acoustic torpedo, you must mark the target with sonar. Switching between sonar and torpedoes happens automatically."
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_1"
-msgstr "Using sonar reveals the approximate position and direction of the submarine."
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_0"
-msgstr "At periscope and operating depths, the submarine can see approximate enemy positions."
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_1"
-msgstr "At maximum depth, the submarine is almost invulnerable to enemies, but cannot detect ships or use consumable."
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_0"
-msgstr "A submarine can remain underwater as long as it has battery power. On the surface, the battery recharges."
-
-msgid "IDS_MINIMAP_OPTIONS_HYDROPHONERANGEENABLED"
-msgstr "Hydrophone range"
-
-msgid "IDS_MODAL_WINDOW_COOPERATIVEBATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Maximum team size depends on ship tiers:"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
-msgstr "Submarines"
-
-msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Maximum team size depends on ship tiers:"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_HEADER"
-msgstr "Acoustic Torpedoes"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_1"
-msgstr "Home in on ships marked by sonar pulses"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_2"
-msgstr "Switching between torpedoes and sonar happens automatically"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_TEXT_1"
-msgstr "Remain in the water for a certain time. Deal damage to submarines, destroy torpedoes and mines. Deal minor damage to surface targets."
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_HEADER"
-msgstr "TORPEDO HOMING"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_TEXT_1"
-msgstr "Before launching each torpedo, you must mark the target with sonar. The maximum number of your torpedoes that can home in on a target depends on its class."
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_TEXT_1"
-msgstr "At maximum depth, the submarine is almost invulnerable to enemies, but cannot detect ships or use consumable."
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_TEXT_1"
-msgstr "Remain in the water for a certain time. Deal damage to submarines, destroy torpedoes and mines. Deal minor damage to surface targets."
-
-msgid "IDS_NEWBIE_QUESTS_PCON015_DESCRIPTION"
-msgstr "Achieve one victory in Ranked or Rating Battle. Each of these battle types is only available during its season."
-
-msgid "IDS_NEWBIE_QUESTS_PCON015_NAME"
-msgstr "Win a Ranked or Rating Battle"
-
-msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_PERISCOPESTATE"
-msgstr "Cannot be used underwater"
-
-msgid "IDS_PARAMS_MODIFIER_SPEEDCOEFBATTERY"
-msgstr "Surface speed"
-
-msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
-msgstr ""
-"Shows positions of submarines\n"
-"at operating depth"
-
-msgid "IDS_PFPA109_75MM_35_SMOKE"
-msgstr "75 mm smoke shell"
-
-msgid "IDS_PFPA110_88MM_45_SMOKE"
-msgstr "88 mm smoke shell"
-
-msgid "IDS_PFPA111_100MM_45_1892_SMOKE"
-msgstr "100 mm smoke shell"
-
-msgid "IDS_PFSD504_DESCR"
-msgstr "Siroco, a Bourrasque-class destroyer, was assigned to the 5th Destroyer Division of the 1st Squadron, 1st Destroyer Flotilla. At the beginning of World War II, the destroyer was engaged in convoy escort and hunting German submarines. The destroyer participated in the evacuation of Allied troops from Dunkirk. On the night of May 31, carrying about 900 evacuees, Siroco was hit by a torpedo from a German E-boat, which blew off the destroyer's propellers. The immobilized ship was sunk by German dive bombers."
-
-msgid "IDS_PFSD508_DESCR"
-msgstr "<p>Le Terrible, a Le Fantasque-class destroyer, was laid down in Caen in December 1931, after which it was towed to Nantes for completion. In 1936, the ship, together with its sister ships Le Fantasque and L'Audacieux, was assigned to the 10th Light Division as part of the 2nd Light Squadron in Brest. In 1939, the 10th Division became part of the 'Raiding Force' (French: Force de raid). Throughout the year, the destroyer was engaged in convoy escort and searching for German raiders in the Atlantic.</p><p class=\"p_spacing\"> </p><p>In the spring of 1940, the Force de Raid was transferred to Algeria, where on July 3, the French base Mers-el-Kébir was attacked by the British Royal Navy. Le Terrible escorted the battlecruiser Strasbourg to Toulon, which managed to escape from the British ships.</p><p class=\"p_spacing\"> </p><p>In 1942, the destroyer was transferred to Dakar, where in November it defected to the 'Free France'. As part of its fleet, the ship participated in the landings in Italy (1943) and Southern France (1944). After the war, Le Terrible was placed in reserve.</p>"
-
-msgid "IDS_PFSS108_DESCR"
-msgstr "<p>In the early 1930s, the Y3 project, or Aurore type, was developed. These submarines differed from their predecessors by having a hull one and a half times larger, enhanced armament, and increased seaworthiness. Only the lead submarine of the type was completed before France's capitulation.</p><p class=\"p_spacing\"> </p><p>L'Africaine was laid down in September 1938 in Le Trait. In an unfinished state, L'Africaine was captured by German forces, receiving the designation UF 1. Construction progressed slowly, and before retreating from Normandy, the Germans attempted to blow up the unfinished submarine.</p><p class=\"p_spacing\"> </p><p>After the war, L'Africaine was completed according to a modified French design and became part of the 1st Submarine Squadron.</p>"
-
-msgid "IDS_CURRENCY_SHIPMATERIAL_SPEND_DESCRIPTION"
-msgstr "Used to repair same-tier ships in the Repair Dock or exchange for blueprints."
-
-msgid "IDS_RAGE_MODE_DESCRIPTION_TANKING_AUTO"
-msgstr "Activates automatically each time you receive potential damage from 3 enemy ships within 15 seconds."
-
-msgid "IDS_REWARD_EVENTUM_1_TITLE"
-msgstr "Fleet Tokens"
-
-msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "French Tokens"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Special Tier X ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Tier X"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Premium Tier VIII-IX ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Tier VIII-IX"
-
-msgid "IDS_RIBBON_DESCRIPTION_RIBBON_DBOMB"
-msgstr "Hit an enemy submarine or ship with a depth charge."
-
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
-msgstr "Mark an enemy ship with a sonar pulse for homing acoustic torpedoes."
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
-msgstr "Target marked"
-
-msgid "IDS_RIBBON_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
-msgstr "Target marked"
-
-msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_HYDROPHONE"
-msgstr "Shows terrain, as well as positions of ships and submarines. Works at periscope and operating depths. Does not show submarines at maximum depth."
-
-msgid "IDS_SHIP_PARAM_WAVE_DURATION"
-msgstr "Pulse duration"
-
-msgid "IDS_SHIP_PARAM_WAVE_DURATION_FIRST"
-msgstr "Pulse duration"
-
-msgid "IDS_GUIDING_TIP_294_HEADER"
-msgstr "Acquire new ships"
-
-msgid "IDS_GUIDING_TIP_295_DESC"
-msgstr "When you obtain a blueprint, the corresponding ship appears in your Repair Dock."
-
-msgid "IDS_GUIDING_TIP_296_DESC"
-msgstr "Repairing ships requires materials of the corresponding tier."
-
-msgid "IDS_GUIDING_TIP_296_HEADER"
-msgstr "Collect materials"
-
-msgid "IDS_GUIDING_TIP_297_DESC"
-msgstr "Here you can see how many materials you have for repair ships of different tiers."
-
-msgid "IDS_GUIDING_TIP_301_DESC"
-msgstr "You've received materials that can be used to repair ships! The first ship will appear in your Repair Dock when you obtain its blueprint."
-
-msgid "IDS_GUIDING_TIP_302_DESC"
-msgstr "Here you can see how many materials you have for repairing ships of different tiers."
-
-msgid "IDS_GUIDING_TIP_303_DESC"
-msgstr "<p>Repairing ships requires materials of the corresponding tier.</p><p class=\"p_spacing\"> </p><p>Click 'Repair' to make the ship yours!</p>"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Complete the current phase's objective to advance. The more phases you complete, the more rewards you'll earn."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Fire at marked targets to earn more points. Use the specified weapon type or deal the specified damage type."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Each trial consists of 5 phases. Complete the current phase's objective to advance."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "The more phases you complete, the more rewards you'll earn."
-
-msgid "IDS_PCEA014_CRBOOST_4"
-msgstr "Credits +480%"
-
-msgid "IDS_PCEA024_TOTALXPBOOST_4"
-msgstr "Ship XP +2400%"
-
-msgid "IDS_PCEA034_CREWXPBOOST_4"
-msgstr "Commander XP +2400%"
-
-msgid "IDS_PCZC511_BD098_TRENTO_DESCRIPTION"
-msgstr "<p>The Washington Naval Treaty of 1922 had a decisive impact on cruiser development. By establishing limits of 10,000 tons displacement and 203mm guns, it set the standard for global cruiser construction.</p><p class=\"p_spacing\"> </p><p>The first Italian Royal Navy ships built to these standards were Trento and Trieste, commissioned in 1928-1929. Italian designers made compromises to create fast ships with impressive armament, though like all 'Treaty cruisers' they had relatively weak armor.</p>"
-
-msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
-msgstr ""
-"Displays an indicator for undetected submarines when in the area of effect of enemy 'Hydroacoustic Search' or 'Surveillance Radar' consumable.\n"
-"If you change depth while the indicator is displayed, you may be detected."
-
-msgid "IDS_SKILL_SUBMARINE_BATTERY_BURN_DOWN_TRIGGER_DESC"
-msgstr "Increases battery recharge rate on the surface when your submarine has less than 10% of maximum battery power."
-
-msgid "IDS_SKILL_SUBMARINE_SPEED_TRIGGER_DESC"
-msgstr "Increases surface speed when your submarine has less than 10% of maximum battery power."
-
-msgid "IDS_SKILL_TRIGGER_CONS_RUDDER_TIME_COEFF_TRIGGER_DESC"
-msgstr "Reduces rudder shift time while your ship is detected by the enemy."
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
-msgstr "Fleet Tokens purchased"
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "French Tokens purchased"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
-msgstr "Fleet Tokens received"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "French Tokens received"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
-msgstr "Fleet Tokens written off"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "French Tokens written off"
-
-msgid "IDS_TIPS_ACOUSTIC_TORPEDOES_HOMING_DESCRIPTION"
-msgstr "<p>Submarine torpedoes home in on ships marked by sonar pulses. Homing accounts for the ship's speed and course.</p><p class=\"p_spacing\"> </p><p>Most dangerous when hitting a ship's broadside.</p><p class=\"p_spacing\"> </p><p>Turn your bow towards incoming torpedoes to reduce the chance of being hit.</p>"
-
-msgid "IDS_TIPS_AIRCRAFT_CARRIER_DESCRIPTION"
-msgstr "<p>Most aircraft carriers have no main battery guns. The primary purpose of this ship class is conducting airstrikes against enemy forces and reconnaissance.</p><p class=\"p_spacing\"> </p><p>For maximum effectiveness, try to stay close to the battlefield but out of enemy detection range. Aircraft carriers are vulnerable and need allied cover.</p>"
-
-msgid "IDS_TIPS_ANTI_SUB_AIRCRAFT_DESCRIPTION"
-msgstr "<p>Depth charge airstrike is available via [CMD_AMMO_SLOT_4].</p><p class=\"p_spacing\"> </p><p>Conducts a depth charge bombardment of the marked area.</p><p class=\"p_spacing\"> </p><p>Depth charges remain in the water for a certain time and explode near submarines or other targets. Destroy torpedoes and mines, deal minor damage to surface targets.</p>"
-
-msgid "IDS_TIPS_ARMAMENT_SS_DESCRIPTION"
-msgstr "<p>Smoke shells selection is available via [CMD_AMMO_SLOT_1].</p><p class=\"p_spacing\"> </p><p>Creates a smoke screen in the explosion area. Deals no damage.</p><p class=\"p_spacing\"> </p><p>The smoke screen can hide you or allied ships from the enemy.</p>"
-
-msgid "IDS_TIPS_DEPTH_CHARGES_DESCRIPTION"
-msgstr "<p>Depth charge release is available via [CMD_AMMO_SLOT_G].</p><p class=\"p_spacing\"> </p><p>Depth charges remain in the water for a certain time and explode near submarines or other targets. Destroy torpedoes and mines, and also deal minor damage to surface targets.</p>"
-
-msgid "IDS_TIPS_HYDROACUSTIC_SEARCH_DESCRIPTION"
-msgstr "<p>Detects ships and submarines at periscope depth or on the surface, as well as torpedoes, mines, and depth charges, including within a smoke screen area.</p><p class=\"p_spacing\"> </p><p>Shows approximate positions of submarines at operating depth.</p>"
-
-msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP"
-msgstr "Sonar pulse"
-
-msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP_DESCRIPTION"
-msgstr "<p>Submarines use sonar to mark targets for torpedo homing.</p><p class=\"p_spacing\"> </p><p>Use the 'Damage Control Party' consumable to disperse the sonar pulse.</p>"
-
-msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION"
-msgstr "<p>Enemy ships are equipped with depth charges to counter submarines.</p><p class=\"p_spacing\"> </p><p>Depth charges deal damage to submarines and destroy torpedoes.</p>"
-
-msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE"
-msgstr "Hydrophone"
-
-msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE_DESCRIPTION"
-msgstr "<p>Shows terrain and ship positions, and detects submarines at periscope and operating depths.</p><p class=\"p_spacing\"> </p><p>Works continuously at periscope and operating depths.</p>"
-
-msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE"
-msgstr "Submarine detection"
-
-msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_DESCRIPTION"
-msgstr "<p>A submarine's detectability depends on the depth at which it is located.</p><p class=\"p_spacing\"> </p><p>Periscope depth: the submarine can be detected using hydroacoustic search.</p><p class=\"p_spacing\"> </p><p>Operating depth: hydroacoustic search will show the submarine's approximate position.</p><p class=\"p_spacing\"> </p><p>Maximum depth: the submarine cannot be detected.</p>"
-
-msgid "IDS_TIPS_SUBMARINE_ENERGY_MANAGEMENT_DESCRIPTION"
-msgstr "<p>Required to stay underwater.</p><p class=\"p_spacing\"> </p><p>When battery power runs out, the submarine is forced to surface.</p><p class=\"p_spacing\"> </p><p>Recharges on the surface. Not consumed at periscope depth.</p>"
-
-msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY"
-msgstr "Launching torpedoes from depth"
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
+msgstr "Summer Tokens removed"
 
 msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY_DESCRIPTION"
-msgstr "<p>From underwater, you cannot hit surface targets that are too close.</p><p class=\\\"p_spacing\\\"> </p><p>Torpedoes need time to surface.</p>"
-
-msgid "IDS_TIPS_SUBMARINE_USE_WEAPON_AND_CONSUMABLE_ON_DEPTH_DESCRIPTION"
-msgstr "Certain armament and consumable may be unavailable depending on the submarine's current depth."
-
-msgid "IDS_TOOLTIP_GUARANTEED_VISIBILITY_SUBMARINE"
-msgstr "<p>The distance at which a submarine will be guaranteed to be detected by the enemy, even when in smoke or behind an island.</p><p class=\"p_spacing\"> </p><p>At operating depth, a submarine can only be detected by an enemy submarine or using consumables.</p>"
-
-msgid "IDS_TOOLTIP_MAX_SPEED_UNDER_WATER"
-msgstr "The maximum speed a submarine can achieve at operating depth when moving in a straight line."
-
-msgid "IDS_TOOLTIP_WAVE_DURATION_FIRST_HIT"
-msgstr "Hitting an enemy ship with a sonar pulse marks it for torpedo homing."
-
-msgid "IDS_TOOLTIP_WAVE_DURATION_SECOND_HIT"
-msgstr "<p>Hitting an enemy ship with a sonar pulse marks it for torpedo homing.</p><p class=\"p_spacing\"> </p><p>Hitting the marked sector again extends its duration and increases the maneuverability of torpedoes homing in on it.</p>"
-
-msgid "IDS_UNLOCKS_6"
-msgstr "Receive up to three reward containers daily."
-
-msgid "IDS_UNLOCKS_7"
-msgstr "Purchase new items in the Armory."
+msgstr "<p>From an underwater position, you cannot hit surface targets that are too close.</p><p class=\"p_spacing\"> </p><p>Torpedoes need time to surface.</p>"
