@@ -2,526 +2,95 @@
 msgid ""
 msgstr ""
 
-msgid "IDS_ADVANCED_CREW_STATUS"
-msgstr "Редкий командир"
+msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_ACHIEVEMENTS_MARATHON"
+msgstr "Марафоны достижений"
 
-msgid "IDS_ASSIGN_CREW_DENY_REASON_CURRENT_SHIP_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для назначения на корабль."
-
-msgid "IDS_ASSIGN_CREW_DENY_REASON_TARGET_SHIP_IN_BATTLE"
-msgstr "Дождитесь возвращения корабля из боя для замены командира."
-
-msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_HIGH"
-msgstr "Каждая авиационная бомба наносит большой урон"
-
-msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_LOW"
-msgstr "Одна авиационная бомба наносит малый урон"
-
-msgid "IDS_AVIATION_BOMB_ALPHA_PIERCING_HIGH"
-msgstr "Высокое бронепробитие бомб"
-
-msgid "IDS_AVIATION_BOMB_ALPHA_PIERCING_LOW"
-msgstr "Низкое бронепробитие бомб"
-
-msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_HIGH"
-msgstr "Каждая ракета наносит большой урон"
-
-msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_LOW"
-msgstr "Одна ракета наносит малый урон"
-
-msgid "IDS_AVIATION_ROCKET_ALPHA_PIERCING_HIGH"
-msgstr "Высокое бронепробитие ракет"
-
-msgid "IDS_AVIATION_ROCKET_ALPHA_PIERCING_LOW"
-msgstr "Низкое бронепробитие ракет"
-
-msgid "IDS_BLOCK_REASON_COMMANDER_IS_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для перераспределения навыков."
-
-msgid "IDS_CITADEL_HEALTH_REGENERATION_HEIGHT"
-msgstr "Повреждения цитадели корабля устраняются с повышенной эффективностью"
-
-msgid "IDS_COLLECTION_DESCRIPRION_BUTTON"
-msgstr "Описание коллекции"
-
-msgid "IDS_COLLECTION_DESCRIPRION_BUTTON_TOOLTIP"
-msgstr "Перейти к описанию коллекции"
-
-msgid "IDS_CONFIRMATION_AUTO_FIN_BATTLE_AFTER_EXIT"
-msgstr ""
-"В бою остались только боты. Победа будет присвоена команде с лучшим "
-"результатом."
-
-msgid "IDS_CREW_EPIC_PROMOTE_DENY_REASON_IS_IN_BATTLE"
-msgstr ""
-"Дождитесь возвращения командира из боя для вручения элитного командирского "
-"пособия."
-
-msgid "IDS_CREW_HIRE_LAST_IS_IN_BATTLE"
-msgstr "Командир в бою"
-
-msgid "IDS_CREW_LIST_OVERLAY_STATUS_TARGET_IN_BATTLE"
-msgstr "ВЫБРАННЫЙ КОРАБЛЬ В БОЮ"
-
-msgid "IDS_CREW_LIST_OVERLAY_STATUS_THIS_IN_BATTLE"
-msgstr "ЭТОТ КОМАНДИР В БОЮ"
-
-msgid "IDS_CREW_TYPE_ADVANCED"
-msgstr "Редкие"
-
-msgid "IDS_CREW_TYPE_SPECIAL"
+msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_SPECIAL"
 msgstr "Особые"
 
-msgid "IDS_CREW_TYPE_UNIQUE"
-msgstr "Легендарные"
+msgid "IDS_CANNOT_HIT_TARGET_CRASH_CREW_WORKING"
+msgstr "ИМПУЛЬС БУДЕТ РАССЕЯН"
 
-msgid "IDS_CURRENT_WAITING_TIME_HINT"
-msgstr "Время ожидания"
+msgid "IDS_PARAMS_MODIFIER_FIRSTSECTORTIMECOEFF"
+msgstr "Время действия отмеченного сектора при однократном попадании"
 
-msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для отправки в резерв."
+msgid "IDS_PARAMS_MODIFIER_SECONDSECTORTIMECOEFF"
+msgstr "Время действия отмеченного сектора при двукратном попадании"
 
-msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_1"
-msgstr "Стандартные"
+msgid "IDS_PFPA112_120_HE_HALLAND_HOUND"
+msgstr "120-мм HE M1950"
 
-msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_2"
-msgstr "Особые"
+msgid "IDS_PFPA113_120_AP_HALLAND_HOUND"
+msgstr "120-мм AP M1950"
 
-msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_3"
-msgstr "Редкие"
+msgid "IDS_PFPT033_HALLAND_HOUND"
+msgstr "Torped M1947 mod 3"
 
-msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_4"
-msgstr "Элитные"
+msgid "IDS_PIUS911_SUO_LAZIO"
+msgstr "SDT 10"
 
-msgid "IDS_ERROR_WGNI_COMMON"
+msgid "IDS_PJPA180_406MM_HE_LAZAREV_HOUND"
+msgstr "406-мм ОФ обр. 1928 г."
+
+msgid "IDS_PJPA181_406MM_AP_LAZAREV_HOUND"
+msgstr "406-мм ББ обр. 1928 г."
+
+msgid "IDS_PWPA055_203MM_55_HE_VENEZIA_HOUND"
+msgstr "203-мм proiettili HE 1924"
+
+msgid "IDS_PWPA056_203MM_55_AP_VENEZIA_HOUND"
+msgstr "203-мм proiettili AP 1924 mod.2"
+
+msgid "IDS_PWPT028_VENEZIA_HOUND"
+msgstr "Torped M1947 mod 1"
+
+msgid "IDS_SHIP_PARAM_PINGER_MAX_TARGETS"
+msgstr "Количество одновременно сопровождаемых целей"
+
+msgid "IDS_SHIP_PARAM_WAVE_DURATION_FIRST"
+msgstr "Время действия импульса"
+
+msgid "IDS_SHIP_PARAM_WAVE_DURATION_SECOND"
+msgstr "Время действия двукратно отмеченного сектора"
+
+msgid ""
+"IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION_IMPROVE_SUBMARINE"
 msgstr ""
-"Ошибка веб-авторизации. Повторите попытку позже или обратитесь в Центр "
-"поддержки пользователей."
+"<p>Корабли противника оснащены средствами для борьбы с подводными лодками — "
+"глубинными бомбами.</p><p class=\"p_spacing\"> </p><p>Подводные лодки "
+"получают уменьшенный урон от глубинных бомб, когда находятся в надводном "
+"положении или на предельной глубине.</p>"
 
-msgid "IDS_ERROR_WGNI_TICKET_EXPIRED"
-msgstr "Время на авторизацию истекло. Попробуйте ещё раз."
-
-msgid "IDS_FAST_TRAINING_DISABLE_REASON_SHIP_IS_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для ускоренного обучения."
-
-msgid "IDS_FIRE_CREW_DENY_REASON_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для демобилизации."
-
-msgid "IDS_FLAG"
-msgstr "Флаги"
-
-msgid "IDS_FREE_SKILLPOINTS_DENY_REASON_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для перераспределения навыков."
-
-msgid "IDS_GO_TO_COLLECTION_SCREEN"
-msgstr "Перейти к коллекции"
-
-msgid "IDS_GUIDING_TIP_100_DESC"
-msgstr "Откройте контейнер, чтобы получить новое имущество."
-
-msgid "IDS_GUIDING_TIP_100_HEADER"
-msgstr "У вас есть контейнер!"
-
-msgid "IDS_GUIDING_TIP_130_DESC"
+msgid "IDS_TOOLTIP_PINGER_MAX_TARGETS"
 msgstr ""
-"Сменить тип боя может только командир отряда. Выйдите из отряда или возьмите"
-" на себя роль командира."
+"Максимальное количество кораблей, которые могут быть одновременно отмечены "
+"сонаром."
 
-msgid "IDS_GUIDING_TIP_130_HEADER"
-msgstr "Выбор типа боя"
-
-msgid "IDS_GUIDING_TIP_132_DESC"
+msgid "IDS_TOOLTIP_WAVE_DURATION_FIRST_HIT"
 msgstr ""
-"Установлен статус «Готов к бою в отряде». Нажмите «Не готов», чтобы изменить"
-" внешний вид корабля."
+"Попадание импульсом сонара по кораблю противника отмечает его "
+"для наведения торпед."
 
-msgid "IDS_GUIDING_TIP_132_HEADER"
-msgstr "Камуфляж корабля"
-
-msgid "IDS_GUIDING_TIP_133_DESC"
-msgstr "Дождитесь возвращения корабля из боя или выберите другой корабль."
-
-msgid "IDS_GUIDING_TIP_133_HEADER"
-msgstr "Камуфляж корабля"
-
-msgid "IDS_GUIDING_TIP_135_DESC"
+msgid "IDS_TOOLTIP_WAVE_DURATION_SECOND_HIT"
 msgstr ""
-"Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для установки "
-"сигналов."
-
-msgid "IDS_GUIDING_TIP_135_HEADER"
-msgstr "Установка сигналов"
-
-msgid "IDS_GUIDING_TIP_138_DESC"
-msgstr ""
-"Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для изменения "
-"экономических бонусов."
-
-msgid "IDS_GUIDING_TIP_138_HEADER"
-msgstr "Экономические бонусы"
-
-msgid "IDS_GUIDING_TIP_139_DESC"
-msgstr "Дождитесь возвращения корабля из боя или выберите другой корабль."
-
-msgid "IDS_GUIDING_TIP_139_HEADER"
-msgstr "Экономические бонусы"
-
-msgid "IDS_GUIDING_TIP_13_DESC"
-msgstr "Вы можете установить флаг на свой корабль."
-
-msgid "IDS_GUIDING_TIP_13_HEADER"
-msgstr "Флаги"
-
-msgid "IDS_GUIDING_TIP_141_DESC"
-msgstr ""
-"Установлен статус «Готов к бою в отряде». Нажмите «Не готов» "
-"для взаимодействия с командиром."
-
-msgid "IDS_GUIDING_TIP_141_HEADER"
-msgstr "Развитие командира"
-
-msgid "IDS_GUIDING_TIP_142_DESC"
-msgstr "Дождитесь возвращения корабля из боя или выберите другой корабль."
-
-msgid "IDS_GUIDING_TIP_142_HEADER"
-msgstr "Развитие командира"
-
-msgid "IDS_GUIDING_TIP_144_DESC"
-msgstr ""
-"Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для изменения "
-"модернизаций."
-
-msgid "IDS_GUIDING_TIP_144_HEADER"
-msgstr "Установка модернизаций"
-
-msgid "IDS_GUIDING_TIP_145_DESC"
-msgstr "Дождитесь возвращения корабля из боя или выберите другой корабль."
-
-msgid "IDS_GUIDING_TIP_145_HEADER"
-msgstr "Установка модернизаций"
-
-msgid "IDS_GUIDING_TIP_264_DESC"
-msgstr "Ожидайте."
-
-msgid "IDS_GUIDING_TIP_264_HEADER"
-msgstr "Доступно особое событие"
-
-msgid "IDS_GUIDING_TIP_265_DESC"
-msgstr "Перейдите в Порт, чтобы узнать больше."
-
-msgid "IDS_GUIDING_TIP_265_HEADER"
-msgstr "Доступно особое событие"
-
-msgid "IDS_GUIDING_TIP_271_DESC"
-msgstr "Выходите на выбранном корабле в следующий бой прямо сейчас!"
-
-msgid "IDS_GUIDING_TIP_271_HEADER"
-msgstr "Снова в бой"
-
-msgid "IDS_GUIDING_TIP_293_DESC"
-msgstr ""
-"Каждая установленная модернизация улучшает определённые характеристики "
-"корабля. Чем выше уровень корабля, тем больше модернизаций на него можно "
-"установить."
-
-msgid "IDS_GUIDING_TIP_293_HEADER"
-msgstr "Установка модернизаций"
-
-msgid "IDS_GUIDING_TIP_304_DESC"
-msgstr ""
-"С помощью соответствующих экономических бонусов вы сможете получать больше "
-"кредитов, опыта корабля, опыта командира и свободного опыта за каждый бой."
-
-msgid "IDS_GUIDING_TIP_304_HEADER"
-msgstr "Установите экономические бонусы"
-
-msgid "IDS_GUIDING_TIP_305_DESC"
-msgstr ""
-"С помощью соответствующих экономических бонусов вы сможете получать больше "
-"кредитов, опыта корабля, опыта командира и свободного опыта за каждый бой."
-
-msgid "IDS_GUIDING_TIP_305_HEADER"
-msgstr "Установите экономические бонусы"
-
-msgid "IDS_GUIDING_TIP_310_DESC"
-msgstr "Перейдите к нации с особенностями веток кораблей."
-
-msgid "IDS_GUIDING_TIP_310_HEADER"
-msgstr "Особенности ветки"
-
-msgid "IDS_GUIDING_TIP_329_DESC"
-msgstr "В главном меню теперь доступен раздел «Как играть»."
-
-msgid "IDS_GUIDING_TIP_329_HEADER"
-msgstr "Новый раздел меню"
-
-msgid "IDS_GUIDING_TIP_330_DESC"
-msgstr ""
-"Освежите свои знания об игровых механиках и узнайте принципы боевой "
-"эффективности!"
-
-msgid "IDS_GUIDING_TIP_330_HEADER"
-msgstr "Принципы эффективной игры"
-
-msgid "IDS_GUIDING_TIP_331_DESC"
-msgstr "Кампании теперь находятся на экране «Боевые задачи»."
-
-msgid "IDS_GUIDING_TIP_331_HEADER"
-msgstr "Кампании"
-
-msgid "IDS_GUIDING_TIP_35_DESC"
-msgstr "Откройте контейнер, чтобы получить новое имущество."
-
-msgid "IDS_GUIDING_TIP_35_HEADER"
-msgstr "У вас есть контейнер!"
-
-msgid "IDS_GUIDING_TIP_79_DESC"
-msgstr "Вы можете установить флаг на свой корабль."
-
-msgid "IDS_GUIDING_TIP_79_HEADER"
-msgstr "Флаги"
-
-msgid "IDS_GUIDING_TIP_86_DESC"
-msgstr ""
-"Установите сигналы на корабль. Обратите внимание на то, какие характеристики"
-" они улучшают."
-
-msgid "IDS_GUIDING_TIP_86_HEADER"
-msgstr "Установка сигналов"
-
-msgid "IDS_GUIDING_TIP_92_DESC"
-msgstr ""
-"Исследуйте корабль. После исследования корабль станет доступен для покупки."
-
-msgid "IDS_GUIDING_TIP_92_HEADER"
-msgstr "Исследование корабля"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ADVANCED"
-msgstr "Показать редких командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ADVANCED"
-msgstr "Редкие командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_SPECIAL"
-msgstr "Особые командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNIQUE"
-msgstr "Легендарные командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_SPECIAL"
-msgstr "Показать особых командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_UNIQUE"
-msgstr "Показать легендарных командиров"
-
-msgid "IDS_HINT_CREW_INFO_UNAVAILABLE_DUE_IN_FORMATION"
-msgstr ""
-"Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для доступа "
-"к личному делу командира."
-
-msgid "IDS_INSTRUCTION_FIRE_CREW_IN_BATTLE"
-msgstr ""
-"Командир в бою. После демобилизации опыт за текущий бой не будет начислен."
-
-msgid "IDS_IN_BATTLE_QUEUE"
-msgstr "Вы находитесь в очереди в бой"
-
-msgid "IDS_LEARN_SKILLS_DENY_REASON_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для изучения навыков."
-
-msgid "IDS_LEAVE_BATTLE_FIRST_TO_BUY_MODERNIZATION"
-msgstr "Дождитесь возвращения корабля из боя для изменения модернизаций."
-
-msgid "IDS_LEAVE_BATTLE_FIRST_TO_MANAGE_SHIP"
-msgstr "Дождитесь возвращения корабля из боя для изменения оснащения."
-
-msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_AUTOPURCHASE"
-msgstr "Дождитесь возвращения корабля из боя для управления автопокупкой."
-
-msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_ECONOMIC_BOOSTS"
-msgstr ""
-"Дождитесь возвращения корабля из боя для изменения экономических бонусов."
-
-msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_EXTERIORS"
-msgstr "Дождитесь возвращения корабля из боя для изменения внешнего вида."
-
-msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_MODERNIZATION"
-msgstr "Дождитесь возвращения корабля из боя для изменения модернизаций."
-
-msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_SIGNALS"
-msgstr "Дождитесь возвращения корабля из боя для изменения сигналов."
-
-msgid "IDS_LOOTBOXES_BANNER_TEXT"
-msgstr "Перейти в Адмиралтейство"
-
-msgid "IDS_MAIN_GUN_CS_AMMO_AVAILABLE"
-msgstr "Доступны ПББ-снаряды"
-
-msgid "IDS_MAIN_GUN_DAMAGE_HIGH"
-msgstr "Орудия ГК наносят большой урон"
-
-msgid "IDS_MAIN_GUN_DAMAGE_LOW"
-msgstr "Орудия ГК наносят малый урон"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_HEADER"
-msgstr "Управление подводной лодкой"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_1_HEADER"
-msgstr "Запас автономности"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_1_TEXT_1"
-msgstr "Необходим для нахождения под водой"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_1_TEXT_2"
-msgstr "Восстанавливается в надводном положении"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_2_HEADER"
-msgstr "Глубины"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_2_TEXT_1"
-msgstr "[CRUISE_DEEP_UP] Всплыть"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_2_TEXT_2"
-msgstr "[CRUISE_DEEP_DOWN] Погрузиться"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_HEADER"
-msgstr "Акустические торпеды"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_1"
-msgstr "Наводятся на корабль, отмеченный импульсом сонара"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_2"
-msgstr "Переключение между торпедами и сонаром происходит автоматически"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_4_HEADER"
-msgstr "Торпеды [UNUSED]"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_4_TEXT_1"
-msgstr "Наиболее эффективны против надводных целей. [UNUSED]"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_4_TEXT_2"
-msgstr "Наиболее эффективны против надводных целей. [UNUSED]"
-
-msgid "IDS_MODERNIZATION_0"
-msgstr "Модернизация"
-
-msgid "IDS_MODERNIZATION_1"
-msgstr "Особая модернизация"
-
-msgid "IDS_MODERNIZATION_2"
-msgstr "Редкая модернизация"
-
-msgid "IDS_MODERNIZATION_3"
-msgstr "Элитная модернизация"
-
-msgid "IDS_PARAGON_DENY_REASON_IS_IN_BATTLE"
-msgstr ""
-"Один из кораблей находится в бою.\n"
-"Дождитесь возвращения корабля из боя для сброса ветки кораблей."
-
-msgid "IDS_PLAYERS_IN_YOUR_RANGE"
-msgstr "Игроков в вашем диапазоне"
-
-msgid "IDS_RANKED_MATCHMAKER_WAITING_FOR_OTHER_DIVISION"
-msgstr "Отряды выходят в бой только с другими отрядами"
-
-msgid "IDS_READY_TO_BATTLE_DENY_REASON_SHIP_IS_IN_BATTLE"
-msgstr "Выбранный корабль находится в бою."
-
-msgid "IDS_RETRAINING_DISABLE_REASON_SHIP_IS_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для ускорения переподготовки."
-
-msgid "IDS_RETURN_TO_DOCK"
-msgstr "Вернуться в Порт"
-
-msgid "IDS_SHIP_IN_BATTLE"
-msgstr "Корабль в бою"
-
-msgid "IDS_SHIP_IN_BATTLE_MESSAGE"
-msgstr ""
-"Корабль находится в бою.\n"
-"Чтобы начать новый бой, выберите другой корабль."
-
-msgid "IDS_SHIP_MANAGEMENT_BOMBER_ALT_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение торпедоносцев"
-
-msgid "IDS_SHIP_MANAGEMENT_BOMBER_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение торпедоносцев"
-
-msgid "IDS_SHIP_MANAGEMENT_DIVE_ALT_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение бомбардировщиков"
-
-msgid "IDS_SHIP_MANAGEMENT_DIVE_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение бомбардировщиков"
-
-msgid "IDS_SHIP_MANAGEMENT_FIGHTER_ALT_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение штурмовиков"
-
-msgid "IDS_SHIP_MANAGEMENT_FIGHTER_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение штурмовиков"
-
-msgid "IDS_SHIP_MANAGEMENT_MINE_ALT_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение постановщиков мин"
-
-msgid "IDS_SHIP_MANAGEMENT_MINE_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение постановщиков мин"
-
-msgid "IDS_SHIP_MANAGEMENT_SKIP_ALT_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение топмачтовых бомбардировщиков"
-
-msgid "IDS_SHIP_MANAGEMENT_SKIP_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение топмачтовых бомбардировщиков"
-
-msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_1"
-msgstr "Стандартные"
-
-msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_2"
-msgstr "Особые"
-
-msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_3"
-msgstr "Редкие"
-
-msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_4"
-msgstr "Элитные"
-
-msgid "IDS_SPECIAL_CREW_STATUS"
-msgstr "Особый командир"
-
-msgid "IDS_SYS_MSG_LEFT_MOUSE_SHOW_WGNC_SCREEN"
-msgstr "Открыть сообщение"
-
-msgid "IDS_TOTAL_PLAYERS_HINT"
-msgstr "Всего игроков в очереди"
-
-msgid "IDS_TOURNAMENT_HEADER_NO_DATA"
-msgstr "Загрузка"
-
-msgid "IDS_TO_MANAGEMENT_BUTTON_UPPER_CASE"
-msgstr "К ОСНАЩЕНИЮ"
-
-msgid "IDS_TO_SHIP_PREVIEW_BUTTON_UPPER_CASE"
-msgstr "ПОСМОТРЕТЬ КОРАБЛЬ"
-
-msgid "IDS_TREE_RESEARCH_INFO_TOOLTIP_DESCRIPTION_1"
-msgstr ""
-"Корабли распределены по веткам развития в соответствии с нацией, классом "
-"и уровнем."
-
-msgid "IDS_TREE_RESEARCH_INFO_TOOLTIP_DESCRIPTION_2"
-msgstr ""
-"Чтобы получить новый корабль, исследуйте его с помощью опыта, заработанного "
-"на предыдущем корабле в ветке, и купите его за кредиты."
-
-msgid "IDS_UNIQUE_CREW_STATUS"
-msgstr "Легендарный командир"
-
-msgid "IDS_UNLOCKS_24"
-msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
-
-msgid "IDS_UNLOCKS_31292101"
+"<p>Попадание импульсом сонара по кораблю противника отмечает его "
+"для наведения торпед.</p><p class=\"p_spacing\"> </p><p>Повторное попадание "
+"по отмеченному сектору продлевает время его действия и увеличивает "
+"манёвренность наводящихся на него торпед.</p>"
+
+msgid "IDS_UNLOCKS_292101"
 msgstr "Сражайтесь вместе с другими игроками против ботов."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24"
+msgid "IDS_UNLOCKS_3124"
+msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_292101"
+msgstr ""
+"<p>Сражайтесь вместе с другими игроками против ботов.</p><p "
+"class=\"p_spacing\"> </p><p>Выбор типа боя расположен рядом с кнопкой "
+"«В бой!».</p>"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124"
 msgstr ""
 "<p>В Операциях вашей команде необходимо выполнять различные задания, "
 "сражаясь с ботами. Каждая Операция обладает уникальными сюжетными "
@@ -531,35 +100,18 @@ msgstr ""
 "Операции зависит от уровней и классов кораблей в вашей команде.</p><p "
 "class=\"p_spacing\"> </p><p>Доступно на экране выбора типа боя.</p>"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_31292101"
-msgstr ""
-"<p>Сражайтесь вместе с другими игроками против ботов.</p><p "
-"class=\"p_spacing\"> </p><p>Выбор типа боя расположен рядом с кнопкой "
-"«В бой!».</p>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_24"
-msgstr ""
-"<body>Вам стали доступны\n"
-"<h3>Операции</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
+msgid "IDS_UNLOCKS_LEVEL_UP_292101"
 msgstr ""
 "Вам стали доступны\n"
 "<h3>Кооперативные бои</h3>"
 
-msgid "IDS_UNLOCKS_TITLE_24"
-msgstr "Операции"
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Операции</h3></body>"
 
-msgid "IDS_UNLOCKS_TITLE_31292101"
+msgid "IDS_UNLOCKS_TITLE_292101"
 msgstr "Кооперативные бои"
 
-msgid "IDS_WAITING_TIME_HINT"
-msgstr ""
-"Если ожидание в очереди затягивается, попробуйте выбрать корабль другого "
-"уровня или класса."
-
-msgid "IDS_WINDOW_HEADER_BATTLE_RESULT"
-msgstr "ДОСРОЧНОЕ ЗАВЕРШЕНИЕ БОЯ"
-
-msgid "IDS_YOU_HAVE_NO_LOOTBOXES"
-msgstr "У вас нет контейнеров"
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "Операции"

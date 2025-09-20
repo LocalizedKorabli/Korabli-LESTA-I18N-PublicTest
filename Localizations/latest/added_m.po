@@ -13,1633 +13,3228 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.6\n"
 
-msgid "IDS_ABILITIES_HEAL_ARTRELOAD_AVAILABLE"
-msgstr "\"Repair Party\" and \"Main Battery Reload Booster\" consumables available"
+msgid "IDS_2025WT_AUTOMATON"
+msgstr "Automaton"
 
-msgid "IDS_ABILITIES_HEAL_RLS_AVAILABLE"
-msgstr "\"Surveillance Radar\" and \"Repair Party\" consumables available"
+msgid "IDS_2025WT_AUTOMATONS"
+msgstr "Automatons"
 
-msgid "IDS_ABILITIES_HEAL_SONAR_ARTRELOAD_AVAILABLE"
+msgid "IDS_2025WT_CHAT_AI"
+msgstr "Base AI"
+
+msgid "IDS_2025WT_CHAT_BOTOMANCER_PXY527_NO_TARGET"
+msgstr "Teleportation canceled! All Hounds are still returning to battle!"
+
+msgid "IDS_2025WT_CHAT_BOTOMANCER_PXY532_NO_TARGET"
+msgstr "Teleportation target was destroyed. Consumable deactivated."
+
+msgid "IDS_2025WT_ERMELINDA"
+msgstr "Ermelinda Jung"
+
+msgid "IDS_2025WT_HOUND_LEADER"
+msgstr "Hound Leader"
+
+msgid "IDS_2025WT_TARGET_ACCEPT"
+msgstr "Opening fire on %s!"
+
+msgid "IDS_2025WT_TARGET_ACCEPT_SOLO"
+msgstr "Firing on %s!"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLE_ATBA_CALIBER_COOP"
 msgstr ""
-"\"Repair Party\", \"Hydroacoustic Search\", and \"Main Battery Reload "
-"Booster\" consumables available"
+"Destroy %(ATBAvictimsCount)s enemy ships by dealing the final damage with "
+"Secondary Battery fire."
 
-msgid "IDS_ABILITIES_HEAL_SONAR_AVAILABLE"
-msgstr "\"Repair Party\" and \"Hydroacoustic Search\" consumables available"
-
-msgid "IDS_ABILITIES_RLS_SMOKE_AVAILABLE"
-msgstr "\"Surveillance Radar\" and \"Smoke Generator\" consumables available"
-
-msgid "IDS_ABILITIES_RLS_TORPRELOAD_AVAILABLE"
-msgstr "\"Surveillance Radar\" and \"Torpedo Reload Booster\" consumables available"
-
-msgid "IDS_ABILITIES_SMOKE_HEAL_AVAILABLE"
-msgstr "\"Smoke Generator\" and \"Repair Party\" consumables available"
-
-msgid "IDS_ABILITIES_SMOKE_TORPRELOAD_AVAILABLE"
-msgstr "\"Smoke Generator\" and \"Torpedo Reload Booster\" consumables available"
-
-msgid "IDS_ABILITIES_SONAR_ARTRELOAD_AVAILABLE"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLE_KILL_COOP"
 msgstr ""
-"\"Hydroacoustic Search\" and \"Main Battery Reload Booster\" consumables "
-"available"
+"Destroy 2 enemy ships with an interval of no more than %(timeInterval)s "
+"seconds."
 
-msgid "IDS_ABILITY_ARTILLERY_RELOAD_BOOSTER_AVAILABLE"
-msgstr "Main Battery Reload Booster consumable available"
-
-msgid "IDS_ABILITY_HEAL_AVAILABLE"
-msgstr "\"Repair Party\" consumable available"
-
-msgid "IDS_ABILITY_HIGH_HEAL_AMOUNT"
-msgstr "\"Repair Party\" restores a large amount of HP"
-
-msgid "IDS_ABILITY_HIGH_HEAL_AMOUNT_AND_CITADEL"
-msgstr "\"Repair Party\" restores a large amount of HP, including citadel damage"
-
-msgid "IDS_ABILITY_RLS_AVAILABLE"
-msgstr "\"Surveillance Radar\" consumable available"
-
-msgid "IDS_ABILITY_SMOKE_AVAILABLE"
-msgstr "Smoke Generator consumable available"
-
-msgid "IDS_ABILITY_SMOKE_FULL_SPEED"
-msgstr "Exhaust Smoke Generator consumable available"
-
-msgid "IDS_ABILITY_SMOKE_NOT_AVAILABLE"
-msgstr "Smoke Generator consumable unavailable"
-
-msgid "IDS_ABILITY_SONAR_AVAILABLE"
-msgstr "Access to the Hydroacoustic Search consumable"
-
-msgid "IDS_ABILITY_TORPEDO_RELOAD_BOOSTER_AVAILABLE"
-msgstr "Torpedo Reload Booster consumable available"
-
-msgid "IDS_ACCEPT_INVITATION_TO_DIVISION"
-msgstr "Accept"
-
-msgid "IDS_ACHIEVEMENT_CAMPAIGN_MAKAROV_COMPLETED"
-msgstr "Naval Theaters of the Russo-Japanese War"
-
-msgid "IDS_ACHIEVEMENT_CAMPAIGN_MAKAROV_COMPLETED_EXCELLENT"
-msgstr "\"Naval Theaters of the Russo-Japanese War\" with Honors"
-
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMPAIGN_MAKAROV_COMPLETED"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAIN_CALIBER_DISTANCE_COOP"
 msgstr ""
-"Complete the final mission of the \"Naval Theaters of the Russo-Japanese "
-"War\" campaign."
+"Deal damage equal to at least %(damageRatio_percent)s of the total standard "
+"durability of enemy ships with Main Battery guns from a distance of 11 km or"
+" more."
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMPAIGN_MAKAROV_COMPLETED_EXCELLENT"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT_COOP"
 msgstr ""
-"Complete all missions of the \"Naval Theaters of the Russo-Japanese War\" "
-"campaign."
+"Damage %(victimsCount)s or more enemy ships. Damage dealt to each ship must "
+"amount to at least %(damageRatio_percent)s of her base HP."
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_BD25_PUZZLE_COMPLETED"
-msgstr "Complete the \"Ship Anniversary\" collection."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TRITON_COOP"
+msgstr "Destroy enemy ships using %(weaponTypeCount)s different methods."
 
-msgid "IDS_ACHIEVEMENT_FILLALBUM_BD25_PUZZLE_COMPLETED"
-msgstr "Ship Anniversary"
-
-msgid "IDS_AIR_DEFENSE_EFFICIENCY_HIGH"
-msgstr "High AA defense efficiency"
-
-msgid "IDS_AIR_DEFENSE_EFFICIENCY_LOW"
-msgstr "Low AA defense efficiency"
-
-msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_TOTAL_HIGH"
-msgstr "High bomber efficiency"
-
-msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_TOTAL_LOW"
-msgstr "Low bomber efficiency"
-
-msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_BB_AND_CA_HIGH"
-msgstr "High bomber efficiency against battleships and cruisers"
-
-msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_BB_AND_CA_LOW"
-msgstr "Low bomber efficiency against battleships and cruisers"
-
-msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_BB_AND_DD_HIGH"
-msgstr "High bomber efficiency against battleships and destroyers"
-
-msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_BB_AND_DD_LOW"
-msgstr "Low bomber efficiency against battleships and destroyers"
-
-msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_CA_AND_DD_HIGH"
-msgstr "High bomber efficiency against cruisers and destroyers"
-
-msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_CA_AND_DD_LOW"
-msgstr "Low bomber efficiency against cruisers and destroyers"
-
-msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_HE_HIGH"
-msgstr "Each HE bomb deals high damage"
-
-msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_HE_LOW"
-msgstr "Each HE bomb deals low damage"
-
-msgid "IDS_AVIATION_BOMB_ALPHA_PIERCING_HE_HIGH"
-msgstr "High HE bomb penetration"
-
-msgid "IDS_AVIATION_BOMB_ALPHA_PIERCING_HE_LOW"
-msgstr "Low HE bomb penetration"
-
-msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_TOTAL_HIGH"
-msgstr "High fighter efficiency"
-
-msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_TOTAL_LOW"
-msgstr "Low fighter efficiency"
-
-msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_BB_AND_CA_HIGH"
-msgstr "High fighter efficiency against battleships and cruisers"
-
-msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_BB_AND_CA_LOW"
-msgstr "Low fighter efficiency against battleships and cruisers"
-
-msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_BB_AND_DD_HIGH"
-msgstr "High fighter efficiency against battleships and destroyers"
-
-msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_BB_AND_DD_LOW"
-msgstr "Low fighter efficiency against battleships and destroyers"
-
-msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_CA_AND_DD_HIGH"
-msgstr "High fighter efficiency against cruisers and destroyers"
-
-msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_CA_AND_DD_LOW"
-msgstr "Low fighter efficiency against cruisers and destroyers"
-
-msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_HE_HIGH"
-msgstr "Each HE rocket deals high damage"
-
-msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_HE_LOW"
-msgstr "Each HE rocket deals low damage"
-
-msgid "IDS_AVIATION_ROCKET_ALPHA_PIERCING_HE_HIGH"
-msgstr "High HE rocket penetration"
-
-msgid "IDS_AVIATION_ROCKET_ALPHA_PIERCING_HE_LOW"
-msgstr "Low HE rocket penetration"
-
-msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_TOTAL_HIGH"
-msgstr "High skip bomber efficiency"
-
-msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_TOTAL_LOW"
-msgstr "Low skip bomber efficiency"
-
-msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_BB_AND_CA_HIGH"
-msgstr "High skip bomber efficiency against battleships and cruisers"
-
-msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_BB_AND_CA_LOW"
-msgstr "Low skip bomber efficiency against battleships and cruisers"
-
-msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_BB_AND_DD_HIGH"
-msgstr "High skip bomber efficiency against battleships and destroyers"
-
-msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_BB_AND_DD_LOW"
-msgstr "Low skip bomber efficiency against battleships and destroyers"
-
-msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_CA_AND_DD_HIGH"
-msgstr "High skip bomber efficiency against cruisers and destroyers"
-
-msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_CA_AND_DD_LOW"
-msgstr "Low skip bomber efficiency against cruisers and destroyers"
-
-msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_TOTAL_HIGH"
-msgstr "High torpedo bomber efficiency"
-
-msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_TOTAL_LOW"
-msgstr "Low torpedo bomber efficiency"
-
-msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_BB_AND_CA_HIGH"
-msgstr "High torpedo bomber efficiency against battleships and cruisers"
-
-msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_BB_AND_CA_LOW"
-msgstr "Low torpedo bomber efficiency against battleships and cruisers"
-
-msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_BB_AND_DD_HIGH"
-msgstr "High torpedo bomber efficiency against battleships and destroyers"
-
-msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_BB_AND_DD_LOW"
-msgstr "Low torpedo bomber efficiency against battleships and destroyers"
-
-msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_CA_AND_DD_HIGH"
-msgstr "High torpedo bomber efficiency against cruisers and destroyers"
-
-msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_CA_AND_DD_LOW"
-msgstr "Low torpedo bomber efficiency against cruisers and destroyers"
-
-msgid "IDS_BATTLE_WAITING_TIME"
-msgstr "Estimated waiting time:"
-
-msgid "IDS_BATTLE_WAITING_TIME_CALCULATING"
-msgstr "Calculating waiting time"
-
-msgid "IDS_BATTLE_WAITING_TIME_GUARANTEED"
-msgstr "Guaranteed matchmaking within"
-
-msgid "IDS_BURNING_TORPEDOES_AVAILABLE"
-msgstr "Torpedoes that cause fires are available"
-
-msgid "IDS_BURNS_ENEMIES_HIGH"
-msgstr "Sets enemy ships on fire with high efficiency"
-
-msgid "IDS_BURNS_ENEMIES_HIGHEST"
-msgstr "Sets enemy ships on fire with the highest efficiency"
-
-msgid "IDS_CITADEL_HEALTH_REGENERATION_HIGH"
-msgstr "Citadel damage is repaired with increased efficiency"
-
-msgid "IDS_CITADEL_HEALTH_REGENERATION_LOW"
-msgstr "\"Repair Party\" repairs citadel damage with low efficiency"
-
-msgid "IDS_COLLECTION_DESCRIPTION_BUTTON"
-msgstr "Collection Description"
-
-msgid "IDS_COLLECTION_DESCRIPTION_BUTTON_TOOLTIP"
-msgstr "Go to collection description"
-
-msgid "IDS_CONVERT_CREDITS_SHORT"
-msgstr "Exchange"
-
-msgid "IDS_CONVERT_FREE_EXPERIENCE_SHORT"
-msgstr "Convert"
-
-msgid "IDS_CREW_LIST_WHEN_BALANCER"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WAFFENTRAGER_ISOLATION"
 msgstr ""
-"STOP BATTLE SEARCH\n"
-"TO CHANGE THE COMMANDER"
+"Complete all levels of confrontation between the Alliance and Ermelinda "
+"Jung."
 
-msgid "IDS_CREW_TYPE_LEGENDARY"
-msgstr "Legendary"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_COOP"
+msgstr "Destroy %(victimsCount)s or more enemy ships."
 
-msgid "IDS_CREW_TYPE_RARE"
-msgstr "Rare"
-
-msgid "IDS_CREW_TYPE_UNCOMMON"
-msgstr "Special"
-
-msgid "IDS_CURRENCY_CLANRESOURCE"
-msgstr "Oil"
-
-msgid "IDS_CURRENCY_EVENTUM_SUBTYPE"
-msgstr "Temporary resource"
-
-msgid "IDS_CURRENCY_SUBTYPE"
-msgstr "Resource"
-
-msgid "IDS_DESCRIPTION_PCZA041_BD25_PUZZLE"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WITHERING_COOP"
 msgstr ""
-"<p>Close your eyes and count to ten. What do you see? Perhaps visions of "
-"past battles flash before your eyes: the roar of artillery, the silhouettes "
-"of steel giants, the spray of stormy waves, the faces of loyal comrades... "
-"Or maybe you are looking strictly ahead—into the unknown?</p><p "
-"class=\"p_spacing\"> </p><p>Make a wish. Whatever awaits you beyond the "
-"horizon, the ten years of battles behind you are forever in your heart, and "
-"that is why you steer your ship so confidently on the only true course.</p>"
+"Deal damage equal to at least %(damageRatio_percent)s of the total standard "
+"durability of all enemy ships using fires or floods."
 
-msgid "IDS_DOCK_BANNER_CAMPAIGNS"
-msgstr "Campaigns"
+msgid "IDS_ACHIEVEMENT_DOUBLE_ATBA_CALIBER_COOP"
+msgstr "Secondary Battery Expert"
 
-msgid "IDS_DOCK_BANNER_RATING"
-msgstr "Rating Battles"
+msgid "IDS_ACHIEVEMENT_DOUBLE_KILL_COOP"
+msgstr "Double Strike"
 
-msgid "IDS_DOCK_BANNER_RATING_TOOLTIP_HEADER"
-msgstr "Rating Battles"
+msgid "IDS_ACHIEVEMENT_MAIN_CALIBER_DISTANCE_COOP"
+msgstr "Flagship"
 
-msgid "IDS_DOCK_CONSUME_AUTO"
-msgstr "AUTO"
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_COOPERATIVE"
+msgstr "Completed in Co-op Battles."
 
-msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_CLAN_SHIP"
-msgstr "You can't put camouflage on this ship"
+msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_COOPERATIVE"
+msgstr "Co-op Battles"
 
-msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_EVENT_SHIP"
-msgstr "Not available for special ships"
-
-msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_NO_SHIPS"
-msgstr "No ships"
-
-msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_SHIP_NOT_OWNED"
-msgstr "Ship not acquired"
-
-msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_0"
-msgstr "Dogtag symbol"
-
-msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_1"
-msgstr "Patch"
-
-msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_2"
-msgstr "Emblem"
-
-msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_3"
-msgstr "Dogtag shape"
-
-msgid "IDS_DOGTAG_PCNB468_DESCRIPTION"
-msgstr "For combat feats and high naval skill demonstrated over ten years."
-
-msgid "IDS_DOGTAG_PCNB468_NAME"
-msgstr "For Meritorious Service"
-
-msgid "IDS_DO_BOUGHT_MODULE_TOOLTIP"
-msgstr "Buy and install module"
-
-msgid "IDS_DO_RESEARCH_MODULE_TOOLTIP"
-msgstr "Research module"
-
-msgid "IDS_DRUM_MODE_SWITCHABLE"
-msgstr "Burst Fire Available"
-
-msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_COMMON"
-msgstr "Standard"
-
-msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_ELITE"
-msgstr "Elite"
-
-msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_RARE"
-msgstr "Rare"
-
-msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_UNCOMMON"
-msgstr "Special"
-
-msgid "IDS_ERROR_LGI_COMMON"
-msgstr ""
-"Web authorization error. Please try again later or contact Player Support."
-
-msgid "IDS_ERROR_LGI_TICKET_EXPIRED"
-msgstr "The time for authorization has expired. Please try again."
-
-msgid "IDS_GO_TO_PROFILE_RATING"
-msgstr "Go to \"Rating\" screen"
-
-msgid "IDS_GUIDING_TIP_19_DESC"
-msgstr "Select a suitable ship to apply the camouflage."
-
-msgid "IDS_GUIDING_TIP_19_HEADER"
-msgstr "Ship camouflage"
-
-msgid "IDS_GUIDING_TIP_342_DESC"
-msgstr "Go to the \"Upgrades\" section to mount signals on your ship."
-
-msgid "IDS_GUIDING_TIP_342_HEADER"
-msgstr "Ship Signals"
-
-msgid "IDS_GUIDING_TIP_343_DESC"
-msgstr "Go to the \"Upgrades\" section to mount signals on your ship."
-
-msgid "IDS_GUIDING_TIP_343_HEADER"
-msgstr "Ship Signals"
-
-msgid "IDS_GUIDING_TIP_344_DESC"
-msgstr "Here you can manage your commanders."
-
-msgid "IDS_GUIDING_TIP_344_HEADER"
-msgstr "Go to the Commanders screen"
-
-msgid "IDS_GUIDING_TIP_345_DESC"
-msgstr "In this section, you can mount upgrades on your ship."
-
-msgid "IDS_GUIDING_TIP_345_HEADER"
-msgstr "Go to Upgrades"
-
-msgid "IDS_GUIDING_TIP_346_DESC"
-msgstr "Go to the \"Activities\" section to continue."
-
-msgid "IDS_GUIDING_TIP_346_HEADER"
-msgstr "New in the section"
-
-msgid "IDS_HIGHEST_AIR_DEFENSE_EFFICIENCY"
-msgstr "Highest AA defense efficiency"
-
-msgid "IDS_HIGHEST_SPEED_AND_MANEUR"
-msgstr "Highest speed and maneuverability"
-
-msgid "IDS_HIGH_ABILITY_HEAL_AMOUNT"
-msgstr "\"Repair Party\" restores a large amount of HP"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_LEGENDARY"
-msgstr "Show legendary commanders"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_LEGENDARY"
-msgstr "Legendary commanders are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_RARE"
-msgstr "Rare commanders are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNCOMMON"
-msgstr "Special commanders are unavailable"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_RARE"
-msgstr "Show rare commanders"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_UNCOMMON"
-msgstr "Show special commanders"
-
-msgid "IDS_HINT_SHIP_EXP_FILTERING_SORT"
-msgstr "Select the order to display ships"
-
-msgid "IDS_HINT_SHIP_EXP_FILTERING_SORT_SET_REVERSE"
-msgstr "Display ships in reverse order"
-
-msgid "IDS_HOUR_SHORT"
-msgstr "h."
-
-msgid "IDS_HYBRID_DIVEBOMBERS_AVAILABLE"
-msgstr "Tactical dive bomber squadron available"
-
-msgid "IDS_HYBRID_DIVE_SKIP_AVAILABLE"
-msgstr "Tactical dive and skip bomber squadrons available"
-
-msgid "IDS_HYBRID_FIGHTERS_AVAILABLE"
-msgstr "Tactical fighter squadron available"
-
-msgid "IDS_HYBRID_MINEBOMBERS_AVAILABLE"
-msgstr "Tactical mine-laying squadron available"
-
-msgid "IDS_HYBRID_SKIPBOMBERS_AVAILABLE"
-msgstr "Tactical skip bomber squadron available"
-
-msgid "IDS_HYBRID_TORPBOMBERS_AVAILABLE"
-msgstr "Tactical torpedo bomber squadron available"
-
-msgid "IDS_HYBRID_TORP_MINE_AVAILABLE"
-msgstr "Tactical torpedo and mine-laying squadrons available"
-
-msgid "IDS_INSTALLED_ENSIGNS"
-msgstr "Flags mounted: %(_installedEnsign)s/%(_ensignLimit)s"
-
-msgid "IDS_IN_PCVE017"
-msgstr "in \"Convoy\""
-
-msgid "IDS_ITEM_COLLECTION"
-msgstr "Collection item"
-
-msgid "IDS_LEAVE_BALANCER_WHEN_PREBATTLE"
-msgstr "Only the division leader can stop battle search"
-
-msgid "IDS_LEGENDARY_CREW_STATUS"
-msgstr "Legendary Commander"
-
-msgid "IDS_LILY_THORNE"
-msgstr "Lily Thorne"
-
-msgid "IDS_LOOTBOXES_BEST_REWARD_PROGRESS"
-msgstr "Until guaranteed drop:"
-
-msgid "IDS_LOOTBOXES_GO_TO_METASHOP"
-msgstr "Go to Armory"
-
-msgid "IDS_MAIN_GUN_AP_EFFICIENCY_HIGHEST"
-msgstr "Highest AP shell efficiency"
-
-msgid "IDS_MAIN_GUN_AVAILABLE"
-msgstr "Main battery artillery available"
-
-msgid "IDS_MAIN_GUN_DAMAGE_PER_MINUTE_HIGH"
-msgstr "Main battery deals high damage per minute"
-
-msgid "IDS_MAIN_GUN_DAMAGE_PER_MINUTE_LOW"
-msgstr "Main battery deals low damage per minute"
-
-msgid "IDS_MAIN_GUN_EFFICIENCY_HIGH"
-msgstr "High main battery efficiency"
-
-msgid "IDS_MAIN_GUN_EFFICIENCY_HIGHEST"
-msgstr "Highest main battery efficiency"
-
-msgid "IDS_MAIN_GUN_EFFICIENCY_LOW"
-msgstr "Low main battery efficiency"
-
-msgid "IDS_MAIN_GUN_HAS_SMOKE"
-msgstr "Smoke shells available"
-
-msgid "IDS_MAIN_GUN_HE_EFFICIENCY_HIGHEST"
-msgstr "Highest HE shell efficiency"
-
-msgid "IDS_MAIN_GUN_NOT_AVAILABLE"
-msgstr "No main battery artillery"
-
-msgid "IDS_MAIN_GUN_ONLY_SMOKE"
-msgstr "Main battery only with smoke shells available"
-
-msgid "IDS_MAIN_GUN_SALVO_WEIGHT_HIGH"
-msgstr "High main battery salvo weight"
-
-msgid "IDS_MAIN_GUN_SALVO_WEIGHT_LOW"
-msgstr "Low main battery salvo weight"
-
-msgid "IDS_MAIN_TAB_BUTTON_ACTIVITIES"
-msgstr "Activities"
-
-msgid "IDS_MAIN_TAB_BUTTON_ARMORY"
-msgstr "Armory"
-
-msgid "IDS_MAIN_TAB_BUTTON_CLAN"
-msgstr "Clan"
-
-msgid "IDS_MAIN_TAB_BUTTON_RESEARCH"
-msgstr "Tech Tree"
-
-msgid "IDS_MAIN_TAB_BUTTON_SHIP"
-msgstr "Ship"
-
-msgid "IDS_MARKER_ACTION"
-msgstr "SELECT A COMMAND"
-
-msgid "IDS_MARKER_ENABLE_TRIES_COUNT"
-msgstr "Enable attempt tracking"
-
-msgid "IDS_MARKER_REWARD"
-msgstr "CLAIM THE REWARD"
-
-msgid "IDS_MODERNIZATION_COMMON"
-msgstr "Upgrade"
-
-msgid "IDS_MODERNIZATION_ELITE"
-msgstr "Elite Upgrade"
-
-msgid "IDS_MODERNIZATION_RARE"
-msgstr "Rare Upgrade"
-
-msgid "IDS_MODERNIZATION_UNCOMMON"
-msgstr "Special Upgrade"
-
-msgid "IDS_MODULES_SHIP_CROSS_RESEARCH"
-msgstr "Required for ship research"
-
-msgid "IDS_NEWBIE_QUESTS_WARNING_BALANCER"
-msgstr "You cannot start the tutorial chain while battle search is active"
-
-msgid "IDS_NO_LOOTBOXES"
-msgstr "YOU HAVE NO CONTAINERS"
-
-msgid "IDS_OPEN_MODULES_LIST_MOUSE_INSTRUCTION"
-msgstr "Open modules list"
-
-msgid "IDS_OTHER_FEATURE_CATEGORY_ABILITIES"
-msgstr "Consumables"
-
-msgid "IDS_OWNED_LOOTBOXES_BY_TYPE"
-msgstr "Owned:"
-
-msgid "IDS_PAGS235_6IN53_MK13"
-msgstr "152 mm/53 Mk.13 in casemate mount"
-
-msgid "IDS_PAGS239_5IN25_MK17"
-msgstr "127 mm/25 Mk.17 in Mk.19 mount"
-
-msgid "IDS_PAGT240_INVISIBLE_TA_7M"
-msgstr "533 mm Single"
-
-msgid "IDS_PAPA212_152MM_HE_4CRH_SG"
-msgstr "152 mm HE 4crh"
-
-msgid "IDS_PAPA213_406MM_HE_PRESIDENT"
-msgstr "406 mm HE/HC Mk13"
-
-msgid "IDS_PAPA214_406MM_AP_PRESIDENT"
-msgstr "406 mm AP Mk12"
-
-msgid "IDS_PAPA215_305MM_HE_CONSTITUTION"
-msgstr "305 mm HE/HC Mk8"
-
-msgid "IDS_PAPA216_305MM_AP_CONSTITUTION"
-msgstr "305 mm AP Mk15 mod. 1"
-
-msgid "IDS_PAPA301_SHELL_305MM_AP_AP_SAND"
-msgstr "305 mm AP mod.1"
-
-msgid "IDS_PAPA302_SHELL_305MM_HE_C_SAND"
-msgstr "305 mm HE mod.1"
-
-msgid "IDS_PAPA303_SHELL_305MM_AP_AP_MK15_SAND"
-msgstr "305 mm AP Mk15 mod. 2"
-
-msgid "IDS_PAPA304_305MM_HE_HC_MK8_SAND"
-msgstr "305 mm HE/HC Mk8 mod.1"
-
-msgid "IDS_PAPA305_305MM_AP_AP_870LBS_SAND"
-msgstr "305 mm AP 870 lb. mod.1"
-
-msgid "IDS_PAPA306_305MM_HE_COMMON_870LBS_SAND"
-msgstr "305 mm HE Common 870 lb. mod.1"
-
-msgid "IDS_PAPT069_533MM_MK15_PRESIDENT"
-msgstr "Mk15 mod. 1"
-
-msgid "IDS_PAPT070_533MM_MK15_CONSTITUTION"
-msgstr "Mk15 mod. 0"
-
-msgid "IDS_PARAGON_DENY_REASON_IS_IN_BALANCER"
-msgstr ""
-"You cannot reset the branch while battle search is active for one of the "
-"ships in this branch"
-
-msgid "IDS_PASB520"
-msgstr "President"
-
-msgid "IDS_PASB520_DESCR"
-msgstr ""
-"<p>The U.S. Navy leadership first considered the need for a battlecruiser as"
-" early as 1911, when information about the construction of Japanese Kongō-"
-"class ships emerged. The initial American design included ten 254 mm guns. "
-"Battlecruisers were officially included in the construction program in 1916,"
-" but their laying was repeatedly delayed because resources were occupied by "
-"anti-submarine ships and escort vessels.</p><p class=\"p_spacing\"> "
-"</p><p>In early 1918, the characteristics of the British Hood-class "
-"battlecruisers, described as \"fast battleships,\" became known. After "
-"studying this data, the U.S. Navy leadership demanded a redesign of the "
-"American battlecruisers, increasing armor and strengthening armament to 406 "
-"mm main battery guns. Accordingly, displacement also grew—to 55,000 tons. In"
-" May 1918, several draft design options were presented, one of which "
-"included a 254 mm armor belt. These options were not implemented, and "
-"further development of the project led to the creation of the Lexington-"
-"class battlecruisers.</p>"
-
-msgid "IDS_PASB520_FULL"
-msgstr "President"
-
-msgid "IDS_PASB520_NUMBER"
-msgstr "1"
-
-msgid "IDS_PASB520_YEAR"
-msgstr "1918"
-
-msgid "IDS_PASC558"
-msgstr "Constitution"
-
-msgid "IDS_PASC558_DESCR"
-msgstr ""
-"<p>In the mid-1910s, the U.S. Navy leadership considered a fleet enhancement"
-" program that included the construction of so-called scout cruisers. It was "
-"assumed that such ships would be fast and lightly armored or completely "
-"unarmored.</p><p class=\"p_spacing\"> </p><p>One variant of such a ship was "
-"the battle scout—essentially a battlecruiser but with only cruiser armor. In"
-" the fall of 1915, at least five draft designs of such a \"battle scout\" "
-"with displacements ranging from 28,000 to 32,000 tons were proposed. The "
-"ship would have a 127 mm armor belt and eight main battery guns. A "
-"distinctive feature of these designs was an elongated flush-deck hull with "
-"pronounced sheer, causing the stern to drop by one deck height. The project "
-"was not realized, and further refinements led to the creation of the "
-"Lexington-class battlecruisers.</p>"
-
-msgid "IDS_PASC558_FULL"
-msgstr "Constitution"
-
-msgid "IDS_PASC558_NUMBER"
-msgstr "1"
-
-msgid "IDS_PASC558_YEAR"
-msgstr "1915"
-
-msgid "IDS_PAUA720_ART_CONSTITUTION"
-msgstr "305 mm/50 Mk.7 in a turret"
-
-msgid "IDS_PAUA919_ART_PRESIDENT"
-msgstr "406 mm/50 Mk.3 in turret mount"
-
-msgid "IDS_PAUE727_ENG_CONSTITUTION"
-msgstr "Propulsion: 125,000 hp"
-
-msgid "IDS_PAUE933_ENG_PRESIDENT"
-msgstr "Propulsion: 210,000 hp"
-
-msgid "IDS_PAUH739_CONSTITUTION"
-msgstr "Constitution"
-
-msgid "IDS_PAUH928_HULL_PRESIDENT"
-msgstr "President"
-
-msgid "IDS_PAUS724_SUO_CONSTITUTION"
-msgstr "Mk8 mod. 1"
-
-msgid "IDS_PAUS922_SUO_PRESIDENT"
-msgstr "Mk10 mod. 1"
-
-msgid "IDS_PAUT710_TORP_CONSTITUTION"
-msgstr "Mk15"
-
-msgid "IDS_PAUT917_TORP_PRESIDENT"
-msgstr "Mk15"
-
-msgid "IDS_PBPA301_305MM_MX_AP_BC_SAND"
-msgstr "305 mm AP Mk VIb mod.1"
-
-msgid "IDS_PBPA302_305MM_MX_HE_BC_SAND"
-msgstr "305 mm HE Mk IIb mod.1"
-
-msgid "IDS_PBPA303_305MM_MX_AP_SAND"
-msgstr "305 mm AP Mk VIa mod.1"
-
-msgid "IDS_PBPA304_305MM_MX_HE_SAND"
-msgstr "305 mm HE Mk IIa mod.1"
-
-msgid "IDS_PBPA305_343MM_MV_IIA_AP_SAND"
-msgstr "343 mm AP Mk I mod.1"
-
-msgid "IDS_PBPA306_343MM_MV_HE_L_SAND"
-msgstr "343 mm HE Mk I mod.1"
-
-msgid "IDS_PBPA307_343MM_MV_AP_BC_SAND"
-msgstr "343 mm AP Mk Ia mod.1"
-
-msgid "IDS_PBPA308_343MM_MV_HE_BC_SAND"
-msgstr "343 mm HE Mk Ia mod.1"
-
-msgid "IDS_PBPA309_305MM_AP_DREAD_SAND"
-msgstr "305 mm AP Mk VIa mod.1"
-
-msgid "IDS_PBPA310_305MM_HE_DREAD_SAND"
-msgstr "305 mm HE Mk IIa mod.1"
-
-msgid "IDS_PCEE764_BIRTHDAY2025_FLAG"
-msgstr "Ship Anniversary"
-
-msgid "IDS_PCEE764_BIRTHDAY2025_FLAG_DESCRIPTION"
-msgstr "In honor of the tenth anniversary of \"Mir Korabley\"."
-
-msgid "IDS_PCEE774_PRESIDENT_FLAG"
-msgstr "USS President"
-
-msgid "IDS_PCEE774_PRESIDENT_FLAG_DESCRIPTION"
-msgstr ""
-"The flag of the U.S. President is a dark blue field with the presidential "
-"seal in the center. It is often present in official photographs, mounted on "
-"the head of state's vehicle in motorcades, and always flies over the White "
-"House."
-
-msgid "IDS_PCEE775_CONSTITUTION_FLAG"
-msgstr "USS Constitution"
-
-msgid "IDS_PCEE775_CONSTITUTION_FLAG_DESCRIPTION"
-msgstr ""
-"\"We the People\"—these famous words begin the U.S. Constitution. On the "
-"handwritten original document, these words are written larger than the "
-"subsequent text."
-
-msgid "IDS_PCEE776_AQUITAINE_FLAG"
-msgstr "Aquitaine"
-
-msgid "IDS_PCEE776_AQUITAINE_FLAG_DESCRIPTION"
-msgstr ""
-"Aquitaine is a historical region in southwestern France that got its name as"
-" a province of the Roman Empire. In the Middle Ages, a duchy of the same "
-"name existed in the region."
-
-msgid "IDS_PCEE777_PIEMONTE_FLAG"
-msgstr "RN Piemonte"
-
-msgid "IDS_PCEE777_PIEMONTE_FLAG_DESCRIPTION"
-msgstr ""
-"The flag of the Crown Princes of Italy, some of whom also held the title of "
-"Prince of Piedmont. In 1946, the last King of Italy was Umberto, Prince of "
-"Piedmont."
-
-msgid "IDS_PCQC005_BISMARCK_TOKEN"
-msgstr "The Hunt for Bismarck"
-
-msgid "IDS_PCQC016_MAKAROV_DESCR"
-msgstr ""
-"The Russo-Japanese War broke out in early 1904 in the waters of the Yellow "
-"Sea when the Japanese fleet attacked the Russian squadron at Port Arthur. "
-"Japanese army units landed in ports along the coast, and transports carrying"
-" weapons, provisions, and reinforcements also arrived here. The priority "
-"task of the Japanese fleet was the naval blockade of Port Arthur on the "
-"Liaodong Peninsula and the destruction of Russian ships threatening to "
-"disrupt Japanese maritime communications."
-
-msgid "IDS_PCQC016_MAKAROV_TITLE"
-msgstr "Naval Theaters of the Russo-Japanese War"
-
-msgid "IDS_PCQC016_MAKAROV_TITLE_QUOTES"
-msgstr "\"Naval Theaters of the Russo-Japanese War\""
-
-msgid "IDS_PCQM101_MAKAROV_DESCR"
-msgstr ""
-"<p>The Russo-Japanese War broke out in early 1904 in the waters of the "
-"Yellow Sea when the Japanese fleet attacked the Russian squadron at Port "
-"Arthur. Japanese army units landed in ports along the coast, and transports "
-"carrying weapons, provisions, and reinforcements also arrived here. The "
-"priority task of the Japanese fleet was the naval blockade of Port Arthur on"
-" the Liaodong Peninsula and the destruction of Russian ships threatening to "
-"disrupt Japanese maritime communications.</p><p class=\"p_spacing\"> "
-"</p><p>Port Arthur was the only Russian naval base and maritime fortress in "
-"the Yellow Sea. The Russian and Japanese fleets, operating near Port Arthur "
-"and nearby bays and archipelagos, engaged in patrol and reconnaissance "
-"duties, laid mines, and supported their ground forces with naval artillery "
-"fire.</p><p class=\"p_spacing\"> </p><p>In the summer of 1904, an attempt "
-"was made to break through the First Pacific Squadron to Vladivostok. The "
-"naval battle in the Yellow Sea in 1904 became the last major engagement "
-"involving the squadron. There were no ship losses on either side, but the "
-"Russian squadron split and largely lost combat effectiveness.</p><p "
-"class=\"p_spacing\"> </p><p>By the end of 1904, the remaining Russian ships "
-"in Port Arthur were destroyed either by Japanese siege artillery fire or by "
-"their own crews. The subsequent capture of Port Arthur ensured the Japanese "
-"Combined Fleet under Admiral Togo Heihachiro complete dominance at sea, "
-"which the Second Pacific Squadron attempted to challenge.</p>"
-
-msgid "IDS_PCQM102_MAKAROV_DESCR"
-msgstr ""
-"<p>During the war in the summer of 1904, Russian auxiliary cruisers were "
-"sent to the shores of Africa to intercept ships carrying military contraband"
-" to Japan. The choice of African waters for cruising was not accidental. In "
-"the Strait of Gibraltar, the Suez Canal, the Red Sea, near the island of "
-"Madagascar, and at the Cape of Good Hope, international sea routes "
-"converge.</p><p class=\"p_spacing\"> </p><p>The \"Ural\" and \"Don\" left "
-"the Baltic Sea, passed through the North Sea, and circled England from the "
-"north to begin cruising near the Strait of Gibraltar and the northwestern "
-"coast of Africa. Later, the auxiliary cruiser \"Terek\" replaced them in the"
-" same area of the Atlantic Ocean.</p><p class=\"p_spacing\"> </p><p>In the "
-"waters of the Indian Ocean, the auxiliary cruisers \"Petersburg\" and "
-"\"Smolensk\" operated. They left Sevastopol, passed through the Bosporus and"
-" Dardanelles straits and the Suez Canal, after which they mounted artillery "
-"and began cruising in the Red Sea. \"Petersburg\" inspected eight ships, one"
-" of which carried contraband military cargo for Japan. This steamer, along "
-"with several others, was detained and sent to Libau. In mid-July, "
-"\"Petersburg\" and \"Smolensk\" entered the Indian Ocean and began cruising "
-"off the eastern coast of Africa and the island of Madagascar.</p><p "
-"class=\"p_spacing\"> </p><p>The British government saw the actions of the "
-"Russian cruisers as a violation of maritime prize law and "
-"protested—threatening to sever relations and start a war with the Russian "
-"Empire. Therefore, at the end of August 1904, \"Petersburg\" and "
-"\"Smolensk\" were ordered to cease cruising and return to Russia.</p>"
-
-msgid "IDS_PCQM103_MAKAROV_DESCR"
-msgstr ""
-"<p>On the eve of the war with Japan, the Russian command recognized the need"
-" to strengthen the fleet in the Pacific Ocean. For this purpose, in 1903, a "
-"detachment of ships under the command of Rear Admiral A. A. Virenius was "
-"sent from the Baltic Sea to the Far East. Already in the Red Sea, the "
-"detachment received orders to return to the Baltic due to the outbreak of "
-"the Russo-Japanese War. Its ships became part of the Second Pacific "
-"Squadron—which was to join the First Pacific Squadron and gain dominance at "
-"sea.</p><p class=\"p_spacing\"> </p><p>The voyage to the Far East was a "
-"complex task. There was not a single Russian naval base along the way, and "
-"foreign ports imposed neutrality restrictions. In connection with this, the "
-"Second Pacific Squadron included tugboats, hospital ships, a floating "
-"workshop, and transports that supplied the squadron with coal, provisions, "
-"and fresh water.</p><p class=\"p_spacing\"> </p><p>In October 1904, the "
-"Second Pacific Squadron under the command of Vice Admiral Z. P. "
-"Rozhestvensky left the Baltic Sea, passed through the North Sea, and exited "
-"into the Atlantic Ocean via the English Channel. Near Gibraltar, ships with "
-"a draft allowing passage through the Suez Canal separated from the squadron."
-" Under the command of Rear Admiral D. G. Felkerzam, they passed through the "
-"Mediterranean and Red Seas, rejoining the main forces near the island of "
-"Madagascar, which had circumnavigated Africa from the west and south.</p><p "
-"class=\"p_spacing\"> </p><p>The fall of Port Arthur and the destruction of "
-"the First Pacific Squadron delayed the Russian sailors off the coast of "
-"Madagascar for two months while awaiting reinforcements from the Baltic Sea."
-" In March 1905, Z. P. Rozhestvensky led the Second Pacific Squadron through "
-"the Indian Ocean without waiting for the arrival of the Third Pacific "
-"Squadron. The two squadrons later united in the South China Sea.</p><p "
-"class=\"p_spacing\"> </p><p>To break through to Vladivostok, the shortest "
-"and safest route—through the Korean Strait—was chosen. There, near the "
-"island of Tsushima, the decisive naval battle of the Russo-Japanese War took"
-" place in May 1905.</p>"
-
-msgid "IDS_PCQM104_MAKAROV_DESCR"
-msgstr ""
-"<p>As an island nation, the Japanese Empire heavily depended on maritime "
-"supplies from other countries. In July 1904, the Vladivostok Cruiser "
-"Detachment set out into the Pacific Ocean—toward the busiest sea routes to "
-"Japan. While passing through the Tsugaru Strait, the Russian cruisers were "
-"spotted, and Japanese ships were warned.</p><p class=\"p_spacing\"> "
-"</p><p>The loss of stealth did not hinder the operation's success. The "
-"Vladivostok Detachment intercepted and inspected 12 vessels near the "
-"approaches to Tokyo Bay and the Tsugaru Strait, sinking 7 of them. "
-"Considering the remaining coal reserves and calculating consumption, the "
-"detachment commander, Rear Admiral K. P. Jessen, decided to break through "
-"the Tsugaru Strait again. The operation concluded successfully in "
-"Vladivostok without battles or crew losses.</p><p class=\"p_spacing\"> "
-"</p><p>After the battle in the Yellow Sea, the 2nd-class cruiser \"Novik\" "
-"docked in the German port of Qingdao to replenish coal supplies. The "
-"cruiser's commander, Captain 2nd Rank M. F. von Schultz, led \"Novik\" "
-"through the Pacific waters around Japan's eastern shores to Vladivostok, but"
-" the cruiser was spotted and intercepted near the Korsakov post on Sakhalin "
-"Island while loading coal. After a battle with the Japanese cruiser "
-"\"Tsushima,\" the Russian cruiser was scuttled by its crew.</p><p "
-"class=\"p_spacing\"> </p><p>In August 1904, the auxiliary cruiser \"Lena\" "
-"was sent into the Pacific Ocean, having sunk two Japanese ships in June "
-"during a raid on the Korean port of Gensan. However, cruising on the San "
-"Francisco–Yokohama line was aborted due to mechanical failures, and \"Lena\""
-" was interned in San Francisco until the end of the war. The last time "
-"Russian cruisers appeared in the Pacific was in May 1905, when \"Terek\" and"
-" \"Kuban\" sank two steamers carrying military cargo for Japan.</p>"
-
-msgid "IDS_PCQM105_MAKAROV_DESCR"
-msgstr ""
-"<p>The Vladivostok Cruiser Detachment operated in the Sea of Japan. From the"
-" very beginning of the war, they posed a threat to Japanese maritime "
-"communications and ports along the coasts of Japan and Korea. Russian "
-"cruisers and destroyers managed to sink several vessels and troop "
-"transports. Daring operations diverted part of the Japanese fleet's forces "
-"from Port Arthur, but their area of operations was limited to the Sea of "
-"Japan, with only one sortie into the ocean through the Tsugaru Strait.</p><p"
-" class=\"p_spacing\"> </p><p>The Japanese fleet took retaliatory actions: "
-"Vladivostok was shelled from the sea, mines were laid on its approaches, and"
-" attempts were made to intercept the Vladivostok Detachment. The Japanese "
-"fleet succeeded in doing so in the summer of 1904, when the Russian cruisers"
-" were rushing to the Korean Strait to join the First Pacific Squadron. "
-"During the ensuing battle, the cruiser \"Rurik\" was lost, while the "
-"cruisers \"Rossiya\" and \"Gromoboy\" sustained significant damage and "
-"retreated to Vladivostok.</p><p class=\"p_spacing\"> </p><p>On the eve of "
-"the Tsushima Battle in the spring of 1905, the cruisers \"Rossiya\" and "
-"\"Gromoboy\" made their last combat sortie to the Tsugaru Strait, and "
-"destroyers—to the island of Hokkaido. Despite sinking several vessels, the "
-"Japanese took no retaliatory action, focusing all their forces on preparing "
-"for the battle with the Second Pacific Squadron. The Tsushima Battle, which "
-"took place in the waters of the Sea of Japan in May 1905, became the "
-"decisive engagement of the war. The Russian squadron suffered a heavy "
-"defeat—only the cruiser \"Almaz\" and the destroyers \"Bravyy\" and "
-"\"Groznyy\" reached Vladivostok.</p><p class=\"p_spacing\"> </p><p>In the "
-"summer of 1905, the Japanese fleet conducted an amphibious operation that "
-"resulted in the capture of Sakhalin. However, until the very end of the war,"
-" the Japanese never took active offensive actions at sea against Vladivostok"
-" and Nikolaevsk, fearing Russian submarines, mines, surface ships, and "
-"coastal batteries above all.</p>"
-
-msgid "IDS_PCQT736_1"
-msgstr "Deal %(count)s damage to enemy ships."
-
-msgid "IDS_PCQT739_1"
-msgstr "Earn %(count)s free experience."
-
-msgid "IDS_PCQT744_1"
-msgstr "Deal %(count)s damage to enemy ships by fires or flooding."
-
-msgid "IDS_PCQT747_1"
-msgstr "Earn %(count)s Free XP."
-
-msgid "IDS_PCQT748_1"
-msgstr "Earn %(count)s experience (with all modifiers)."
-
-msgid "IDS_PCQT750_1"
-msgstr "Earn %(count)s Free XP."
-
-msgid "IDS_PCQT751_1"
-msgstr "Receive %(count)s potential damage."
-
-msgid "IDS_PCQT753_1"
-msgstr "Help your team inflict %(count)s spotting damage."
-
-msgid "IDS_PCQT758_1"
-msgstr "Earn %(count)s Commander XP."
-
-msgid "IDS_PCQT766_1"
-msgstr "Deal %(count)s damage to enemy ships."
-
-msgid "IDS_PCQT767_1"
-msgstr "Receive %(count)s potential damage."
-
-msgid "IDS_PCQT768_1"
-msgstr "Earn %(count)s units of silver."
-
-msgid "IDS_PCQT770_1"
-msgstr "Earn %(count)s Commander XP."
-
-msgid "IDS_PCQT773_1"
-msgstr "Receive %(count)s potential damage."
-
-msgid "IDS_PCQT779_1"
-msgstr "Earn %(count)s Free XP."
-
-msgid "IDS_PCQT780_1"
-msgstr "Cause %(count)s main battery damage."
-
-msgid "IDS_PCQT781_1"
-msgstr "Deal %(count)s damage to enemy ships by fires or flooding."
-
-msgid "IDS_PCZA041_BD25_PUZZLE"
-msgstr "Ship Anniversary"
-
-msgid "IDS_PCZA041_BD25_PUZZLE_QUOTES"
-msgstr "\"Ship Anniversary\""
-
-msgid "IDS_PCZC1000_BD25_PUZZLE_24"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1001_BD25_PUZZLE_25"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1002_BD25_PUZZLE_26"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1003_BD25_PUZZLE_27"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1004_BD25_PUZZLE_28"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1005_BD25_PUZZLE_29"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1006_BD25_PUZZLE_30"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1007_BD25_PUZZLE_31"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1008_BD25_PUZZLE_32"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1009_BD25_PUZZLE_33"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1010_BD25_PUZZLE_34"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1011_BD25_PUZZLE_35"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1012_BD25_PUZZLE_36"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1013_BD25_PUZZLE_37"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1014_BD25_PUZZLE_38"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1015_BD25_PUZZLE_39"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1016_BD25_PUZZLE_40"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1017_BD25_PUZZLE_41"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1018_BD25_PUZZLE_42"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1019_BD25_PUZZLE_43"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1020_BD25_PUZZLE_44"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1021_BD25_PUZZLE_45"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1022_BD25_PUZZLE_46"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1023_BD25_PUZZLE_47"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1024_BD25_PUZZLE_48"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1025_BD25_PUZZLE_49"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1026_BD25_PUZZLE_50"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1027_BD25_PUZZLE_51"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1028_BD25_PUZZLE_52"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1029_BD25_PUZZLE_53"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1030_BD25_PUZZLE_54"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1031_BD25_PUZZLE_55"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1032_BD25_PUZZLE_56"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1033_BD25_PUZZLE_57"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1034_BD25_PUZZLE_58"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1035_BD25_PUZZLE_59"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC1036_BD25_PUZZLE_60"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC977_BD25_PUZZLE_1"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC978_BD25_PUZZLE_2"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC979_BD25_PUZZLE_3"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC980_BD25_PUZZLE_4"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC981_BD25_PUZZLE_5"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC982_BD25_PUZZLE_6"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC983_BD25_PUZZLE_7"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC984_BD25_PUZZLE_8"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC985_BD25_PUZZLE_9"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC986_BD25_PUZZLE_10"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC987_BD25_PUZZLE_11"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC988_BD25_PUZZLE_12"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC989_BD25_PUZZLE_13"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC990_BD25_PUZZLE_14"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC991_BD25_PUZZLE_15"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC992_BD25_PUZZLE_16"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC993_BD25_PUZZLE_17"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC994_BD25_PUZZLE_18"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC995_BD25_PUZZLE_19"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC996_BD25_PUZZLE_20"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC997_BD25_PUZZLE_21"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC998_BD25_PUZZLE_22"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PCZC999_BD25_PUZZLE_23"
-msgstr "Mosaic Fragment"
-
-msgid "IDS_PFPA301_305MM_45_1910_AP_SAND"
-msgstr "305 mm AP OPf Mle 1910 mod.1"
-
-msgid "IDS_PFPA302_305MM_45_1910_HE_SAND"
-msgstr "305 mm HE OEA Mle 1910 mod.1"
-
-msgid "IDS_PGPA301_283MM_AP_PZ_GR_L3_2_SAND"
-msgstr "283 mm P.Spr.Gr. L/3.2 mod.1"
-
-msgid "IDS_PGPA302_283MM_HE_SPR_GR_L3_6_SAND"
-msgstr "283 mm Spr.Gr. L/3.6 mod.1"
-
-msgid "IDS_PGPA303_305MM_AP_PZ_GR_L3_4_SAND"
-msgstr "305 mm P.Spr.Gr. L/3.4 mod.1"
-
-msgid "IDS_PGPA304_305MM_HE_SPR_GR_L3_8_BDZ_SAND"
-msgstr "305 mm Spr.Gr. L/3.8 Bdz. mod.1"
-
-msgid "IDS_PGPA305_305MM_AP_PZ_GR_L4_9_SAND"
-msgstr "305 mm P.Spr.Gr. L/4.9 mod.1"
-
-msgid "IDS_PGPA306_305MM_HE_SPR_GR_L4_8_KZ_SAND"
-msgstr "305 mm Spr.Gr. L/4.8 Kz. mod.1"
-
-msgid "IDS_PGPA307_305MM_AP_KA_SAND"
-msgstr "305 mm P.Spr.Gr. L/3.4 mod.1"
-
-msgid "IDS_PGPA308_305MM_HE_KA_SAND"
-msgstr "305 mm Spr.Gr. L/3.8 mod.1"
-
-msgid "IDS_PIES201_LAZIO_CEREMONIAL"
-msgstr "Ceremonial"
-
-msgid "IDS_PIES330_IMPERO_CEREMONIAL"
-msgstr "Ceremonial"
-
-msgid "IDS_PIPA301_305MM_46_1909_AP_SAND"
-msgstr "305 mm proiettili AP 1909 mod.1"
-
-msgid "IDS_PIPA302_305MM_46_1909_CS_SAND"
-msgstr "305 mm proiettili CS 1909 mod.1"
-
-msgid "IDS_PJES443_CHIKUGO_BIRTHDAY"
-msgstr "Admiralty"
-
-msgid "IDS_PJPA301_SHELL_305MM_AP_850LBS_SAND"
-msgstr "305 mm AP 850 lb. mod.1"
-
-msgid "IDS_PJPA302_SHELL_305MM_HE_850LBS_SAND"
-msgstr "305 mm HE 850 lb. mod.1"
-
-msgid "IDS_PJPA303_SHELL_305MM_AP_APC_41_YEAR_TYPE_SAND"
-msgstr "305 mm AP/APC Type41year mod.1"
-
-msgid "IDS_PJPA304_SHELL_305MM_HE_HE_SAND"
-msgstr "305 mm HE mod.1"
-
-msgid "IDS_PJPA305_SHELL_305MM_AP_APC_41_YEAR_TYPE_SAND"
-msgstr "305 mm AP/APC Type41year mod.1"
-
-msgid "IDS_PJPA306_SHELL_305MM_HE_HE_SAND"
-msgstr "305 mm HE mod.1"
-
-msgid "IDS_PJPA307_SHELL_356MM_AP_AP_TYPE_5_SAND"
-msgstr "356 mm AP Type5 mod.1"
-
-msgid "IDS_PJPA308_SHELL_356MM_HE_C_TYPE_0_SAND"
-msgstr "356 mm HE Type0 mod.1"
-
-msgid "IDS_PJPA309_305MM_AP_APC_MARK_VI_SAND"
-msgstr "305 mm AP Mk6 mod.1"
-
-msgid "IDS_PJPA310_305MM_HE_HE_MARK_IIA_SAND"
-msgstr "305 mm HE Mk2a mod.1"
-
-msgid "IDS_PJPT127_SEA_TORPEDO_533MM_TYPE6_MINEKAZE"
-msgstr "533 mm Type6"
-
-msgid "IDS_PORT_DBAY_2025"
-msgstr "Blueprint: St. Petersburg"
-
-msgid "IDS_PORT_DBAY_2025_TOOLTIP"
-msgstr "Port \"Blueprint: St. Petersburg\""
-
-msgid "IDS_PROFILE_RATING_X"
-msgstr "Your rating: %(_ratingNumber)d, %(_ratingType)s"
-
-msgid "IDS_PRPA301_305_AP_1911_SAND"
-msgstr "305 mm AP mod. 1911 mod.1"
-
-msgid "IDS_PRPA302_305_HE_1911_SAND"
-msgstr "305 mm HE mod. 1911 mod.1"
-
-msgid "IDS_PURCHASE_LOOTBOXES_BY_TYPE"
-msgstr "Cost:"
-
-msgid "IDS_PZES304_JULANG_BIRTHDAY"
-msgstr "Palace"
-
-msgid "IDS_RARE_CREW_STATUS"
-msgstr "Rare Commander"
-
-msgid "IDS_RESEARCH_WITH_PREV_ITEMS_COST_TTX"
-msgstr "Previous ships"
-
-msgid "IDS_REWARDS_CAMPAIGN_TASK_COMPENSATION"
-msgstr ""
-"If you already own this commander, you will receive the following instead:"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium container"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Container"
-
-msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_TITLE"
-msgstr "\"Pearl Trophy\" Container"
-
-msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_TITLE_SHORT"
-msgstr "Pearl Trophy"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium container"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Container"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_1_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_1_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_TITLE"
-msgstr "Premium \"Sapphire Trophy\" Container"
-
-msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_TITLE_SHORT"
-msgstr "Sapphire Trophy"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium container"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Container"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_1_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_1_TITLE_FULL"
-msgstr " "
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_2_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_2_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_TITLE"
-msgstr "Premium \"Ruby Trophy\" Container"
-
-msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_TITLE_SHORT"
-msgstr "Ruby Trophy"
-
-msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Permanent camouflage"
-
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Camouflage"
-
-msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_TITLE"
-msgstr "Premium \"Champion\" Container"
-
-msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_TITLE_SHORT"
-msgstr "Champion"
-
-msgid "IDS_REWARD_MK_PREMIUM_TITLE"
-msgstr "Warships Premium Account"
-
-msgid "IDS_SECONDARY_TAB_BUTTON_CAMOUFLAGE"
-msgstr "Camouflage"
-
-msgid "IDS_SECONDARY_TAB_BUTTON_CREW_MANAGEMENT"
-msgstr "Commander"
-
-msgid "IDS_SECONDARY_TAB_BUTTON_ECOBOOST"
-msgstr "Economic Bonuses"
-
-msgid "IDS_SECONDARY_TAB_BUTTON_ENSIGN"
-msgstr "Flags"
-
-msgid "IDS_SECONDARY_TAB_BUTTON_EVENTS"
+msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_EVENT_ACHIEVEMENTS"
 msgstr "Events"
 
-msgid "IDS_SECONDARY_TAB_BUTTON_LOOTBOXES"
-msgstr "Containers"
+msgid "IDS_ACHIEVEMENT_SUPPORT_COOP"
+msgstr "Fire Support"
 
-msgid "IDS_SECONDARY_TAB_BUTTON_OVERVIEW"
-msgstr "Armament"
+msgid "IDS_ACHIEVEMENT_TIMER_WAFFENTRAGER_ISOLATION"
+msgstr "Time until Resonance:"
 
-msgid "IDS_SECONDARY_TAB_BUTTON_REPAIR_DOCK"
-msgstr "Repair Dock"
+msgid "IDS_ACHIEVEMENT_TRITON_COOP"
+msgstr "Resourceful"
 
-msgid "IDS_SECONDARY_TAB_BUTTON_SHIP_MASTERY"
-msgstr "Mastery"
+msgid "IDS_ACHIEVEMENT_WAFFENTRAGER_ISOLATION"
+msgstr "Battle for Erebus"
 
-msgid "IDS_SECONDARY_TAB_BUTTON_SSE"
-msgstr "Combat Missions"
+msgid "IDS_ACHIEVEMENT_WARRIOR_COOP"
+msgstr "Naval Ace"
 
-msgid "IDS_SECONDARY_TAB_BUTTON_UPGRADES"
-msgstr "Upgrades"
+msgid "IDS_ACHIEVEMENT_WITHERING_COOP"
+msgstr "Saboteur"
 
-msgid "IDS_SHIP_EXP_SORT_CLASS"
-msgstr "By class"
+msgid "IDS_AIR_SUPPORT_CALL_SPY"
+msgstr "Wait for your scouts to arrive at the call point"
 
-msgid "IDS_SHIP_EXP_SORT_DEFAULT"
-msgstr "By Default"
-
-msgid "IDS_SHIP_EXP_SORT_LEVEL"
-msgstr "By Tier"
-
-msgid "IDS_SHIP_EXP_SORT_NATION"
-msgstr "By nation"
-
-msgid "IDS_SHIP_MANAGEMENT_SQUADRON_WEAPON_HEADER"
-msgstr "Squadron Equipment"
-
-msgid "IDS_SHIP_PARAMS_HOTKEY_SHORT"
-msgstr "Status"
-
-msgid "IDS_SHIP_SHARDS_BANNER_MARKER_REPAIR"
-msgstr "REPAIR THE SHIP"
-
-msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_COMMON"
-msgstr "Standard"
-
-msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_ELITE"
-msgstr "Elite"
-
-msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_RARE"
-msgstr "Rare"
-
-msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_UNCOMMON"
-msgstr "Special"
-
-msgid "IDS_SLOT_MODULES_SHIP_CROSS_RESEARCH"
-msgstr "Required to research for ship access"
-
-msgid "IDS_SOUND_MOD_LILY_THORNE"
-msgstr "Lily Thorne"
-
-msgid "IDS_SPACES/58_WATERFALL_ROAR"
-msgstr "Waterfall Roar"
-
-msgid "IDS_SPACES/58_WATERFALL_ROAR_DESCR"
-msgstr "Waterfall Roar"
-
-msgid "IDS_SPEED_AND_MANEUR_HIGH"
-msgstr "High speed and maneuverability"
-
-msgid "IDS_SPEED_AND_MANEUR_LOW"
-msgstr "Low speed and maneuverability"
-
-msgid "IDS_TELEGRAPH_ANGLE_0"
-msgstr "0"
-
-msgid "IDS_TELEGRAPH_ANGLE_LEFT_50"
-msgstr "1/2"
-
-msgid "IDS_TELEGRAPH_ANGLE_LEFT_MAX"
-msgstr "MAX"
-
-msgid "IDS_TELEGRAPH_ANGLE_RIGHT_50"
-msgstr "1/2"
-
-msgid "IDS_TELEGRAPH_ANGLE_RIGHT_MAX"
-msgstr "MAX"
-
-msgid "IDS_TELEGRAPH_SPEED_0"
-msgstr "STOP"
-
-msgid "IDS_TELEGRAPH_SPEED_25"
-msgstr "1/4"
-
-msgid "IDS_TELEGRAPH_SPEED_50"
-msgstr "1/2"
-
-msgid "IDS_TELEGRAPH_SPEED_75"
-msgstr "3/4"
-
-msgid "IDS_TELEGRAPH_SPEED_FULL"
-msgstr "FULL"
-
-msgid "IDS_TELEGRAPH_SPEED_FULL_REVERSE"
-msgstr "FULL"
-
-msgid "IDS_THE_WAITING_TIME_IN_A_COOPERATIVE_BATTLE_IS_FIXED"
-msgstr "Guaranteed matchmaking within 30 seconds"
-
-msgid "IDS_TOKEN_TARGET_TYPE_RANKED_BATTLES_LEAGUE_SKIP"
-msgstr "Ranked Battles League Skip"
-
-msgid "IDS_TORPEDO_BURNING_INSTEAD_OF_ACOUSTIC"
-msgstr "Torpedoes that cause fires are available, but no acoustic torpedoes"
-
-msgid "IDS_TORPEDO_DPM_HIGH"
-msgstr "Torpedoes deal high damage per minute"
-
-msgid "IDS_TORPEDO_DPM_LOW"
-msgstr "Torpedoes deal low damage per minute"
-
-msgid "IDS_TORPEDO_EFFICIENCY_HIGH"
-msgstr "High torpedo efficiency"
-
-msgid "IDS_TORPEDO_EFFICIENCY_HIGHEST"
-msgstr "Highest torpedo efficiency"
-
-msgid "IDS_TORPEDO_NOT_DAMAGES_BATTLESHIP"
-msgstr "Torpedoes do not damage battleships"
-
-msgid "IDS_TORPEDO_NOT_DAMAGES_CRUISER"
-msgstr "Torpedoes do not damage cruisers"
-
-msgid "IDS_TORPEDO_NOT_DAMAGES_DESTROYER"
-msgstr "Torpedoes do not damage destroyers"
-
-msgid "IDS_TORPEDO_NOT_DAMAGES_SS_AND_DD"
-msgstr "Torpedoes do not damage destroyers and submarines"
-
-msgid "IDS_TORPEDO_NOT_DAMAGES_SS_AND_DD_AND_CA"
-msgstr "Torpedoes do not damage cruisers, destroyers, and submarines"
-
-msgid "IDS_TORPEDO_NOT_DAMAGES_SUBMARINE"
-msgstr "Torpedoes do not damage submarines"
-
-msgid "IDS_TORPEDO_SALVO_VOLUME_HIGH"
-msgstr "Torpedoes deal great damage per salvo"
-
-msgid "IDS_TORPEDO_SALVO_VOLUME_LOW"
-msgstr "Torpedo salvo deals low damage"
-
-msgid "IDS_TOURNAMENT_HEADER_LOADING_DATA"
-msgstr "Loading"
-
-msgid "IDS_TO_REFERRAL"
-msgstr "Go to Naval Brotherhood"
-
-msgid "IDS_TO_SHIP_ROUTE_UPPER_CASE"
-msgstr "TO SHIP"
-
-msgid "IDS_TTX_WIDGET_COMMON_MOUSE_INSTRUCTION_ECOBOOST"
-msgstr "Go to economic bonuses setup"
-
-msgid "IDS_TTX_WIDGET_COMMON_MOUSE_INSTRUCTION_MODERNIZATION"
-msgstr "Go to upgrades setup"
-
-msgid "IDS_TTX_WIDGET_COMMON_MOUSE_INSTRUCTION_SIGNAL"
-msgstr "Go to signals setup"
-
-msgid "IDS_TTX_WIDGET_COMMON_TITLE_ECOBOOST"
-msgstr "Economic Bonuses"
-
-msgid "IDS_TTX_WIDGET_COMMON_TITLE_MODERNIZATION"
-msgstr "Upgrades"
-
-msgid "IDS_TTX_WIDGET_COMMON_TITLE_SIGNAL"
-msgstr "Signals"
-
-msgid "IDS_TTX_WIDGET_HEADER"
-msgstr "Characteristics"
-
-msgid "IDS_TTX_WIDGET_SHIP_MOUSE_INSTRUCTION"
-msgstr "Go to ship"
-
-msgid "IDS_UNABLE_SPLASH_SCREEN_PROCEED_WHILE_IN_BALANCER"
+msgid "IDS_BASE_AI_1"
 msgstr ""
-"Battle search is active. Stop the search to select another battle type."
+"Generators active, Shield Module power at 100%. Proceeding to charge the "
+"evacuation system."
 
-msgid "IDS_UNABLE_SPLASH_SCREEN_PROCEED_WHILE_IN_DIVISION"
-msgstr "You cannot select a battle type while in a division"
+msgid "IDS_BASE_AI_10"
+msgstr "Evacuation system charged to 50%!"
 
-msgid "IDS_UNABLE_SPLASH_SCREEN_PROCEED_WHILE_IN_TOURNAMENT"
-msgstr "You cannot select a battle type while in a tournament room"
+msgid "IDS_BASE_AI_11"
+msgstr "Evacuation system charged to 75%!"
 
-msgid "IDS_UNABLE_SPLASH_SCREEN_PROCEED_WHILE_IN_TRAINING"
-msgstr "You cannot select a battle type while in a training room"
+msgid "IDS_BASE_AI_12"
+msgstr "Evacuation system charged to 90%!"
 
-msgid "IDS_UNABLE_TO_SET_WHILE_IN_BALANCER"
-msgstr "You cannot make changes while battle search is active"
+msgid "IDS_BASE_AI_13"
+msgstr ""
+"Evacuation system fully charged! Intercontinental teleport activating!"
 
-msgid "IDS_UNABLE_TO_SET_WHILE_IN_BALANCER_EVENT_BATTLES"
+msgid "IDS_BASE_AI_14"
+msgstr ""
+"Warning! Insufficient energy... to launch the evacuation system. Initiating "
+"backup protocol..."
+
+msgid "IDS_BASE_AI_15"
+msgstr "Zeus installation charged! Shall we fire?"
+
+msgid "IDS_BASE_AI_16"
+msgstr ""
+"Automatons, like Ermelinda, are protected by the base's shield module!"
+
+msgid "IDS_BASE_AI_17"
+msgstr ""
+"Waffenträger calibration protocol activated! Deal damage to Hound ships to "
+"increase the radius and duration of 'Eye of the Storm' and 'Corrosion' "
+"fields, as well as rate of fire!"
+
+msgid "IDS_BASE_AI_18"
+msgstr "Calibration stage complete!"
+
+msgid "IDS_BASE_AI_19"
+msgstr ""
+"Aim at an enemy ship and press [KEY_F3] to focus automaton fire on that "
+"ship."
+
+msgid "IDS_BASE_AI_2"
+msgstr ""
+"Deactivating generators will reduce shield module effectiveness and slow "
+"system charge."
+
+msgid "IDS_BASE_AI_3"
+msgstr "Use portals for quick travel between points"
+
+msgid "IDS_BASE_AI_4"
+msgstr ""
+"Enemy within Quantum Pursuit protocol range. Activation will allow you to "
+"teleport to a random target within a 10 km radius."
+
+msgid "IDS_BASE_AI_5"
+msgstr ""
+"The ship's Quantum Leap system allows instant movement in a specified "
+"direction, hiding the ship from enemy radars."
+
+msgid "IDS_BASE_AI_6"
+msgstr ""
+"One generator stopped — evacuation system charging slowed. The Quantum "
+"Offensive system will move your ship to the deactivated generator."
+
+msgid "IDS_BASE_AI_7"
+msgstr ""
+"Enemy within Quantum Pursuit protocol range. Activation will teleport you to"
+" a random target along with controlled automatons."
+
+msgid "IDS_BASE_AI_8"
+msgstr ""
+"Two of three generators deactivated. Loss of the last generator will stop "
+"evacuation system charging and lead to complete shutdown of the shield "
+"module!"
+
+msgid "IDS_BASE_AI_9"
+msgstr ""
+"Generator control lost. Evacuation system charging halted. Shield module "
+"deactivated."
+
+msgid "IDS_CANNOT_HIT_TARGET_NOT_PINGABLE"
+msgstr "SONAR PING WILL BE CLEARED"
+
+msgid "IDS_CAROUSEL_PCVE030_FILTER"
+msgstr "Filter ships suitable for 'Waffenträger: Isolation'"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE030"
+msgstr "Select 'Waffenträger: Isolation'"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "%(player)s! I need air support!"
+
+msgid ""
+"IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "I need air support!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "%(player)s! I need air support!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "I need air support!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "I need air support!"
+
+msgid ""
+"IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "I need air support!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "I need air support!"
+
+msgid ""
+"IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "I need air support!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "I need air support!"
+
+msgid ""
+"IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "I need air support!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "I need air support!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "I need air support!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "Provide cover for allied smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "Provide cover for allied smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "Provide cover for allied scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "Provide cover for allied scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "Attention, enemy smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "Attention, enemy smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIR_SUPPORT_SPY"
+msgstr "Attention, enemy scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "Attention, enemy scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "Allied smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "Allied smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "Allied scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "Allied scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "Enemy smoke screen aircraft!"
+
+msgid ""
+"IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "Enemy smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIR_SUPPORT_SPY"
+msgstr "Enemy scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "Enemy scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "Allied smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "Allied smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "Allied scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "Allied scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "Enemy smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "Enemy smoke screen aircraft!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIR_SUPPORT_SPY"
+msgstr "Enemy scouts!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "Enemy scouts!"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS"
+msgstr "Activation Keys"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS_GET_DESCRIPTION"
+msgstr ""
+"Among rewards for reactor alloys in the event category and from bundles in "
+"the Armory until the end of update 25.10, and for completing event combat "
+"missions, progressing through event levels, and the 'Protect Erebus' portal "
+"campaign for a limited time in update 25.10."
+
+msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS_SPEND_DESCRIPTION"
+msgstr ""
+"For sorties on Ermelinda Jung's ships — Flammenreiter, Geisterjäger, and "
+"Signalträger — for a limited time in update 25.10."
+
+msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS_STATUS"
+msgstr ""
+"Temporary resource for the 'Waffenträger: Isolation' event. Will be removed "
+"without compensation upon the release of update 25.11."
+
+msgid "IDS_CURRENCY_WAFFENTRAGERPROGRESSPOINTS"
+msgstr "Reactor Alloys"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERPROGRESSPOINTS_GET_DESCRIPTION"
+msgstr ""
+"For participating in the 'Waffenträger: Isolation' battle type and "
+"completing event combat missions for a limited time in update 25.10."
+
+msgid "IDS_CURRENCY_WAFFENTRAGERPROGRESSPOINTS_SPEND_DESCRIPTION"
+msgstr ""
+"For bonuses in the Bureau of Experimental Technology for a limited time in "
+"update 25.10, and for event category rewards in the Armory, including "
+"activation keys and power cells, until the end of update 25.10."
+
+msgid "IDS_CURRENCY_WAFFENTRAGERPROGRESSPOINTS_STATUS"
+msgstr ""
+"Temporary resource for the 'Waffenträger: Isolation' event. Will be removed "
+"without compensation upon the release of update 25.11."
+
+msgid "IDS_CURRENCY_WAFFENTRAGERRELAY"
+msgstr "Reactor Alloys"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERRELAY_GET_DESCRIPTION"
+msgstr ""
+"For participating in the 'Waffenträger: Isolation' battle type and "
+"completing event combat missions for a limited time in update 25.10."
+
+msgid "IDS_CURRENCY_WAFFENTRAGERRELAY_SPEND_DESCRIPTION"
+msgstr ""
+"For bonuses in the Bureau of Experimental Technology for a limited time in "
+"update 25.10, and for event category rewards in the Armory, including "
+"activation keys and power cells, until the end of update 25.10."
+
+msgid "IDS_CURRENCY_WAFFENTRAGERRELAY_STATUS"
+msgstr ""
+"Temporary resource for the 'Waffenträger: Isolation' event. Will be removed "
+"without compensation upon the release of update 25.11."
+
+msgid "IDS_DESTROYED_SHIELD_MODULES_QTY_FOR_HOUND"
+msgstr ""
+"Enemy shield modules\n"
+"destroyed"
+
+msgid "IDS_DESTROYED_SHIELD_MODULES_QTY_FOR_WAFFENTRAGER"
+msgstr ""
+"Shield modules\n"
+"preserved"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_SCOUT_SPY"
+msgstr "Detect enemy ships from aircraft at their detection range."
+
+msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_SCOUT_SPY"
+msgstr "Scouts"
+
+msgid "IDS_DOCK_BANNER_RANKS_TOOLTIP_HEADER"
+msgstr "Ranked Battles"
+
+msgid "IDS_DOCK_BANNER_RANK_BATTLES"
+msgstr "Ranked Battles"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY511_2025WT_ADDDD"
+msgstr ""
+"<p>Calls the Akizuki destroyer-automaton.</p><p class=\"p_spacing\"> "
+"</p><p>When entering battle, the automaton grants a permanent 5% bonus to "
+"your ship's armament rate of fire. Bonuses from identical automatons "
+"stack.</p><p class=\"p_spacing\"> </p><p>Each use consumes one charge of all"
+" 'Signal' type consumables. Consumable charges are replenished using 'Signal"
+" Generator' battle instructions.</p><p class=\"p_spacing\"> </p><p>Aim at an"
+" enemy ship and press [KEY_F3] to focus automaton fire on that ship.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY512_2025WT_ADDCR"
+msgstr ""
+"<p>Calls the Myōkō cruiser-automaton.</p><p class=\"p_spacing\"> </p><p>When"
+" entering battle, the automaton grants a permanent 2% bonus to your ship's "
+"durability. Bonuses from identical automatons stack.</p><p "
+"class=\"p_spacing\"> </p><p>Each use consumes one charge of all 'Signal' "
+"type consumables. Consumable charges are replenished using 'Signal "
+"Generator' battle instructions.</p><p class=\"p_spacing\"> </p><p>Aim at an "
+"enemy ship and press [KEY_F3] to focus automaton fire on that ship.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY513_2025WT_ADDBB"
+msgstr ""
+"<p>Calls the Fusō battleship-automaton.</p><p class=\"p_spacing\"> "
+"</p><p>When entering battle, the automaton permanently restores 30 hp per "
+"second to your ship. Bonuses from identical automatons stack.</p><p "
+"class=\"p_spacing\"> </p><p>Each use consumes one charge of all 'Signal' "
+"type consumables. Consumable charges are replenished using 'Signal "
+"Generator' battle instructions.</p><p class=\"p_spacing\"> </p><p>Aim at an "
+"enemy ship and press [KEY_F3] to focus automaton fire on that ship.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY514_2025WT_STEALTHTELEPORT"
+msgstr ""
+"Instantly moves your ship 3.3 km in the direction of view. Reduces your "
+"ship's detectability to 2 km. Reduces the increased detectability time after"
+" firing Main Battery guns to 1 second."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY515_2025WT_STEALTHHEAL"
+msgstr ""
+"Reduces ship detectability to 2 km and restores 2,500 hp per second. Ship "
+"detectability immediately after firing is reduced to the minimum."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY516_2025WT_PARTICLEBARRIER"
+msgstr ""
+"Creates a shield around your ship that blocks and accumulates all damage "
+"received. After the duration ends, the shield explodes, dealing all "
+"accumulated damage to every enemy within the consumable's area of effect."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY517_2025WT_HOUNDSVAMPIRISM"
+msgstr ""
+"Converts 25% of damage dealt into hp for your ship and 10% for each allied "
+"ship. Increases the rate of fire of all your ship's armament by 30%."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY518_2025WT_HOUNDSRESIST"
+msgstr "Reduces damage received by 70% for all ships on your team."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY519_2025WT_HOUNDSBATTLEFORSAGE"
+msgstr "Significantly speeds up the ship for a short period."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY520_2025WT_HOUNDSMASSHEAL"
+msgstr "Instantly restores 7,500 hp to each ship on your team."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
+msgstr ""
+"Increases the speed and maneuverability of all ships on your team by 40%."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY522_2025WT_HOUNDSROTARYAC"
+msgstr ""
+"Reduces reload time by 10% and enhances other Main Battery gun "
+"characteristics on your ship for every 10 hits on a single enemy ship. "
+"Progress resets upon hitting another target."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY525_2025WT_HOUNDSINVULNERABLE"
+msgstr "Grants invulnerability to all damage types."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY527_2025WT_WT3_TELEPORT"
+msgstr ""
+"Teleports the ship to a random Hound. All summoned automatons will be "
+"teleported with you."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY528_2025WT_FIREANDICE"
+msgstr ""
+"<p>Creates an area around your ship where all enemies catch fire and "
+"flood.</p><p class=\"p_spacing\"> </p><p>Half the damage dealt by fires and "
+"floods is converted into your ship's hp.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY529_2025WT_DONORPARTS"
+msgstr ""
+"All automatons you called receive 5,000 damage. All damage received by "
+"automatons is converted into your ship's hp."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY530_2025WT_METAL_CORROSION"
+msgstr ""
+"Creates an area around your ship where all enemies receive damage equal to "
+"that dealt to your ship. Damage is split equally among enemies."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY532_2025WT_QUANTUMLEAP"
+msgstr ""
+"<p>7 seconds after activation, teleports your ship to a random Hound ship "
+"within 10 km.</p><p class=\"p_spacing\"> </p><p>Consumable is inactive if "
+"there are no Hound ships within 10 km.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY533_2025WT_HOUNDSMEGAHEAL"
+msgstr "Restores 1,000 hp per second."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY534_2025WT_HOUNDSSLOWDOWN"
+msgstr ""
+"Hitting an enemy ship with Main Battery shells reduces its speed and "
+"maneuverability by 50%. Effect lasts 20 seconds."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY535_2025WT_HOUNDSSUPERDESPERATE"
+msgstr ""
+"Grants a permanent 25% bonus to damage dealt and 25% to the reload speed of "
+"all armament. However, while the consumable is active, your ship "
+"continuously takes damage. Bonus is lost if your ship is destroyed."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY536_2025WT_HOUNDSLOSSCOUNTER"
+msgstr ""
+"Grants a permanent 5% bonus to rate of fire, durability, and ship "
+"maneuverability, and restores hp. The number of consumables increases with "
+"each lost ally. Bonuses and accumulated consumable charges are lost if your "
+"ship is destroyed."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY537_2025WT_HOUNDSLASTCHANSE"
+msgstr ""
+"Grants invulnerability to all damage if the ship's durability reaches 1% "
+"while the consumable is active."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY538_2025WT_HOUNDSTORPEDOCOUNTERATTACK"
+msgstr ""
+"Instantly reloads the torpedo tube if your ship is hit by a Main Battery "
+"shell."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY539_2025WT_HOUNDSALTMASSHEAL"
+msgstr "Restores 400 hp per second to each ship on your team."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY540_2025WT_ADDDD2"
+msgstr ""
+"<p>Calls the Cossack destroyer-automaton.</p><p class=\"p_spacing\"> "
+"</p><p>When entering battle, the automaton grants a permanent 10% bonus to "
+"the rate of fire of all living automatons' armament. Bonuses from identical "
+"automatons stack.</p><p class=\"p_spacing\"> </p><p>Each use consumes one "
+"charge of all 'Signal' type consumables. Consumable charges are replenished "
+"using 'Signal Generator' battle instructions.</p><p class=\"p_spacing\"> "
+"</p><p>Aim at an enemy ship and press [KEY_F3] to focus automaton fire on "
+"that ship.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY541_2025WT_ADDCR2"
+msgstr ""
+"<p>Calls the Surrey cruiser-automaton.</p><p class=\"p_spacing\"> "
+"</p><p>When entering battle, the automaton grants a permanent 10% bonus to "
+"the durability of all living automatons. Bonuses from identical automatons "
+"stack.</p><p class=\"p_spacing\"> </p><p>Each use consumes one charge of all"
+" 'Signal' type consumables. Consumable charges are replenished using 'Signal"
+" Generator' battle instructions.</p><p class=\"p_spacing\"> </p><p>Aim at an"
+" enemy ship and press [KEY_F3] to focus automaton fire on that ship.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY542_2025WT_ADDBB2"
+msgstr ""
+"<p>Calls the King George V battleship-automaton.</p><p class=\"p_spacing\"> "
+"</p><p>When entering battle, the automaton permanently restores 40 hp per "
+"second to all living automatons. Bonuses from identical automatons "
+"stack.</p><p class=\"p_spacing\"> </p><p>Each use consumes one charge of all"
+" 'Signal' type consumables. Consumable charges are replenished using 'Signal"
+" Generator' battle instructions.</p><p class=\"p_spacing\"> </p><p>Aim at an"
+" enemy ship and press [KEY_F3] to focus automaton fire on that ship.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY543_2025WT_ADDDD3"
+msgstr ""
+"<p>Calls the G. J. Maerker destroyer-automaton.</p><p class=\"p_spacing\"> "
+"</p><p>While the automaton is alive, it grants a permanent 15% bonus to the "
+"rate of fire of your ship's and all automatons' armament. Bonuses from "
+"identical automatons stack.</p><p class=\"p_spacing\"> </p><p>Each use "
+"consumes one charge of all 'Signal' type consumables. Consumable charges are"
+" replenished using 'Signal Generator' battle instructions.</p><p "
+"class=\"p_spacing\"> </p><p>Aim at an enemy ship and press [KEY_F3] to focus"
+" automaton fire on that ship.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY544_2025WT_ADDCR3"
+msgstr ""
+"<p>Calls the Yorck cruiser-automaton.</p><p class=\"p_spacing\"> "
+"</p><p>While the automaton is alive, it permanently restores 50 hp per "
+"second to your ship and all living automatons. Bonuses from identical "
+"automatons stack.</p><p class=\"p_spacing\"> </p><p>Each use consumes one "
+"charge of all 'Signal' type consumables. Consumable charges are replenished "
+"using 'Signal Generator' battle instructions.</p><p class=\"p_spacing\"> "
+"</p><p>Aim at an enemy ship and press [KEY_F3] to focus automaton fire on "
+"that ship.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY545_2025WT_ADDBB3"
+msgstr ""
+"<p>Calls the Mackensen battleship-automaton.</p><p class=\"p_spacing\"> "
+"</p><p>Upon entering battle, the automaton restores 5,000 hp to your ship "
+"and all automatons.</p><p class=\"p_spacing\"> </p><p>Each use consumes one "
+"charge of all 'Signal' type consumables. Consumable charges are replenished "
+"using 'Signal Generator' battle instructions.</p><p class=\"p_spacing\"> "
+"</p><p>Aim at an enemy ship and press [KEY_F3] to focus automaton fire on "
+"that ship.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY546_2025WT_HOUNDSINVADER"
+msgstr ""
+"Teleports your ship to one of the control points captured by Ermelinda Jung."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY547_2025WT_WT3_TELEPORT2"
+msgstr ""
+"Teleports your ship to a control point that is captured by the Hounds and "
+"has no Hounds present. You cannot teleport to the control point you are "
+"currently on."
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY511_2025WT_ADDDD"
+msgstr "Signal: Destroyer I"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY512_2025WT_ADDCR"
+msgstr "Signal: Cruiser I"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY513_2025WT_ADDBB"
+msgstr "Signal: Battleship I"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY514_2025WT_STEALTHTELEPORT"
+msgstr "Quantum Leap"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY515_2025WT_STEALTHHEAL"
+msgstr "Stealth Module"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY516_2025WT_PARTICLEBARRIER"
+msgstr "Particle Barrier"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY517_2025WT_HOUNDSVAMPIRISM"
+msgstr "Armor Extraction"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY518_2025WT_HOUNDSRESIST"
+msgstr "Team Shield"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY519_2025WT_HOUNDSBATTLEFORSAGE"
+msgstr "Nitro Accelerator"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY520_2025WT_HOUNDSMASSHEAL"
+msgstr "Team Durability Charge"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
+msgstr "Team Engine Boost"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY522_2025WT_HOUNDSROTARYAC"
+msgstr "Rotary Fire"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY525_2025WT_HOUNDSINVULNERABLE"
+msgstr "Energy Shield"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY527_2025WT_WT3_TELEPORT"
+msgstr "Quantum Pursuit"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY528_2025WT_FIREANDICE"
+msgstr "Eye of the Storm"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY529_2025WT_DONORPARTS"
+msgstr "Donor Parts"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY530_2025WT_METAL_CORROSION"
+msgstr "Corrosion"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY532_2025WT_QUANTUMLEAP"
+msgstr "Quantum Pursuit"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY533_2025WT_HOUNDSMEGAHEAL"
+msgstr "Mechanism Regeneration"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY534_2025WT_HOUNDSSLOWDOWN"
+msgstr "Slowing Shells"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY535_2025WT_HOUNDSSUPERDESPERATE"
+msgstr "Toxic Filler Shells"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY536_2025WT_HOUNDSLOSSCOUNTER"
+msgstr "Sunken Allies' Energy"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY537_2025WT_HOUNDSLASTCHANSE"
+msgstr "Emergency Repair Module"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY538_2025WT_HOUNDSTORPEDOCOUNTERATTACK"
+msgstr "Torpedo Counterattack Module"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY539_2025WT_HOUNDSALTMASSHEAL"
+msgstr "Team Mechanism Regeneration"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY540_2025WT_ADDDD2"
+msgstr "Signal: Destroyer II"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY541_2025WT_ADDCR2"
+msgstr "Signal: Cruiser II"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY542_2025WT_ADDBB2"
+msgstr "Signal: Battleship II"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY543_2025WT_ADDDD3"
+msgstr "Signal: Destroyer III"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY544_2025WT_ADDCR3"
+msgstr "Signal: Cruiser III"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY545_2025WT_ADDBB3"
+msgstr "Signal: Battleship III"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY546_2025WT_HOUNDSINVADER"
+msgstr "Quantum Invasion"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY547_2025WT_WT3_TELEPORT2"
+msgstr "Quantum Offensive"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_BOTOMANCER"
+msgstr "Signal Generator"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_SHIP_FRAG"
+msgstr "O.S.D. 'Zeus'"
+
+msgid "IDS_DOGTAG_PCNB466_DESCRIPTION"
+msgstr ""
+"The Alliance is a secret organization seeking control over powerful military"
+" technologies. On the organization's orders, the Hound squad is sent to the "
+"Antarctic base 'Fort Erebus' to confront Ermelinda Jung and her unique "
+"warships."
+
+msgid "IDS_DOGTAG_PCNB466_NAME"
+msgstr "Keep Out — Lethal!"
+
+msgid "IDS_ERMELINDA_1"
+msgstr "Excellent! Once the teleporter is charged, I can escape!"
+
+msgid "IDS_ERMELINDA_2"
+msgstr ""
+"Energy from destroyed ships speeds up charging! Let's use that to our "
+"advantage!"
+
+msgid "IDS_ERMELINDA_3"
+msgstr "Damn! We need to regain control of the generators immediately!"
+
+msgid "IDS_ERMELINDA_4"
+msgstr "Ha-ha! So long, pups! I'm taking your scientists' work with me!"
+
+msgid "IDS_ERMELINDA_5"
+msgstr "Let's fire! And not just once — blow all the Hounds to bits!"
+
+msgid "IDS_ERMELINDA_6"
+msgstr "This isn't the end! Crew: evacuate to another ship!"
+
+msgid "IDS_ERMELINDA_JUNG"
+msgstr "Ermelinda Jung"
+
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE030"
+msgstr "Team Size: 6 vs 1"
+
+msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION_0"
+msgstr "Destroy Ermelinda's ship before the evacuation system launches"
+
+msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION_1"
+msgstr "Charge the evacuation system without letting the Hounds destroy you"
+
+msgid "IDS_GO_TO_PROFILE_RANKS"
+msgstr "Go to the Ranks screen"
+
+msgid "IDS_GUIDING_TIP_347_DESC"
+msgstr ""
+"In the selected battle type, ships have modified combat characteristics."
+
+msgid "IDS_GUIDING_TIP_347_HEADER"
+msgstr "Ship characteristics modified"
+
+msgid "IDS_GUIDING_TIP_348_DESC"
+msgstr "Go to the 'Armament' section to learn more."
+
+msgid "IDS_GUIDING_TIP_348_HEADER"
+msgstr "Ship characteristics modified"
+
+msgid "IDS_GUIDING_TIP_349_DESC"
+msgstr ""
+"In the selected battle type, ships have modified combat characteristics."
+
+msgid "IDS_GUIDING_TIP_349_HEADER"
+msgstr "Modifiers"
+
+msgid "IDS_GUIDING_TIP_350_DESC"
+msgstr ""
+"In the selected battle type, ships have modified combat characteristics."
+
+msgid "IDS_GUIDING_TIP_350_HEADER"
+msgstr "Modifiers"
+
+msgid "IDS_GUIDING_TIP_351_DESC"
+msgstr "In the selected battle type, ships possess special consumables."
+
+msgid "IDS_GUIDING_TIP_351_HEADER"
+msgstr "Consumables modified"
+
+msgid "IDS_GUIDING_TIP_352_DESC"
+msgstr "Go to the 'Events' section to learn more."
+
+msgid "IDS_GUIDING_TIP_352_HEADER"
+msgstr "New Event"
+
+msgid "IDS_HOUNDS_ALIVE_AT_THE_END_FOR_HOUND"
+msgstr ""
+"Hounds alive\n"
+"at battle end"
+
+msgid "IDS_HOUNDS_ALIVE_AT_THE_END_FOR_WAFFENTRAGER"
+msgstr ""
+"Hounds alive\n"
+"at battle end"
+
+msgid "IDS_HOUNDS_LEADER_1"
+msgstr ""
+"Hounds! The enemy has started charging the evacuation systems to escape! We "
+"must destroy the ship before charging completes!"
+
+msgid "IDS_HOUNDS_LEADER_10"
+msgstr ""
+"Hounds! The enemy has activated some kind of field around themselves! Keep "
+"your distance!"
+
+msgid "IDS_HOUNDS_LEADER_11"
+msgstr ""
+"All cruisers! Your consumables affect the whole team, keep that in mind and "
+"help each other!"
+
+msgid "IDS_HOUNDS_LEADER_12"
+msgstr ""
+"Hound, prepare! Self-assembly device activated, your ship is returning to "
+"battle!"
+
+msgid "IDS_HOUNDS_LEADER_13"
+msgstr "Attention all! Ermelinda is summoning automatons for support!"
+
+msgid "IDS_HOUNDS_LEADER_14"
+msgstr ""
+"Automatons, like Ermelinda, are protected by the base's shield module!"
+
+msgid "IDS_HOUNDS_LEADER_15"
+msgstr "Evacuation system charged to 50%!"
+
+msgid "IDS_HOUNDS_LEADER_16"
+msgstr "Commanders, the evacuation system is 75% charged!"
+
+msgid "IDS_HOUNDS_LEADER_17"
+msgstr ""
+"Hounds, we must hurry: the evacuation system is 90% charged! A little more "
+"and Ermelinda will escape!"
+
+msgid "IDS_HOUNDS_LEADER_18"
+msgstr "Intercontinental teleport activating!"
+
+msgid "IDS_HOUNDS_LEADER_2"
+msgstr ""
+"Generators power the evacuation system and Ermelinda's shield. Disable them "
+"before engaging!"
+
+msgid "IDS_HOUNDS_LEADER_3"
+msgstr ""
+"The self-assembly device returns you to battle but speeds up the 'Phase "
+"Bridge' charging. Don't overuse it!"
+
+msgid "IDS_HOUNDS_LEADER_4"
+msgstr "Portals ahead! Use them for quick travel to points."
+
+msgid "IDS_HOUNDS_LEADER_5"
+msgstr ""
+"Generator disabled! Enemy shield module weakened, evacuation system charging"
+" slowed!"
+
+msgid "IDS_HOUNDS_LEADER_6"
+msgstr ""
+"All generators under our control! Evacuation system charging halted. Enemy "
+"shield module deactivated. Everyone focus on destroying Ermelinda's ship!"
+
+msgid "IDS_HOUNDS_LEADER_7"
+msgstr "Ermelinda slipped away again! Hounds, return to base!"
+
+msgid "IDS_HOUNDS_LEADER_8"
+msgstr ""
+"Zeus weapon activating. Use consumables to reduce damage for you and your "
+"allies!"
+
+msgid "IDS_HOUNDS_LEADER_9"
+msgstr "Ermelinda's ship destroyed! Excellent work, Hounds!"
+
+msgid "IDS_HOUNDS_WON"
+msgstr "HOUNDS VICTORIOUS"
+
+msgid "IDS_INFINITY_BOT_01"
+msgstr "Senshi"
+
+msgid "IDS_INFINITY_BOT_02"
+msgstr "Daitan"
+
+msgid "IDS_INFINITY_BOT_03"
+msgstr "Herzog"
+
+msgid "IDS_INFINITY_BOT_04"
+msgstr "Landgraf"
+
+msgid "IDS_INFINITY_BOT_05"
+msgstr "Krieger"
+
+msgid "IDS_INFINITY_BOT_06"
+msgstr "Masurao"
+
+msgid "IDS_INFINITY_BOT_07"
+msgstr "Kaijin"
+
+msgid "IDS_INFINITY_BOT_08"
+msgstr "Kanzler"
+
+msgid "IDS_INFINITY_BOT_09"
+msgstr "Romulus"
+
+msgid "IDS_INFINITY_BOT_10"
+msgstr "Kousotsu"
+
+msgid "IDS_INFINITY_BOT_11"
+msgstr "Reiter"
+
+msgid "IDS_INFINITY_BOT_12"
+msgstr "Comrade"
+
+msgid "IDS_INFINITY_BOT_13"
+msgstr "Uporny"
+
+msgid "IDS_INFINITY_BOT_14"
+msgstr "Bravo"
+
+msgid "IDS_INFINITY_BOT_15"
+msgstr "Provorniy"
+
+msgid "IDS_INFINITY_BOT_16"
+msgstr "Party Member"
+
+msgid "IDS_INFINITY_BOT_17"
+msgstr "Delta"
+
+msgid "IDS_INFINITY_BOT_18"
+msgstr "Echo"
+
+msgid "IDS_INFINITY_BOT_19"
+msgstr "Foxtrot"
+
+msgid "IDS_INFINITY_BOT_20"
+msgstr "Cuirassier"
+
+msgid "IDS_INFINITY_BOT_21"
+msgstr "Kommuna"
+
+msgid "IDS_INFINITY_BOT_22"
+msgstr "Romero"
+
+msgid "IDS_INFO_AIR_SUPPORT_CANT_AIM"
+msgstr "No allied ship selected"
+
+msgid "IDS_IN_PCVE030"
+msgstr "in 'Waffenträger: Isolation'"
+
+msgid "IDS_JAMES_CONRAD"
+msgstr "James Conrad"
+
+msgid "IDS_KILLED_HOUNDS_QTY_FOR_HOUND"
+msgstr ""
+"Hounds\n"
+"lost"
+
+msgid "IDS_KILLED_HOUNDS_QTY_FOR_WAFFENTRAGER"
+msgstr ""
+"Hounds\n"
+"destroyed"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_BATTLE_RULES_HEADER"
+msgstr "Battle Features"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_HEADER"
+msgstr "Waffenträger: Isolation"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_HEADER"
+msgstr "Battle Features"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"You can battle on the side of Ermelinda Jung, commander of powerful ships, "
+"or the Hounds — hunters of the Alliance. Each side has its own tactics, "
+"goals, and truth."
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_TEXT_2"
+msgstr ""
+"At the start of the battle, all points are under Ermelinda's control. "
+"Portals are located on the map for quick travel to the opposite side of the "
+"battlefield."
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_2_HEADER"
+msgstr "Ermelinda: Retribution Protocol"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_2_TEXT_1"
+msgstr ""
+"Ermelinda's goal is to escape the Hounds using the evacuation system, which "
+"charges from captured points and destroying Hounds. Each captured point also"
+" powers the shield module on Ermelinda's ship."
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_2_TEXT_2"
+msgstr ""
+"Ermelinda has 3 ships at her disposal, each with unique armament and a "
+"specific tactical role."
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_HEADER"
+msgstr "Hounds: The Alliance's Attack Dogs"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_TEXT_1"
+msgstr ""
+"The Alliance possesses regeneration technologies: all destroyed Hounds can "
+"return to battle."
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_TEXT_2"
+msgstr ""
+"The Hounds must capture control points to break Ermelinda's shield module "
+"and destroy her before she can launch the evacuation system."
+
+msgid "IDS_NAVAL_FLAG_THE_ALLIANCE_FLAG"
+msgstr "Alliance"
+
+msgid "IDS_NAVAL_FLAG_THE_ALLIANCE_FLAG_DESCRIPTION"
+msgstr ""
+"Operating in the shadows of superpowers is the powerful organization — the "
+"Alliance, created after WWII to prevent global conflicts. However, this "
+"organization's methods are far from humane. The Alliance seeks to reclaim "
+"technologies stolen by the Krieger family."
+
+msgid "IDS_NAVAL_FLAG_WAFFENTRAGER_FLAG"
+msgstr "Waffenträger"
+
+msgid "IDS_NAVAL_FLAG_WAFFENTRAGER_FLAG_DESCRIPTION"
+msgstr ""
+"Ermelinda Jung is the daughter of the legendary engineer Max von Krieger, "
+"who developed revolutionary military technologies. After her father's "
+"mysterious disappearance, Ermelinda continued his work, but the Alliance "
+"stands in her way."
+
+msgid "IDS_NEUTRAL_GROUPH101_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_PAAB211_FRANKLIN_STOCK"
+msgstr "Grumman F7F-2 Tigercat"
+
+msgid "IDS_PAAB212_MONTEREY_STOCK"
+msgstr "Consolidated TBY Sea Wolf"
+
+msgid "IDS_PAAB213_YORKTOWN_STOCK"
+msgstr "Grumman TBM Avenger"
+
+msgid "IDS_PAAF211_FRANKLIN_STOCK"
+msgstr "Ryan FR Fireball"
+
+msgid "IDS_PAAF215_MONTEREY_STOCK"
+msgstr "Curtiss XF14C"
+
+msgid "IDS_PAAF217_YORKTOWN_STOCK"
+msgstr "Grumman F5F Skyrocket"
+
+msgid "IDS_PAAS210_FRANKLIN_SMOKE"
+msgstr "Grumman F7F-2 Tigercat"
+
+msgid "IDS_PAAS211_FRANKLIN_SCOUT"
+msgstr "Curtiss SC-1"
+
+msgid "IDS_PAAS212_MONTEREY_SMOKE"
+msgstr "Consolidated TBY Sea Wolf"
+
+msgid "IDS_PAAS213_MONTEREY_SCOUT"
+msgstr "Curtiss SC-1"
+
+msgid "IDS_PAAS214_YORKTOWN_SMOKE"
+msgstr "Grumman TBM Avenger"
+
+msgid "IDS_PAAS215_YORKTOWN_SCOUT"
+msgstr "Curtiss SC-1"
+
+msgid "IDS_PAAS216_FRANKLIN_SPY"
+msgstr "Vought OS2U Kingfisher"
+
+msgid "IDS_PAAS217_MONTEREY_SPY"
+msgstr "Vought OS2U Kingfisher"
+
+msgid "IDS_PAAS218_YORKTOWN_SPY"
+msgstr "Vought OS2U Kingfisher"
+
+msgid "IDS_PAAS992_CV_TEST_SPY"
+msgstr "Vought OS2U Kingfisher"
+
+msgid "IDS_PAGA238_20MM_OERLIKON_MK4"
+msgstr "20 mm Oerlikon on a Mk.4 mount"
+
+msgid "IDS_PAPR211_FRANKLIN_STOCK"
+msgstr "Tiny Tim"
+
+msgid "IDS_PAPR212_MONTEREY_STOCK"
+msgstr "5-inch FFAR"
+
+msgid "IDS_PAPR213_YORKTOWN_STOCK"
+msgstr "Tiny Tim"
+
+msgid "IDS_PAPT211_FRANKLIN_STOCK"
+msgstr "Torpedo Mk.13-2"
+
+msgid "IDS_PAPT212_MONTEREY_STOCK"
+msgstr "Torpedo Mk.13-2"
+
+msgid "IDS_PAPT213_YORKTOWN_STOCK"
+msgstr "Torpedo Mk.13-2"
+
+msgid "IDS_PARAMS_MODIFIER_CUSTOMVISIBILITYTIME"
+msgstr ""
+"Duration of increased ship detectability after firing a main battery shell"
+
+msgid "IDS_PARAMS_MODIFIER_ENGINEBACKWARDFORSAGEPOWER"
+msgstr "Acceleration when moving backward at low speed"
+
+msgid "IDS_PARAMS_MODIFIER_ENGINEFORWARDFORSAGEPOWER"
+msgstr "Acceleration when moving forward at low speed"
+
+msgid "IDS_PARAMS_MODIFIER_PINGERSECTORTIMECOEFF"
+msgstr "Ping effect duration on a sector highlighted once"
+
+msgid "IDS_PARAMS_MODIFIER_PROGRESS_SHIP_FRAG"
+msgstr "Progress for destroying an enemy ship"
+
+msgid "IDS_PARAMS_MODIFIER_WAFFENTRAGERRELAYFACTOR"
+msgstr "Reactor Alloys"
+
+msgid "IDS_PASA206"
+msgstr "Independence"
+
+msgid "IDS_PASA206_DESCR"
+msgstr ""
+"<p>After Japan's attack on the U.S. in December 1941, the U.S. Navy "
+"leadership recognized the need for aircraft carriers. Given that Essex-class"
+" ships wouldn't be ready before 1944, it was decided to complete the hulls "
+"of Cleveland-class cruisers as light aircraft carriers.</p><p "
+"class=\"p_spacing\"> </p><p>The ships received a hangar for three dozen "
+"aircraft and a flight deck, and bulges were added to compensate for weight. "
+"The former cruisers lacked outstanding seakeeping but were advantageous over"
+" escort carriers in speed.</p><p class=\"p_spacing\"> </p><p>USS "
+"Independence was built in New York and was originally named USS Amsterdam. "
+"During WWII, the ship participated in raids on Rabaul and Tarawa, and "
+"attacks on the Philippines and Japan. In October 1944, the carrier fought in"
+" the Surigao Strait during the Battle of Leyte Gulf. After the war, USS "
+"Independence transported American soldiers home.</p>"
+
+msgid "IDS_PASA206_FULL"
+msgstr "Independence"
+
+msgid "IDS_PASA206_NUMBER"
+msgstr "9"
+
+msgid "IDS_PASA206_YEAR"
+msgstr "1943"
+
+msgid "IDS_PASA210"
+msgstr "Essex"
+
+msgid "IDS_PASA210_DESCR"
+msgstr ""
+"<p>After Japan and Italy abandoned naval construction restrictions, the U.S."
+" Navy leadership began developing new warships of main classes. In the late "
+"1930s, a project was created for a large aircraft carrier with a large air "
+"group, enhanced armor, and numerous anti-aircraft armament.</p><p "
+"class=\"p_spacing\"> </p><p>USS Essex was built at the Newport News "
+"shipyard. In the spring of 1943, after accelerated trials, the ship was "
+"transferred to the Pacific. During WWII, the carrier participated in strikes"
+" on Wake Atoll, Rabaul, the Gilbert Islands, and Kwajalein, covered landing "
+"operations on Tarawa and the Marshall Islands. In 1944, as part of a fast "
+"carrier group, Essex participated in strikes on Saipan, Tinian, and Guam. "
+"After repairs in 1944, the carrier participated in attacks on Palau and "
+"Mindanao, strikes on Okinawa and Taiwan, and then fought in Leyte "
+"Gulf.</p><p class=\"p_spacing\"> </p><p>In 1963, the carrier participated in"
+" the naval blockade of Cuba. In the 1960s, the ship also served as a "
+"recovery transport for Apollo space missions. During its service, Essex "
+"received 21 battle stars.</p>"
+
+msgid "IDS_PASA210_FULL"
+msgstr "Essex"
+
+msgid "IDS_PASA210_NUMBER"
+msgstr "24"
+
+msgid "IDS_PASA210_YEAR"
+msgstr "1942"
+
+msgid "IDS_PAUB505_CV6_TB_STOCK"
+msgstr "Consolidated TBY Sea Wolf"
+
+msgid "IDS_PAUB713_CV8_TB_STOCK"
+msgstr "Grumman TBM Avenger"
+
+msgid "IDS_PAUB909_CV10_TB_STOCK"
+msgstr "Grumman TBM Avenger"
+
+msgid "IDS_PAUE513_CV6_ENG_STOCK"
+msgstr "Propulsion: 100,800 hp"
+
+msgid "IDS_PAUE728_CV8_ENG_STOCK"
+msgstr "Propulsion: 120,000 hp"
+
+msgid "IDS_PAUE934_CV10_ENG_STOCK"
+msgstr "Propulsion: 150,000 hp"
+
+msgid "IDS_PAUF504_CV6_FC_STOCK"
+msgstr "Mk8"
+
+msgid "IDS_PAUF709_CV8_FC_STOCK"
+msgstr "Mk8"
+
+msgid "IDS_PAUF906_CV10_FC_STOCK"
+msgstr "Mk8"
+
+msgid "IDS_PAUH513_CV6_HULL_STOCK"
+msgstr "Independence"
+
+msgid "IDS_PAUH740_CV8_HULL_STOCK"
+msgstr "Yorktown"
+
+msgid "IDS_PAUH929_CV10_HULL_STOCK"
+msgstr "Essex"
+
+msgid "IDS_PAUI506_CV6_F_STOCK"
+msgstr "Curtiss XF14C"
+
+msgid "IDS_PAUI714_CV8_F_STOCK"
+msgstr "Grumman F5F Skyrocket"
+
+msgid "IDS_PAUI911_CV10_F_STOCK"
+msgstr "Ryan FR Fireball"
+
+msgid "IDS_PCEC155_CAMO_WAFFLEBOTS_BLUE"
+msgstr "Automaton — Blue"
+
+msgid "IDS_PCEC156_CAMO_WAFFLEBOTS_VIOLET"
+msgstr "Automaton — Violet"
+
+msgid "IDS_PCEC157_CAMO_WAFFLEBOTS_WHITE"
+msgstr "Automaton — White"
+
+msgid "IDS_PCEC158_CAMO_WAFFLEHOUNDS"
+msgstr "Alliance Soldier"
+
+msgid "IDS_PCEE750_TM_FLAG"
+msgstr "Discipline and Daring"
+
+msgid "IDS_PCEE750_TM_FLAG_DESCRIPTION"
+msgstr ""
+"Keira is the top student of the Northern Maritime Academy. She attacks "
+"quickly and precisely, like a sharp saber, and eliminates any opponents in "
+"her path."
+
+msgid "IDS_PCEE750_TM_FLAG_EXTRA_DESCRIPTION"
+msgstr "In honor of the \"Tsar Morey\" tournament."
+
+msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG"
+msgstr "Italian Cruisers"
+
+msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG_DESCRIPTION"
+msgstr ""
+"Ancient Roman legions had their own field standards — vexilla. They were "
+"square banners with the legion's name, nickname, and symbol, as well as the "
+"emperor's name. One of the most common symbols was the bull, which Romans "
+"associated with the god of war, Mars."
+
+msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr ""
+"In honor of the new Italian cruisers entering Early Access in update 25.10."
+
+msgid "IDS_PCEE761_THE_ALLIANCE_FLAG"
+msgstr "Alliance"
+
+msgid "IDS_PCEE761_THE_ALLIANCE_FLAG_DESCRIPTION"
+msgstr ""
+"Operating in the shadows of superpowers is the powerful organization — the "
+"Alliance, created after WWII to prevent global conflicts. However, this "
+"organization's methods are far from humane. The Alliance seeks to reclaim "
+"technologies stolen by the Krieger family."
+
+msgid "IDS_PCEE762_WAFFENTRAGER_FLAG"
+msgstr "Waffenträger"
+
+msgid "IDS_PCEE762_WAFFENTRAGER_FLAG_DESCRIPTION"
+msgstr ""
+"Ermelinda Jung is the daughter of the legendary engineer Max von Krieger, "
+"who developed revolutionary military technologies. After her father's "
+"mysterious disappearance, Ermelinda continued his work, but the Alliance "
+"stands in her way."
+
+msgid "IDS_PCEE778_OGNENNY_FLAG"
+msgstr "Ognenny"
+
+msgid "IDS_PCEE778_OGNENNY_FLAG_DESCRIPTION"
+msgstr ""
+"The destroyer 'Ognenny' became one of the first specialized radio "
+"intelligence ships in the Soviet Navy. The sleeve insignia of the USSR "
+"Navy's radio technical service specialists featured crossed lightning bolts "
+"and radio waves."
+
+msgid "IDS_PCEE779_TUNTOU_FLAG"
+msgstr "Tuntou"
+
+msgid "IDS_PCEE779_TUNTOU_FLAG_DESCRIPTION"
+msgstr ""
+"The character 'Fú' denotes luck and happiness and is an integral attribute "
+"of Chinese New Year celebrations. This sign is often placed on the paper "
+"shell of New Year lanterns, as well as on house doors to attract good "
+"fortune."
+
+msgid "IDS_PCVE030"
+msgstr "Waffenträger: Isolation"
+
+msgid "IDS_PCVE030_DESCRIPTION"
+msgstr ""
+"Asymmetric battles between Ermelinda Jung and the Hounds. Choose your side "
+"and find your tactic!"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "RETURN TO BATTLE"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"The Alliance possesses regeneration technologies: all destroyed Hounds can "
+"return to battle."
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "PORTALS"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Travel to the opposite side of the map using portals."
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "CONTROL POINTS"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr ""
+"Capture points to weaken Ermelinda's defense and slow the evacuation system "
+"charging. When fully charged, Ermelinda wins!"
+
+msgid "IDS_PCVE030_MATCHMAKER_DESCRIPTION"
+msgstr "Grimsby Islands"
+
+msgid "IDS_PCVE030_START_TASK_HOUND"
+msgstr "Destroy Ermelinda's ship before the evacuation system launches"
+
+msgid "IDS_PCVE030_START_TASK_WAFFENTRAGER"
+msgstr "Charge the evacuation system without letting the Hounds destroy you"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "RETURN TO BATTLE"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"The Alliance possesses regeneration technologies: all destroyed Hounds can "
+"return to battle."
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "PORTALS"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Travel to the opposite side of the map using portals."
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "EVACUATION SYSTEM"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr ""
+"Hold points and destroy Hounds to charge the evacuation system. Captured "
+"points also grant a bonus to your defense."
+
+msgid "IDS_PECULARITY_FILTER_HOUND"
+msgstr "Hounds"
+
+msgid "IDS_PECULARITY_FILTER_HOUND_SET_SKIN_TOOLTIP"
+msgstr ""
+"Display the appearance of camouflages and commanders from the 'Hounds' "
+"category in battle and in Port"
+
+msgid "IDS_PECULARITY_FILTER_HOUND_TAKE_OFF_SKIN_TOOLTIP"
+msgstr ""
+"Replace the appearance of camouflages and commanders from the 'Hounds' "
+"category in battle and in Port"
+
+msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER"
+msgstr "Waffenträger: Isolation"
+
+msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER_SET_SKIN_TOOLTIP"
+msgstr ""
+"Display the appearance of camouflages and commanders from the 'Waffenträger:"
+" Isolation' category in battle and in Port"
+
+msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER_TAKE_OFF_SKIN_TOOLTIP"
+msgstr ""
+"Replace the appearance of camouflages and commanders from the 'Waffenträger:"
+" Isolation' category in battle and in Port"
+
+msgid "IDS_PFES500_VOLTIGEUR_HOUND"
+msgstr "Hound"
+
+msgid "IDS_PFGA172_57MM_60_BOFORS_M50_SW"
+msgstr "57 mm/60 SAK Model 1950 on a Model 1950 mount"
+
+msgid "IDS_PFGM174_120MM_50_BOFORS_M50"
+msgstr "120 mm/50 Model 1950 in a turret"
+
+msgid "IDS_PFGT175_533MM_5TUBE_SW"
+msgstr "533 mm 5-tube"
+
+msgid "IDS_PFPA112_120_HE_VOLTIGEUR"
+msgstr "120 mm HE M1950"
+
+msgid "IDS_PFPA113_120_AP_VOLTIGEUR"
+msgstr "120 mm AP M1950"
+
+msgid "IDS_PFPT033_VOLTIGEUR"
+msgstr "Torped M1947 mod 3"
+
+msgid "IDS_PFSD510"
+msgstr "Voltigeur"
+
+msgid "IDS_PFSD510_DESCR"
+msgstr ""
+"<p>The experimental destroyer Voltigeur was designed at the Saint-Nazaire "
+"shipyard by order of the Alliance to strengthen control over Atlantic sea "
+"routes. Its tasks included convoy escort, missions to track enemy fleet "
+"movements, and intercept radio signals.</p><p class=\"p_spacing\"> "
+"</p><p>The ship's name emphasized its role in the first echelons of offense "
+"and forward reconnaissance.</p><p class=\"p_spacing\"> </p><p>Classified. "
+"Not officially listed in any fleet's arsenal.</p>"
+
+msgid "IDS_PFSD510_FULL"
+msgstr "Voltigeur"
+
+msgid "IDS_PFSD510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSD510_YEAR"
+msgstr "1954"
+
+msgid "IDS_PFUA916_ART_VOLTIGEUR"
+msgstr "120 mm/50 Model 1950 in a turret"
+
+msgid "IDS_PFUE915_ENG_VOLTIGEUR"
+msgstr "Propulsion: 58,000 hp"
+
+msgid "IDS_PFUH915_HULL_VOLTIGEUR"
+msgstr "Voltigeur"
+
+msgid "IDS_PFUS914_SUO_VOLTIGEUR"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PFUT910_TORP_VOLTIGEUR"
+msgstr "Torped M1947 mod 1"
+
+msgid "IDS_PIES401_MARCO_AURELIO_ITALY"
+msgstr "Grigio-azzurro chiaro"
+
+msgid "IDS_PIES402_ELIO_ADRIANO_ITALY"
+msgstr "Grigio-azzurro chiaro"
+
+msgid "IDS_PIES403_ULPIO_TRAIANO_ITALY"
+msgstr "Grigio-azzurro chiaro"
+
+msgid "IDS_PIGA124_76MM_62_MMI"
+msgstr "76 mm/62 M.M.I."
+
+msgid "IDS_PIGM123_203MM_55_ANSALDO_QUADRUPLE"
+msgstr "203 mm/55 Model 1934 in a quadruple mount"
+
+msgid "IDS_PIPA101_203MM_CS_T11"
+msgstr "203 mm proiettili CS 1924 mod.3"
+
+msgid "IDS_PIPA102_203MM_AP_T11"
+msgstr "203 mm proiettili AP 1924 mod.2"
+
+msgid "IDS_PIPT028_533MM_T11"
+msgstr "533 mm Si 270 N"
+
+msgid "IDS_PIPT029_533_SI270_IT_CL_9_10"
+msgstr "533 mm Si 270"
+
+msgid "IDS_PISC211"
+msgstr "Liguria"
+
+msgid "IDS_PISC211_DESCR"
+msgstr ""
+"<p>Within the framework of cooperation between the USSR and Italy in the "
+"naval field in the 1930s, the Ansaldo firm prepared a package of blueprints "
+"for the Soviet side. The proposed projects included two versions of a "
+"battleship with a displacement of 42,000 and 28,000 tons, two versions of a "
+"battlecruiser, and one armored leader.</p><p class=\"p_spacing\"> "
+"</p><p>Among the Italian projects was a blueprint for a battlecruiser with a"
+" standard displacement of 22,000 tons. Such a cruiser, according to Italian "
+"designers, was to carry powerful armament of nine 10-inch guns, have a four-"
+"shaft layout with 60,000 hp per shaft, allowing the ship to develop "
+"relatively high speed. A ship built in Italy as a result of this project's "
+"development could have received traditional Italian cruiser armament: 203 mm"
+" guns in quadruple mounts.</p>"
+
+msgid "IDS_PISC211_FULL"
+msgstr "Liguria"
+
+msgid "IDS_PISC211_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISC211_YEAR"
+msgstr "1935"
+
+msgid "IDS_PIUA912_C11_ART_STOCK"
+msgstr "203 mm/55 Model 1934 in a quadruple mount"
+
+msgid "IDS_PIUE912_C11_ENG_STOCK"
+msgstr "Propulsion: 240,000 hp"
+
+msgid "IDS_PIUH912_C11_HULL_STOCK"
+msgstr "Liguria"
+
+msgid "IDS_PIUS911_C11_SUO_STOCK"
+msgstr "SDT 11"
+
+msgid "IDS_PIUT907_C11_TORP_STOCK"
+msgstr "533 mm Si 270"
+
+msgid "IDS_PJES300_RAIJU_HOUND"
+msgstr "Hound"
+
+msgid "IDS_PJGA244_37MM_67_V11"
+msgstr "37 mm V-11 mount"
+
+msgid "IDS_PJGA246_37MM_46K"
+msgstr "37 mm 46-K mount"
+
+msgid "IDS_PJGM243_406MM_52_MK_5_16_QUADRUPLE"
+msgstr "406 mm/52 on a MK-5-16 mount"
+
+msgid "IDS_PJGS245_130MM_60_BL_101_B"
+msgstr "130 mm/60 on a BL-101 mount"
+
+msgid "IDS_PJGS247_152MM_50"
+msgstr "152 mm/50 Model 1908 on an Obukhov Plant mount"
+
+msgid "IDS_PJPA180_406MM_HE_RAIJU"
+msgstr "406 mm HE Model 1928"
+
+msgid "IDS_PJPA181_406MM_AP_RAIJU"
+msgstr "406 mm AP Model 1928"
+
+msgid "IDS_PJSB520"
+msgstr "Raijū"
+
+msgid "IDS_PJSB520_DESCR"
+msgstr ""
+"<p>The experimental battleship Raijū was built under conditions of utmost "
+"secrecy at the naval shipyard in Kure as part of the Alliance's program to "
+"create new-generation universal combat platforms.</p><p class=\"p_spacing\">"
+" </p><p>The ship's name refers to a mythical creature from Japanese folklore"
+" associated with lightning and storms. This image was reflected in the "
+"vessel's concept: Raijū was conceived as a strike combat unit capable of "
+"delivering crushing blows with terrifying power, reacting swiftly to "
+"threats, and withstanding attacks even from submarines thanks to enhanced "
+"torpedo protection.</p><p class=\"p_spacing\"> </p><p>Classified. Not "
+"officially listed in any fleet's arsenal.</p>"
+
+msgid "IDS_PJSB520_FULL"
+msgstr "Raijū"
+
+msgid "IDS_PJSB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB520_YEAR"
+msgstr "1956"
+
+msgid "IDS_PJUA917_ART_RAIJU"
+msgstr "406 mm/52 on a MK-5-16 mount"
+
+msgid "IDS_PJUE923_ENG_RAIJU"
+msgstr "Propulsion: 200,000 hp"
+
+msgid "IDS_PJUH923_HULL_RAIJU"
+msgstr "Raijū"
+
+msgid "IDS_PJUS920_SUO_RAIJU"
+msgstr "Type10"
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_1_F"
+msgstr ""
+"Allied Alliance ships without crew on board opened fire on Conrad's ships."
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_2_F"
+msgstr ""
+"Someone from an allied ship made contact and mentioned a familiar surname."
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_3_F"
+msgstr ""
+"The general tells Conrad about the Krieger family. The isolation becomes "
+"increasingly frightening."
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_4_F"
+msgstr "Ermelinda removes her mask and reveals her plan."
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_5_F"
+msgstr "Congratulations, you have completed the portal campaign!"
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_FINAL"
+msgstr "Portal campaign completed."
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_INTRO"
+msgstr ""
+"James Conrad received a task from the Alliance: he is to lead the Hounds."
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_1_F"
+msgstr ""
+"Protect Erebus.\n"
+"Chapter 2"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_2_F"
+msgstr ""
+"Protect Erebus.\n"
+"Chapter 3"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_3_F"
+msgstr ""
+"Protect Erebus.\n"
+"Chapter 4"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_4_F"
+msgstr ""
+"Protect Erebus.\n"
+"Chapter 5"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_5_F"
+msgstr ""
+"Protect Erebus.\n"
+"Finale"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_FINAL"
+msgstr "Protect Erebus"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_INTRO"
+msgstr ""
+"Protect Erebus.\n"
+"Chapter 1"
+
+msgid "IDS_PORT_WAFFENTRAGER"
+msgstr "Fort Erebus"
+
+msgid "IDS_PORT_WAFFENTRAGER_TOOLTIP"
+msgstr "Port 'Fort Erebus'"
+
+msgid "IDS_PREP518_OGNEVOY_FORMAL"
+msgstr "Black Sea"
+
+msgid "IDS_PRGA250_57MM_81_ZIF_71"
+msgstr "57 mm ZIF-71 mount"
+
+msgid "IDS_PRPA223_130MM_HE_OGNENNY"
+msgstr "HE-46"
+
+msgid "IDS_PRPA224_130MM_AP_OGNENNY"
+msgstr "AP-46"
+
+msgid "IDS_PRPT091_OGNENNY"
+msgstr "53-39 mod. 1"
+
+msgid "IDS_PRSD519"
+msgstr "Ognenny"
+
+msgid "IDS_PRSD519_DESCR"
+msgstr ""
+"<p>In 1955–56, assignments were approved for the conversion of Project "
+"30-bis destroyers into radio intelligence ships. These ships were to conduct"
+" radio reconnaissance, radar, and jamming in the interests of the formation."
+" The project included the installation of ZIF-71 anti-aircraft guns with "
+"radar guidance, two RBU-2500, as well as radio reconnaissance and radar "
+"equipment. In 1958–60, eight Project 30-bis destroyers were "
+"modernized.</p><p class=\"p_spacing\"> </p><p>'Ognenny' was built in "
+"Molotovsk at plant No. 402 as a Project 30-bis destroyer. From 1950 to 1963,"
+" it was part of the Northern Fleet. In 1958–60, it was modernized under "
+"Project 31 as a radio intelligence ship. In 1963–64, it served in the Black "
+"Sea Fleet, and from 1968 — the Baltic Fleet. In 1971, it performed combat "
+"missions, providing assistance to the Egyptian Navy.</p>"
+
+msgid "IDS_PRSD519_FULL"
+msgstr "Ognenny"
+
+msgid "IDS_PRSD519_NUMBER"
+msgstr "8"
+
+msgid "IDS_PRSD519_YEAR"
+msgstr "1950"
+
+msgid "IDS_PRUA826_ART_OGNENNY"
+msgstr "130 mm/50 Model 1936 on a B-2LM mount"
+
+msgid "IDS_PRUE823_ENG_OGNENNY"
+msgstr "Propulsion: 60,700 hp"
+
+msgid "IDS_PRUH832_HULL_OGNENNY"
+msgstr "Ognenny"
+
+msgid "IDS_PRUS831_SUO_OGNENNY"
+msgstr "FCS IX"
+
+msgid "IDS_PRUT816_TORP_OGNENNY"
+msgstr "53-30"
+
+msgid "IDS_PWES400_TORDENSKJOLD_HOUND"
+msgstr "Hound"
+
+msgid "IDS_PWGA117_65MM_64_ANSALDO_DUAL"
+msgstr "65 mm/64 Model 1939 on a twin mount"
+
+msgid "IDS_PWGA119_37MM_BREDA_BARRELS_4"
+msgstr "37 mm/54 Breda Model 1939 on a quadruple mount"
+
+msgid "IDS_PWGM116_203MM55_BARRELS_3"
+msgstr "203 mm/55 Model 1934 in a turret"
+
+msgid "IDS_PWGS118_90MM50_BARRELS_2_M1939"
+msgstr "90 mm/50 Model 1939 on a twin mount"
+
+msgid "IDS_PWPA055_203MM_55_HE_TORDENSKJOLD"
+msgstr "203 mm proiettili HE 1924"
+
+msgid "IDS_PWPA056_203MM_55_AP_TORDENSKJOLD"
+msgstr "203 mm proiettili AP 1924 mod.2"
+
+msgid "IDS_PWPT028_TORDENSKJOLD"
+msgstr "Torped M1947 mod 1"
+
+msgid "IDS_PWSC510"
+msgstr "Tordenskjold"
+
+msgid "IDS_PWSC510_DESCR"
+msgstr ""
+"<p>The experimental heavy cruiser, named after the glorious Danish-Norwegian"
+" Vice-Admiral Peter Wessel Tordenskjold, was created as part of the "
+"Alliance's plan to strengthen naval presence in polar and subpolar "
+"regions.</p><p class=\"p_spacing\"> </p><p>The ship combined the firepower "
+"of a heavy artillery cruiser, lightning speed for quick retreats, and "
+"enhanced ice protection for the hull, allowing operations in the most "
+"complex climatic conditions — from the Barents Sea to the southern tip of "
+"the Earth.</p><p class=\"p_spacing\"> </p><p>Classified. Not officially "
+"listed in any fleet's arsenal.</p>"
+
+msgid "IDS_PWSC510_FULL"
+msgstr "Tordenskjold"
+
+msgid "IDS_PWSC510_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSC510_YEAR"
+msgstr "1953"
+
+msgid "IDS_PWUA908_ART_TORDENSKJOLD"
+msgstr "203 mm/55 Model 1934 in a turret"
+
+msgid "IDS_PWUE908_ENG_TORDENSKJOLD"
+msgstr "Propulsion: 240,000 hp"
+
+msgid "IDS_PWUH908_HULL_TORDENSKJOLD"
+msgstr "Tordenskjold"
+
+msgid "IDS_PWUS909_SUO_TORDENSKJOLD"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PWUT906_TORP_TORDENSKJOLD"
+msgstr "533 mm Si 270 N"
+
+msgid "IDS_PXES400_WAFFLE_SIGNALTRAGER"
+msgstr "Von Krieger's Legacy"
+
+msgid "IDS_PXES401_WAFFLE_FLAMMENREITER"
+msgstr "Von Krieger's Legacy"
+
+msgid "IDS_PXES402_WAFFLE_GEISTERJAGER"
+msgstr "Von Krieger's Legacy"
+
+msgid "IDS_PXGM118_305MM_61_SM31_WAFFEN"
+msgstr "305 mm/61 SM-33 on an SM-31 mount"
+
+msgid "IDS_PXPA092_130MM_HE_SG_DICTATOR"
+msgstr "HE-42"
+
+msgid "IDS_PXSC017"
+msgstr "Flammenreiter"
+
+msgid "IDS_PXSC017_DESCR"
+msgstr ""
+"<p>Designed by Ermelinda Jung under conditions of complete isolation at the "
+"abandoned base 'Fort Erebus' using the hull and technical developments of a "
+"heavy cruiser from the Alliance fleet.</p><p class=\"p_spacing\"> </p><p>The"
+" project reflected her desire to combine power and technological "
+"sophistication with aggressive close-quarters combat tactics. The ship's "
+"main combat feature is the system for controlling fires and floods in the "
+"enemy's area.</p><p class=\"p_spacing\"> </p><p>Additionally, the ship has "
+"the ability to instantly move through space thanks to a built-in quantum "
+"module, allowing for short jumps and swift strikes.</p>"
+
+msgid "IDS_PXSC017_FULL"
+msgstr "Flammenreiter"
+
+msgid "IDS_PXSC017_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC017_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSC018"
+msgstr "Geisterjäger"
+
+msgid "IDS_PXSC018_DESCR"
+msgstr ""
+"<p>Designed by Ermelinda Jung under conditions of complete isolation at the "
+"abandoned base 'Fort Erebus' based on the hull and technical developments of"
+" a heavy cruiser from the Alliance fleet.</p><p class=\"p_spacing\"> "
+"</p><p>The ship's main feature became good concealment, allowing it to "
+"disappear from the enemy's field of view. The cruiser also gained access to "
+"an energy shield capable of dissipating most attacks for some time and "
+"minimizing damage.</p><p class=\"p_spacing\"> </p><p>Combined with the "
+"ability to instantly teleport to targets, these features allowed the ship to"
+" deliver powerful strikes with utmost precision. All this made the ship an "
+"elusive and dangerous killer.</p>"
+
+msgid "IDS_PXSC018_FULL"
+msgstr "Geisterjäger"
+
+msgid "IDS_PXSC018_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC018_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSC019"
+msgstr "Signalträger"
+
+msgid "IDS_PXSC019_DESCR"
+msgstr ""
+"<p>Designed by Ermelinda Jung under conditions of complete isolation at the "
+"Alliance's abandoned base 'Fort Erebus'.</p><p class=\"p_spacing\"> "
+"</p><p>Using a heavy cruiser hull, Ermelinda integrated a unique summoning "
+"system for autonomous combat units intended to protect the main ship. This "
+"system also allowed teleporting summoned combat units to the enemy, creating"
+" unexpected pressure and distributing firepower across the entire theater of"
+" operations.</p><p class=\"p_spacing\"> </p><p>All this made Signalträger "
+"practically invulnerable when used correctly tactically.</p>"
+
+msgid "IDS_PXSC019_FULL"
+msgstr "Signalträger"
+
+msgid "IDS_PXSC019_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC019_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXUA908_ART_DICTATOR"
+msgstr "305 mm/61 SM-33 on an SM-31 mount"
+
+msgid "IDS_PXUA909_ART_PREDATOR"
+msgstr "305 mm/61 SM-33 on an SM-31 mount"
+
+msgid "IDS_PXUA910_ART_BOTOMANCER"
+msgstr "305 mm/61 SM-33 on an SM-31 mount"
+
+msgid "IDS_PXUE924_ENG_DICTATOR"
+msgstr "Propulsion: 280,000 hp"
+
+msgid "IDS_PXUE926_ENG_PREDATOR"
+msgstr "Propulsion: 280,000 hp"
+
+msgid "IDS_PXUE927_ENG_BOTOMANCER"
+msgstr "Propulsion: 280,000 hp"
+
+msgid "IDS_PXUH924_HULL_DICTATOR"
+msgstr "Flammenreiter"
+
+msgid "IDS_PXUH926_HULL_PREDATOR"
+msgstr "Geisterjäger"
+
+msgid "IDS_PXUH927_HULL_BOTOMANCER"
+msgstr "Signalträger"
+
+msgid "IDS_PXUS927_SUO_DICTATOR"
+msgstr "GFCS X"
+
+msgid "IDS_PXUS928_SUO_PREDATOR"
+msgstr "GFCS X"
+
+msgid "IDS_PXUS929_SUO_BOTOMANCER"
+msgstr "GFCS X"
+
+msgid "IDS_PZPA097_127MM_HE_TUNTOU"
+msgstr "127 mm HE Mk32"
+
+msgid "IDS_PZPA098_127MM_AP_TUNTOU"
+msgstr "127 mm AP/SC Mk38"
+
+msgid "IDS_PZPT059_TUNTOU"
+msgstr "Mark 17"
+
+msgid "IDS_PZSD610"
+msgstr "Tuntou"
+
+msgid "IDS_PZSD610_DESCR"
+msgstr "A ship for testing."
+
+msgid "IDS_PZSD610_FULL"
+msgstr "Tuntou"
+
+msgid "IDS_PZSD610_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSD610_YEAR"
+msgstr "1945"
+
+msgid "IDS_PZUA907_ART_TUNTOU"
+msgstr "127 mm/38 Mk.12 on a Mk.38 mount"
+
+msgid "IDS_PZUE907_ENG_TUNTOU"
+msgstr "Propulsion: 60,000 hp"
+
+msgid "IDS_PZUH907_HULL_TUNTOU"
+msgstr "Tuntou"
+
+msgid "IDS_PZUS907_SUO_TUNTOU"
+msgstr "Mk10 mod. 1"
+
+msgid "IDS_PZUT906_TORP_TUNTOU"
+msgstr "Mark 17"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_BOTOMANCER"
+msgstr ""
+"<p>Progress increases when destroying enemy ships.</p><p "
+"class=\"p_spacing\"> </p><p>You do not lose progress when inactive. The "
+"instruction activates automatically.</p>"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_BOTOMANCER_AUTO"
+msgstr ""
+"For each Hound ship destroyed, you receive one charge of 'Signal' type "
+"consumables. No more than 5 automatons can be active in battle "
+"simultaneously."
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_PREDATOR"
+msgstr ""
+"<p>Charges during the action of battle instructions, after which it deals "
+"damage to every enemy equal to 70% of their standard durability.</p><p "
+"class=\"p_spacing\"> </p><p>Destroy enemy ships to gain access to "
+"activation.</p><p class=\"p_spacing\"> </p><p>Press [CMD_ACTIVATE_RAGE_MODE]"
+" to activate battle instructions.</p>"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_SHIP_FRAG"
+msgstr ""
+"<p>Progress increases as enemy ships are destroyed.</p><p "
+"class=\"p_spacing\"> </p><p>You do not lose progress when inactive. Press "
+"[CMD_ACTIVATE_RAGE_MODE] to activate battle instructions.</p>"
+
+msgid "IDS_REWARD_WAFFENTRAGERACTIVATIONKEYS_TITLE"
+msgstr "Activation Key"
+
+msgid "IDS_REWARD_WAFFENTRAGERPROGRESSPOINTS_TITLE"
+msgstr "Reactor Alloys"
+
+msgid "IDS_REWARD_WAFFENTRAGERRELAY_TITLE"
+msgstr "Reactor Alloys"
+
+msgid "IDS_SCENARIO_INFINITY_SCENARIO"
+msgstr "Infinite War"
+
+msgid "IDS_SCENARIO_WT_MAINSCENARIO"
+msgstr "Waffenträger: Isolation"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_WAFFENTRAGER"
+msgstr "Waffenträger"
+
+msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_CHANGE_WT_TASK"
+msgstr ""
+"Status set to 'Ready for Division Battle'. Press 'Not Ready' to change the "
+"task."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM196_ENGINE_WT"
+msgstr "Team Engine Boost"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM217_HOUNDSRESIST_WT"
+msgstr "Team Shield"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM218_HOUNDSVAMPIRISM_WT"
+msgstr "Armor Extraction"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM233_SLOWDOWN_WT"
+msgstr "Slowing Shells"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM251_HOUNDS_REGENERATION_WT"
+msgstr "Mechanism Regeneration"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VAMPIRISM"
+msgstr "Techno-vampirism"
+
+msgid "IDS_SHIP_MODIFIER_PXOM196_ENGINE_WT_APPLIED"
+msgstr "Team Engine Boost applied"
+
+msgid "IDS_SHIP_MODIFIER_PXOM217_HOUNDSRESIST_WT_APPLIED"
+msgstr "Team Shield applied"
+
+msgid "IDS_SHIP_MODIFIER_PXOM218_HOUNDSVAMPIRISM_WT_APPLIED"
+msgstr "Armor Extraction applied"
+
+msgid "IDS_SHIP_MODIFIER_PXOM239_2025WT_BMANCER_SHOTDELAY"
+msgstr "Signal 1: ***"
+
+msgid "IDS_SHIP_MODIFIER_PXOM239_2025WT_BMANCER_SHOTDELAY_APPLIED"
+msgstr "Signal 1: Rate of Fire"
+
+msgid "IDS_SHIP_MODIFIER_PXOM240_2025WT_BMANCER_HULLHEALTH"
+msgstr "Signal 2: ***"
+
+msgid "IDS_SHIP_MODIFIER_PXOM240_2025WT_BMANCER_HULLHEALTH_APPLIED"
+msgstr "Signal 2: Durability"
+
+msgid "IDS_SHIP_MODIFIER_PXOM241_2025WT_BMANCER_REGEN"
+msgstr "Signal 3: ***"
+
+msgid "IDS_SHIP_MODIFIER_PXOM241_2025WT_BMANCER_REGEN_APPLIED"
+msgstr "Signal 3: Restoration"
+
+msgid "IDS_SHIP_MODIFIER_PXOM242_2025WT_BM_BOTS_SHOTDELAY"
+msgstr "Signal 4: ***"
+
+msgid "IDS_SHIP_MODIFIER_PXOM242_2025WT_BM_BOTS_SHOTDELAY_APPLIED"
+msgstr "Signal 4: Rate of Fire"
+
+msgid "IDS_SHIP_MODIFIER_PXOM243_2025WT_BM_BOTS_HULLHEALTH"
+msgstr "Signal 5: ***"
+
+msgid "IDS_SHIP_MODIFIER_PXOM243_2025WT_BM_BOTS_HULLHEALTH_APPLIED"
+msgstr "Signal 5: Durability"
+
+msgid "IDS_SHIP_MODIFIER_PXOM244_2025WT_BM_BOTS_REGEN"
+msgstr "Signal 6: ***"
+
+msgid "IDS_SHIP_MODIFIER_PXOM244_2025WT_BM_BOTS_REGEN_APPLIED"
+msgstr "Signal 6: Restoration"
+
+msgid "IDS_SHIP_MODIFIER_PXOM251_HOUNDS_REGENERATION_WT_APPLIED"
+msgstr "Mechanism Regeneration applied"
+
+msgid "IDS_SHIP_MODIFIER_PXY534_PXOM233_SLOWDOWN_WT_APPLIED"
+msgstr "Slowing Shells applied"
+
+msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_SPY"
+msgstr "Scouts"
+
+msgid "IDS_SMOKERS"
+msgstr "Smoke Screen Aircraft"
+
+msgid "IDS_SOUND_MOD_WAFFENTRAGER_ERMELINDA_JUNG"
+msgstr "Ermelinda Jung"
+
+msgid "IDS_SOUND_MOD_WAFFENTRAGER_JAMES_CONRAD"
+msgstr "James Conrad"
+
+msgid "IDS_SPACES/E15_2025_WAFFENTRAGER"
+msgstr "Grimsby Islands"
+
+msgid "IDS_SPACES/E15_2025_WAFFENTRAGER_DESCR"
+msgstr "Grimsby Islands"
+
+msgid "IDS_SPIES"
+msgstr "Scouts"
+
+msgid "IDS_SSE_CONDITIONS_IN_DIVISION_MEMBER_TYPE_ANY"
+msgstr ", fighting in a Division created in Port"
+
+msgid "IDS_SSE_CONDITIONS_IN_DIVISION_MEMBER_TYPE_RECRUIT"
+msgstr ", fighting in a Division with your recruitment shipmate"
+
+msgid "IDS_SSE_CONDITIONS_IN_DIVISION_MEMBER_TYPE_VETERAN"
+msgstr ", fighting in a Division with your recruitment mentor"
+
+msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_LOSE"
+msgstr "The enemy managed to escape"
+
+msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_WON"
+msgstr "Long live the Alliance!"
+
+msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_LOSE"
+msgstr "Von Krieger's legacy will be forgotten"
+
+msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_WON"
+msgstr "Von Krieger's legacy is immortal!"
+
+msgid "IDS_SYS_MSG_BOUGHT_WAFFENTRAGER_ACTIVATION_KEY"
+msgstr "Activation Keys purchased"
+
+msgid "IDS_SYS_MSG_BOUGHT_WAFFENTRAGER_PROGRESS_POINTS"
+msgstr "Куплены реактосплавы"
+
+msgid "IDS_SYS_MSG_BOUGHT_WAFFENTRAGER_RELAY"
+msgstr "Reactor Alloys purchased"
+
+msgid "IDS_SYS_MSG_BOUGht_WAFFENTRAGER_PROGRESS_POINTS"
+msgstr "Reactor Alloys purchased"
+
+msgid "IDS_SYS_MSG_RECEIVED_WAFFENTRAGER_ACTIVATION_KEY"
+msgstr "Activation Keys received"
+
+msgid "IDS_SYS_MSG_RECEIVED_WAFFENTRAGER_PROGRESS_POINTS"
+msgstr "Reactor Alloys received"
+
+msgid "IDS_SYS_MSG_RECEIVED_WAFFENTRAGER_RELAY"
+msgstr "Reactor Alloys received"
+
+msgid "IDS_SYS_MSG_WAFFENTRAGER_BOOSTER_BOUGHT"
+msgstr "Bureau bonus purchased"
+
+msgid "IDS_SYS_MSG_WAFFENTRAGER_BOOSTER_UPGRADED"
+msgstr "Bureau bonus upgraded"
+
+msgid "IDS_SYS_MSG_WAFFENTRAGER_TASK_REROLLED"
+msgstr "Combat Task replaced"
+
+msgid "IDS_SYS_MSG_WAFFENTRAGER_THRESHOLD_PASSED"
+msgstr "Level passed in the 'Waffenträger: Isolation' event"
+
+msgid "IDS_SYS_MSG_WAFFENTRAGER_THRESHOLD_REWARDS"
+msgstr "Rewards from the 'Waffenträger: Isolation' event"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_ACTIVATION_KEY"
+msgstr "Activation Keys removed"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_PROGRESS_POINTS"
+msgstr "Reactor Alloys removed"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_RELAY"
+msgstr "Reactor Alloys removed"
+
+msgid "IDS_TOKEN_TARGET_TYPE_WAFFENTRAGER_PORTAL_CAMPAIGN"
+msgstr "'Protect Erebus' Portal Campaign"
+
+msgid "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_SPY"
+msgstr "Support Squadron"
+
+msgid "IDS_TOOLTIP_WAVE_DURATION"
+msgstr "Hitting an enemy ship with a sonar pulse marks it for torpedo homing."
+
+msgid "IDS_UNABLE_TO_SET_WHILE_IN_BALANCER_CHANGE_WT_TASK"
 msgstr "Unavailable while battle search is active"
 
-msgid "IDS_UNABLE_TO_SET_WHILE_READY_FOR_BATTLE"
-msgstr ""
-"You cannot make changes while your status is \"Ready for Division Battle\""
-
-msgid "IDS_UNCOMMON_CREW_STATUS"
-msgstr "Special Commander"
-
-msgid "IDS_UNLOCKS_292101"
-msgstr "Fight against bots in cooperation with other players."
-
-msgid "IDS_UNLOCKS_3124"
+msgid "IDS_UNLOCKS_24"
 msgstr "Complete scenario missions with a team, fighting against bots."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_292101"
-msgstr ""
-"<p>Fight together with other players against bots.</p><p "
-"class=\"p_spacing\"> </p><p>The battle type selection is located next to the"
-" 'Battle!' button.</p>"
+msgid "IDS_UNLOCKS_31292101"
+msgstr "Fight against bots in cooperation with other players."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_3124"
+msgid "IDS_UNLOCKS_DESCRIPTION_24"
 msgstr ""
 "<p>In Operations, your team must complete various tasks while fighting bots."
 " Each Operation has unique story elements.</p><p class=\"p_spacing\"> "
@@ -1649,213 +3244,812 @@ msgstr ""
 "your team.</p><p class=\"p_spacing\"> </p><p>Available on the battle type "
 "selection screen.</p>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_292101"
+msgid "IDS_UNLOCKS_DESCRIPTION_31292101"
 msgstr ""
-"You now have access to\n"
-"<h3>Co-op Battles</h3>"
+"<p>Fight together with other players against bots.</p><p "
+"class=\"p_spacing\"> </p><p>The battle type selection is located next to the"
+" 'Battle!' button.</p>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgid "IDS_UNLOCKS_LEVEL_UP_24"
 msgstr ""
 "<body>You now have access to\n"
 "<h3>Operations</h3></body>"
 
-msgid "IDS_UNLOCKS_TITLE_292101"
-msgstr "Co-op Battles"
+msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
+msgstr ""
+"You now have access to\n"
+"<h3>Co-op Battles</h3>"
 
-msgid "IDS_UNLOCKS_TITLE_3124"
+msgid "IDS_UNLOCKS_TITLE_24"
 msgstr "Operations"
 
-msgid "IDS_VIEW_SQUADRON"
-msgstr "View squadron armament and equipment"
+msgid "IDS_UNLOCKS_TITLE_31292101"
+msgstr "Co-op Battles"
 
-msgid "IDS_WAITING_IN_BATTLE_TYPE"
-msgstr "Battle search:"
+msgid "IDS_WAFFENTRAGERACTIVATIONKEYS_COLUMN"
+msgstr "Activation Keys:"
 
-msgid "IDS_YOU_ARE_IN_BALANCER_WHEN_INVITE_RECEIVE"
-msgstr "Accepting the invitation will stop the current battle search"
+msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_NOT_ENOUGH_ACTIVATION_KEYS"
+msgstr ""
+"You don't have Activation Keys for sorties. You can earn them by completing "
+"Hound combat missions."
 
-msgid "IDS_BALANCER_MINUTES_COUNT"
-msgid_plural "IDS_BALANCER_MINUTES_COUNT"
-msgstr[0] " %(_time)s minute"
-msgstr[1] " %(_time)s minutes"
+msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_WAFFENTRAGER_IN_DIVISION"
+msgstr "Division cannot contain Ermelinda Jung's ships"
 
-msgid "IDS_BALANCER_MINUTES_COUNT_NOM"
-msgid_plural "IDS_BALANCER_MINUTES_COUNT_NOM"
-msgstr[0] " %(_time)s minute"
-msgstr[1] " %(_time)s minutes"
+msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_WRONG_SHIP"
+msgstr "The selected ship is not allowed in 'Waffenträger: Isolation'"
 
-msgid "IDS_BALANCER_SECONDS_COUNT"
-msgid_plural "IDS_BALANCER_SECONDS_COUNT"
-msgstr[0] " %(_time)s second"
-msgstr[1] " %(_time)s seconds"
+msgid "IDS_WAFFENTRAGER_BATTLE_DURATION"
+msgstr ""
+"Battle\n"
+"duration"
 
-msgid "IDS_BALANCER_SECONDS_COUNT_NOM"
-msgid_plural "IDS_BALANCER_SECONDS_COUNT_NOM"
-msgstr[0] " %(_time)s second"
-msgstr[1] " %(_time)s seconds"
+msgid "IDS_WAFFENTRAGER_BATTLE_EVENT_INFO_MODAL_WINDOW"
+msgstr "Waffenträger: Isolation"
 
-msgid "IDS_PCQT733_1"
-msgid_plural "IDS_PCQT733_1"
-msgstr[0] "Earn %(count)s 'Set on fire' or 'Caused flooding' ribbon."
-msgstr[1] "Earn %(count)s 'Set on fire' or 'Caused flooding' ribbons."
+msgid "IDS_WAFFENTRAGER_BATTLE_RESULTS_NEXT_BUTTON"
+msgstr "Next"
 
-msgid "IDS_PCQT734_1"
-msgid_plural "IDS_PCQT734_1"
-msgstr[0] "Earn %(count)s 'Strategic Contribution' ribbon."
-msgstr[1] "Earn %(count)s 'Strategic Contribution' ribbons."
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_0"
+msgstr "ERMELINDA JUNG"
 
-msgid "IDS_PCQT735_1"
-msgid_plural "IDS_PCQT735_1"
-msgstr[0] "Earn %(count)s \"Detected\" or \"Covered\" ribbon."
-msgstr[1] "Earn %(count)s \"Detected\" or \"Covered\" ribbons."
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_1"
+msgstr "EVACUATION SYSTEM"
 
-msgid "IDS_PCQT737_1"
-msgid_plural "IDS_PCQT737_1"
-msgstr[0] "Rank among the top-5 XP earners on your team %(count)s time."
-msgstr[1] "Rank %(count)s times among the top-5 XP earners on your team."
+msgid "IDS_WAFFENTRAGER_BOOSTER_POST_BATTLE"
+msgstr "Bureau of Experimental Technology"
 
-msgid "IDS_PCQT738_1"
-msgid_plural "IDS_PCQT738_1"
-msgstr[0] "Earn any %(count)s ribbon."
-msgstr[1] "Earn any %(count)s ribbons."
+msgid "IDS_WAFFENTRAGER_CREDITS_BOOSTER_HINT"
+msgstr ""
+"Amount of additional credits from the Bureau of Experimental Technology "
+"bonus"
 
-msgid "IDS_PCQT740_1"
-msgid_plural "IDS_PCQT740_1"
-msgstr[0] "Win %(count)s battle."
-msgstr[1] "Win %(count)s battles."
+msgid "IDS_WAFFENTRAGER_CREWXP_BOOSTER_HINT"
+msgstr ""
+"Amount of additional Commander XP from the Bureau of Experimental Technology"
+" bonus"
 
-msgid "IDS_PCQT741_1"
-msgid_plural "IDS_PCQT741_1"
-msgstr[0] "Earn any %(count)s ribbon."
-msgstr[1] "Earn any %(count)s ribbons."
+msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_0"
+msgstr "Enemy damage protection"
 
-msgid "IDS_PCQT742_1"
-msgid_plural "IDS_PCQT742_1"
-msgstr[0] "Earn %(count)s 'Torpedo Hits' or 'Citadel Hits' ribbon."
-msgstr[1] "Earn %(count)s 'Torpedo Hits' or 'Citadel Hits' ribbons."
+msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_1"
+msgstr "Damage protection"
 
-msgid "IDS_PCQT743_1"
-msgid_plural "IDS_PCQT743_1"
+msgid "IDS_WAFFENTRAGER_DESCRIPTION_0"
+msgstr "Destroy Ermelinda's ship before the evacuation system launches."
+
+msgid "IDS_WAFFENTRAGER_DESCRIPTION_1"
+msgstr "Charge the evacuation system without letting the Hounds destroy you."
+
+msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_HEADER"
+msgstr "Briefing"
+
+msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_TEXT"
+msgstr ""
+"Six Hounds set out to hunt Ermelinda Jung — commander of powerful ships. "
+"Each side has its own tactics, goals, and truth."
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_BATTLESHIP_FRAG_BOOST"
+msgstr "Battleship destruction"
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_CHARGE_SPEED"
+msgstr "Point holding"
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_CHARGE_SPEED_VALUE"
+msgstr "+ 2 / 3 s"
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_CRUISER_FRAG_BOOST"
+msgstr "Cruiser destruction"
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_DESTROYER_FRAG_BOOST"
+msgstr "Destroyer destruction"
+
+msgid "IDS_WAFFENTRAGER_SHIELD_MODULE"
+msgstr "Shield Module"
+
+msgid "IDS_WAFFENTRAGER_TASK_DESCRIPTION_0"
+msgstr "Destroy Ermelinda's ship before the evacuation system launches"
+
+msgid "IDS_WAFFENTRAGER_TASK_DESCRIPTION_1"
+msgstr "Charge the evacuation system without letting the Hounds destroy you"
+
+msgid "IDS_WAFFENTRAGER_TITLE"
+msgstr "Waffenträger: Isolation"
+
+msgid "IDS_WAFFENTRAGER_WON"
+msgstr "ERMELINDA JUNG VICTORIOUS"
+
+msgid "IDS_WT_ABOUT_EVENT_DESCRIPTION"
+msgstr "Learn all about the event: battle features, tasks, and rewards."
+
+msgid "IDS_WT_ABOUT_EVENT_TITLE"
+msgstr "Waffenträger: Isolation"
+
+msgid "IDS_WT_ABOUT_EVENT_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "Go to the event rules and features screen"
+
+msgid "IDS_WT_ABOUT_EVENT_TOOLTIP_TEXT"
+msgstr "Learn all about the event: battle features, tasks, and rewards."
+
+msgid "IDS_WT_BATTLE_TASKS_TOOLTIP_TEXT"
+msgstr ""
+"<p>Every day you can complete an unlimited number of tasks and receive "
+"rewards for them.</p><p class=\"p_spacing\"> </p><p>Ermelinda's tasks are "
+"completed on any of her three available ships: Geisterjäger, Flammenreiter, "
+"or Signalträger.</p><p class=\"p_spacing\"> </p><p>Hound tasks are completed"
+" on Tier X battleships, cruisers, or destroyers.</p>"
+
+msgid "IDS_WT_BB1_NAME_01"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_02"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_03"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_04"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_05"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_06"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_07"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_08"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_09"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_10"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB2_NAME_01"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_02"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_03"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_04"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_05"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_06"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_07"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_08"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_09"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_10"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB3_NAME_01"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_02"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_03"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_04"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_05"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_06"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_07"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_08"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_09"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_10"
+msgstr "Retter"
+
+msgid "IDS_WT_BUREAU_ACTIVE_TECH_TEXT"
+msgstr ""
+"<p>Active Bureau bonuses stack with installed economic bonuses on ships but "
+"only work in the 'Waffenträger: Isolation' battle type. All Bureau bonuses "
+"are not consumed in battle.</p><p class=\"p_spacing\"> </p><p>Some bonuses "
+"have modifiers that lower the earnings of certain resources. The final value"
+" cannot drop below zero.</p>"
+
+msgid "IDS_WT_BUREAU_ACTIVE_TECH_TITLE"
+msgstr "Active Bonuses"
+
+msgid "IDS_WT_BUREAU_BUTTON_ONBOARDING"
+msgstr "About the Bureau"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_ACTIVATE"
+msgstr "Activate"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_ACTIVATE_TOOLTIP"
+msgstr "Insufficient resources"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_DEACTIVATE_TOOLTIP"
+msgstr "Deactivate bonus"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE"
+msgstr "Purchase"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE_CONFIRM_QUESTION"
+msgstr "Purchase for"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE_TOOLTIP"
+msgstr "Insufficient resources"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_UPGRADE"
+msgstr "Upgrade"
+
+msgid "IDS_WT_BUREAU_CREDITSFACTOR_0"
+msgstr "Simplified Maintenance Protocol"
+
+msgid "IDS_WT_BUREAU_CREDITSFACTOR_1"
+msgstr "Control Systems Automation"
+
+msgid "IDS_WT_BUREAU_CREDITSFACTOR_2"
+msgstr "Accelerated Self-Assembly"
+
+msgid "IDS_WT_BUREAU_CREWEXPFACTOR_0"
+msgstr "Electromagnetic Navigation Systems"
+
+msgid "IDS_WT_BUREAU_CREWEXPFACTOR_1"
+msgstr "Wave Signal Decoders"
+
+msgid "IDS_WT_BUREAU_CREWEXPFACTOR_2"
+msgstr "Resonance Locators"
+
+msgid "IDS_WT_BUREAU_DESCRIPTION"
+msgstr ""
+"Earn more resources in battle! Bureau bonuses stack with economic bonuses on"
+" ships but only work in the 'Waffenträger: Isolation' battle type."
+
+msgid "IDS_WT_BUREAU_FREEEXPFACTOR_0"
+msgstr "Holographic Projectors"
+
+msgid "IDS_WT_BUREAU_FREEEXPFACTOR_1"
+msgstr "Radio Frequency Jammers"
+
+msgid "IDS_WT_BUREAU_FREEEXPFACTOR_2"
+msgstr "Electromagnetic FCS"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_0"
+msgstr ""
+"<p>You can spend [PR] <span class=\"currency\">reactor alloys</span> on "
+"permanent economic bonuses to earn more resources in battle on Hound "
+"ships.</p><p class=\"p_spacing\"> </p><p>Bonuses do not work on Ermelinda "
+"Jung's ships.</p>"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_1"
+msgstr ""
+"<p>Be careful! Some bonuses significantly increase the earnings of one "
+"resource but decrease the earnings of another.</p><p class=\"p_spacing\"> "
+"</p><p>Each bonus can be upgraded to increase resource earnings even "
+"more!</p>"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_2"
+msgstr ""
+"<p>Bonuses are divided into four categories: credits, Commander Free XP, "
+"Free XP, and reactor alloys.</p><p class=\"p_spacing\"> </p><p>Only one "
+"bonus can be active in each category.</p>"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_0"
+msgstr "Bureau"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_1"
+msgstr "Bonus Configuration"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_2"
+msgstr "Bonus Categories"
+
+msgid "IDS_WT_BUREAU_PURCHASE_BOOSTER_CONFIRMATION_WARNING"
+msgstr ""
+"The current active bonus in this category will be replaced with the new one.\n"
+"You can change the active bonus for free at any time."
+
+msgid "IDS_WT_BUREAU_SUMMARY_BOOSTERS_TEXT"
+msgstr ""
+"<p>Bureau of Experimental Technology bonuses affect resource earnings in the"
+" 'Waffenträger: Isolation' battle type.</p><p class=\"p_spacing\"> "
+"</p><p>Active Bureau bonuses stack with installed economic bonuses on ships "
+"but only work in the 'Waffenträger: Isolation' battle type. All Bureau "
+"bonuses are not consumed in battle.</p><p class=\"p_spacing\"> </p><p>Only "
+"one bonus can be active in each category.</p>"
+
+msgid "IDS_WT_BUREAU_SUMMARY_BOOSTERS_TITLE"
+msgstr "Bonuses"
+
+msgid "IDS_WT_BUREAU_SUMMARY_WT_TEXT"
+msgstr ""
+"<p>Бонусы Бюро разработаны Альянсом и не действуют на кораблях Эрмелинды "
+"Юнг.</p>"
+
+msgid "IDS_WT_BUREAU_SUMMARY_WT_TITLE"
+msgstr "Ermelinda's Ship"
+
+msgid "IDS_WT_BUREAU_TECH_LEVEL"
+msgstr "Level %(_level)s"
+
+msgid "IDS_WT_BUREAU_TITLE"
+msgstr "Bureau of Experimental Technology"
+
+msgid "IDS_WT_BUREAU_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "Go to the 'Bureau of Experimental Technology' screen"
+
+msgid "IDS_WT_BUREAU_TOOLTIP_TEXT_INACTIVE"
+msgstr "You have no active bonuses."
+
+msgid "IDS_WT_BUREAU_TOOLTIP_TEXT_WARNING"
+msgstr "Бонусы Бюро не действуют на кораблях Эрмелинды"
+
+msgid "IDS_WT_BUREAU_TOOLTIP_TITLE"
+msgstr "Active Bureau Bonuses"
+
+msgid "IDS_WT_BUREAU_WAFFENTRAGERRELAYFACTOR_0"
+msgstr "Expanded Reactor Alloy Storage"
+
+msgid "IDS_WT_BUREAU_WARNING"
+msgstr "Bureau bonuses do not work on Ermelinda Jung's ships"
+
+msgid "IDS_WT_CR1_NAME_01"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_02"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_03"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_04"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_05"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_06"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_07"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_08"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_09"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_10"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR2_NAME_01"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_02"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_03"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_04"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_05"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_06"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_07"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_08"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_09"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_10"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR3_NAME_01"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_02"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_03"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_04"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_05"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_06"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_07"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_08"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_09"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_10"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_DD1_NAME_01"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_02"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_03"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_04"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_05"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_06"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_07"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_08"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_09"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_10"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD2_NAME_01"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_02"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_03"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_04"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_05"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_06"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_07"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_08"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_09"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_10"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD3_NAME_01"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_02"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_03"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_04"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_05"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_06"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_07"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_08"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_09"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_10"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_FRACTION_HOUND"
+msgstr "Hounds"
+
+msgid "IDS_WT_FRACTION_TASKS_HOUND"
+msgstr "Hound Combat Missions"
+
+msgid "IDS_WT_FRACTION_TASKS_WAFFENTRAGER"
+msgstr "Ermelinda's Combat Missions"
+
+msgid "IDS_WT_FRACTION_WAFFENTRAGER"
+msgstr "Ermelinda"
+
+msgid "IDS_WT_MAINSCENARIO"
+msgstr "Ваффентрагер: Изоляция"
+
+msgid "IDS_WT_MW_PROGRESS_BUTTON_ONBOARDING"
+msgstr "About Tasks and Progress"
+
+msgid "IDS_WT_MW_PROGRESS_TITLE"
+msgstr "Waffenträger: Isolation"
+
+msgid "IDS_WT_PORTAL_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "Go to the portal campaign screen"
+
+msgid "IDS_WT_PORTAL_TOOLTIP_TEXT"
+msgstr ""
+"Backstory of the confrontation between the Alliance and Ermelinda, who "
+"seized secret documents at the Erebus base."
+
+msgid "IDS_WT_PORTAL_TOOLTIP_TITLE"
+msgstr "Protect Erebus"
+
+msgid "IDS_WT_POST_PROGRESS_TOOLTIP_TEXT"
+msgstr ""
+"By passing all progress levels before Resonance, you will receive a "
+"commemorative achievement!"
+
+msgid "IDS_WT_PROGRESS_BTN_GO_TO_METASHOP"
+msgstr "Spend"
+
+msgid "IDS_WT_PROGRESS_CHANGE_TASK"
+msgstr "Replace this mission"
+
+msgid "IDS_WT_PROGRESS_CHANGE_TASK_COST"
+msgstr "Replace Combat Task for"
+
+msgid "IDS_WT_PROGRESS_CHANGE_TASK_WARNING"
+msgstr "The reward for completing the task will also be replaced"
+
+msgid "IDS_WT_PROGRESS_CHOOSE_REWARD"
+msgstr "Choose one of the offered rewards:"
+
+msgid "IDS_WT_PROGRESS_CHOOSE_REWARD_INFO"
+msgstr ""
+"If you pass all progress levels before Resonance, you can receive all "
+"rewards that were not chosen earlier"
+
+msgid "IDS_WT_PROGRESS_DESCRIPTION"
+msgstr "Learn the history of the legendary confrontation"
+
+msgid "IDS_WT_PROGRESS_EVENT_FINISHED_TEXT"
+msgstr ""
+"<p>The forces were equal — both the Alliance and Ermelinda Jung were forced "
+"to retreat, failing to achieve their goals.</p><p class=\"p_spacing\"> "
+"</p><p>The world does not yet know what happened, but a new game is already "
+"beginning behind the scenes. The Alliance has strength and influence, while "
+"Ermelinda has classified documents and technologies.</p><p "
+"class=\"p_spacing\"> </p><p>The Alliance will no longer be able to remain in"
+" the shadows. A period begins that will later be called the Resonance.</p>"
+
+msgid "IDS_WT_PROGRESS_FINISH_STATUS_EARLY_DONE"
+msgstr ""
+"You have passed all progress levels and received a commemorative "
+"achievement!"
+
+msgid "IDS_WT_PROGRESS_FINISH_STATUS_NOT_PARTICIPATED"
+msgstr "You have not passed a single level."
+
+msgid "IDS_WT_PROGRESS_LEVEL_COLON"
+msgstr "Level:"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_0"
+msgstr ""
+"<p>By fighting for each faction — on the side of Ermelinda Jung or the "
+"Hounds — you can complete different combat missions.</p><p "
+"class=\"p_spacing\"> </p><p>For completing combat missions, you can earn "
+"event resources: [AK] <span class=\"currency\">activation keys</span>, [PC] "
+"<span class=\"currency\">power cells</span>, and [PR] <span "
+"class=\"currency\">reactor alloys</span>.</p>"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_1"
+msgstr ""
+"<p>[AK] <span class=\"currency\">Activation Keys</span> are needed to sortie"
+" on Ermelinda's ships.</p><p class=\"p_spacing\"> </p><p>[PR] <span "
+"class=\"currency\">Reactor alloys</span> can be used to buy bonuses on the "
+"'Bureau of Experimental Technology' screen.</p><p class=\"p_spacing\"> "
+"</p><p>[PC] <span class=\"currency\">Power cells</span> and [PR] <span "
+"class=\"currency\">reactor alloys</span> can be spent in the Armory on "
+"various rewards.</p>"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_2"
+msgstr ""
+"<p>On some progress levels, you will be offered a choice of one of two "
+"rewards.</p><p class=\"p_spacing\"> </p><p>If you pass all progress levels "
+"before Resonance, you can receive all rewards that were not chosen "
+"earlier.</p>"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TITLE_0"
+msgstr "Combat missions"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TITLE_1"
+msgstr "Resources and Progress"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TITLE_2"
+msgstr "Reward Choice"
+
+msgid "IDS_WT_PROGRESS_REWARD"
+msgstr "Reward Choice"
+
+msgid "IDS_WT_PROGRESS_REWARD_FOR_FINISHING_TASK"
+msgstr "Completion reward:"
+
+msgid "IDS_WT_PROGRESS_STATUS_EVENT_ACTIVE_TASKS_COMPLETED"
+msgstr ""
+"Congratulations, you have passed all progress levels! Combat missions are "
+"still available for completion."
+
+msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_MAX"
+msgstr "The event is coming to an end! You have passed all progress levels."
+
+msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_SKIP"
+msgstr "The event is coming to an end!"
+
+msgid "IDS_WT_PROGRESS_STEPS_TEXT"
+msgstr "Event Progress"
+
+msgid "IDS_WT_PROGRESS_STEPS_TOOLTIP_TEXT"
+msgstr ""
+"<p>Every 200 reactor alloys earned increases your level in the reward "
+"progress. Reactor alloys are not spent in the process.</p><p "
+"class=\"p_spacing\"> </p><p>On most progress levels, rewards are awarded "
+"automatically.</p><p class=\"p_spacing\"> </p><p>On some levels, you will be"
+" offered a choice of one of two rewards.</p>"
+
+msgid "IDS_WT_PROGRESS_TAKE_ALL_REWARDS_BUTTON"
+msgstr "Claim All Rewards"
+
+msgid "IDS_WT_PROGRESS_TASKS_COUNT"
+msgstr "<p>Tasks completed: <span class=\"bold\">%(_count)s</span></p>"
+
+msgid "IDS_WT_PROGRESS_TASKS_COUNT_HOUND"
+msgstr "<p>Completed for Hounds: <span class=\"bold\">%(_count)s</span></p>"
+
+msgid "IDS_WT_PROGRESS_TASKS_COUNT_WAFFENTRAGER"
+msgstr "<p>Completed for Ermelinda: <span class=\"bold\">%(_count)s</span></p>"
+
+msgid "IDS_WT_PROGRESS_TILL_FINISH"
+msgstr "To final reward:"
+
+msgid "IDS_WT_PROGRESS_TILL_NEXT_LEVEL"
+msgstr "To next level:"
+
+msgid "IDS_WT_PROGRESS_TIMER"
+msgstr "Until Resonance:"
+
+msgid "IDS_WT_PROGRESS_TIMER_TOOLTIP_TEXT"
+msgstr ""
+"<p>If you pass all progress levels before Resonance, you can receive all "
+"rewards that were not chosen earlier. You will also receive a commemorative "
+"achievement.</p><p class=\"p_spacing\"> </p><p>After Resonance, you will "
+"have some time to spend earned reactor alloys and power cells in the "
+"Armory.</p>"
+
+msgid "IDS_WT_PROGRESS_TIMER_TOOLTIP_TITLE"
+msgstr "Resonance"
+
+msgid "IDS_WT_PROGRESS_TIME_LEFT"
+msgstr "Until Resonance: %(_timeLeft)s"
+
+msgid "IDS_WT_PROGRESS_TITLE"
+msgstr "Combat Missions and Progress"
+
+msgid "IDS_WT_PROGRESS_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "Go to the 'Combat Missions and Progress' screen"
+
+msgid "IDS_WT_PROGRESS_TOOLTIP_STATUS_WARNING"
+msgstr "Not enough Activation Keys for sorties"
+
+msgid "IDS_WT_REWARDS_CONTAINER_TOOLTIP_STATUS_CLAIM_REWARDS"
+msgstr "Press 'Claim Rewards' to receive rewards"
+
+msgid "IDS_WT_REWARDS_CONTAINER_TOOLTIP_STATUS_NOT_CLAIMED"
+msgstr "You will be offered a choice of one of two rewards"
+
+msgid "IDS_WT_REWARDS_CONTAINER_TOOLTIP_TITLE"
+msgstr "Reward Choice"
+
+msgid "IDS_WT_TAGS_BOTOMANCER_CAN_SUMMON_AUTOMATONS"
+msgstr ""
+"Can summon automatons that fight for you and grant bonuses to your ship"
+
+msgid "IDS_WT_TAGS_BOTOMANCER_CONSUMABLES_CHOICE_AVAILABLE"
+msgstr "Consumable choice available"
+
+msgid "IDS_WT_TAGS_DICTATOR_BEST_MANEUVERABILITY"
+msgstr "Best maneuverability among Ermelinda's ships"
+
+msgid "IDS_WT_TAGS_DICTATOR_CLOSE_QUARTERS"
+msgstr "Most effective in close-quarters combat"
+
+msgid "IDS_WT_TAGS_DICTATOR_CONSUMABLES_AFFECT_AREA"
+msgstr "Consumables available that harm enemies in the area of effect"
+
+msgid "IDS_WT_TAGS_DICTATOR_FIRE_ADJUSTMENT"
+msgstr ""
+"Consumable characteristics and Main/Secondary Battery rate of fire increase "
+"when dealing damage"
+
+msgid "IDS_WT_TAGS_DICTATOR_SECONDARIES"
+msgstr "Высокая эффективность ПМК"
+
+msgid "IDS_WT_TAGS_PREDATOR_BEST_MAIN_GUNS"
+msgstr "Best Main Battery characteristics among Ermelinda's ships"
+
+msgid "IDS_WT_TAGS_PREDATOR_CONCEALMENT"
+msgstr "Low detectability"
+
+msgid "IDS_WT_TAGS_PREDATOR_DAMAGE_PER_SALVO"
+msgstr "High damage per salvo"
+
+msgid "IDS_WT_TAGS_PREDATOR_RAGEMODE_OF_MASS_DESTRUCTION"
+msgstr "Battle instructions deal damage to all enemies"
+
+msgid "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT"
+msgid_plural "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT"
 msgstr[0] ""
-"Earn %(count)s \"Aircraft Shot Down,\" \"Fighter Shot Down,\" or \"Aircraft "
-"Disabled\" ribbon."
+"%(_timeLeft)s left to spend remaining power cells and reactor alloys"
 msgstr[1] ""
-"Earn %(count)s \"Aircraft Shot Down,\" \"Fighter Shot Down,\" or \"Aircraft "
-"Disabled\" ribbons."
+"%(_timeLeft)s left to spend remaining power cells and reactor alloys"
 
-msgid "IDS_PCQT745_1"
-msgid_plural "IDS_PCQT745_1"
-msgstr[0] "Earn any %(count)s achievement."
-msgstr[1] "Earn any %(count)s achievements."
-
-msgid "IDS_PCQT746_1"
-msgid_plural "IDS_PCQT746_1"
-msgstr[0] "Earn %(count)s 'Destroyed' ribbon."
-msgstr[1] "Earn %(count)s 'Destroyed' ribbons."
-
-msgid "IDS_PCQT749_1"
-msgid_plural "IDS_PCQT749_1"
-msgstr[0] "Be the first to spot %(count)s torpedo."
-msgstr[1] "Be the first to spot %(count)s torpedoes."
-
-msgid "IDS_PCQT752_1"
-msgid_plural "IDS_PCQT752_1"
-msgstr[0] "Earn %(count)s \"Set on fire\" ribbon."
-msgstr[1] "Earn %(count)s \"Set on fire\" ribbons."
-
-msgid "IDS_PCQT754_1"
-msgid_plural "IDS_PCQT754_1"
-msgstr[0] "Earn any %(count)s ribbon."
-msgstr[1] "Earn any %(count)s ribbons."
-
-msgid "IDS_PCQT755_1"
-msgid_plural "IDS_PCQT755_1"
-msgstr[0] "Rank among the top 3 XP earners on your team %(count)s time."
-msgstr[1] "Rank among the top 3 XP earners on your team %(count)s times."
-
-msgid "IDS_PCQT756_1"
-msgid_plural "IDS_PCQT756_1"
-msgstr[0] "Earn any %(count)s achievement."
-msgstr[1] "Earn any %(count)s achievements."
-
-msgid "IDS_PCQT757_1"
-msgid_plural "IDS_PCQT757_1"
-msgstr[0] "Earn %(count)s 'Destroyed' ribbon."
-msgstr[1] "Earn %(count)s 'Destroyed' ribbons."
-
-msgid "IDS_PCQT759_1"
-msgid_plural "IDS_PCQT759_1"
-msgstr[0] "Earn %(count)s \"Spotted\" ribbon."
-msgstr[1] "Earn %(count)s \"Spotted\" ribbons."
-
-msgid "IDS_PCQT760_1"
-msgid_plural "IDS_PCQT760_1"
-msgstr[0] "Earn %(count)s 'Destroyed' ribbon."
-msgstr[1] "Earn %(count)s 'Destroyed' ribbons."
-
-msgid "IDS_PCQT761_1"
-msgid_plural "IDS_PCQT761_1"
+msgid "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT_MINUTES"
+msgid_plural "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT_MINUTES"
 msgstr[0] ""
-"Earn %(count)s 'Main Battery Hits' or 'Secondary Battery Hits' ribbon."
+"%(_timeLeft)s left to spend remaining power cells and reactor alloys"
 msgstr[1] ""
-"Earn %(count)s 'Main Battery Hits' or 'Secondary Battery Hits' ribbons."
+"%(_timeLeft)s left to spend remaining power cells and reactor alloys"
 
-msgid "IDS_PCQT762_1"
-msgid_plural "IDS_PCQT762_1"
-msgstr[0] "Earn %(count)s 'Destroyed' ribbon."
-msgstr[1] "Earn %(count)s 'Destroyed' ribbons."
+msgid "IDS_WT_PROGRESS_FINISH_STATUS_SEVERAL_STEPS_COMPLETED"
+msgid_plural "IDS_WT_PROGRESS_FINISH_STATUS_SEVERAL_STEPS_COMPLETED"
+msgstr[0] "You have passed %(_count)s level!"
+msgstr[1] "You have passed %(_count)s levels!"
 
-msgid "IDS_PCQT763_1"
-msgid_plural "IDS_PCQT763_1"
-msgstr[0] "Win %(count)s battle."
-msgstr[1] "Win %(count)s battles."
-
-msgid "IDS_PCQT764_1"
-msgid_plural "IDS_PCQT764_1"
-msgstr[0] "Earn %(count)s 'Tactical Contribution' ribbon."
-msgstr[1] "Earn %(count)s 'Tactical Contribution' ribbons."
-
-msgid "IDS_PCQT765_1"
-msgid_plural "IDS_PCQT765_1"
-msgstr[0] "Earn %(count)s heroic achievement."
-msgstr[1] "Earn %(count)s heroic achievements."
-
-msgid "IDS_PCQT769_1"
-msgid_plural "IDS_PCQT769_1"
-msgstr[0] "Earn any %(count)s ribbon."
-msgstr[1] "Earn any %(count)s ribbons."
-
-msgid "IDS_PCQT771_1"
-msgid_plural "IDS_PCQT771_1"
-msgstr[0] "Rank among the top-5 XP earners on your team %(count)s time."
-msgstr[1] "Rank among the top-5 XP earners on your team %(count)s times."
-
-msgid "IDS_PCQT772_1"
-msgid_plural "IDS_PCQT772_1"
-msgstr[0] "Earn %(count)s \"Citadel hits\" ribbon."
-msgstr[1] "Earn %(count)s \"Citadel hits\" ribbons."
-
-msgid "IDS_PCQT774_1"
-msgid_plural "IDS_PCQT774_1"
-msgstr[0] "Earn %(count)s \"Flooded\" ribbon."
-msgstr[1] "Earn %(count)s \"Flooded\" ribbons."
-
-msgid "IDS_PCQT775_1"
-msgid_plural "IDS_PCQT775_1"
-msgstr[0] "Earn %(count)s \"Detected\" or \"Covered\" ribbon."
-msgstr[1] "Earn %(count)s \"Detected\" or \"Covered\" ribbons."
-
-msgid "IDS_PCQT776_1"
-msgid_plural "IDS_PCQT776_1"
-msgstr[0] "Help your team inflict %(count)s spotting damage."
-msgstr[1] "Help your team inflict %(count)s spotting damage."
-
-msgid "IDS_PCQT777_1"
-msgid_plural "IDS_PCQT777_1"
-msgstr[0] "Earn any %(count)s achievement."
-msgstr[1] "Earn any %(count)s achievements."
-
-msgid "IDS_PCQT778_1"
-msgid_plural "IDS_PCQT778_1"
-msgstr[0] "Earn %(count)s 'Destroyed' ribbon."
-msgstr[1] "Earn %(count)s 'Destroyed' ribbons."
+msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_PARTICIPATED"
+msgid_plural "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_PARTICIPATED"
+msgstr[0] ""
+"The event is coming to an end! You have passed %(_progress)s level."
+msgstr[1] ""
+"The event is coming to an end! You have passed %(_progress)s levels."
