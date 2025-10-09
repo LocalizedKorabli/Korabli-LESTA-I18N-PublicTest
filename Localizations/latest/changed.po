@@ -1,0 +1,278 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_AVAILABILITY_STATE_LOW_LEVEL"
+msgstr "Becomes available at Access Level %(_level)s"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_AOT"
+msgstr "Complete within the time limit: %s"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_NOT_GIVE"
+msgstr "Do not allow %s %s %s"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_20"
+msgstr "Mèng"
+
+msgid "IDS_DOGTAG_PCNB470_DESCRIPTION"
+msgstr "<p>A snow-white giant with golden patterns adorning its hull like motifs on an expensive kimono. On the stern rests the visage of an Oni—a guardian of ancient fury dwelling in the province of Owari.</p><p class=\"p_spacing\"> </p><p>Its appearance combines exquisite beauty with the merciless power of a demon. This is not merely a ship, but a legend born of great craftsmanship. Its appearance on the horizon signals the beginning and end of battle, and the roar of its guns forces the sea to fall silent in respectful terror.</p>"
+
+msgid "IDS_DOGTAG_PCNB471_DESCRIPTION"
+msgstr "This city truly awakens only when night falls and the moon makes the rain-soaked asphalt glisten. Storefronts light up on the ground floors, music blends with the voices of passersby, and cars speed between rows of houses, cutting through the mist with beams of light from their headlights... And above the pulsating streets rise skyscrapers with neon signs, like lighthouses in a stormy sea."
+
+msgid "IDS_OP12_101"
+msgstr "Lorenz"
+
+msgid "IDS_OP12_102"
+msgstr "Oswald"
+
+msgid "IDS_OP12_103"
+msgstr "Reinar"
+
+msgid "IDS_OP12_104"
+msgstr "Irmo"
+
+msgid "IDS_OP12_105"
+msgstr "S-2"
+
+msgid "IDS_OP12_106"
+msgstr "S-3"
+
+msgid "IDS_OP12_107"
+msgstr "S-4"
+
+msgid "IDS_OP12_108"
+msgstr "S-5"
+
+msgid "IDS_OP12_109"
+msgstr "S-6"
+
+msgid "IDS_OP12_110"
+msgstr "S-8"
+
+msgid "IDS_OP12_201"
+msgstr "Curt"
+
+msgid "IDS_OP12_202"
+msgstr "Cornelius"
+
+msgid "IDS_OP12_301"
+msgstr "Baldur"
+
+msgid "IDS_OP12_302"
+msgstr "Balthazar"
+
+msgid "IDS_OP12_303"
+msgstr "Bastian"
+
+msgid "IDS_OP12_304"
+msgstr "Bertram"
+
+msgid "IDS_OP12_305"
+msgstr "Birk"
+
+msgid "IDS_OP12_401"
+msgstr "Lars"
+
+msgid "IDS_OP12_402"
+msgstr "Leopold"
+
+msgid "IDS_OP12_403"
+msgstr "Lambert"
+
+msgid "IDS_OP12_601"
+msgstr "Legionario"
+
+msgid "IDS_OP12_602"
+msgstr "Legionario"
+
+msgid "IDS_OP12_603"
+msgstr "Legionario"
+
+msgid "IDS_OP12_604"
+msgstr "Legionario"
+
+msgid "IDS_OP12_605"
+msgstr "Legionario"
+
+msgid "IDS_OP12_606"
+msgstr "Legionario"
+
+msgid "IDS_OP12_701"
+msgstr "Walter"
+
+msgid "IDS_OP12_702"
+msgstr "Vido"
+
+msgid "IDS_OP12_703"
+msgstr "Wolf"
+
+msgid "IDS_OP12_704"
+msgstr "Wolfgang"
+
+msgid "IDS_OP12_705"
+msgstr "Witold"
+
+msgid "IDS_OP12_706"
+msgstr "Waldemar"
+
+msgid "IDS_OP12_707"
+msgstr "Vingolf"
+
+msgid "IDS_OP12_708"
+msgstr "Willibald"
+
+msgid "IDS_OP12_709"
+msgstr "Wilmut"
+
+msgid "IDS_OP12_710"
+msgstr "Willy"
+
+msgid "IDS_OP12_711"
+msgstr "Vilbrand"
+
+msgid "IDS_OP12_712"
+msgstr "Wigbert"
+
+msgid "IDS_OP12_713"
+msgstr "Wittmar"
+
+msgid "IDS_OP12_714"
+msgstr "Wighart"
+
+msgid "IDS_OP12_AMMUNITION_IN_HARBOR"
+msgstr "in the harbor"
+
+msgid "IDS_OP12_MAIN_TASK_BRIEFING"
+msgstr "Do not allow the Horst group battleships to leave the harbor waters!"
+
+msgid "IDS_OP12_Z11"
+msgstr "S-12"
+
+msgid "IDS_OP12_Z12"
+msgstr "Bruno"
+
+msgid "IDS_OP12_Z13"
+msgstr "S-15"
+
+msgid "IDS_OP12_Z14"
+msgstr "Emil"
+
+msgid "IDS_OP12_Z15"
+msgstr "S-18"
+
+msgid "IDS_OP12_Z21"
+msgstr "Fritz"
+
+msgid "IDS_OP12_Z22"
+msgstr "S-22"
+
+msgid "IDS_OP12_Z23"
+msgstr "S-26"
+
+msgid "IDS_OP12_Z24"
+msgstr "S-27"
+
+msgid "IDS_OP12_Z25"
+msgstr "S-100"
+
+msgid "IDS_OP12_Z31"
+msgstr "Gustav"
+
+msgid "IDS_OP12_Z32"
+msgstr "Heintz"
+
+msgid "IDS_OP12_Z33"
+msgstr "S-33"
+
+msgid "IDS_OP12_Z34"
+msgstr "S-38"
+
+msgid "IDS_OP12_Z35"
+msgstr "Richard"
+
+msgid "IDS_OP12_Z41"
+msgstr "S-42"
+
+msgid "IDS_OP12_Z42"
+msgstr "S-44"
+
+msgid "IDS_OP12_Z43"
+msgstr "S-49"
+
+msgid "IDS_OP12_Z44"
+msgstr "Teodor"
+
+msgid "IDS_OP12_Z45"
+msgstr "Wilhelm"
+
+msgid "IDS_OP12_Z51"
+msgstr "S-50"
+
+msgid "IDS_OP12_Z52"
+msgstr "S-52"
+
+msgid "IDS_OP12_Z53"
+msgstr "S-53"
+
+msgid "IDS_OP12_Z54"
+msgstr "Ulrich"
+
+msgid "IDS_OP12_Z55"
+msgstr "Conrad"
+
+msgid "IDS_PAUE730_ENG_OREGON"
+msgstr "Propulsion: 121,000 hp"
+
+msgid "IDS_PCVO010_OP_09_S09_LEPVE_PVE_TOOLTIP_GOAL"
+msgstr "Escort the squadron led by flagship Ruan to the designated sector. Make sure the gold is transported safely."
+
+msgid "IDS_PFUS717_SUO_BLACK_GASCOGNE"
+msgstr "PCA n°8"
+
+msgid "IDS_PJSB599_DESCR"
+msgstr "<p>A snow-white giant with golden patterns adorning its hull like motifs on an expensive kimono. On the stern rests the visage of an Oni—a guardian of ancient fury dwelling in the province of Owari.</p><p class=\"p_spacing\"> </p><p>Its appearance combines exquisite beauty with the merciless power of a demon. This is not merely a ship, but a legend born of great craftsmanship. Its appearance on the horizon signals the beginning and end of battle, and the roar of its guns forces the sea to fall silent in respectful terror.</p>"
+
+msgid "IDS_PRUE513_ENG_SHAUMIAN"
+msgstr "Propulsion: 28 300 hp"
+
+msgid "IDS_PRUE928_ENG_KZ_RUBKA"
+msgstr "Propulsion: 280,000 hp"
+
+msgid "IDS_PRUE929_ENG_STRANA_SOVETOV"
+msgstr "Propulsion: 268,000 hp"
+
+msgid "IDS_PVECOMMON_HARBOR_C"
+msgstr "harbor"
+
+msgid "IDS_PVECOMMON_HORST_A"
+msgstr "battleship group"
+
+msgid "IDS_PVECOMMON_INFRASTRUCTURE_C"
+msgstr "infrastructure"
+
+msgid "IDS_PVECOMMON_NAVY_C"
+msgstr "squadron"
+
+msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_ELITE_EXP"
+msgstr "Commander Elite XP"
+
+msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "IX–X or New"
+
+msgid "IDS_SHIP_ROLE_BB_ASSAULT_DESC"
+msgstr "<p>Close in on the enemy to secondary battery firing range. Lead the flank breakthrough with allied support.</p><p class=\"p_spacing\"> </p><p>Frontline ships.</p>"
+
+msgid "IDS_SHIP_ROLE_DD_HUNTER_DESC"
+msgstr "<p>Hunt for destroyers and destroy them with main battery fire. Maneuver or hide in smoke to make it harder for the enemy to fire upon your ship. Capture control points, pick up enhancements, and fight for other important areas on the battlefield. Conduct reconnaissance for allies.</p><p class=\"p_spacing\"> </p><p>Frontline ships.</p>"
