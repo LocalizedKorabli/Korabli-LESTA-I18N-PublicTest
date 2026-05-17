@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Mir Korabley Localization EN by 澪刻\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
 "Language-Team: LocalizedKorabli <localizedkorabli@outlook.com>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1540,7 +1540,7 @@ msgid "IDS_ACHIEVEMENT_CONDITION_PCOC036_TITLE"
 msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_DESCRIPTION"
-msgstr "Inflict damage on an enemy ship amounting to at least 50% of its base HP and destroy it"
+msgstr "Deal damage on an enemy ship amounting to at least 50% of its base HP and destroy it"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_TITLE"
 msgstr "Destroy a ship"
@@ -4703,7 +4703,7 @@ msgid "IDS_ADDITIONAL_CONSUMABLES_CHANGED"
 msgstr "Number of ship consumables increased"
 
 msgid "IDS_ADDITIONAL_CONTENT"
-msgstr "Camouflages and Commanders with non-historical styling"
+msgstr "Contents with non-historical styling"
 
 msgid "IDS_ADDITIONAL_DAMAGE_COUNTERS"
 msgstr "Additional damage counters"
@@ -5355,9 +5355,6 @@ msgstr "Our team has started capturing the sector"
 msgid "IDS_ALLY_START_CAPTURE_CONTROL"
 msgstr "Our team started capturing the area."
 
-msgid "IDS_ALLY_START_CAPTURE_EPICENTER_CP"
-msgstr "Our team has started capturing the point"
-
 msgid "IDS_ALLY_SUBMARINE"
 msgstr "Allied submarine"
 
@@ -5583,16 +5580,16 @@ msgid "IDS_ANTISTANDARD"
 msgstr "Behind Enemy Lines"
 
 msgid "IDS_ANTISTANDART_CSM_01"
-msgstr "Control points will become available for capture and will start shrinking in 5 minutes"
+msgstr "Key Areas will become available for capture and will start shrinking in 5 minutes"
 
 msgid "IDS_ANTISTANDART_CSM_02"
-msgstr "Control points will become available for capture and will start shrinking in one minute"
+msgstr "Key Areas will become available for capture and will start shrinking in one minute"
 
 msgid "IDS_ANTISTANDART_CSM_03"
-msgstr "Control points are now available for capture and have started to shrink"
+msgstr "Key Areas are now available for capture and have started to shrink"
 
 msgid "IDS_ANTISTANDART_CSM_04"
-msgstr "Control point shrinking completed"
+msgstr "Key Area shrinking completed"
 
 msgid "IDS_ANTI_AIR_AURA_EFFICIENCY"
 msgstr "Efficiency"
@@ -6163,7 +6160,7 @@ msgid "IDS_ARMOR_TOOLTIP_PARAM_PRIMARY_VALUE"
 msgstr "> %(_value)s mm"
 
 msgid "IDS_ARMOUR_SCHEME"
-msgstr "Armor Layout"
+msgstr "Armor and Shells"
 
 msgid "IDS_ARMOUR_TYPE_ARTI"
 msgstr "Gun-Mount Armor"
@@ -6565,18 +6562,6 @@ msgstr "Average results per battle"
 
 msgid "IDS_AVERAGE_RESULTS_PER_BATTLE_TOOLTIP"
 msgstr "Average results per battle"
-
-msgid "IDS_AVG_CAUSED_TO_BUILDINGS_DAMAGE"
-msgstr "Damage caused to onshore installations"
-
-msgid "IDS_AVG_CAUSED_TO_BUILDINGS_DAMAGE_TOOLTIP"
-msgstr "Average damage caused to onshore installations per battle"
-
-msgid "IDS_AVG_SUPPRESSED_BUILDINGS"
-msgstr "Onshore installations suppressed"
-
-msgid "IDS_AVG_SUPPRESSED_BUILDINGS_TOOLTIP"
-msgstr "Average number of onshore installations suppressed per battle"
 
 msgid "IDS_AVIATION_AP_BOMBS_AVAILABLE"
 msgstr "AP bombs available"
@@ -7327,6 +7312,9 @@ msgstr "High battery capacity"
 
 msgid "IDS_BATTERY_CAPACITY_LOW"
 msgstr "Low battery capacity"
+
+msgid "IDS_BATTERY_DEPENDED_SKILLS_CHANGED"
+msgstr "Skills dependent on loss of dive capacity is activated"
 
 msgid "IDS_BATTERY_REGEN_RATE_HIGH"
 msgstr "Fast battery regeneration"
@@ -8893,7 +8881,7 @@ msgid "IDS_BATTLE_TASK_TEXT_NAME_AGH"
 msgstr "Avoid %s"
 
 msgid "IDS_BATTLE_TASK_TEXT_NAME_AGH_B"
-msgstr "Receive less than %s"
+msgstr "Receive less than %s %s"
 
 msgid "IDS_BATTLE_TASK_TEXT_NAME_AOT"
 msgstr "Complete within the time limit: %s"
@@ -10092,7 +10080,7 @@ msgid "IDS_CAROUSEL_PCVE032_FILTER"
 msgstr "Filter ships suitable for the Seek for Pandora event"
 
 msgid "IDS_CAROUSEL_PCVE033_FILTER"
-msgstr "Filter ships suitable for the Aggression event"
+msgstr "Filter ships suitable for the \"Aggression\" event"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "Filter ships suitable for Operations"
@@ -10292,6 +10280,15 @@ msgstr "Number of floodings caused"
 msgid "IDS_CAUSED_MAIN_CALIBER_HINT"
 msgstr "Number of hits and damage caused by main battery guns"
 
+msgid "IDS_CAUSED_MANUAL_AIR_DEFENSE"
+msgstr "Anti-aircraft barrage"
+
+msgid "IDS_CAUSED_MANUAL_AIR_DEFENSE_HINT"
+msgstr "Number of hits and damage caused by anti-aircraft barrage"
+
+msgid "IDS_CAUSED_MANUAL_AIR_DEFENSE_SHOTS_HINT"
+msgstr "Number of anti-aircraft barrage fired"
+
 msgid "IDS_CAUSED_MINES_HINT"
 msgstr "Number of hits and damage dealt by mines"
 
@@ -10340,11 +10337,29 @@ msgstr "Number of hits"
 msgid "IDS_CAUSED_SECONDARY_CALIBER_HINT"
 msgstr "Number of hits and damage caused by secondary battery guns"
 
+msgid "IDS_CAUSED_TORPEDOES_ACOUSTIC_HINT"
+msgstr "Number of hits and damage caused by acoustic torpedoes"
+
+msgid "IDS_CAUSED_TORPEDOES_ACOUSTIC_SHOTS_HINT"
+msgstr "Number of acoustic torpedoes launched"
+
 msgid "IDS_CAUSED_TORPEDOES_AIRSUP_HINT"
 msgstr "Number of hits and damage caused by torpedoes"
 
+msgid "IDS_CAUSED_TORPEDOES_DEEPWATER_HINT"
+msgstr "Number of hits and damage caused by deepwater torpedoes"
+
+msgid "IDS_CAUSED_TORPEDOES_DEEPWATER_SHOTS_HINT"
+msgstr "Number of deepwater torpedoes launched"
+
 msgid "IDS_CAUSED_TORPEDOES_HINT"
 msgstr "Number of hits and damage caused by torpedoes"
+
+msgid "IDS_CAUSED_TORPEDOES_NORMAL_HINT"
+msgstr "Number of hits and damage caused by torpedoes"
+
+msgid "IDS_CAUSED_TORPEDOES_NORMAL_SHOTS_HINT"
+msgstr "Number of torpedoes launched"
 
 msgid "IDS_CAUSED_TORPEDOES_RELEASED_HINT"
 msgstr "Number of torpedoes released"
@@ -10352,11 +10367,11 @@ msgstr "Number of torpedoes released"
 msgid "IDS_CAUSED_TORPEDOES_SHOTS_HINT"
 msgstr "Number of torpedoes launched"
 
-msgid "IDS_CAUSED_TO_BUILDINGS_DAMAGE"
-msgstr "Damage caused to onshore installations"
+msgid "IDS_CAUSED_TORPEDOES_THERMAL_HINT"
+msgstr "Number of hits and damage caused by thermal torpedoes"
 
-msgid "IDS_CAUSED_TO_BUILDINGS_DAMAGE_TOOLTIP"
-msgstr "Total damage caused to onshore installations"
+msgid "IDS_CAUSED_TORPEDOES_THERMAL_SHOTS_HINT"
+msgstr "Number of thermal torpedoes launched"
 
 msgid "IDS_CA_NAME1_1"
 msgstr "Synthesizer-9"
@@ -10744,7 +10759,7 @@ msgid "IDS_CHECKBOX_ADVENT_DO_NOT_OPEN_UPON_LOGIN"
 msgstr "Show the secret rewards window upon login"
 
 msgid "IDS_CHECKBOX_ALMANAC_DO_NOT_OPEN_UPON_LOGIN"
-msgstr "Show the Daily Rewards window on login"
+msgstr "Show the Unlocked Rewards window on login"
 
 msgid "IDS_CHERNOMOR"
 msgstr "Chernomor"
@@ -10873,13 +10888,13 @@ msgid "IDS_CHOOSE_EVENTBATTLE_PCVE030"
 msgstr "Select 'Waffenträger: Isolation'"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE031"
-msgstr "Select Space Frontier"
+msgstr "Select Space Front"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE032"
 msgstr "Select Seek for Pandora"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE033"
-msgstr "Select Aggression"
+msgstr "Select \"Aggression\""
 
 msgid "IDS_CHOOSE_MK_NAME"
 msgstr ""
@@ -13651,6 +13666,9 @@ msgstr "Press to offer alliance."
 
 msgid "IDS_CONTEXT_TUTORIAL_IMPULSE_LASER"
 msgstr "To use the laser, press and hold [KEY_LEFTMOUSE]."
+
+msgid "IDS_CONTEXT_TUTORIAL_MANUAL_AIR_DEFENSE_ACTIVATION"
+msgstr "Activate anti-aircraft barrage"
 
 msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
 msgstr "The enemy is moving — aim ahead when firing"
@@ -20978,7 +20996,7 @@ msgid "IDS_CURRENCY_ELITE_XP"
 msgstr "Elite Commander XP"
 
 msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "Space tokens"
+msgstr "Mysterious Shards"
 
 msgid "IDS_CURRENCY_EVENTUM_10"
 msgstr "Summer tokens"
@@ -20993,13 +21011,13 @@ msgid "IDS_CURRENCY_EVENTUM_10_STATUS"
 msgstr "Temporary event resource 'Our Summer'. With the release of update 13.8, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "For completing event progress levels and combat missions within a limited time in update 26.4, as well as from Armory bundles until the end of update 26.4."
+msgstr "For participating in the limited-time portal event \"Project Oregon\", as well as from Armory containers during the event in updates 26.6 and 26.7."
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "For the super battleship Seydlitz with a thematic permanent camouflage, for thematic permanent camouflages for the super submarine B-4 and the special Tier X cruiser Callenburgh, for \"Lesta Games\" premium containers, as well as for other items until the end of update 26.4."
+msgstr "For sequential bundles with the Tier VIII battleship Oregon with the permanent \"Bermuda\" camouflage and commemorative flag, with the special commander William Meyer Jr., with \"American Squadron\" premium containers, as well as other items during the event in updates 26.6 and 26.7."
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "Temporary resource of the \"Space Front\" event. With the release of Update 26.5, the tokens will be removed without compensation."
+msgstr "Temporary resource of the portal event \"Project Oregon.\" It will be removed without compensation with the release of update 26.8."
 
 msgid "IDS_CURRENCY_EVENTUM_2"
 msgstr "Commemorative Tokens"
@@ -21342,6 +21360,9 @@ msgstr "Harvest Village"
 msgid "IDS_CUSTOM_MAP_PCVO032"
 msgstr "Storm in the Quiet Sea"
 
+msgid "IDS_CUSTOM_THREAT_DESCRIPTION_INFO_TOOLTIP"
+msgstr "Ship firing. Shown in standard configuration without commander skills, upgrades, signals, or other modifiers."
+
 msgid "IDS_CYBERSLAV"
 msgstr "Cyberslav"
 
@@ -21491,6 +21512,9 @@ msgstr "Damage increase from the ship's armament and squadrons"
 
 msgid "IDS_DAMAGE_CARRIER"
 msgstr "Aircraft carrier is under attack!"
+
+msgid "IDS_DAMAGE_SELECTED_PROJECTILE_DESCRIPTION_INFO_TOOLTIP"
+msgstr "When a ship is hit by a main battery shell, 0%, 10%, 33%, or 100% of the shell's maximum damage may be dealt. These values correspond to hit results that are accompanied by ribbons in battle. If a shell penetrates a main or secondary battery gun, or a torpedo tube, it deals 10% of the maximum damage."
 
 msgid "IDS_DAMAGE_WIDGET"
 msgstr "Damage Indicator"
@@ -21666,6 +21690,114 @@ msgstr "Total damage caused to ships"
 msgid "IDS_DEATHMATCH_DESCRIPTION"
 msgstr "Eliminate all enemy ships"
 
+msgid "IDS_DECAL_PCED001_NAME"
+msgstr "Russian Tricolor"
+
+msgid "IDS_DECAL_PCED002_NAME"
+msgstr "Seal"
+
+msgid "IDS_DECAL_PCED003_NAME"
+msgstr "Day of the Russian Navy"
+
+msgid "IDS_DECAL_PCED004_NAME"
+msgstr "Zorka"
+
+msgid "IDS_DECAL_PCED005_NAME"
+msgstr "Gambler"
+
+msgid "IDS_DECAL_PCED006_NAME"
+msgstr "Pilot"
+
+msgid "IDS_DECAL_PCED007_NAME"
+msgstr "Gunner"
+
+msgid "IDS_DECAL_PCED008_NAME"
+msgstr "Russian Bear"
+
+msgid "IDS_DECAL_PCED009_NAME"
+msgstr "Shark"
+
+msgid "IDS_DECAL_PCED010_NAME"
+msgstr "Mir Tankov"
+
+msgid "IDS_DECAL_PCED011_NAME"
+msgstr "Panther"
+
+msgid "IDS_DECAL_PCED012_NAME"
+msgstr "Tiger"
+
+msgid "IDS_DECAL_PCED013_NAME"
+msgstr "Fish Thursday"
+
+msgid "IDS_DECAL_PCED014_NAME"
+msgstr "Raccoon"
+
+msgid "IDS_DECAL_PCED015_NAME"
+msgstr "Stars"
+
+msgid "IDS_DECAL_PCED016_NAME"
+msgstr "Crow"
+
+msgid "IDS_DECAL_PCED017_NAME"
+msgstr "Bear Paw"
+
+msgid "IDS_DECAL_PCED018_NAME"
+msgstr "Bat"
+
+msgid "IDS_DECAL_PCED019_NAME"
+msgstr "Little Shark"
+
+msgid "IDS_DECAL_PCED020_NAME"
+msgstr "Cat on a Torpedo"
+
+msgid "IDS_DECAL_PCED021_NAME"
+msgstr "Ferocious Wolf"
+
+msgid "IDS_DECAL_PCED022_NAME"
+msgstr "Innocence"
+
+msgid "IDS_DECAL_PCED023_NAME"
+msgstr "Treachery"
+
+msgid "IDS_DECAL_PCED024_NAME"
+msgstr "Trick"
+
+msgid "IDS_DECAL_PCED025_NAME"
+msgstr "Rage"
+
+msgid "IDS_DECAL_PCED026_NAME"
+msgstr "Surprise"
+
+msgid "IDS_DECAL_PCED027_NAME"
+msgstr "Embarrassment"
+
+msgid "IDS_DECAL_PCED028_NAME"
+msgstr "Delight"
+
+msgid "IDS_DECAL_PCED029_NAME"
+msgstr "Suspicion"
+
+msgid "IDS_DECAL_PCED030_NAME"
+msgstr "Flirtatiousness"
+
+msgid "IDS_DECAL_PCED031_NAME"
+msgstr "Curiosity"
+
+msgid "IDS_DECAL_PCED032_NAME"
+msgstr "Calmness"
+
+msgid "IDS_DECAL_PCED033_NAME"
+msgstr "The Hound of the Baskervilles"
+
+msgid "IDS_DECAL_PCED034_NAME"
+msgstr "Revolver"
+
+msgid "IDS_DECAL_PCED035_NAME"
+msgstr "Alpha Tester"
+
+msgid "IDS_DECAL_PCED036_NAME"
+msgstr "Beta Tester"
+
 msgid "IDS_DECK"
 msgstr "Deck"
 
@@ -21735,12 +21867,6 @@ msgstr "Del"
 msgid "IDS_DEMO_SHIP"
 msgstr "Test Ship"
 
-msgid "IDS_DENUNCIATIONS_RECEIVED_COUNT"
-msgstr "Number of reports:"
-
-msgid "IDS_DENUNCIATIONS_RECEIVED_LIMIT"
-msgstr "Maximum reports:"
-
 msgid "IDS_DEPENDED_CLASSES_RESTRICTIONS_FOR_DIVISION_TOOLTIP"
 msgstr "Restrictions on the number of ships of these types in a Division"
 
@@ -21749,6 +21875,9 @@ msgstr "Depth Charges"
 
 msgid "IDS_DEPTH_CHARGES_AVAILABILITY_WARNING"
 msgstr "Depth charges are only available in battle types featuring submarines."
+
+msgid "IDS_DEPTH_CHARGE_ALERT"
+msgstr "AIRSTRIKE"
 
 msgid "IDS_DESCRIPTION_PCZA002_BISMARK"
 msgstr "<p>The hunt for the Bismarck became one of the largest naval operations in the North Atlantic. Burning with a desire to avenge the sinking of the Hood, the British involved numerous ships of various classes, along with several air units. Cruisers, battleships, an aircraft carrier, and a whole swarm of destroyers...</p><p class=\"p_spacing\"> </p><p>The 'Hunt for the Bismarck' collection is made up of emblems of all the main participants in the grand operation to destroy the German super raider.</p>"
@@ -22913,6 +23042,9 @@ msgstr "<p>Targets lightly armored targets and deals significant potential damag
 msgid "IDS_DOCK_AMMO_DESCRIPTION_IMPULSELASER"
 msgstr "<p>The beams are dual-purpose: they can damage enemies and heal allies.</p><p class=\"p_spacing\"> </p><p>You can cease firing before the laser is completely discharged in order to reduce the recharge time.</p>"
 
+msgid "IDS_DOCK_AMMO_DESCRIPTION_MANUALAIRDEFENSE"
+msgstr "<p>Creates an area in the sky where enemy squadrons take damage and lose firing accuracy.</p><p class=\"p_spacing\"> </p><p>Only active within the ship's AA defense zone. Activate the barrage when you see a red airplane icon.</p>"
+
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MINEFIELD"
 msgstr "<p>Mines stay on the water surface for a certain amount of time and explode upon contact with ships.</p><p class=\"p_spacing\"> </p><p>Can cause flooding and incapacitate modules.</p><p class=\"p_spacing\"> </p><p>Most effective against large and less maneuverable targets.</p>"
 
@@ -23122,6 +23254,9 @@ msgstr "High-Explosive Shells (HE)"
 msgid "IDS_DOCK_AMMO_TITLE_IMPULSELASER"
 msgstr "Beams"
 
+msgid "IDS_DOCK_AMMO_TITLE_MANUALAIRDEFENSE"
+msgstr "Anti-aircraft barrage"
+
 msgid "IDS_DOCK_AMMO_TITLE_MINEFIELD"
 msgstr "Minefield"
 
@@ -23183,7 +23318,7 @@ msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUPERSHIP"
 msgstr "Torpedoes"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_DEEPWATER"
-msgstr "Deepwater (DT) Torpedoes"
+msgstr "Deepwater Torpedoes (DT)"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_DEEPWATER_SUBCRIT"
 msgstr "Deepwater Torpedoes (DT)"
@@ -24670,13 +24805,13 @@ msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_TORPEDO"
 msgstr "Torpedoes"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_TORPEDO_DEEPWATER"
-msgstr "Deepwater (DT) Torpedoes"
+msgstr "Deepwater Torpedoes (DT)"
 
 msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_BATTLE_TYPE"
 msgstr "Unavailable for the selected battle type"
 
 msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_CLAN_SHIP"
-msgstr "You can't put camouflage on this ship"
+msgstr "Unavailable for the selected ship"
 
 msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_EVENT_SHIP"
 msgstr "Not available for special ships"
@@ -30534,6 +30669,18 @@ msgstr ""
 msgid "IDS_EXTERIOR_TYPE_CAMOUFLAGE"
 msgstr "Expendable camouflage"
 
+msgid "IDS_EXTERIOR_TYPE_DECAL"
+msgstr "Decal"
+
+msgid "IDS_EXTERIOR_TYPE_DECAL_NOT_ALLOWED_CAMO"
+msgstr "The decal is not compatible with this permanent camouflage"
+
+msgid "IDS_EXTERIOR_TYPE_DECAL_NOT_ALLOWED_SHIP"
+msgstr "Decals cannot be applied to this ship"
+
+msgid "IDS_EXTERIOR_TYPE_DECAL_NOT_ENOUGH"
+msgstr "No available decals"
+
 msgid "IDS_EXTERIOR_TYPE_MSKIN"
 msgstr "Permanent camouflage"
 
@@ -30557,6 +30704,9 @@ msgstr "Raid failed"
 
 msgid "IDS_FAR"
 msgstr "Far"
+
+msgid "IDS_FARLOF"
+msgstr "Farlof the Fire"
 
 msgid "IDS_FAR_PLANE"
 msgstr "Draw distance"
@@ -33437,6 +33587,9 @@ msgstr "Starr"
 msgid "IDS_GTSHOT_DELAY_CHANGED"
 msgstr "Torpedo tube reload time reduced"
 
+msgid "IDS_GTSHOT_DELAY_SKILL_CHANGED"
+msgstr "Increased Readiness of Torpedo Crews skill activated"
+
 msgid "IDS_GUIDING_TIP_101_DESC"
 msgstr "Level up your commander and learn skills."
 
@@ -33792,7 +33945,7 @@ msgid "IDS_GUIDING_TIP_26_HEADER"
 msgstr "Ship Research"
 
 msgid "IDS_GUIDING_TIP_272_DESC"
-msgstr "Join the Northern Fleet as you journey through key episodes of the Great Patriotic War at sea!"
+msgstr "Go through the key episodes of the Great Patriotic War at sea together with the Northern Fleet!"
 
 msgid "IDS_GUIDING_TIP_272_HEADER"
 msgstr "New Event"
@@ -33828,7 +33981,7 @@ msgid "IDS_GUIDING_TIP_277_HEADER"
 msgstr "Tasks"
 
 msgid "IDS_GUIDING_TIP_278_DESC"
-msgstr "To complete a strategical operation, you need to earn progress points by completing tasks."
+msgstr "To complete the strategical operation, you need to earn progress points by completing tasks."
 
 msgid "IDS_GUIDING_TIP_278_HEADER"
 msgstr "Progress"
@@ -34344,10 +34497,46 @@ msgid "IDS_GUIDING_TIP_362_HEADER"
 msgstr "Unpin task"
 
 msgid "IDS_GUIDING_TIP_363_DESC"
-msgstr "This section displays priority missions. You can also pin any mission that is important to you here — to do so, select it on the \"Naval Courses\" screen."
+msgstr "Now you can decorate your ship with decals."
 
 msgid "IDS_GUIDING_TIP_363_HEADER"
-msgstr "Track mission progress"
+msgstr "You have decals available"
+
+msgid "IDS_GUIDING_TIP_364_DESC"
+msgstr "Here you can choose a decal for your ship."
+
+msgid "IDS_GUIDING_TIP_364_HEADER"
+msgstr "Go to the section"
+
+msgid "IDS_GUIDING_TIP_365_DESC"
+msgstr "You can see what the decal looks like before linking it."
+
+msgid "IDS_GUIDING_TIP_365_HEADER"
+msgstr "Link the decal to the ship"
+
+msgid "IDS_GUIDING_TIP_366_DESC"
+msgstr "Select a suitable ship to apply the decals."
+
+msgid "IDS_GUIDING_TIP_366_HEADER"
+msgstr "Decals"
+
+msgid "IDS_GUIDING_TIP_367_DESC"
+msgstr "Decal cannot be applied to this ship. Select another ship."
+
+msgid "IDS_GUIDING_TIP_367_HEADER"
+msgstr "Decals"
+
+msgid "IDS_GUIDING_TIP_368_DESC"
+msgstr "Decal cannot be applied to this camouflage. Select another camouflage."
+
+msgid "IDS_GUIDING_TIP_368_HEADER"
+msgstr "Decals"
+
+msgid "IDS_GUIDING_TIP_369_DESC"
+msgstr "You can see what the decal looks like before linking it."
+
+msgid "IDS_GUIDING_TIP_369_HEADER"
+msgstr "Link the decal to the ship"
 
 msgid "IDS_GUIDING_TIP_36_DESC"
 msgstr "Level up your commander and learn skills."
@@ -34913,6 +35102,9 @@ msgstr "Detected at a distance of 2 km or less"
 msgid "IDS_HELP_DEGECTIVE_MODULES"
 msgstr "Disabled Modules"
 
+msgid "IDS_HELP_DEPTH_CHARGE"
+msgstr "Airstrike on your submarine"
+
 msgid "IDS_HELP_DETECT"
 msgstr "Detected"
 
@@ -35148,7 +35340,7 @@ msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3"
 msgstr "Dive Capacity"
 
 msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_0"
-msgstr "A submarine can remain underwater as long as it has battery power. On the surface, the battery recharges."
+msgstr "A submarine can remain underwater as long as it has dive capacity. On the surface, the dive capacity recharges."
 
 msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_1"
 msgstr "When completely depleted, emergency surfacing will occur."
@@ -36711,6 +36903,12 @@ msgstr "%s ([killer_ico]%s) [weapon_ico] %s ([victim_ico]%s)"
 msgid "IDS_INFO_LARGE_DAMAGE"
 msgstr "Ship heavily damaged"
 
+msgid "IDS_INFO_MANUAL_AIR_DEFENSE_ARE_RELOADING"
+msgstr "Reloading AA guns"
+
+msgid "IDS_INFO_MANUAL_AIR_DEFENSE_ARE_REPAIRING"
+msgstr "Repairing AA guns"
+
 msgid "IDS_INFO_MISSILES_ARE_RELOADING"
 msgstr "Armament reloading"
 
@@ -36755,6 +36953,9 @@ msgstr "Ship marked by sonar ping"
 
 msgid "IDS_INFO_OUR_PLANES_ATTACKED"
 msgstr "Aircraft are under attack!"
+
+msgid "IDS_INFO_PECULIARITY_DISABLED"
+msgstr "Non-historical contents disabled"
 
 msgid "IDS_INFO_PERISCOPE_DISABLED"
 msgstr "Unavailable at periscope depth"
@@ -36807,50 +37008,17 @@ msgstr "Main turret destroyed."
 msgid "IDS_INFO_VP_ALLY_CAPTURED_BASE"
 msgstr "Our team captured area %s!"
 
-msgid "IDS_INFO_VP_ALLY_CAPTURED_CENTRAL_EPICENTERCP"
-msgstr "Our team captured the central zone!"
-
-msgid "IDS_INFO_VP_ALLY_CAPTURED_MIDDLE_EPICENTERCP"
-msgstr "Our team captured the intermediate zone!"
-
-msgid "IDS_INFO_VP_ALLY_CAPTURED_OUTTER_EPICENTERCP"
-msgstr "Our team captured the outer zone!"
-
-msgid "IDS_INFO_VP_ALLY_CAPTURED_WHOLE_EPICENTER"
-msgstr "Our team captured the epicenter!"
-
 msgid "IDS_INFO_VP_ALLY_CAPTURED_ZONE"
 msgstr "Our team captured sector %s!"
 
 msgid "IDS_INFO_VP_ENEMY_CAPTURED_BASE"
 msgstr "The enemy team captured area %s!"
 
-msgid "IDS_INFO_VP_ENEMY_CAPTURED_CENTRAL_EPICENTERCP"
-msgstr "The enemy team captured the central zone!"
-
-msgid "IDS_INFO_VP_ENEMY_CAPTURED_MIDDLE_EPICENTERCP"
-msgstr "The enemy team captured the intermediate zone!"
-
-msgid "IDS_INFO_VP_ENEMY_CAPTURED_OUTTER_EPICENTERCP"
-msgstr "The enemy team captured the outer zone!"
-
-msgid "IDS_INFO_VP_ENEMY_CAPTURED_WHOLE_EPICENTER"
-msgstr "The enemy team captured the epicenter!"
-
 msgid "IDS_INFO_VP_ENEMY_CAPTURED_ZONE"
 msgstr "The enemy team captured sector %s!"
 
 msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_BASE"
 msgstr "The enemy team started capturing area %s!"
-
-msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_CENTRAL_EPICENTERCP"
-msgstr "The enemy team started capturing the central zone!"
-
-msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_MIDDLE_EPICENTERCP"
-msgstr "The enemy team started capturing the intermediate zone!"
-
-msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_OUTTER_EPICENTERCP"
-msgstr "The enemy team started capturing the outer zone!"
 
 msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_ZONE"
 msgstr "The enemy team started capturing sector %s!"
@@ -36890,6 +37058,9 @@ msgstr "Mount"
 
 msgid "IDS_INSTALLED"
 msgstr "Mounted"
+
+msgid "IDS_INSTALLED_DECAL"
+msgstr "Linked"
 
 msgid "IDS_INSTALLED_ENSIGNS"
 msgstr "Flags mounted: %(_installedEnsign)s/%(_ensignLimit)s"
@@ -37930,6 +38101,9 @@ msgstr ";"
 msgid "IDS_LINK_FULL_LEGAL_INFO"
 msgstr "Legal documents"
 
+msgid "IDS_LINK_INFO_DECAL"
+msgstr "Not linked to the ship"
+
 msgid "IDS_LINK_MSKIN_UPPER_CASE"
 msgstr "LINK"
 
@@ -37950,6 +38124,9 @@ msgstr "Port loading"
 
 msgid "IDS_LOADING_SCREEN_POWERUPS_HEADER"
 msgstr "Buffs"
+
+msgid "IDS_LOADING_SCREEN_UPDATE"
+msgstr "Updating data"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_0"
 msgstr "Teamwork and mutual assistance will help you survive and win the battle."
@@ -40564,12 +40741,6 @@ msgstr "Maximum"
 msgid "IDS_MAXIMUM"
 msgstr "Maximum"
 
-msgid "IDS_MAX_CAUSED_TO_BUILDINGS_DAMAGE"
-msgstr "Damage caused to onshore installations"
-
-msgid "IDS_MAX_CAUSED_TO_BUILDINGS_DAMAGE_TOOLTIP"
-msgstr "Most damage caused to onshore installations in a battle"
-
 msgid "IDS_MAX_COUNT_AIRCARRIER_IN_DIVISION"
 msgstr "Maximum number of aircraft carriers in a Division"
 
@@ -40649,12 +40820,6 @@ msgstr "Max Strauss"
 
 msgid "IDS_MAX_STRAUSS_HW"
 msgstr "Max Strauss"
-
-msgid "IDS_MAX_SUPPRESSED_BUILDINGS"
-msgstr "Onshore installations suppressed"
-
-msgid "IDS_MAX_SUPPRESSED_BUILDINGS_TOOLTIP"
-msgstr "Highest number of onshore installations suppressed in a battle"
 
 msgid "IDS_MAX_TRAINING_ROOM_DESCRIPTION_LENGTH"
 msgstr "Shorten the description"
@@ -41385,6 +41550,15 @@ msgstr "Participation Conditions"
 msgid "IDS_MODAL_WINDOW_BRAWLBATTLE_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "The size and lineup of teams depend on the season."
 
+msgid "IDS_MODAL_WINDOW_BUY_AND_LINK_DECAL_TO"
+msgstr "Purchase and link to the ship for"
+
+msgid "IDS_MODAL_WINDOW_BUY_DECAL_HEADER"
+msgstr "Purchase Decals"
+
+msgid "IDS_MODAL_WINDOW_BUY_DECAL_INFO"
+msgstr "To apply such a decal to another ship, you will need to obtain another copy."
+
 msgid "IDS_MODAL_WINDOW_CLANBATTLE_RULES_HEADER"
 msgstr "Clan Battle"
 
@@ -41576,6 +41750,18 @@ msgstr "Elite Training"
 
 msgid "IDS_MODAL_WINDOW_LEARNSKILLS_HEADER"
 msgstr "Mastering Commander Skills"
+
+msgid "IDS_MODAL_WINDOW_LINK_DECAL_HEADER"
+msgstr "Link Decal"
+
+msgid "IDS_MODAL_WINDOW_LINK_DECAL_INFO"
+msgstr "To apply such a decal to another ship, you will need to obtain another copy."
+
+msgid "IDS_MODAL_WINDOW_LINK_DECAL_TO"
+msgstr "Link to ship"
+
+msgid "IDS_MODAL_WINDOW_LINK_DECAL_UNIQUE_INFO"
+msgstr "Unique decals are not available for purchase"
 
 msgid "IDS_MODAL_WINDOW_LINK_MULTIBOOST"
 msgstr "Link bonuses"
@@ -42247,19 +42433,19 @@ msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_1_HEADER"
 msgstr "Briefing"
 
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "The final days of the Great Patriotic War—the Third Reich in its death throes, Soviet troops pursuing the enemy to its very lair. At a military base in a Baltic harbor, the remnants of the German fleet prepare to retreat—the last convulsions of a dying beast."
+msgstr "The flames of battle burn low — the enemy is in agony, allies pursuing him to his very lair. In the last harbor still under enemy control, the remnants of his fleet are concentrated. They prepare to retreat — the final convulsion of a dying beast."
 
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Intelligence reports that the German Horst group battleships are preparing to retreat from the harbor."
+msgstr "Intelligence reports that the battleships of the Horst group are preparing to depart from the inner roadstead."
 
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_1_TEXT_3"
-msgstr "Your task: Destroy the last forces of the Kriegsmarine retreating from the harbor."
+msgstr "Your task is to destroy the remaining enemy forces leaving the harbor."
 
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_2_HEADER"
 msgstr "Participation Conditions"
 
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "You can enter battle with Tier IX–X ships or a super ship. All classes except submarines are allowed."
+msgstr "You can enter battle on a Tier VI–X ship or a super ship. All classes except submarines are allowed."
 
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_2_TEXT_2"
 msgstr "Team size: 7. Maximum division size: 7."
@@ -43137,6 +43323,9 @@ msgstr "Hide flag"
 msgid "IDS_MOUSE_INSTRUCTION_DISABLE_PREVIEW_SIGNAL"
 msgstr "Hide signal"
 
+msgid "IDS_MOUSE_INSTRUCTION_FIT_DECAL"
+msgstr "View decal"
+
 msgid "IDS_MOUSE_INSTRUCTION_GO_TO_PREVIEW"
 msgstr "Go to historical information about the ship"
 
@@ -43148,6 +43337,9 @@ msgstr "Mount camouflage"
 
 msgid "IDS_MOUSE_INSTRUCTION_INSTALL_CAMO_COLOR"
 msgstr "Mount the camouflage in this color scheme"
+
+msgid "IDS_MOUSE_INSTRUCTION_INSTALL_DECAL"
+msgstr "Apply decal"
 
 msgid "IDS_MOUSE_INSTRUCTION_INSTALL_ECONOMIC_BOOST"
 msgstr "Mount bonus"
@@ -43217,6 +43409,9 @@ msgstr "Demount signal"
 
 msgid "IDS_MOUSE_INSTRUCTION_TRAINING_BATTLE_SETTINGS"
 msgstr "Training Room settings"
+
+msgid "IDS_MOUSE_INSTRUCTION_UNINSTALL_DECAL"
+msgstr "Remove decal"
 
 msgid "IDS_MOVEBYMINIMAP"
 msgstr "Move by minimap"
@@ -43899,7 +44094,7 @@ msgid "IDS_NAVAL_FLAG_GREECE"
 msgstr "The Hellenic Navy"
 
 msgid "IDS_NAVAL_FLAG_GREECE_DESCRIPTION"
-msgstr "The design of the Greek naval flag was approved in 1822 during the revival of Greek statehood and has been used ever since with minor changes. The white and blue colors of the flag represent the Greek sky and sea, while the number of stripes coincides with the number of letters in the word \"ελευθερία,\" meaning \"freedom\" in Greek."
+msgstr "The design of the Greek naval flag was approved in 1822 during the revival of Greek statehood and has been used ever since with minor changes. The white and blue colors of the flag represent the Greek sky and sea, while the number of stripes coincides with the number of letters in the word \"Elefþería,\" meaning \"freedom\" in Greek."
 
 msgid "IDS_NAVAL_FLAG_INDIAN"
 msgstr "Indian Navy"
@@ -45939,6 +46134,12 @@ msgstr "Wittmar"
 msgid "IDS_OP12_714"
 msgstr "Wighart"
 
+msgid "IDS_OP12_715"
+msgstr "Kretschmer"
+
+msgid "IDS_OP12_716"
+msgstr "Schichau"
+
 msgid "IDS_OP12_ALARM_HORST_START_MOVING"
 msgstr "Attention! The Horst group battleships have begun leaving the harbor waters. Do not let them escape!"
 
@@ -46013,6 +46214,30 @@ msgstr "Avoid enemy torpedo attacks! Preserve the team's combat effectiveness."
 
 msgid "IDS_OP12_SECONDARY8_BRIEFING"
 msgstr "Destroy the ammunition depots! The enemy must not evacuate the armament supplies from the harbor."
+
+msgid "IDS_OP12_TEXT_ALARM_HORST_START_MOVING"
+msgstr "Attention! The Horst group battleships have begun leaving the harbor waters. Do not let them escape!"
+
+msgid "IDS_OP12_TEXT_ALARM_LEGIONNAIRE_START_BREAKING_IN_HARBOR"
+msgstr "The \"Legionario\" group has entered the combat zone. Destroy the unit to deprive the \"Horst\" group of battleships of cover."
+
+msgid "IDS_OP12_TEXT_MAIN_TASK_BRIEFING"
+msgstr "Don't let the \"Horst\" group of battleships escape into open waters [sm_finish_enemy]!"
+
+msgid "IDS_OP12_TEXT_SECONDARY1_BRIEFING"
+msgstr "Save at least 3 of your team's ships. Critical losses cannot be allowed!"
+
+msgid "IDS_OP12_TEXT_SECONDARY2_BRIEFING"
+msgstr "Avoid enemy torpedo attacks! Preserve the team's combat effectiveness."
+
+msgid "IDS_OP12_TEXT_SECONDARY3_BRIEFING"
+msgstr "Conduct reconnaissance in the marked areas on the approach to the harbor"
+
+msgid "IDS_OP12_TEXT_SECONDARY4_BRIEFING"
+msgstr "Destroy the \"Legionario\" group. Don't let it break through to the harbor!"
+
+msgid "IDS_OP12_TEXT_SECONDARY5_BRIEFING"
+msgstr "Destroy 2 enemy submarines. Do not let them break through to the open sea!"
 
 msgid "IDS_OP12_TRN101"
 msgstr "Lager"
@@ -49679,6 +49904,9 @@ msgstr "Crimson Spark"
 msgid "IDS_PAES369_SUMMER_MAINE"
 msgstr "Resort"
 
+msgid "IDS_PAES378_OREGON_BERMUDA"
+msgstr "Bermuda"
+
 msgid "IDS_PAES400_PUERTO_RICO"
 msgstr "National"
 
@@ -49816,6 +50044,9 @@ msgstr "Flutter"
 
 msgid "IDS_PAES550_BLACK_CAMPAIGN"
 msgstr "Sui Generis"
+
+msgid "IDS_PAES551_STONEWALL_CEREMONIAL"
+msgstr "Ceremonial"
 
 msgid "IDS_PAES560_LYNCH_COLORFUL"
 msgstr "Neon Pulse"
@@ -51044,6 +51275,12 @@ msgstr "127 mm HE Mk.41"
 msgid "IDS_PAPA177_127MM_CS_NORTHAMPTON"
 msgstr "127 mm CS Mk.42"
 
+msgid "IDS_PAPA178_127MM_CS_JENKINS"
+msgstr "127 mm CS Mk38"
+
+msgid "IDS_PAPA179_127MM_AP_JENKINS"
+msgstr "127 mm AP/SC Mk38"
+
 msgid "IDS_PAPA200_76MM_SG_CS_SUB"
 msgstr "76 mm CS Mk29"
 
@@ -51548,6 +51785,9 @@ msgstr "Mk15 mod. 4"
 msgid "IDS_PAPT072_533MM_SHENANDOAH"
 msgstr "Mk17 mod. 2"
 
+msgid "IDS_PAPT073_JENKINS"
+msgstr "Mark 17*"
+
 msgid "IDS_PAPT104_LANGLEY_STOCK"
 msgstr "Torpedo Mk.7D"
 
@@ -51927,6 +52167,24 @@ msgstr "Number of available airstrike squadrons"
 msgid "IDS_PARAMS_MODIFIER_ASRELOADTIMECOEFF"
 msgstr "Airstrike preparation time"
 
+msgid "IDS_PARAMS_MODIFIER_ASRELOADTIMECOEFF_AIRCARRIER"
+msgstr "Aircraft group preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_ASRELOADTIMECOEFF_AUXILIARY"
+msgstr "Aircraft group preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_ASRELOADTIMECOEFF_BATTLESHIP"
+msgstr "Aircraft group preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_ASRELOADTIMECOEFF_CRUISER"
+msgstr "Aircraft group preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_ASRELOADTIMECOEFF_DESTROYER"
+msgstr "Aircraft group preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_ASRELOADTIMECOEFF_SUBMARINE"
+msgstr "Aircraft group preparation time"
+
 msgid "IDS_PARAMS_MODIFIER_ATBAHEATTIME"
 msgstr "Time to reach maximum efficiency"
 
@@ -51947,6 +52205,9 @@ msgstr "Additional Dive Capacity Depletion"
 
 msgid "IDS_PARAMS_MODIFIER_BATTERYCAPACITYCOEFF"
 msgstr "Dive Capacity"
+
+msgid "IDS_PARAMS_MODIFIER_BATTERYREGENBATTERYLASTCHANCECOEFF"
+msgstr "Dive Capacity Recharge Rate per Second"
 
 msgid "IDS_PARAMS_MODIFIER_BATTERYREGENCOEFF"
 msgstr "Dive Capacity Recharge Rate per Second"
@@ -52035,6 +52296,16 @@ msgstr "Number of consumables"
 msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSADDITIONALCONSUMABLES_SKILL"
 msgstr "Number of Patrol Fighters and Interceptor consumable charges"
 
+msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSADDITIONALPLANESHIGHLEVEL"
+msgstr ""
+"Number of fighters/interceptors for\n"
+"Tier VIII and X, as well as super aircraft carriers"
+
+msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSADDITIONALPLANESLOWLEVEL"
+msgstr ""
+"Number of fighters/interceptors for\n"
+"Tier IV and VI aircraft carriers"
+
 msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSAPPEARDELAY"
 msgstr "Arrival time"
 
@@ -52054,7 +52325,7 @@ msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSTIMEDELAYATTACK"
 msgstr "Time before attack"
 
 msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSWORKTIMECOEFF"
-msgstr "Ship’s consumable action time"
+msgstr "Consumable action time"
 
 msgid "IDS_PARAMS_MODIFIER_CANBEDETECTEDBYSONAR"
 msgstr "Submarine can be detected by Submarine Surveillance."
@@ -52383,6 +52654,9 @@ msgid "IDS_PARAMS_MODIFIER_FLOODDPS"
 msgstr "HP per second"
 
 msgid "IDS_PARAMS_MODIFIER_FLOODPROB"
+msgstr "Risk of flooding when a torpedo hits the torpedo protection"
+
+msgid "IDS_PARAMS_MODIFIER_FLOODPROBNOTPTZDEPENDENT"
 msgstr "Risk of flooding"
 
 msgid "IDS_PARAMS_MODIFIER_FLOODTIME"
@@ -52595,6 +52869,9 @@ msgstr "Torpedo tube reload time"
 msgid "IDS_PARAMS_MODIFIER_GTSHOTDELAY_ABILITY"
 msgstr "Torpedo tube reload time"
 
+msgid "IDS_PARAMS_MODIFIER_GTSHOTDELAY_SKILL"
+msgstr "Torpedo tube reload time"
+
 msgid "IDS_PARAMS_MODIFIER_GTSWITCHTIMECOEFF"
 msgstr "Torpedo type switching time"
 
@@ -52626,6 +52903,9 @@ msgid "IDS_PARAMS_MODIFIER_HEALTHPERLEVEL_CRUISER"
 msgstr "Hit points per ship tier"
 
 msgid "IDS_PARAMS_MODIFIER_HEALTHPERLEVEL_DESTROYER"
+msgstr "Hit points per ship tier"
+
+msgid "IDS_PARAMS_MODIFIER_HEALTHPERLEVEL_SUBMARINE"
 msgstr "Hit points per ship tier"
 
 msgid "IDS_PARAMS_MODIFIER_HEALTHREGEN"
@@ -52678,6 +52958,9 @@ msgstr "Continuous AA damage"
 
 msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_AIRSUPPORT"
 msgstr "Airstrike preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_DEPTHCHARGES"
+msgstr "Depth charge reload time"
 
 msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_MAIN"
 msgstr "Main battery reload time"
@@ -52824,6 +53107,24 @@ msgid "IDS_PARAMS_MODIFIER_PLANESMOKEGENERATORWORKTIMECOEFF"
 msgstr "Aviation Smoke Generator consumable action time"
 
 msgid "IDS_PARAMS_MODIFIER_PLANESPAWNTIME"
+msgstr "Aircraft preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPAWNTIME_AIRCARRIER"
+msgstr "Aircraft preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPAWNTIME_AUXILIARY"
+msgstr "Aircraft preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPAWNTIME_BATTLESHIP"
+msgstr "Aircraft preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPAWNTIME_CRUISER"
+msgstr "Aircraft preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPAWNTIME_DESTROYER"
+msgstr "Aircraft preparation time"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPAWNTIME_SUBMARINE"
 msgstr "Aircraft preparation time"
 
 msgid "IDS_PARAMS_MODIFIER_PLANESPEED"
@@ -53105,6 +53406,9 @@ msgstr "From operating depth"
 msgid "IDS_PARAMS_MODIFIER_SHOOTSHIFT"
 msgstr "Dispersion of shells fired by enemies attacking your ship"
 
+msgid "IDS_PARAMS_MODIFIER_SHOOTSHIFTBATTERYLASTCHANCECOEFF"
+msgstr "Dispersion of shells fired by enemies attacking your ship"
+
 msgid "IDS_PARAMS_MODIFIER_SHOTSCOUNT_BURSTFIRE"
 msgstr "Number of bursts in a series"
 
@@ -53170,6 +53474,9 @@ msgstr "Hydroacoustic Search consumable action time"
 
 msgid "IDS_PARAMS_MODIFIER_SONARWORKTIMECOEFF_SKILL"
 msgstr "Hydroacoustic Search consumable action time"
+
+msgid "IDS_PARAMS_MODIFIER_SPEEDBATTERYLASTCHANCECOEFF"
+msgstr "Surface speed"
 
 msgid "IDS_PARAMS_MODIFIER_SPEEDBOOSTERSADDITIONALCONSUMABLES"
 msgstr "Number of Engine Boost consumables"
@@ -54666,13 +54973,13 @@ msgid "IDS_PASB917_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASB990"
-msgstr "Vermont Test"
+msgstr "Vermont (ZB)"
 
 msgid "IDS_PASB990_DESCR"
-msgstr "A copy of the ship for testing elite modernization."
+msgstr "A copy of the ship for testing the \"Anti-aircraft barrage\" weapon system."
 
 msgid "IDS_PASB990_FULL"
-msgstr "Vermont Test"
+msgstr "Vermont (ZB)"
 
 msgid "IDS_PASB990_NUMBER"
 msgstr "1"
@@ -55831,6 +56138,21 @@ msgstr "175"
 msgid "IDS_PASD519_YEAR"
 msgstr "1943"
 
+msgid "IDS_PASD521"
+msgstr "Jenkins"
+
+msgid "IDS_PASD521_DESCR"
+msgstr "A ship for testing."
+
+msgid "IDS_PASD521_FULL"
+msgstr "Jenkins"
+
+msgid "IDS_PASD521_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD521_YEAR"
+msgstr "1943"
+
 msgid "IDS_PASD529"
 msgstr "Black B"
 
@@ -56560,6 +56882,9 @@ msgstr "203 mm/55 Mk.71 in a turret"
 
 msgid "IDS_PAUA924_ART_COLORFUL_LYNCH"
 msgstr "127 mm/70 Mk.44 in a turret"
+
+msgid "IDS_PAUA925_ART_JENKINS"
+msgstr "127 mm/38 Mk.12 on a Mk.38 mount"
 
 msgid "IDS_PAUA931_B10_ART_STOCK"
 msgstr "406 mm/50 Mk.7 in a turret"
@@ -57494,6 +57819,9 @@ msgstr "Propulsion: 110,000 hp"
 msgid "IDS_PAUE939_ENG_COLORFUL_LYNCH"
 msgstr "Propulsion: 80,000 hp"
 
+msgid "IDS_PAUE940_ENG_JENKINS"
+msgstr "Propulsion: 70,000 hp"
+
 msgid "IDS_PAUE950_ENG_NORTHAMPTON"
 msgstr "Propulsion: 120,000 hp"
 
@@ -58405,6 +58733,9 @@ msgstr "Shenandoah"
 msgid "IDS_PAUH937_HULL_COLORFUL_LYNCH"
 msgstr "Lynch CLR"
 
+msgid "IDS_PAUH938_HULL_JENKINS"
+msgstr "Jenkins"
+
 msgid "IDS_PAUH941_MIDWAY_1945"
 msgstr "Midway (A)"
 
@@ -59213,6 +59544,9 @@ msgstr "Mk10"
 msgid "IDS_PAUS926_SUO_COLORFUL_LYNCH"
 msgstr "Mk10"
 
+msgid "IDS_PAUS927_SUO_JENKINS"
+msgstr "Mk11"
+
 msgid "IDS_PAUS931_SUO"
 msgstr "Mk10 mod. 1"
 
@@ -59515,6 +59849,9 @@ msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT920_TORP_STONEWALL"
 msgstr "Mk11"
+
+msgid "IDS_PAUT921_TORP_JENKINS"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT974_TORP_GEARING"
 msgstr "Mark 17"
@@ -60152,6 +60489,9 @@ msgstr "40 mm/39 Vickers QF Mk.VIII on a Mk.VII mount"
 msgid "IDS_PBGA167_4IN45_QF_MK_XIX"
 msgstr "102 mm/45 QF Mk.XVI* on a Mk.XIX mount"
 
+msgid "IDS_PBGA172_STAAG_MARKV_BLACK_BARRELS"
+msgstr "40 mm/56 OQF Mk.X on a STAAG Mk.2 mount"
+
 msgid "IDS_PBGA194_40MM_BOFORS_5_RP50"
 msgstr "40 mm/56 OQF Mk.XI on an RP50 mount"
 
@@ -60346,6 +60686,9 @@ msgstr "305 mm/50 Mk.XVIII on a turret mount"
 
 msgid "IDS_PBGM169_3IN_45_20CWT_QF_HA_MARKI_HA_MARKSII"
 msgstr "76 mm/45 20cwt QF HA Mk.I on a CPV mount"
+
+msgid "IDS_PBGM171_4_5IN45_MK_5_BLACK_BARRELS"
+msgstr "113 mm/45 QF Mk.IV on an RP41 Mk.VI mount"
 
 msgid "IDS_PBGM198_6IN50_NEPTUNE"
 msgstr "152 mm/50 BL Mk.XXIII on a Mk.XXV mount"
@@ -70540,6 +70883,12 @@ msgstr "USS Stonewall"
 msgid "IDS_PCEE815_STONEWALL_FLAG_DESCRIPTION"
 msgstr "Thomas Jackson, known by the nickname Stonewall, was a Confederate general during the American Civil War and an outstanding military tactician. A commemorative medal featuring the general's profile was minted for those who served in the Stonewall Brigade."
 
+msgid "IDS_PCEE816_SUVOROV_FLAG"
+msgstr "Generalissimo Suvorov"
+
+msgid "IDS_PCEE816_SUVOROV_FLAG_DESCRIPTION"
+msgstr "The Order of Suvorov was established during the Great Patriotic War and became the first Soviet order to have three degrees. It was awarded to commanders and military leaders for outstanding success in troop management, excellent organization of combat operations, and the determination and persistence demonstrated in the process."
+
 msgid "IDS_PCEE818_WATERLOO_FLAG"
 msgstr "HMS Waterloo"
 
@@ -70575,6 +70924,36 @@ msgstr "Akagi"
 
 msgid "IDS_PCEE824_AKAGI_FLAG_DESCRIPTION"
 msgstr "Mount Akagi is a volcano in Gunma Prefecture on the Japanese island of Honshu. It is one of the three mountains that hold special significance in the local culture and are depicted on the prefecture's emblem."
+
+msgid "IDS_PCEE825_DDR_FLAG"
+msgstr "GDR"
+
+msgid "IDS_PCEE825_DDR_FLAG_DESCRIPTION"
+msgstr "For ten years after Germany was divided into the GDR and the FRG, the flags of the two states looked identical. Only in 1959 was the tricolor of the German Democratic Republic supplemented with a coat of arms featuring a hammer, a compass, and a wreath of wheat ears, symbolizing the unity of workers, the technical intelligentsia, and peasants."
+
+msgid "IDS_PCEE827_BUDAPEST_FLAG"
+msgstr "SMS Budapest"
+
+msgid "IDS_PCEE827_BUDAPEST_FLAG_DESCRIPTION"
+msgstr "The flag of the Kingdom of Hungary within the Austro-Hungarian Empire, which was used until 1918. In the center is the national coat of arms — a shield with a patriarchal cross and the crown of Saint Stephen."
+
+msgid "IDS_PCEE828_ANZAC_SHIP_FLAG"
+msgstr "HMAS Anzac"
+
+msgid "IDS_PCEE828_ANZAC_SHIP_FLAG_DESCRIPTION"
+msgstr "The Australian and New Zealand Army Corps (ANZAC) was formed to participate in the First World War. The corps' commemorative emblem bears the words: courage, sacrifice, comradeship."
+
+msgid "IDS_PCEE829_CHOKAI_FLAG"
+msgstr "Chōkai"
+
+msgid "IDS_PCEE829_CHOKAI_FLAG_DESCRIPTION"
+msgstr "In the history of the Japanese navy, the name Chōkai was assigned to several ships: a gunboat from the late 19th to early 20th century, a heavy cruiser from World War II, and a missile destroyer that entered service in 1998. The destroyer's commemorative token features an eastern buzzard against a background of two crossed anchors."
+
+msgid "IDS_PCEE830_JENKINS_FLAG"
+msgstr "USS Jenkins"
+
+msgid "IDS_PCEE830_JENKINS_FLAG_DESCRIPTION"
+msgstr "Thornton Jenkins is an American naval officer who distinguished himself in the Civil War and later attained the rank of rear admiral. On the shoulder boards of a U.S. Navy rear admiral of that era were an anchor and two stars."
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "Santas Wanted 2016"
@@ -70797,6 +71176,18 @@ msgstr "Coal"
 
 msgid "IDS_PCEM029_COAL_MSKIN"
 msgstr "Coal"
+
+msgid "IDS_PCEM030_BUREAU_8LVL"
+msgstr "Research"
+
+msgid "IDS_PCEM031_BUREAU_9LVL"
+msgstr "Research"
+
+msgid "IDS_PCEM032_BUREAU_10LVL"
+msgstr "Research"
+
+msgid "IDS_PCEM033_BUREAU_11LVL"
+msgstr "Research"
 
 msgid "IDS_PCEP103_PERMO_PREM_LOW_LVL"
 msgstr "Default"
@@ -71615,10 +72006,10 @@ msgid "IDS_PCVO006_OP_12"
 msgstr "Hydra Den"
 
 msgid "IDS_PCVO006_OP_12_HYDRA_DEN_DESCRIPTION"
-msgstr "The final days of the Great Patriotic War—the Third Reich in its death throes, Soviet troops pursuing the enemy to its very lair. At a military base in a Baltic harbor, the remnants of the German fleet prepare to retreat—the last convulsions of a dying beast."
+msgstr "The flames of battle burn low — the enemy is in agony, allies pursuing him to his very lair. In the last harbor still under enemy control, the remnants of his fleet are concentrated. They prepare to retreat — the final convulsion of a dying beast."
 
 msgid "IDS_PCVO006_OP_12_HYDRA_DEN_GOAL"
-msgstr "Destroy the Horst group battleships before they leave the harbor."
+msgstr "Destroy the Horst group's battleships before they reach open waters."
 
 msgid "IDS_PCVO006_OP_12_HYDRA_DEN_NAME"
 msgstr "Hydra Den"
@@ -71627,7 +72018,7 @@ msgid "IDS_PCVO006_OP_12_HYDRA_DEN_NAME_RESULT_SCREEN"
 msgstr "Hydra Den"
 
 msgid "IDS_PCVO006_OP_12_HYDRA_DEN_PVE_TOOLTIP_GOAL"
-msgstr "Operation to destroy the last forces of the Kriegsmarine in the Baltic Sea. Do not allow the German battleships to retreat from the harbor!"
+msgstr "Operation to destroy the remaining enemy forces in the harbor. Do not let the \"Horst\" battleships break through into open waters."
 
 msgid "IDS_PCVO006_SUBHEADER"
 msgstr "Fight against overwhelming forces of bots"
@@ -81575,6 +81966,9 @@ msgstr "Fw.200 Condor Test"
 msgid "IDS_PGAD990_O_LILIENTHAL"
 msgstr "Ta 152C-1/R14"
 
+msgid "IDS_PGAD999_ASW_T10_TEST"
+msgstr "Fw.200 Condor"
+
 msgid "IDS_PGAF001_HE51"
 msgstr "Heinkel He. 51"
 
@@ -81890,6 +82284,9 @@ msgstr "Special Ceremonial"
 msgid "IDS_PGES348_BLACK_TIRPITZ"
 msgstr "Special"
 
+msgid "IDS_PGES349_POMMERN_SUPERSTART"
+msgstr "Finger of destiny"
+
 msgid "IDS_PGES350_KURFURST_COSMO"
 msgstr "Weltraum"
 
@@ -82096,6 +82493,12 @@ msgstr "55 mm/77 Gerät 58 on a twin mount"
 
 msgid "IDS_PGGA145_37MM57_FLAK_M43"
 msgstr "37 mm/69 Flak M43 in single mount"
+
+msgid "IDS_PGGA159_25MM_TYPE96_SINGLE"
+msgstr "25 mm/60 Type 96 on a single mount"
+
+msgid "IDS_PGGA160_25MM_TYPE96_DOUBLE"
+msgstr "25 mm/60 Type 96 on a twin mount"
 
 msgid "IDS_PGGA307_55MM_GERAT_TWIN55_SPACE"
 msgstr "55 mm/77 Gerät 58 on a twin mount"
@@ -82343,6 +82746,12 @@ msgstr "305 mm/50 SK C/08 on a Drh LC/1911 mount"
 msgid "IDS_PGGM150_45CM_50_DRH_LC_1922"
 msgstr "450 mm/50 SK L/50 on a Drh LC/1922 mount"
 
+msgid "IDS_PGGM155_203MM50_TYPE_E_RF"
+msgstr "203 mm/50 3rd Year Type No.2 in a Model E turret"
+
+msgid "IDS_PGGM156_203MM50_TYPE_E"
+msgstr "203 mm/50 3rd Year Type No.2 in a Model E turret"
+
 msgid "IDS_PGGM304_406_C36_SPACE"
 msgstr "406 mm/52 Drh C/34 on a Drh LC/34 mount"
 
@@ -82430,6 +82839,9 @@ msgstr "150 mm/60 SK C/25 on a Drh LC/44 mount"
 msgid "IDS_PGGS150_127MM_KC_40"
 msgstr "128 mm L/61 SK C/42"
 
+msgid "IDS_PGGS157_120MM45_TYPE_HAGUN_10"
+msgstr "120 mm/45 10th Year Type on a Model B mount"
+
 msgid "IDS_PGGS306_150MM_SKC28_RF_SPACE"
 msgstr "150 mm/55 SK C/28 on a Dop. L. C/34 mount"
 
@@ -82507,6 +82919,9 @@ msgstr "533 mm Fünfling"
 
 msgid "IDS_PGGT142_600MM_INVISIBLE_TA"
 msgstr "600 mm"
+
+msgid "IDS_PGGT158_610MM_TUBE2_TYPE_89"
+msgstr "610 mm Twin"
 
 msgid "IDS_PGGT536_533MM_TORPEDO_TUBES_QUAD_SPACE"
 msgstr "Flood XIX Rocket"
@@ -83015,6 +83430,15 @@ msgstr "380 mm Spr.Gr. L/4.6"
 msgid "IDS_PGPA170_380MM_AP_WOTAN"
 msgstr "380 mm P.Spr.Gr. L/4.4"
 
+msgid "IDS_PGPA171_120MM_HE_C_TYPE_0"
+msgstr "120 mm HE Type0"
+
+msgid "IDS_PGPA172_203MM_HE_NIBELUNG"
+msgstr "203 mm HE Type0"
+
+msgid "IDS_PGPA173_203MM_AP_NIBELUNG"
+msgstr "203 mm AP Type91"
+
 msgid "IDS_PGPA200_88MM_SG_CS_SUB"
 msgstr "88 mm CS Spr.Gr."
 
@@ -83151,6 +83575,9 @@ msgid "IDS_PGPD110_DEPTH_CV_10"
 msgstr "SC-300"
 
 msgid "IDS_PGPD907_DEPTH_T10"
+msgstr "SC-300"
+
+msgid "IDS_PGPD999_DEPTH_CHARGE_T10_TEST"
 msgstr "SC-300"
 
 msgid "IDS_PGPR001_PARSEVAL_STOCK"
@@ -83419,6 +83846,9 @@ msgstr "G7 Schildbutt"
 
 msgid "IDS_PGPT071_533MM_WOTAN"
 msgstr "G7 Steinwal"
+
+msgid "IDS_PGPT072_NIBELUNG"
+msgstr "Type93"
 
 msgid "IDS_PGPT101_450_G03"
 msgstr "G/03"
@@ -84285,13 +84715,13 @@ msgid "IDS_PGSB910_YEAR"
 msgstr "1941"
 
 msgid "IDS_PGSB990"
-msgstr "Preussen (EM)"
+msgstr "Preussen (AGB)"
 
 msgid "IDS_PGSB990_DESCR"
-msgstr "<p>During World War II, the German naval leadership studied the experience gained, particularly the loss of the battleship Bismarck and the damage to the battleship Scharnhorst in July 1941. The conclusions drawn led to a revision of the characteristics of the under-construction H and J ships.</p><p class=\"p_spacing\"> </p><p>It was required to strengthen horizontal armor while maintaining a draft of 11.5 m for operations in the shallow North Sea. The project acquired a triple bottom and more watertight compartments for protection against underwater explosions. The main caliber of future ships was also increased.</p><p class=\"p_spacing\"> </p><p>Subsequently, construction for the fleet was reoriented towards submarines—no new battleships were laid down.</p>"
+msgstr "Copy of the ship for testing Depth Charge Airstrike with special characteristics."
 
 msgid "IDS_PGSB990_FULL"
-msgstr "Preussen (EM)"
+msgstr "Preussen (AGB)"
 
 msgid "IDS_PGSB990_NUMBER"
 msgstr "1"
@@ -84777,6 +85207,21 @@ msgid "IDS_PGSC539_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSC539_YEAR"
+msgstr "1943"
+
+msgid "IDS_PGSC549"
+msgstr "Nibelung"
+
+msgid "IDS_PGSC549_DESCR"
+msgstr "A ship for testing."
+
+msgid "IDS_PGSC549_FULL"
+msgstr "Nibelung"
+
+msgid "IDS_PGSC549_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC549_YEAR"
 msgstr "1943"
 
 msgid "IDS_PGSC588"
@@ -85654,6 +86099,9 @@ msgstr "128 mm/61 KM40 in a turret"
 msgid "IDS_PGUA815_ART_DANZIG"
 msgstr "150 mm/61 Gerät 60 on an LDrh LC/44 mount"
 
+msgid "IDS_PGUA816_ART_NIBELUNG"
+msgstr "203 mm/50 3rd Year Type No.2 in a Model E turret"
+
 msgid "IDS_PGUA821_B9_ART_STOCK"
 msgstr "406 mm/52 SK C/34 on a Drh LC/34 mount"
 
@@ -86148,6 +86596,9 @@ msgstr "Propulsion: 140,000 hp"
 
 msgid "IDS_PGUE816_ENG_DANZIG"
 msgstr "Propulsion: 192,000 hp"
+
+msgid "IDS_PGUE817_ENG_NIBELUNG"
+msgstr "Propulsion: 134,240 hp"
 
 msgid "IDS_PGUE900_S10_ENG_STOCK"
 msgstr "Propulsion: 5,000 hp"
@@ -86682,6 +87133,9 @@ msgstr "Freya"
 msgid "IDS_PGUH820_DANZIG"
 msgstr "Danzig"
 
+msgid "IDS_PGUH821_HULL_NIBELUNG"
+msgstr "Nibelung"
+
 msgid "IDS_PGUH900_S10_HULL_STOCK"
 msgstr "U-2501"
 
@@ -86752,7 +87206,7 @@ msgid "IDS_PGUH922_HULL_U4501"
 msgstr "U-4501"
 
 msgid "IDS_PGUH923_HULL_BATTLESHIP_TEST"
-msgstr "Preussen (EM)"
+msgstr "Preussen (AGB)"
 
 msgid "IDS_PGUH924_HULL_BATTLESHIP_TEST_1"
 msgstr "Schlieffen (EM)"
@@ -87219,6 +87673,9 @@ msgstr "FKS Typ 9"
 msgid "IDS_PGUS820_SUO_DANZIG"
 msgstr "FKS Typ 9"
 
+msgid "IDS_PGUS821_SUO_NIBELUNG"
+msgstr "FKS Typ 9"
+
 msgid "IDS_PGUS900_D11_SUO_STOCK"
 msgstr "FKS Typ 11"
 
@@ -87524,6 +87981,9 @@ msgstr "G7a T1"
 
 msgid "IDS_PGUT813_TORP_DANZIG"
 msgstr "G7a T1"
+
+msgid "IDS_PGUT814_TORP_NIBELUNG"
+msgstr "Type90 mod. 1"
 
 msgid "IDS_PGUT900_S10_TORP_STOCK"
 msgstr "G7e T4 mod. 0 and G7e T3 MZ"
@@ -88745,6 +89205,9 @@ msgstr "57 mm/60 Mle 1951"
 msgid "IDS_PIGA124_76MM_62_MMI"
 msgstr "76 mm/62 M.M.I."
 
+msgid "IDS_PIGA128_3IN50_MK34_RADAR"
+msgstr "76.2 mm/50 Mk.22 on a Mk.34 mount"
+
 msgid "IDS_PIGM001_152MM53_F"
 msgstr "152 mm/53 OTO Model 1929 on a Model 1929 mount"
 
@@ -88883,6 +89346,9 @@ msgstr "120 mm/50 OTO Model 1950 on a Mk.10 mount"
 msgid "IDS_PIGM123_203MM_55_ANSALDO_QUADRUPLE"
 msgstr "203 mm/55 Model 1934 in a quadruple mount"
 
+msgid "IDS_PIGM127_5IN38_MK38_MOD0"
+msgstr "127 mm/38 Mk.12 on a Mk.38 mount"
+
 msgid "IDS_PIGS003_100MM_50_MOD_OTO"
 msgstr "100 mm/47 Model 1924/27/28 on a Eugenio Minisini mount"
 
@@ -88987,6 +89453,9 @@ msgstr "533 mm tubo lanciasiluri"
 
 msgid "IDS_PIGT100_550MM_3TUBE_MLE_1943"
 msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PIGT129_21IN_MK14_TORPEDO_TUBES"
+msgstr "533 mm Mk14"
 
 msgid "IDS_PINGER_RELOAD_FAST"
 msgstr "Fast Sonar Reload"
@@ -89306,6 +89775,12 @@ msgstr "203 mm proiettili CS 1924 mod.3"
 msgid "IDS_PIPA102_203MM_AP_T11"
 msgstr "203 mm proiettili AP 1924 mod.2"
 
+msgid "IDS_PIPA103_127MM_CS_A_VESPUCCI"
+msgstr "127 mm CS Mk38"
+
+msgid "IDS_PIPA104_127MM_AP_A_VESPUCCI"
+msgstr "127 mm AP Mk38"
+
 msgid "IDS_PIPA301_305MM_46_1909_AP_SAND"
 msgstr "305 mm proiettili AP 1909 mod.1"
 
@@ -89443,6 +89918,9 @@ msgstr "533 mm Si 270 N"
 
 msgid "IDS_PIPT029_533_SI270_IT_CL_9_10"
 msgstr "533 mm Si 270"
+
+msgid "IDS_PIPT030_A_VESPUCCI"
+msgstr "Mark 17*"
 
 msgid "IDS_PIPT990_TORP_TEST"
 msgstr "533 mm Si 270 N2"
@@ -90321,6 +90799,21 @@ msgstr "1"
 msgid "IDS_PISD509_YEAR"
 msgstr "1936"
 
+msgid "IDS_PISD511"
+msgstr "A. Vespucci"
+
+msgid "IDS_PISD511_DESCR"
+msgstr "A ship for testing."
+
+msgid "IDS_PISD511_FULL"
+msgstr "Amerigo Vespucci"
+
+msgid "IDS_PISD511_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISD511_YEAR"
+msgstr "1936"
+
 msgid "IDS_PISD990"
 msgstr "A. Regolo (EM)"
 
@@ -90528,6 +91021,9 @@ msgstr "203 mm/55 Model 1934 in a quadruple mount"
 msgid "IDS_PIUA913_ART_DESTR_TEST"
 msgstr "135 mm/45 Model 1938 on a Model 1938 mount"
 
+msgid "IDS_PIUA914_ART_A_VESPUCCI"
+msgstr "127 mm/38 Mk.12 on a Mk.38 mount"
+
 msgid "IDS_PIUB700_TB_AQUILA"
 msgstr "Reggiane Re.2001"
 
@@ -90716,6 +91212,9 @@ msgstr "Propulsion: 240,000 hp"
 
 msgid "IDS_PIUE913_D10_ENG_STOCK"
 msgstr "Propulsion: 110,000 hp"
+
+msgid "IDS_PIUE914_ENG_A_VESPUCCI"
+msgstr "Propulsion: 70,000 hp"
 
 msgid "IDS_PIUF700_FC_AQUILA"
 msgstr "Mk8 mod. 1"
@@ -90969,6 +91468,9 @@ msgstr "Liguria"
 msgid "IDS_PIUH913_HULL_DESTR_TEST"
 msgstr "Attilio Regolo (EM)"
 
+msgid "IDS_PIUH914_HULL_A_VESPUCCI"
+msgstr "Amerigo Vespucci"
+
 msgid "IDS_PIUI700_F_AQUILA"
 msgstr "Reggiane Re.2001"
 
@@ -91218,6 +91720,9 @@ msgstr "SDT 11"
 msgid "IDS_PIUS912_SUO_DESTR_TEST"
 msgstr "SDT 10"
 
+msgid "IDS_PIUS913_SUO_A_VESPUCCI"
+msgstr "SDT 11"
+
 msgid "IDS_PIUT100_DD2_TORP_STOCK"
 msgstr "450 mm W 200"
 
@@ -91340,6 +91845,9 @@ msgstr "533 mm Si 270"
 
 msgid "IDS_PIUT908_TORP_DESTR_TEST"
 msgstr "533 mm Si 270 N2"
+
+msgid "IDS_PIUT909_TORP_A_VESPUCCI"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PJAB001_B5N2"
 msgstr "Nakajima B5N2"
@@ -92799,6 +93307,9 @@ msgstr "533 mm Mk14"
 msgid "IDS_PJGT229_21IN_MK15_TORPEDO_TUBES"
 msgstr "533 mm Mk15"
 
+msgid "IDS_PJGT248_610MM_TUBE2_TYPE_89"
+msgstr "610 mm Twin"
+
 msgid "IDS_PJGT623_610MM5_TYPE_93_SPACE"
 msgstr "Kukoyamba XIX"
 
@@ -93348,6 +93859,12 @@ msgstr "356 mm AP Type91"
 msgid "IDS_PJPA184_200MM_HE_AKAGI"
 msgstr "200 mm HE Common Type4"
 
+msgid "IDS_PJPA185_203MM_HE_CHOKAI"
+msgstr "203 mm HE Type0"
+
+msgid "IDS_PJPA186_203MM_AP_CHOKAI"
+msgstr "203 mm AP Type91"
+
 msgid "IDS_PJPA301_SHELL_305MM_AP_850LBS_SAND"
 msgstr "305 mm AP 850 lb. mod.1"
 
@@ -93833,6 +94350,9 @@ msgstr "Type93"
 
 msgid "IDS_PJPT070_I2_SUB"
 msgstr "Type95 mod. 5"
+
+msgid "IDS_PJPT071_CHOKAI"
+msgstr "Type93"
 
 msgid "IDS_PJPT104_HOSHO_STOCK"
 msgstr "Type 91 mod. 0"
@@ -95451,6 +95971,21 @@ msgstr "1"
 msgid "IDS_PJSC520_YEAR"
 msgstr "1940"
 
+msgid "IDS_PJSC529"
+msgstr "Chōkai"
+
+msgid "IDS_PJSC529_DESCR"
+msgstr "<p>The fourth Takao-class cruiser was built in Nagasaki at the Mitsubishi shipyard. After the Fourth Fleet Incident, which revealed the structural weakness of Japanese warship hulls, Chōkai underwent modernization in Yokosuka in 1936–37.</p><p class=\"p_spacing\"> </p><p>In late 1941, the ship took part in the invasion of Malaya, and in 1942, in landings on Borneo, Sumatra, and Java. In April 1942, the cruiser participated in the Indian Ocean raid. In August 1942, Chōkai fought in the Battle of Savo Island, where, together with the 6th Cruiser Division, it sank four ships. In 1943, the cruiser underwent two modernizations in Yokosuka.</p><p class=\"p_spacing\"> </p><p>In 1944, Chōkai participated in the Battle of the Philippine Sea, and after a third modernization, it took part in the Battle of Leyte Gulf. On October 25, during that battle, it sustained several hits from aircraft bombs launched from the USS Kitkun Bay. The cruiser lost power and was engulfed in a severe fire that could not be contained. The crew abandoned ship, and Chōkai was finished off by torpedoes from the destroyer Fujinami.</p>"
+
+msgid "IDS_PJSC529_FULL"
+msgstr "Chōkai"
+
+msgid "IDS_PJSC529_NUMBER"
+msgstr "4"
+
+msgid "IDS_PJSC529_YEAR"
+msgstr "1932"
+
 msgid "IDS_PJSC530"
 msgstr "Kuzuryū"
 
@@ -96856,6 +97391,9 @@ msgstr "460 mm/45 Type 94 in a triple turret"
 msgid "IDS_PJUA812_B9_ART_STOCK"
 msgstr "410 mm/50 10th Year Type in a triple turret"
 
+msgid "IDS_PJUA813_ART_CHOKAI"
+msgstr "203 mm/50 3rd Year Type No.2 in a Model E turret"
+
 msgid "IDS_PJUA821_C9_ART_STOCK"
 msgstr "203 mm/50 3rd Year Type No.2 in a Model E turret"
 
@@ -97671,6 +98209,9 @@ msgstr "Propulsion: 160,000 hp"
 
 msgid "IDS_PJUE812_ENG_OWARI"
 msgstr "Propulsion: 150,000 hp"
+
+msgid "IDS_PJUE813_ENG_CHOKAI"
+msgstr "Propulsion: 134,240 hp"
 
 msgid "IDS_PJUE821_B9_ENG_TOP"
 msgstr "Propulsion: 135,000 hp"
@@ -98538,6 +99079,9 @@ msgstr "Azuma B"
 msgid "IDS_PJUH816_HULL_OWARI"
 msgstr "Owari-no-Oni"
 
+msgid "IDS_PJUH817_HULL_CHOKAI"
+msgstr "Chōkai"
+
 msgid "IDS_PJUH821_TAIHO_1944"
 msgstr "Taihō (A)"
 
@@ -98957,7 +99501,7 @@ msgid "IDS_PJUS332_SUO_CS"
 msgstr "Type4 mod. 1"
 
 msgid "IDS_PJUS332_SUO_TEST"
-msgstr "Test GFCS"
+msgstr "Test SUO"
 
 msgid "IDS_PJUS341_SUO_ISHIZUCHI"
 msgstr "Type4 mod. 1"
@@ -99326,6 +99870,9 @@ msgid "IDS_PJUS823_SUO_BLACK_AZUMA"
 msgstr "Type 9"
 
 msgid "IDS_PJUS824_SUO_OWARI"
+msgstr "Type9"
+
+msgid "IDS_PJUS825_SUO_CHOKAI"
 msgstr "Type9"
 
 msgid "IDS_PJUS831_SUO"
@@ -99784,6 +100331,9 @@ msgstr "Type93"
 msgid "IDS_PJUT817_TORP_BLACK_IWAMI"
 msgstr "Type90 mod. 1"
 
+msgid "IDS_PJUT818_TORP_CHOKAI"
+msgstr "Type90 mod. 1"
+
 msgid "IDS_PJUT901_D10_TORP_STOCK"
 msgstr "Type93"
 
@@ -100119,6 +100669,9 @@ msgstr "Pavel Polyakov"
 
 msgid "IDS_POPOV_ARIA"
 msgstr "Sergey Popov"
+
+msgid "IDS_POPULAR_THREATS_DESCRIPTION_INFO_TOOLTIP"
+msgstr "Shells that you are highly likely to encounter in battle. The set of shells depends on the tier of the selected ship."
 
 msgid "IDS_PORTAL"
 msgstr "Twilight Hunt"
@@ -100637,9 +101190,6 @@ msgstr "Lavochkin La-9"
 
 msgid "IDS_PRAF912_ULYANOVSK_TACT"
 msgstr "MiG-15bis"
-
-msgid "IDS_PRAISES_RECEIVED_COUNT"
-msgstr "Compliments received:"
 
 msgid "IDS_PRAISE_ACCEPTED"
 msgstr "Your emotion has been received"
@@ -101262,6 +101812,9 @@ msgstr "Volga Flotilla"
 msgid "IDS_PRES310_SEVEROMORSK_CEREMONIAL"
 msgstr "Ceremonial"
 
+msgid "IDS_PRES315_OKTYABRSKAYA_REVOLUTSIYA_SUPERSTART"
+msgstr "Whisper of Ancestors"
+
 msgid "IDS_PRES316_TOP_SECRET"
 msgstr "Utopia Show"
 
@@ -101387,6 +101940,9 @@ msgstr "Winter cold"
 
 msgid "IDS_PRES451_DOLGORUKIY_CEREMONIAL"
 msgstr "Ceremonial"
+
+msgid "IDS_PRES460_SUVOROV_WHITE"
+msgstr "Prince of Italy"
 
 msgid "IDS_PRES470_MOSKVA_COSMO"
 msgstr "Tunguska"
@@ -101639,6 +102195,21 @@ msgstr "40 mm Bofors on a Mk.1 mount"
 
 msgid "IDS_PRGA256_20MM_OERLIKON_MK20_TWIN"
 msgstr "20 mm Oerlikon on a Mk.24 mount"
+
+msgid "IDS_PRGA264_37MM_BREDA_BARRELS_4"
+msgstr "37 mm/54 Breda Model 1939 on a quadruple mount"
+
+msgid "IDS_PRGA265_20MM70_BREDA_BARRELS_6"
+msgstr "20 mm/70 Scotti Model 1941 on a sextuple mount"
+
+msgid "IDS_PRGA269_55MM_77_GERAT"
+msgstr "55 mm/77 Gerät 58 on a single mount"
+
+msgid "IDS_PRGA270_55MM_GERAT_TWIN"
+msgstr "55 mm/77 Gerät 58 on a twin mount"
+
+msgid "IDS_PRGA271_30MM_FLAK_38"
+msgstr "30 mm/45 Flak 103/38 on a quadruple mount"
 
 msgid "IDS_PRGA3002_45MM_SM_20_ZIF"
 msgstr "45 mm SM-20-ZIF mount"
@@ -101973,6 +102544,12 @@ msgstr "152 mm/45 Model 1892 in Casemate Mount"
 msgid "IDS_PRGM252_203_55MM_MLE_1931_TRIPLE"
 msgstr "203 mm/55 Mle 1934 in a turret"
 
+msgid "IDS_PRGM261_254MM_3"
+msgstr "254 mm/60 in a turret"
+
+msgid "IDS_PRGM267_380MM_52_TRIPLE_SK_C_34_RF"
+msgstr "380 mm/52 SK C/34 in a turret"
+
 msgid "IDS_PRGM3000_457MM_48"
 msgstr "457 mm/48 B-45 on an SM-8 mount"
 
@@ -102147,6 +102724,15 @@ msgstr "127 mm/38 Mk.12 on a Mk.38 mount"
 msgid "IDS_PRGS257_2_100_55_MLE_1945"
 msgstr "100 mm/55 Mle 1945 on a CAD Mle 1945 mount"
 
+msgid "IDS_PRGS262_152MM55_BARRELS_3_M1936_L"
+msgstr "152 mm/55 Model 1936 on a Model 1936 mount"
+
+msgid "IDS_PRGS263_90MM50_BARRELS_2_M1939"
+msgstr "90 mm/50 Model 1939 on a twin mount"
+
+msgid "IDS_PRGS268_127MM_61_TWIN"
+msgstr "128 mm/61 KM40 in a turret"
+
 msgid "IDS_PRGS3001_152MM57_BL_118"
 msgstr "152 mm/57 on a BL-118 mount"
 
@@ -102224,6 +102810,12 @@ msgstr "381 mm single tube"
 
 msgid "IDS_PRGT258_550MM_3TUBE_MLE_1924"
 msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PRGT266_533MM_4_TUBES"
+msgstr "533 mm tubo lanciasiluri"
+
+msgid "IDS_PRGT272_INVISIBLE_TA_3T_7M"
+msgstr "533 mm"
 
 msgid "IDS_PRGT3008_450MM_3TUBES"
 msgstr "450 mm Goncharov Triple"
@@ -103095,7 +103687,7 @@ msgid "IDS_PRPA213_406MM_AP_MOD1928"
 msgstr "406 mm BB Model 1928"
 
 msgid "IDS_PRPA214_152MM_CS_KERCH"
-msgstr "152 mm CS shells 1926 mod.1"
+msgstr "152 mm proiettili CS 1926 mod.1"
 
 msgid "IDS_PRPA215_203MM_55_HE_TOGLIATTI"
 msgstr "203 mm proiettili HE 1924"
@@ -103252,6 +103844,27 @@ msgstr "305 mm OF Model 1928"
 
 msgid "IDS_PRPA269_305MM_55_AP_URAL"
 msgstr "305 mm BB Model 1928"
+
+msgid "IDS_PRPA270_380MM_HE_GDR"
+msgstr "380 mm Spr.Gr. L/4.6"
+
+msgid "IDS_PRPA271_380MM_AP_GDR"
+msgstr "380 mm P.Spr.Gr. L/4.4"
+
+msgid "IDS_PRPA272_128MM_HE_SPR_GR_KZ"
+msgstr "128 mm Spr.Gr. Kz."
+
+msgid "IDS_PRPA274_254MM_AP_GEN_SUVOROV"
+msgstr "254 mm proiettili AP"
+
+msgid "IDS_PRPA275_254MM_HE_GEN_SUVOROV"
+msgstr "254 mm proiettili HE"
+
+msgid "IDS_PRPA276_152_CS_SG_GEN_SUVOROV"
+msgstr "152 mm proiettili CS 1926"
+
+msgid "IDS_PRPA277_90MM_CS_SG_GEN_SUVOROV"
+msgstr "90 mm proiettili CS"
 
 msgid "IDS_PRPA301_305_AP_1911_SAND"
 msgstr "305 mm BB Model 1911 mod.1"
@@ -103693,6 +104306,12 @@ msgstr "TAN-12"
 
 msgid "IDS_PRPT093_GREM_SURFACE"
 msgstr "53-39 mod. 3"
+
+msgid "IDS_PRPT094_GDR"
+msgstr "G7 Steinwal"
+
+msgid "IDS_PRPT095_533_GEN_SUVOROV"
+msgstr "533 mm Si 270 N"
 
 msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VII"
@@ -104325,6 +104944,21 @@ msgid "IDS_PRSB549_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSB549_YEAR"
+msgstr "1938"
+
+msgid "IDS_PRSB550"
+msgstr "GDR"
+
+msgid "IDS_PRSB550_DESCR"
+msgstr "A ship for testing."
+
+msgid "IDS_PRSB550_FULL"
+msgstr "GDR"
+
+msgid "IDS_PRSB550_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB550_YEAR"
 msgstr "1938"
 
 msgid "IDS_PRSB709"
@@ -105065,6 +105699,21 @@ msgstr "1"
 
 msgid "IDS_PRSC559_YEAR"
 msgstr "1937"
+
+msgid "IDS_PRSC560"
+msgstr "G. Suvorov"
+
+msgid "IDS_PRSC560_DESCR"
+msgstr "Snow-white, like the ceremonial uniform of a victor, this ship bears the name of Generalissimo Suvorov – a symbol of indomitable will and military valor. The inscriptions \"Principe d’Italia\" refer to his Italian campaign and the title of Prince of Italy, awarded for victories over the French army. Gold ornaments and the insignia of the highest award underscore his status. In this ship, two military traditions merge – and both serve victory."
+
+msgid "IDS_PRSC560_FULL"
+msgstr "Generalissimo Suvorov"
+
+msgid "IDS_PRSC560_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC560_YEAR"
+msgstr "1936"
 
 msgid "IDS_PRSC568"
 msgstr "Lazo B"
@@ -106482,11 +107131,17 @@ msgstr "406 mm/52 on a MK-5-16 mount"
 msgid "IDS_PRUA928_ART_KIBERSLAVA"
 msgstr "406 mm/55 B-52 in a turret"
 
+msgid "IDS_PRUA929_ART_GEN_SUVOROV"
+msgstr "254 mm/60 in a turret"
+
 msgid "IDS_PRUA930_D11_ART_STOCK"
 msgstr "130 mm/60 on a BL-109A mount"
 
 msgid "IDS_PRUA931_B11_ART_STOCK"
 msgstr "457 mm/55 SM-45 in a turret"
+
+msgid "IDS_PRUA932_ART_GDR"
+msgstr "380 mm/52 SK C/34 in a turret"
 
 msgid "IDS_PRUA974_ART_MOSK"
 msgstr "220 mm/65 on an SM-6 mount"
@@ -106997,6 +107652,12 @@ msgstr "Propulsion: 320,000 hp"
 
 msgid "IDS_PRUE933_ENG_KIBERSLAVA"
 msgstr "Propulsion: 280,000 hp"
+
+msgid "IDS_PRUE934_ENG_GEN_SUVOROV"
+msgstr "Propulsion: 240,000 hp"
+
+msgid "IDS_PRUE935_ENG_GDR"
+msgstr "Propulsion: 195,000 hp"
 
 msgid "IDS_PRUE974_ENG_MOSK"
 msgstr "Propulsion: 210,000 hp"
@@ -107628,6 +108289,12 @@ msgstr "Admiral Ushakov"
 msgid "IDS_PRUH933_HULL_KIBERSLAVA"
 msgstr "Cyberslava"
 
+msgid "IDS_PRUH934_HULL_GEN_SUVOROV"
+msgstr "Generalissimo Suvorov"
+
+msgid "IDS_PRUH935_HULL_GDR"
+msgstr "GDR"
+
 msgid "IDS_PRUH974_MOSK"
 msgstr "Moskva"
 
@@ -107749,13 +108416,13 @@ msgid "IDS_PRUS104_SUO_BOYKIY"
 msgstr "SUO II"
 
 msgid "IDS_PRUS105_SUO_AVRORA_EVENT"
-msgstr "FCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS106_SUO_NOVIK_EVENT"
-msgstr "FCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS107_SUO_VARYAG_EVENT"
-msgstr "FCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS111_SUO_PALLADA"
 msgstr "SUO II mod. 1"
@@ -107896,13 +108563,13 @@ msgid "IDS_PRUS507_SUO_BLACK_MOLOTOV"
 msgstr "SUO VI"
 
 msgid "IDS_PRUS508_SUO_TOP_SECRET"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS509_D6_SUO_STOCK"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS510_SUO_MAKAROV_CHALLENGE"
-msgstr "GFCS VI Mod. 1"
+msgstr "SUO VI Mod. 1"
 
 msgid "IDS_PRUS511_SUO"
 msgstr "SUO VI mod. 1"
@@ -107917,10 +108584,10 @@ msgid "IDS_PRUS514_D6_SUO_TOP_2"
 msgstr "SUO VI mod. 2"
 
 msgid "IDS_PRUS515_SUO_DESTROYER_CHALLENGE"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS516_SUO_SHAUMIAN"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS521_SUO_MOLOTOV"
 msgstr "SUO VI"
@@ -107953,7 +108620,7 @@ msgid "IDS_PRUS606_B7_SUO_STOCK"
 msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS608_D7_SUO_STOCK"
-msgstr "GFCS VII"
+msgstr "SUO VII"
 
 msgid "IDS_PRUS611_SUO"
 msgstr "SUO VII mod. 1"
@@ -107968,10 +108635,10 @@ msgid "IDS_PRUS614_D7_SUO_TOP_2"
 msgstr "SUO VII mod. 2"
 
 msgid "IDS_PRUS700_SUO_DMITRY_POZHARSKY"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS701_SUO"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS702_SUO"
 msgstr "SUO VIII mod. 2"
@@ -107980,13 +108647,13 @@ msgid "IDS_PRUS703_SUO_LAZO"
 msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS704_B8_SUO_STOCK"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS705_B8_SUO_TOP"
 msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS706_SUO_LENIN"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS707_SUO_POLTAVA"
 msgstr "SUO VII mod. 1"
@@ -107998,55 +108665,55 @@ msgid "IDS_PRUS709_SUO_FRUNZE"
 msgstr "SUO VIII"
 
 msgid "IDS_PRUS710_D8_SUO_STOCK"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS711_SUO_KUTUZOV"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS712_D8_SUO_STOCK_2"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS713_SUO_ALBATROS"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS714_D8_SUO_STOCK_3"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS715_D8_SUO_TOP_3"
 msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS716_CA8_SUO_STOCK"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS717_CA8_SUO_TOP"
 msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS718_SUO_OCHAKOV"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS719_SUO_BAGRATION"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS720_SUO_V_I_LENIN"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS721_SUO"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS722_SUO"
 msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS723_SUO_P_BAGRATION"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS724_D8_SUO_STOCK"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS725_SUO_GREM"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS726_SUO_LATANU"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS801_SUO"
 msgstr "SUO IX mod. 1"
@@ -108064,7 +108731,7 @@ msgid "IDS_PRUS805_SUO_AZUR_SOV_RUSSIA"
 msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS806_SUO_NAVARIN"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS807_SUO_RTC_SOV_RUSSIA"
 msgstr "SUO IX mod. 1"
@@ -108127,46 +108794,46 @@ msgid "IDS_PRUS826_SUO_YURI_DOLGORUKIY"
 msgstr "Fire Control System IX"
 
 msgid "IDS_PRUS827_D9_SUO_STOCK"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS828_SUO_SOVREMENNY"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS829_SUO_S_GRUZIA"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS830_BB8_SUO_BORODINO"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS831_SUO_OGNENNY"
-msgstr "FCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS832_SUO_URAL"
 msgstr "SUO IX"
 
 msgid "IDS_PRUS833_SUO_KOMETA"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS834_SUO_COLORFUL_RIGA"
 msgstr "SUO IX"
 
 msgid "IDS_PRUS900_C10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS901_SUO"
 msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS902_B10_SUO_TOP"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS903_B10_SUO_TOP"
 msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS904_SUO_VLADIMIR_MONOMAKH"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS905_C11_SUO_STOCK"
-msgstr "GFCS XI mod. 1"
+msgstr "SUO XI mod. 1"
 
 msgid "IDS_PRUS906_SUO_SMOLENSK"
 msgstr "SUO X mod. 1"
@@ -108178,7 +108845,7 @@ msgid "IDS_PRUS908_D10_SUO_STOCK"
 msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS909_SUO_KOMISSAR"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS910_SUO_BLACK_SMOLENSK"
 msgstr "SUO X mod. 1"
@@ -108211,25 +108878,31 @@ msgid "IDS_PRUS919_SUO_CRUISER_TEST"
 msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS920_D10_SUO_STOCK"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS921_SUO_KR_ZNAMYA"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS922_SUO_KZ_RUBKA"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS923_SUO_STRANA_SOVETOV"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS925_SUO_KIBERSLAVA"
-msgstr "GFCS X"
+msgstr "SUO X"
+
+msgid "IDS_PRUS926_SUO_GEN_SUVOROV"
+msgstr "SDT 10"
+
+msgid "IDS_PRUS927_SUO_GDR"
+msgstr "SUO X"
 
 msgid "IDS_PRUS930_D11_SUO_STOCK"
-msgstr "GFCS XI mod. 1"
+msgstr "SUO XI mod. 1"
 
 msgid "IDS_PRUS931_B11_SUO_STOCK"
-msgstr "GFCS XI mod. 1"
+msgstr "SUO XI mod. 1"
 
 msgid "IDS_PRUS974_SUO_MOSK"
 msgstr "SUO X mod. 1"
@@ -108575,6 +109248,12 @@ msgstr "533 mm"
 
 msgid "IDS_PRUT920_TORP_KZ_RUBKA"
 msgstr "53-51"
+
+msgid "IDS_PRUT921_TORP_GEN_SUVOROV"
+msgstr "533 mm Si 270 N"
+
+msgid "IDS_PRUT922_TORP_GDR"
+msgstr "G7 Steinwal"
 
 msgid "IDS_PRUT930_D11_TORP_STOCK"
 msgstr "53-36 mod. 2"
@@ -109548,6 +110227,12 @@ msgstr "152 mm AP Mk V"
 msgid "IDS_PUPA020_152MM_HE_BRISBANE"
 msgstr "152 mm HE Mk XXVIM"
 
+msgid "IDS_PUPA021_114MM_MII_HE_ANZAC"
+msgstr "113 mm HE 5crh"
+
+msgid "IDS_PUPA022_114MM_SAP_55LB_ANZAC"
+msgstr "113 mm SAP 55 lb"
+
 msgid "IDS_PUPT001_533_MKIX_PERTH"
 msgstr "533 mm Mk IX"
 
@@ -109567,6 +110252,9 @@ msgid "IDS_PUPT006_533_HECTOR"
 msgstr "533 mm Mk IX"
 
 msgid "IDS_PUPT007_533MM_BRISBANE"
+msgstr "533 mm Mk IXM*"
+
+msgid "IDS_PUPT008_533MM_ANZAC"
 msgstr "533 mm Mk IXM*"
 
 msgid "IDS_PURCHASED"
@@ -109812,6 +110500,21 @@ msgstr "27"
 msgid "IDS_PUSD517_YEAR"
 msgstr "1943"
 
+msgid "IDS_PUSD520"
+msgstr "Anzac"
+
+msgid "IDS_PUSD520_DESCR"
+msgstr "<p>Under the 1943 program, the British Navy ordered a third series of Battle-class destroyers, which differed from their predecessors by new main caliber guns. In 1944–45, eight destroyers were laid down, but construction was soon suspended and then canceled.</p><p class=\"p_spacing\"> </p><p>In 1945, the Australian government ordered two ships under this project, one of which was built at the Williamstown Naval Dockyard. When laid down, the destroyer bore the name Matapan, but before launching, the ship was renamed Anzac — in honor of the Australian and New Zealand Army Corps.</p><p class=\"p_spacing\"> </p><p>Immediately after completing trials, the destroyer took part in the Korean War, where it was mainly engaged in escort and patrol operations. In 1953–54, Anzac participated in the coronation tour of Elizabeth II, and in the second half of the 1950s, the ship was involved in anti-guerrilla actions in Malaya.</p>"
+
+msgid "IDS_PUSD520_FULL"
+msgstr "Anzac"
+
+msgid "IDS_PUSD520_NUMBER"
+msgstr "2"
+
+msgid "IDS_PUSD520_YEAR"
+msgstr "1951"
+
 msgid "IDS_PUSHKIN"
 msgstr "Alexander Pushkin"
 
@@ -109845,6 +110548,9 @@ msgstr "152 mm/50 QF Mk.V on a Mk.XXVI mount"
 msgid "IDS_PUUA903_ART_BLACK_BRISBANE"
 msgstr "152 mm/50 QF Mk.V on a Mk.XXVI mount"
 
+msgid "IDS_PUUA904_ART_ANZAC"
+msgstr "113 mm/45 QF Mk.IV on an RP41 Mk.VI mount"
+
 msgid "IDS_PUUE501_C6_ENG_PERTH"
 msgstr "Propulsion: 72,500 hp"
 
@@ -109874,6 +110580,9 @@ msgstr "Propulsion: 110,000 hp"
 
 msgid "IDS_PUUE903_ENG_BLACK_BRISBANE"
 msgstr "Propulsion: 110,000 hp"
+
+msgid "IDS_PUUE904_ENG_ANZAC"
+msgstr "Propulsion: 50,000 hp"
 
 msgid "IDS_PUUH501_PERTH"
 msgstr "Perth"
@@ -109905,6 +110614,9 @@ msgstr "Brisbane"
 msgid "IDS_PUUH903_HULL_BLACK_BRISBANE"
 msgstr "Brisbane B."
 
+msgid "IDS_PUUH904_ANZAC"
+msgstr "Anzac"
+
 msgid "IDS_PUUS501_SUO_PERTH"
 msgstr "Mk VI mod. 1"
 
@@ -109935,6 +110647,9 @@ msgstr "Mk X mod. 1"
 msgid "IDS_PUUS903_SUO_BLACK_BRISBANE"
 msgstr "Mk X"
 
+msgid "IDS_PUUS904_SUO_ANZAC"
+msgstr "Mk X"
+
 msgid "IDS_PUUT501_PERTH"
 msgstr "533 mm Mk IX"
 
@@ -109957,6 +110672,9 @@ msgid "IDS_PUUT902_TORP_BRISBANE"
 msgstr "533 mm Mk VII"
 
 msgid "IDS_PUUT903_TORP_BLACK_BRISBANE"
+msgstr "533 mm Mk VII"
+
+msgid "IDS_PUUT904_TORP_ANZAC"
 msgstr "533 mm Mk VII"
 
 msgid "IDS_PUZZLE_COLLECTION_OWNED_TOOLTIP_HEADER"
@@ -110001,8 +110719,11 @@ msgstr "aircraft carriers"
 msgid "IDS_PVECOMMON_CUSTOM_NAME_COMMAND"
 msgstr "Military Command"
 
+msgid "IDS_PVECOMMON_ENEMY_SUBMARINES"
+msgstr "enemy submarines"
+
 msgid "IDS_PVECOMMON_ENEMY_TORPEDOES_A"
-msgstr "25 torpedo hits on the entire team"
+msgstr "torpedo hits on the entire team"
 
 msgid "IDS_PVECOMMON_HARBOR_A"
 msgstr "harbor"
@@ -110388,7 +111109,7 @@ msgid "IDS_PVGM089_5IN38_MK21"
 msgstr "127 mm/38 Mk.12 on a Mk.21 mod.1 mount"
 
 msgid "IDS_PVGM090_5IN38_MK24_MOD6"
-msgstr "127 mm/38 Mk.12 on a Mk.24 mount"
+msgstr "127 mm/38 Mk.12 on a Mk.30 mount"
 
 msgid "IDS_PVGM091_5IN38_MK30_MOD0"
 msgstr "127 mm/38 Mk.12 on a Mk.30 mod.0 mount"
@@ -111533,6 +112254,9 @@ msgstr "533 mm TR Mk IV"
 msgid "IDS_PVUT903_TORP_CRUISER_TEST"
 msgstr "533 mm Mk14"
 
+msgid "IDS_PWAS001_ARADO_AR196_BUDAPEST"
+msgstr "Arado Ar.196"
+
 msgid "IDS_PWEM105_VISBY_EUROPE"
 msgstr "Traditions of the North"
 
@@ -111719,6 +112443,12 @@ msgstr "65 mm/64 Model 1939 on a twin mount"
 msgid "IDS_PWGA119_37MM_BREDA_BARRELS_4"
 msgstr "37 mm/54 Breda Model 1939 on a quadruple mount"
 
+msgid "IDS_PWGA124_5CM_80_SKODA_R10_TWIN"
+msgstr "50 mm/80 Škoda R10 on a twin mount"
+
+msgid "IDS_PWGA125_3CM_78_BRNO_Z453"
+msgstr "30 mm ZK-453 Mount"
+
 msgid "IDS_PWGM003_120MM_BOFORS_WZ34_36_TWIN"
 msgstr "120 mm/50 wz.36 Bofors on a shielded mount"
 
@@ -111809,6 +112539,12 @@ msgstr "100 mm/56 Model 1940 in Mk.XIX Mount"
 msgid "IDS_PWGM116_203MM55_BARRELS_3"
 msgstr "203 mm/55 Model 1934 in a turret"
 
+msgid "IDS_PWGM120_35CM_45_SKODA_TWIN"
+msgstr "350 mm/45 G. L/45 K14 Škoda in a twin turret"
+
+msgid "IDS_PWGM121_35CM_45_SKODA_TRIPLE"
+msgstr "350 mm/45 G. L/45 K14 Škoda in a triple turret"
+
 msgid "IDS_PWGM126_105MM_45_LC16"
 msgstr "105 mm/45 Tbts C/16 on a Tbts LC/16 mount"
 
@@ -111826,6 +112562,12 @@ msgstr "120 mm/50 Model 1942 in a turret"
 
 msgid "IDS_PWGS118_90MM50_BARRELS_2_M1939"
 msgstr "90 mm/50 Model 1939 on a twin mount"
+
+msgid "IDS_PWGS122_15CM_50_SKODA_K10"
+msgstr "150 mm/50 Škoda K10 on a casemate mount"
+
+msgid "IDS_PWGS123_10CM_80_SKODA_R11_TWIN"
+msgstr "100 mm/80 Škoda R11 on a twin mount"
 
 msgid "IDS_PWGT001_533MM_INVISIBLE_TA"
 msgstr "533 mm"
@@ -111888,6 +112630,9 @@ msgid "IDS_PWGT106_21IN_5TUBE_TORPEDO_TUBE"
 msgstr "533 mm 5 tubes"
 
 msgid "IDS_PWGT112_533MM_1N_3TUBES"
+msgstr "533 mm Triple"
+
+msgid "IDS_PWGT135_533MM_3TUBE"
 msgstr "533 mm Triple"
 
 msgid "IDS_PWPA001_120_HE_BLYSKAWICA"
@@ -112061,6 +112806,15 @@ msgstr "203 mm proiettili AP 1924 mod.2"
 msgid "IDS_PWPA057_105MM_SMOKE_SALDIRAY"
 msgstr "105 mm duman kabuğu"
 
+msgid "IDS_PWPA058_350MM_HE_BUDAPEST"
+msgstr "35 cm M.16 Gr."
+
+msgid "IDS_PWPA059_350MM_AP_BUDAPEST"
+msgstr "35 cm M.16 P.Gr."
+
+msgid "IDS_PWPA060_100MM_HE_R11"
+msgstr "100 mm HE"
+
 msgid "IDS_PWPA8001_120_HE_1916"
 msgstr "Model 1916"
 
@@ -112151,6 +112905,9 @@ msgstr "Torped M1947 mod 1"
 msgid "IDS_PWPT029_SALDIRAY"
 msgstr "533 mm"
 
+msgid "IDS_PWPT030_BUDAPEST"
+msgstr "533 mm L6.3"
+
 msgid "IDS_PWPT8001_550_MARK_100_1915"
 msgstr "Mark 100 Model 1915"
 
@@ -112186,6 +112943,21 @@ msgstr "1"
 
 msgid "IDS_PWSB509_YEAR"
 msgstr "1952"
+
+msgid "IDS_PWSB519"
+msgstr "Budapest"
+
+msgid "IDS_PWSB519_DESCR"
+msgstr "<p>Before the start of World War I, the Austro-Hungarian Navy was actively developing: under the fleet commander Admiral Rudolf Montecuccoli, four Tegetthoff-class dreadnoughts were laid down and under construction. The new fleet commander, Admiral Anton Haus, proposed to continue the construction of battleships.</p><p class=\"p_spacing\"> </p><p>In January 1913, the first draft designs for the future battleship were presented, and in March the Ganz Danubius shipyard submitted its project. According to the tactical and technical specifications, the new ship was to carry ten 350-mm guns in four turrets.</p><p class=\"p_spacing\"> </p><p>In 1914, funding for the new naval program was approved and contracts were signed for the construction of four ships. The keel laying of the first battleship was scheduled for July, but due to the outbreak of World War I, construction was frozen and then completely canceled. Had a ship of this type been completed, it could have undergone modernization in the interwar period, receiving a new power plant and modern air defense systems.</p>"
+
+msgid "IDS_PWSB519_FULL"
+msgstr "Budapest"
+
+msgid "IDS_PWSB519_NUMBER"
+msgstr "1"
+
+msgid "IDS_PWSB519_YEAR"
+msgstr "1914"
 
 msgid "IDS_PWSC101"
 msgstr "Gryf"
@@ -112780,6 +113552,9 @@ msgstr "305 mm/56 SK C/39 in a turret"
 msgid "IDS_PWUA806_ART_BLACK_JAGER"
 msgstr "150 mm/50 K10 Škoda on a single mount"
 
+msgid "IDS_PWUA807_ART_BUDAPEST"
+msgstr "350 mm/45 G. L/45 K14 Škoda in a twin/triple turret"
+
 msgid "IDS_PWUA900_D10_ART_STOCK"
 msgstr "120 mm/50 Model 1950 in a turret"
 
@@ -112887,6 +113662,9 @@ msgstr "Propulsion: 152,000 hp"
 
 msgid "IDS_PWUE806_ENG_BLACK_JAGER"
 msgstr "Propulsion: 43,000 hp"
+
+msgid "IDS_PWUE807_ENG_BUDAPEST"
+msgstr "Propulsion: 154,000 hp"
 
 msgid "IDS_PWUE900_D10_ENG_STOCK"
 msgstr "Propulsion: 58,000 hp"
@@ -113035,6 +113813,9 @@ msgstr "Karl XIV Johan"
 msgid "IDS_PWUH808_HULL_BLACK_JAGER"
 msgstr "Jäger B."
 
+msgid "IDS_PWUH809_HULL_BUDAPEST"
+msgstr "Budapest"
+
 msgid "IDS_PWUH900_D10_HULL_STOCK"
 msgstr "Halland Test"
 
@@ -113177,7 +113958,10 @@ msgid "IDS_PWUS807_SUO_KARL_XIV"
 msgstr "SUO Mk 9 Mod. 1"
 
 msgid "IDS_PWUS808_SUO_BLACK_JAGER"
-msgstr "FCS Mk 9"
+msgstr "SUO Mk 9"
+
+msgid "IDS_PWUS809_SUO_BUDAPEST"
+msgstr "SUO Mk 9"
 
 msgid "IDS_PWUS900_D10_SUO_TOP"
 msgstr "SUO Mk 10 Mod. 1"
@@ -113295,6 +114079,9 @@ msgstr "Mk14"
 
 msgid "IDS_PWUT807_TORP_BLACK_JAGER"
 msgstr "Torped M1947"
+
+msgid "IDS_PWUT808_TORP_BUDAPEST"
+msgstr "Torped M1932"
 
 msgid "IDS_PWUT900_D10_TORP_STOCK"
 msgstr "Torped M1947 mod 1"
@@ -117459,7 +118246,7 @@ msgid "IDS_PXUS001_SUO_HYDE"
 msgstr "FKS Typ 3 Mod. 2"
 
 msgid "IDS_PXUS002_SUO_RASPUTIN"
-msgstr "Tsar GFCS"
+msgstr "Tsar SUO"
 
 msgid "IDS_PXUS003_SUO_FRANKY"
 msgstr "Mk III mod. 2"
@@ -117498,7 +118285,7 @@ msgid "IDS_PXUS701_SUO"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PXUS702_SUO_KIEV_H2018"
-msgstr "GFCS XVIII"
+msgstr "SUO XVIII"
 
 msgid "IDS_PXUS703_SUO_Z_23_H2018"
 msgstr "Mk8 Sixth Sense"
@@ -117514,7 +118301,7 @@ msgstr "FKS U17-I"
 
 msgid "IDS_PXUS721_SUO"
 msgstr ""
-"GFCS VIII\n"
+"SUO VIII\n"
 "mod. 1-D"
 
 msgid "IDS_PXUS731_C8_SUO_STOCK"
@@ -117611,13 +118398,13 @@ msgid "IDS_PXUS926_KHABAROVSK_H19_SUO"
 msgstr "Eye"
 
 msgid "IDS_PXUS927_SUO_DICTATOR"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PXUS928_SUO_PREDATOR"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PXUS929_SUO_BOTOMANCER"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PXUS931_PARIS_SUO"
 msgstr "Atlas I"
@@ -120242,10 +121029,10 @@ msgid "IDS_PZUS703_D8_SUO_TOP"
 msgstr "Mk8 mod. 2"
 
 msgid "IDS_PZUS704_SUO_IRIAN"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PZUS705_SUO_SILIWANGI"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PZUS706_SUO_MARTEL_CN"
 msgstr "PCA n° 8 Mle 1"
@@ -120272,7 +121059,7 @@ msgid "IDS_PZUS713_SUO_DOU_JIAN"
 msgstr "Mk VIII"
 
 msgid "IDS_PZUS714_SUO_TANIFA"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PZUS800_SUO_MENGCHONG"
 msgstr "FKS Typ 9 Mod. 1"
@@ -120290,7 +121077,7 @@ msgid "IDS_PZUS804_SUO_WUJING"
 msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PZUS805_SUO_DALIAN"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PZUS806_C9_SUO_STOCK"
 msgstr "Mk9 mod. 1"
@@ -120314,7 +121101,7 @@ msgid "IDS_PZUS812_SUO_HENGSHUI"
 msgstr "Mk9"
 
 msgid "IDS_PZUS813_SUO_JULANG"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PZUS814_SUO_CHIDI"
 msgstr "Mk9"
@@ -120344,7 +121131,7 @@ msgid "IDS_PZUS907_SUO_HUANG_LONG_CHUAN"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PZUS908_SUO_HUANGDI"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PZUT101_D2_TORP_STOCK"
 msgstr "G/6 D"
@@ -121795,7 +122582,7 @@ msgid "IDS_REGENERATION_HPSPEED_SHIP_CHANGED"
 msgstr "Ship HP is being partially restored"
 
 msgid "IDS_REGEN_CREW_RELOAD_COEFF_CHANGED"
-msgstr "The skill \"Improved Repair Party Readiness\" is activated."
+msgstr "Improved Repair Party Readiness skill activated"
 
 msgid "IDS_REGISTER_ACCOUNT_MOUSE_INSTRUCTION"
 msgstr "Register your account"
@@ -122614,7 +123401,7 @@ msgid "IDS_REWARD_EVENTUM_10_TITLE"
 msgstr "Summer Tokens"
 
 msgid "IDS_REWARD_EVENTUM_1_TITLE"
-msgstr "Space tokens"
+msgstr "Mysterious Shards"
 
 msgid "IDS_REWARD_EVENTUM_2_TITLE"
 msgstr "Commemorative Tokens"
@@ -122800,7 +123587,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII ship"
+msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL005_EPIC_TITLE"
 msgstr "Supercontainer"
@@ -122830,7 +123617,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII ship"
+msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_TITLE"
 msgstr "Container \"New Year's Gift 2022\""
@@ -122860,7 +123647,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII ship"
+msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_TITLE"
 msgstr "Container \"Big New Year's Gift 2022\""
@@ -122890,7 +123677,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII ship"
+msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_TITLE"
 msgstr "Container \"Giant New Year's Gift 2022\""
@@ -123539,12 +124326,6 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -124522,10 +125303,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHO
 msgstr "Tier IX–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Tier VII–VIII ship"
+msgstr "Tier VI–VIII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Tier VII–VIII"
+msgstr "Tier VI–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -125899,7 +126680,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_VALUABLE_GROUP_3_TITLE
 msgstr "Tier V–VII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII"
+msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_TITLE"
 msgstr "Steam Supercontainer"
@@ -126159,12 +126940,6 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_1_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Special or premium ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Ship"
-
 msgid "IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
@@ -126410,36 +127185,6 @@ msgstr "Tier VIII–X Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Tier VIII–X"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_TITLE_FULL"
-msgstr "Ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X Ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Tier X"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Tier IX Ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Tier IX"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Tier VIII Ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "Tier VIII"
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_2_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_2_TITLE_FULL"
-msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_TITLE"
 msgstr "Colorful Regatta"
@@ -127066,10 +127811,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium Container or Premium Ship IX"
+msgstr "Premium Tier IX Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Container or Ship"
+msgstr "Tier IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_TITLE"
 msgstr "Premium Container 'Soviet Matryoshka'"
@@ -127339,7 +128084,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII Tier"
+msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE"
 msgstr "'New Year'"
@@ -127369,7 +128114,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_3_TITLE_
 msgstr "Tier V–VII Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII Tier"
+msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE"
 msgstr "'New Year'"
@@ -127995,6 +128740,36 @@ msgstr "Colorful Formula"
 msgid "IDS_REWARD_LOOTBOX_PCL239_COLORFULEVENT_SUPERPREM_TITLE_QUOTES"
 msgstr "\"Colorful Formula\""
 
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_SLOT_0_TITLE_FULL"
+msgstr "Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier X or Rare Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X or rare"
+
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Tier VIII–IX ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII-IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Tier V–VII ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "Tier V–VII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_TITLE"
+msgstr "Dashing Wave"
+
+msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_TITLE_QUOTES"
+msgstr "\"Dashing Wave\""
+
 msgid "IDS_REWARD_MAP_UNLOCK_DESCRIPTION"
 msgstr "Access to the \"Last Harbor\" map in battles."
 
@@ -128463,6 +129238,9 @@ msgstr "Hit the enemy ship's energy shield."
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SPLANE"
 msgstr "Destroy an enemy aircraft using a fighter."
 
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SQUADRON_DEBUFFED"
+msgstr "Intercept the enemy squadron with anti-aircraft barrage."
+
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SUPPORTED"
 msgstr "Help your team in battle."
 
@@ -128682,6 +129460,9 @@ msgstr "Hit energy shield"
 msgid "IDS_RIBBON_RIBBON_SPLANE"
 msgstr "Shot down by fighter"
 
+msgid "IDS_RIBBON_RIBBON_SQUADRON_DEBUFFED"
+msgstr "Interfered with the squadron"
+
 msgid "IDS_RIBBON_RIBBON_SUPPORTED"
 msgstr "Assisted Allies"
 
@@ -128762,6 +129543,9 @@ msgstr "Hit energy shield"
 
 msgid "IDS_RIBBON_SSE_RIBBON_SPLANE"
 msgstr "Shot down with fighter"
+
+msgid "IDS_RIBBON_SSE_RIBBON_SQUADRON_DEBUFFED"
+msgstr "Interfered with the squadron"
 
 msgid "IDS_RIBBON_SSE_RIBBON_SUPPORTED"
 msgstr "Assisted Allies"
@@ -129140,6 +129924,9 @@ msgstr "Reset sight position and return to ship position."
 
 msgid "IDS_RU"
 msgstr "CIS"
+
+msgid "IDS_RUALD"
+msgstr "Ruard the Strong"
 
 msgid "IDS_RUDDERAFT"
 msgstr "Steering Gear Athwartship"
@@ -130035,6 +130822,9 @@ msgstr "Camouflage"
 msgid "IDS_SECONDARY_TAB_BUTTON_CREW_MANAGEMENT"
 msgstr "Commander"
 
+msgid "IDS_SECONDARY_TAB_BUTTON_DECALS"
+msgstr "Decals"
+
 msgid "IDS_SECONDARY_TAB_BUTTON_ECOBOOST"
 msgstr "Economic Bonuses"
 
@@ -130058,6 +130848,9 @@ msgstr "Mastery"
 
 msgid "IDS_SECONDARY_TAB_BUTTON_SSE"
 msgstr "Combat Missions"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_SURVIVABILITY"
+msgstr "Survivability"
 
 msgid "IDS_SECONDARY_TAB_BUTTON_UPGRADES"
 msgstr "Upgrades"
@@ -131023,6 +131816,18 @@ msgstr "In the Repair Dock"
 msgid "IDS_SHIP_CREW_HINT"
 msgstr "Ship Commander"
 
+msgid "IDS_SHIP_DECAL_GROUP_EYES"
+msgstr "Eyes"
+
+msgid "IDS_SHIP_DECAL_GROUP_SYMBOLS"
+msgstr "Symbols"
+
+msgid "IDS_SHIP_DECAL_GROUP_UNIQUE"
+msgstr "Unique"
+
+msgid "IDS_SHIP_DECAL_UNIQUE_INFO"
+msgstr "Unique decals are not available for purchase"
+
 msgid "IDS_SHIP_DUR_SPECIAL_REPAIR"
 msgstr "Fast Damage Control Team consumable instead of Damage Control Party"
 
@@ -131954,6 +132759,9 @@ msgstr "In the selected combat type, this parameter has a fixed value that canno
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
 msgstr "Ship combat characteristics are altered. The changes depend on the ship class."
 
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM300_TRIGGERHYDROPHONEZONEBUFF"
+msgstr "Ships receive bonuses while within the hydrophone radius of an allied submarine at periscope depth or operating depth."
+
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM147_CRUISERBUFF_DE"
 msgstr " "
 
@@ -132216,6 +133024,9 @@ msgstr "Rampage!"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM115_SUBEVENT26_PENETRATIONNERF"
 msgstr "Dud rounds"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM300_TRIGGERHYDROPHONEZONEBUFF"
+msgstr "Allied hydrophone"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM900_ENERGY"
 msgstr "Number of Charges"
@@ -132592,6 +133403,9 @@ msgstr "Rampage!"
 msgid "IDS_SHIP_MODIFIER_PCOM115_SUBEVENT26_PENETRATIONNERF_APPLIED"
 msgstr "Dud rounds"
 
+msgid "IDS_SHIP_MODIFIER_PCOM300_TRIGGERHYDROPHONEZONEBUFF_APPLIED"
+msgstr "Allied hydrophone"
+
 msgid "IDS_SHIP_MODIFIER_PCOM900_ENERGY_APPLIED"
 msgstr "Energy charge level increased"
 
@@ -132801,6 +133615,11 @@ msgstr "The range and accuracy of main battery fire have been increased"
 
 msgid "IDS_SHIP_MODIFIER_SOURCE_ALLY"
 msgstr "An allied ship picked up a buff"
+
+msgid "IDS_SHIP_MODIFIER_SOURCE_ALLY_ACOUSTIC_BUFF"
+msgstr ""
+"Increased torpedo acquisition range and reduced\n"
+"incoming torpedo damage"
 
 msgid "IDS_SHIP_MODIFIER_SOURCE_CONSUMABLE"
 msgstr "Buff mounted"
@@ -133650,6 +134469,18 @@ msgstr "Main Battery"
 
 msgid "IDS_SHIP_PARAM_MAIN_GUN_DEAD"
 msgstr "Main battery guns destroyed"
+
+msgid "IDS_SHIP_PARAM_MANUAL_AIR_DEFENSE_CHARGES"
+msgstr "Number of Charges"
+
+msgid "IDS_SHIP_PARAM_MANUAL_AIR_DEFENSE_DAMAGE"
+msgstr "Shell explosion damage"
+
+msgid "IDS_SHIP_PARAM_MANUAL_AIR_DEFENSE_NEGATIVE_EFFECT_DURATION"
+msgstr "Duration of negative effects for squadrons"
+
+msgid "IDS_SHIP_PARAM_MANUAL_AIR_DEFENSE_RELOAD_TIME"
+msgstr "Reload time"
 
 msgid "IDS_SHIP_PARAM_MAXIMUM_DISTANCE"
 msgstr "Maximum Firing Range"
@@ -134581,23 +135412,11 @@ msgstr "Provocateur"
 msgid "IDS_SHIP_ROLE_BB_PROVOKE_DESC"
 msgstr "<p>Draw enemy fire to cover allied ships. Lead the flank breakthrough with allied support.</p><p class=\"p_spacing\"> </p><p>Frontline ships.</p>"
 
-msgid "IDS_SHIP_ROLE_BB_SKURFURST"
-msgstr "Breakthrough"
-
-msgid "IDS_SHIP_ROLE_BB_SKURFURST_DESC"
-msgstr "<p>Close in on the enemy to secondary battery firing range. Lead the flank breakthrough with allied support.</p><p class=\"p_spacing\"> </p><p>Frontline ships.</p>"
-
 msgid "IDS_SHIP_ROLE_BB_SNIPER"
 msgstr "Sniper"
 
 msgid "IDS_SHIP_ROLE_BB_SNIPER_DESC"
 msgstr "<p>Attack the enemy from long range, relying on allied intelligence. Maneuver to make it harder for the enemy to fire upon your ship.</p><p class=\"p_spacing\"> </p><p>Second-line ships. Most vulnerable when closing in on the enemy.</p>"
-
-msgid "IDS_SHIP_ROLE_BB_SREPUBLIQUE"
-msgstr "Super breakthrough"
-
-msgid "IDS_SHIP_ROLE_BB_SREPUBLIQUE_DESC"
-msgstr "Destroy enemy ships at close range, combining artillery with powerful homing missiles."
 
 msgid "IDS_SHIP_ROLE_CA_ASSAULT"
 msgstr "Assault"
@@ -134622,18 +135441,6 @@ msgstr "Aircraft support ship"
 
 msgid "IDS_SHIP_ROLE_CA_NORTHAMPRTON_DESC"
 msgstr "<p>Support your allies with squadrons. Avoid direct confrontations with enemy ships. Fire at the enemy using islands as cover.</p><p class=\"p_spacing\"> </p><p>Unique role.</p>"
-
-msgid "IDS_SHIP_ROLE_CA_SDESMOINES"
-msgstr "Universal cruiser"
-
-msgid "IDS_SHIP_ROLE_CA_SDESMOINES_DESC"
-msgstr "Destroy enemy ships using rapid-fire main battery guns and long-range guided missiles while maintaining a medium distance."
-
-msgid "IDS_SHIP_ROLE_CA_SMOSKVA"
-msgstr "Missile sniper"
-
-msgid "IDS_SHIP_ROLE_CA_SMOSKVA_DESC"
-msgstr "Destroy enemy ships with guided and homing missiles from long range, staying at maximum distance."
 
 msgid "IDS_SHIP_ROLE_CA_SPOTTING"
 msgstr "Spotting"
@@ -134679,18 +135486,6 @@ msgstr "Dive Bomber Destroyer"
 
 msgid "IDS_SHIP_ROLE_DD_PAOLO_EMILIO_DESC"
 msgstr "<p>Carry out sudden devastating torpedo attacks from behind islands or using the 'Full Speed Smoke Generator' together with 'Engine Boost'. Maneuver or hide in smoke to make it harder for the enemy to fire upon your ship. Conduct reconnaissance for allies.</p><p class=\"p_spacing\"> </p><p>Unique role.</p>"
-
-msgid "IDS_SHIP_ROLE_DD_SGEARING"
-msgstr "Missile hunter"
-
-msgid "IDS_SHIP_ROLE_DD_SGEARING_DESC"
-msgstr "Destroy enemies with powerful guided and homing missiles while maintaining a medium distance."
-
-msgid "IDS_SHIP_ROLE_DD_SSHIMAKAZE"
-msgstr "Countersniper"
-
-msgid "IDS_SHIP_ROLE_DD_SSHIMAKAZE_DESC"
-msgstr "Destroy sniper ships by infiltrating enemy territory and supporting allies."
 
 msgid "IDS_SHIP_ROLE_DD_TORPEDO"
 msgstr "Torpedo Destroyer"
@@ -134847,6 +135642,15 @@ msgstr "Depth charges"
 msgid "IDS_SHOOT_DEPTH_CHARGES_PREF_TOOLTIP_DESCRIPTION"
 msgstr "Launch depth charges."
 
+msgid "IDS_SHOOT_MANUAL_AIR_DEFENSE"
+msgstr "Anti-aircraft barrage"
+
+msgid "IDS_SHOOT_MANUAL_AIR_DEFENSE_PREF_TOOLTIP_DESCRIPTION"
+msgstr "Activate anti-aircraft barrage."
+
+msgid "IDS_SHOOT_SHIFT_BONUS_CHANGED"
+msgstr "Disinformation Agent skill activated"
+
 msgid "IDS_SHOOT_SHIFT_CHANGED"
 msgstr "Accuracy of enemy fire directed at your ship decreased"
 
@@ -134858,6 +135662,12 @@ msgstr "Shells fired"
 
 msgid "IDS_SHOTS_HINT"
 msgstr "Number of shells fired"
+
+msgid "IDS_SHOT_DISTANCE_DESCRIPTION_INFO_TOOLTIP"
+msgstr "When you choose the distance and angle, the camera changes its position according to the projectile's flight path."
+
+msgid "IDS_SHOT_DISTANCE_INFO_TOOLTIP"
+msgstr "Range and firing angle"
 
 msgid "IDS_SHOW"
 msgstr "SHOW"
@@ -134881,10 +135691,10 @@ msgid "IDS_SHOWSTATS_DESCRIPTION"
 msgstr "Display columns with the names, classes, tiers, and HP of ships in the team compositions. Player name display can be configured separately."
 
 msgid "IDS_SHOW_ADDITION_CONTENT"
-msgstr "Camouflages and Commanders with non-historical styling"
+msgstr "Contents with non-historical styling"
 
 msgid "IDS_SHOW_ADDITION_CONTENT_DESCRIPTION"
-msgstr "Displays unique, event-themed visuals for camos and Commanders in battle and in Port. Disable to ensure their appearance matches the historical style of the game."
+msgstr "Unique appearance of event elements in battle and in Port. Disable to replace the appearance of all camouflages and commanders with historical ones, and to hide all decals."
 
 msgid "IDS_SHOW_ADDITION_CONTENT_STATUS"
 msgstr "If you are in battle, changing this setting will take effect after the battle ends"
@@ -135162,6 +135972,9 @@ msgstr "Secondary Armament Expert"
 msgid "IDS_SKILL_AA_PRIORITYSECTOR_DAMAGE_CONSTANT"
 msgstr "Focus Fire Training"
 
+msgid "IDS_SKILL_ACOUSTIC_SPECIALIST"
+msgstr "Torpedo detection specialist"
+
 msgid "IDS_SKILL_AP_DAMAGE_BB"
 msgstr "Super-Heavy AP Shells"
 
@@ -135188,6 +136001,9 @@ msgstr "Long-Range Secondary Battery Shells"
 
 msgid "IDS_SKILL_ATBA_UPGRADE"
 msgstr "Defensive Fire Expert"
+
+msgid "IDS_SKILL_BUOYANCY_SPEED"
+msgstr "Maneuver Master"
 
 msgid "IDS_SKILL_CONSUMABLES_ADDITIONAL"
 msgstr "Superintendent"
@@ -135225,6 +136041,9 @@ msgstr "Preventive Maintenance"
 msgid "IDS_SKILL_DEFENSE_HP"
 msgstr "Survivability Expert"
 
+msgid "IDS_SKILL_DEPTH_CHARGE_BOMBER_ALERT"
+msgstr "Airstrike warning"
+
 msgid "IDS_SKILL_DESC_AA_DAMAGE_CONSTANT_BUBBLES"
 msgstr " "
 
@@ -135236,6 +136055,9 @@ msgstr "Priority sector is activated by pressing [CMD_SET_PRIORITY_SECTOR] while
 
 msgid "IDS_SKILL_DESC_AA_PRIORITYSECTOR_DAMAGE_CONSTANT_OVERRIDE_FOR_WEB"
 msgstr "Improves AA gun and Airstrike armament characteristics."
+
+msgid "IDS_SKILL_DESC_ACOUSTIC_SPECIALIST"
+msgstr " "
 
 msgid "IDS_SKILL_DESC_AP_DAMAGE_BB"
 msgstr " "
@@ -135259,6 +136081,9 @@ msgid "IDS_SKILL_DESC_ATBA_RANGE"
 msgstr " "
 
 msgid "IDS_SKILL_DESC_ATBA_UPGRADE"
+msgstr " "
+
+msgid "IDS_SKILL_DESC_BUOYANCY_SPEED"
 msgstr " "
 
 msgid "IDS_SKILL_DESC_CONSUMABLES_ADDITIONAL"
@@ -135297,6 +136122,9 @@ msgstr "Reduces the risk of the main turrets, sonar, torpedo tubes, steering gea
 msgid "IDS_SKILL_DESC_DEFENSE_HP"
 msgstr " "
 
+msgid "IDS_SKILL_DESC_DEPTH_CHARGE_BOMBER_ALERT"
+msgstr "Warning of a depth charge airstrike on your submarine."
+
 msgid "IDS_SKILL_DESC_DETECTION_AIMING"
 msgstr "Displays the number of enemies who are holding your ship at gunpoint with main caliber guns or who are attacking your squadron with air defense guns."
 
@@ -135315,6 +136143,9 @@ msgstr " "
 msgid "IDS_SKILL_DESC_DETECTION_VISIBILITY_RANGE"
 msgstr " "
 
+msgid "IDS_SKILL_DESC_EXTRA_CALL_FIGHTERS"
+msgstr "When the Patrol Fighters or Interceptor consumables are activated, additional aircraft are launched into the air."
+
 msgid "IDS_SKILL_DESC_GM_RANGE_AA_DAMAGE_BUBBLES"
 msgstr " "
 
@@ -135325,6 +136156,9 @@ msgid "IDS_SKILL_DESC_GM_SHELL_RELOAD"
 msgstr " "
 
 msgid "IDS_SKILL_DESC_GM_TURN"
+msgstr " "
+
+msgid "IDS_SKILL_DESC_GUN_MAIN_SHOT_DELAY"
 msgstr " "
 
 msgid "IDS_SKILL_DESC_HE_FIRE_PROBABILITY"
@@ -135341,6 +136175,12 @@ msgstr " "
 
 msgid "IDS_SKILL_DESC_MANEUVERABILITY"
 msgstr "The ship remains partially able to sustain speed and maneuverability with the engine and steering gears incapacitated."
+
+msgid "IDS_SKILL_DESC_PINGER_RELOAD_BUFF"
+msgstr " "
+
+msgid "IDS_SKILL_DESC_PINGER_SPEED_BUFF"
+msgstr " "
 
 msgid "IDS_SKILL_DESC_PLANES_AIMING_BOOST"
 msgstr " "
@@ -135399,6 +136239,9 @@ msgstr " "
 msgid "IDS_SKILL_DESC_PLANES_TORPEDO_UW_REDUCED"
 msgstr " "
 
+msgid "IDS_SKILL_DESC_SHOOT_SHIFT_BONUS"
+msgstr "Increases surface movement speed for every 1% of dive capacity spent."
+
 msgid "IDS_SKILL_DESC_SMOKE_SCREEN_SETTER"
 msgstr " "
 
@@ -135406,7 +136249,7 @@ msgid "IDS_SKILL_DESC_SUBMARINE_ALT_TORPEDO"
 msgstr " "
 
 msgid "IDS_SKILL_DESC_SUBMARINE_BATTERY_BURN_DOWN"
-msgstr " "
+msgstr "Increases dive capacity recharge rate on the surface for every 1% of capacity spent."
 
 msgid "IDS_SKILL_DESC_SUBMARINE_BATTERY_CAPACITY"
 msgstr " "
@@ -135422,8 +136265,11 @@ msgstr ""
 "Displays an indicator for undetected submarines when in the area of effect of enemy 'Hydroacoustic Search' or 'Surveillance Radar' consumable.\n"
 "If you change depth while the indicator is displayed, you may be detected."
 
-msgid "IDS_SKILL_DESC_SUBMARINE_SPEED"
+msgid "IDS_SKILL_DESC_SUBMARINE_DEFENSE_HP"
 msgstr " "
+
+msgid "IDS_SKILL_DESC_SUBMARINE_SPEED"
+msgstr "Increases surface movement speed for every 1% of dive capacity spent."
 
 msgid "IDS_SKILL_DESC_SUBMARINE_SPEED_ON_BUOYANCY"
 msgstr " "
@@ -135461,6 +136307,9 @@ msgstr " "
 msgid "IDS_SKILL_DESC_TRIGGER_GM_RELOAD"
 msgstr " "
 
+msgid "IDS_SKILL_DESC_TRIGGER_HYDROPHONE_ZONE"
+msgstr " "
+
 msgid "IDS_SKILL_DESC_TRIGGER_PINGER_RELOAD_BUFF"
 msgstr " "
 
@@ -135482,6 +136331,9 @@ msgstr " "
 msgid "IDS_SKILL_DESC_TRIGGER_SPREADING"
 msgstr " "
 
+msgid "IDS_SKILL_DESC_TRIGGER_TORPEDO_SPEED_RELOAD"
+msgstr " "
+
 msgid "IDS_SKILL_DETECTION_AIMING"
 msgstr "Priority Target"
 
@@ -135500,6 +136352,9 @@ msgstr "Hidden Menace"
 msgid "IDS_SKILL_DETECTION_VISIBILITY_RANGE"
 msgstr "Concealment Expert"
 
+msgid "IDS_SKILL_EXTRA_CALL_FIGHTERS"
+msgstr "Reinforced Patrol Groups"
+
 msgid "IDS_SKILL_FIRST_SELECT_PREVIOUS_LEVEL"
 msgstr "You must first select a skill from the preceding level"
 
@@ -135514,6 +136369,9 @@ msgstr "Gun Feeder"
 
 msgid "IDS_SKILL_GM_TURN"
 msgstr "Grease the Gears"
+
+msgid "IDS_SKILL_GUN_MAIN_SHOT_DELAY"
+msgstr "Main Battery Reloading Master"
 
 msgid "IDS_SKILL_HE_FIRE_PROBABILITY"
 msgstr "Demolition Expert"
@@ -135532,6 +136390,12 @@ msgstr "Enhanced skill"
 
 msgid "IDS_SKILL_MANEUVERABILITY"
 msgstr "Last Stand"
+
+msgid "IDS_SKILL_PINGER_RELOAD_BUFF"
+msgstr "Enhanced Sonar"
+
+msgid "IDS_SKILL_PINGER_SPEED_BUFF"
+msgstr "Enhanced Impulse Generator"
 
 msgid "IDS_SKILL_PLANES_AIMING_BOOST"
 msgstr "Sight Stabilization"
@@ -135590,6 +136454,9 @@ msgstr "Swift Flying Fish"
 msgid "IDS_SKILL_PLANES_TORPEDO_UW_REDUCED"
 msgstr "Non-contact fuse for torpedoes and mines"
 
+msgid "IDS_SKILL_SHOOT_SHIFT_BONUS"
+msgstr "Disinformation Agent"
+
 msgid "IDS_SKILL_SMOKE_SCREEN_SETTER"
 msgstr "Smoke Screen Specialist"
 
@@ -135600,10 +136467,10 @@ msgid "IDS_SKILL_SUBMARINE_ALT_TORPEDO"
 msgstr "Alt Torpedoes 2"
 
 msgid "IDS_SKILL_SUBMARINE_BATTERY_BURN_DOWN"
-msgstr "Improved Battery Efficiency"
+msgstr "Battery Operation Master"
 
 msgid "IDS_SKILL_SUBMARINE_BATTERY_BURN_DOWN_TRIGGER_DESC"
-msgstr "Increases battery recharge rate on the surface when your submarine has less than 10% of maximum battery power."
+msgstr "Increases dive capacity recharge rate on the surface when your submarine has less than 10% of maximum dive capacity."
 
 msgid "IDS_SKILL_SUBMARINE_BATTERY_CAPACITY"
 msgstr "Improved Battery Capacity"
@@ -135617,14 +136484,17 @@ msgstr "Consumables Specialist"
 msgid "IDS_SKILL_SUBMARINE_DANGER_ALERT"
 msgstr "Watchful"
 
+msgid "IDS_SKILL_SUBMARINE_DEFENSE_HP"
+msgstr "Survivability Expert"
+
 msgid "IDS_SKILL_SUBMARINE_SPEED"
-msgstr "Enlarged Propeller Shaft"
+msgstr "Agile"
 
 msgid "IDS_SKILL_SUBMARINE_SPEED_ON_BUOYANCY"
 msgstr "Senior Electrician"
 
 msgid "IDS_SKILL_SUBMARINE_SPEED_TRIGGER_DESC"
-msgstr "Increases surface speed when your submarine has less than 10% of maximum battery power."
+msgstr "Increases surface movement speed for every 1% of dive capacity spent."
 
 msgid "IDS_SKILL_SUBMARINE_TORPEDO_DAMAGE"
 msgstr "Torpedo Aiming Master"
@@ -135659,6 +136529,9 @@ msgstr "Stays active for 15 s after your ship has been spotted."
 msgid "IDS_SKILL_TRIGGER_ACTIVEAIRDEFENSE"
 msgstr "Improves your ship's characteristics when her AA guns are active."
 
+msgid "IDS_SKILL_TRIGGER_ASSISTDAMAGERATIO"
+msgstr "Weapon effectiveness increases each time you deal 20,000 team damage."
+
 msgid "IDS_SKILL_TRIGGER_ATBAHEAT"
 msgstr "<p>Gradually increases secondary gun accuracy at the priority target when continuously firing at any target. Accuracy decreases if the guns aren't used for 15 s or the priority target is changed.</p><p class=\"p_spacing\"> </p><p>When the priority target is changed, 80% of accumulated accuracy is preserved.</p><p class=\"p_spacing\"> </p><p>To set a priority target for secondary armament, press [CMD_FREE_CURSOR], hover the cursor over an enemy ship and press [CMD_SHOOT].</p>"
 
@@ -135672,7 +136545,7 @@ msgid "IDS_SKILL_TRIGGER_CONS_RUDDER_TIME_COEFF"
 msgstr "Helmsman"
 
 msgid "IDS_SKILL_TRIGGER_CONS_RUDDER_TIME_COEFF_TRIGGER_DESC"
-msgstr "Reduces rudder shift time while your ship is detected by the enemy."
+msgstr "Reduces rudder shift time while your ship is detected by the enemy or revealed by hydrophone."
 
 msgid "IDS_SKILL_TRIGGER_ENEMIESNOTLESSTHANALLIESWITHINGMTRIGGER"
 msgstr "<p>Improves your ship's characteristics while the number of allies within your ship's main battery firing range doesn't exceed the number of visible enemy ships.</p><p class=\"p_spacing\"> </p><p>Your ship is not counted as an allied ship.</p>"
@@ -135695,6 +136568,9 @@ msgstr "Top Grade Gunner"
 msgid "IDS_SKILL_TRIGGER_GM_RELOAD"
 msgstr "Fearless Brawler"
 
+msgid "IDS_SKILL_TRIGGER_HYDROPHONE_ZONE"
+msgstr "Hydrophone Master"
+
 msgid "IDS_SKILL_TRIGGER_NOENEMIESWITHINVISIBILITYTRIGGER"
 msgstr "Increases main battery firing accuracy as long as no enemy ship is within your ship's standard detectability range. Changes to ship detectability caused by firing main guns, and other combat events are not taken into account."
 
@@ -135711,13 +136587,13 @@ msgid "IDS_SKILL_TRIGGER_PINGER_SPEED_BUFF_TRIGGER_DESC"
 msgstr "Increases ping velocity while less than 33% of your sub's maximum dive capacity remains."
 
 msgid "IDS_SKILL_TRIGGER_POTENTIALDAMAGERATIO"
-msgstr "Consumable effectiveness increases each time you take potential damage equal to 100% of your ship's base HP."
+msgstr "Consumable effectiveness increases each time you receive 90,000 potential damage."
 
 msgid "IDS_SKILL_TRIGGER_SEEN_TORPEDO_RELOAD"
 msgstr "Torpedo Crew Training"
 
 msgid "IDS_SKILL_TRIGGER_SEEN_TORPEDO_RELOAD_TRIGGER_DESC"
-msgstr "Reduces torpedo tube reload time while your ship remains detected by an enemy."
+msgstr "Reduces torpedo tube reload time each time you mark an enemy by sonar pulse."
 
 msgid "IDS_SKILL_TRIGGER_SPEED"
 msgstr "Swift in Silence"
@@ -135731,11 +136607,17 @@ msgstr "Brisk"
 msgid "IDS_SKILL_TRIGGER_SPREADING"
 msgstr "Dazzle"
 
+msgid "IDS_SKILL_TRIGGER_SUBMARINE_HYDROPHONE_TRIGGER_DESC"
+msgstr "Your submarine and allies within your hydrophone range receive bonuses while you are at periscope or operating depth."
+
 msgid "IDS_SKILL_TRIGGER_SUBMARINE_SPEED_ON_BUOYANCY"
 msgstr "Increases speed at periscope and maximum depth."
 
 msgid "IDS_SKILL_TRIGGER_SUBMARINE_VULNERABILITY_DEPTH_BOMB"
 msgstr "Reduces damage taken from depth charges at maximum depth."
+
+msgid "IDS_SKILL_TRIGGER_TORPEDO_SPEED_RELOAD"
+msgstr "Increased Readiness of Torpedo Crews"
 
 msgid "IDS_SKILL_TRIGGER_VISIBLEENEMYWITHINGMTRIGGER"
 msgstr "Improves your ship's characteristics as long as an enemy ship is within your ship's main battery firing range."
@@ -136308,6 +137190,15 @@ msgstr "Uef and Bi"
 
 msgid "IDS_SOUND_MOD_KINDZADZA_VOVA_SKRIPACH"
 msgstr "Uncle Vova and the Violinist"
+
+msgid "IDS_SOUND_MOD_LENFILM_2026_MORIARTY"
+msgstr "Professor Moriarty"
+
+msgid "IDS_SOUND_MOD_LENFILM_2026_SHERLOCK"
+msgstr "Sherlock Holmes"
+
+msgid "IDS_SOUND_MOD_LENFILM_2026_WATSON"
+msgstr "Dr. Watson"
 
 msgid "IDS_SOUND_MOD_LIBERTY"
 msgstr "Statue of Liberty"
@@ -137633,6 +138524,9 @@ msgstr "Apply a camouflage to your ship"
 msgid "IDS_SSE_CONDITIONS_IS_CLAN_APPLY"
 msgstr "Join a clan"
 
+msgid "IDS_SSE_CONDITIONS_IS_DECAL_INSTALLED"
+msgstr "Apply a decal to your ship"
+
 msgid "IDS_SSE_CONDITIONS_IS_ECOBOOST_INSTALLED"
 msgstr "Install economic bonuses on a ship"
 
@@ -138625,9 +139519,6 @@ msgstr "For fulfilling conditions"
 msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_TASKS_TOOLTIP_TITLE_SECONDARY"
 msgstr "Scoring Points"
 
-msgid "IDS_STRATEGIC_ACTIONS_TOOLTIP_PROGRESSBAR_TITLE"
-msgstr "Until next reward:"
-
 msgid "IDS_STRATEGIC_ACTIONS_TOOLTIP_TILL_NEXT_REWARD"
 msgstr "Until next reward:"
 
@@ -138694,6 +139585,9 @@ msgstr "Submarines"
 msgid "IDS_SUBMARINES_LEGENDARY"
 msgstr "Supersubmarine"
 
+msgid "IDS_SUBMARINE_BATTERY_BURN_DOWN_CHANGED"
+msgstr "Battery Operation Master skill activated"
+
 msgid "IDS_SUBMARINE_DEPTH_STATE_INVULNERABLE"
 msgstr "Maximum Depth"
 
@@ -138720,6 +139614,9 @@ msgstr "DETECTED"
 
 msgid "IDS_SUBMARINE_PL_GENITIVE"
 msgstr "submarines"
+
+msgid "IDS_SUBMARINE_SPEED_CHANGED"
+msgstr "Agile skill activated"
 
 msgid "IDS_SUBMARINE_SPEED_DEEP_WATER_HIGH"
 msgstr "High underwater speed"
@@ -139060,12 +139957,6 @@ msgstr "Silver cannot be added or deducted after the battle when playing supersh
 msgid "IDS_SUPER_PREFIX"
 msgstr "super"
 
-msgid "IDS_SUPPRESSED_BUILDINGS"
-msgstr "Onshore installations suppressed"
-
-msgid "IDS_SUPPRESSED_BUILDINGS_TOOLTIP"
-msgstr "Total number of onshore installations suppressed"
-
 msgid "IDS_SUPPRESSION"
 msgstr "Suppressing"
 
@@ -139074,6 +139965,12 @@ msgstr "Proceed to survey"
 
 msgid "IDS_SURVEYBUTTON_QUESTIONS"
 msgstr "Several short questions"
+
+msgid "IDS_SURVIVABILITY"
+msgstr "Survivability"
+
+msgid "IDS_SURVIVABILITY_DESCRIPTION"
+msgstr "<p class=\"header\">Shelling</p><p class=\"p_spacing\"> </p><p>The probable result of main caliber shells hitting a ship. Shelling is carried out at the angle from which you view the ship.</p><p class=\"p_spacing\"> </p><p class=\"header\">Armor</p><p class=\"p_spacing\"> </p><p>This tab shows the armor thickness in different parts of the ship.</p>"
 
 msgid "IDS_SURVIVAL"
 msgstr "Battles survived"
@@ -139356,11 +140253,14 @@ msgstr "Distinctive insignia purchased"
 msgid "IDS_SYS_MSG_BOUGHT_ELITEXP"
 msgstr "Elite Commander XP purchased"
 
+msgid "IDS_SYS_MSG_BOUGHT_ELITE_CREW_BOOK"
+msgstr "Elite Commander's Manual purchased"
+
 msgid "IDS_SYS_MSG_BOUGHT_ENSIGN"
 msgstr "Flag purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
-msgstr "Space tokens purchased"
+msgstr "Mysterious Shards purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
 msgstr "Summer Tokens purchased"
@@ -139394,6 +140294,9 @@ msgstr "Supply Vouchers purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EXP"
 msgstr "XP purchased"
+
+msgid "IDS_SYS_MSG_BOUGHT_EXTERIOR_DECAL"
+msgstr "Decal purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_FLAGS"
 msgstr "Signals purchased"
@@ -139433,6 +140336,9 @@ msgstr "Permanent camouflage purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_PREMIUM_ACCOUNT"
 msgstr "Premium Account purchased"
+
+msgid "IDS_SYS_MSG_BOUGHT_RARE_CREW_BOOK"
+msgstr "Rare Commander's Manual purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_RECRUITMENT_POINTS"
 msgstr "Navigator Tokens purchased"
@@ -139611,9 +140517,6 @@ msgstr "Retraining started"
 msgid "IDS_SYS_MSG_DENUNCIATIONS_ACCEPTED"
 msgstr "Your report has been received!"
 
-msgid "IDS_SYS_MSG_DENUNCIATIONS_RECEIVED"
-msgstr "You were reported!"
-
 msgid "IDS_SYS_MSG_DISMISSED_DIVISION"
 msgstr "Division dismissed"
 
@@ -139734,6 +140637,9 @@ msgstr "Learn more"
 msgid "IDS_SYS_MSG_LEFT_MOUSE_SHOW_SPLASH_SCREEN"
 msgstr "Proceed to the event"
 
+msgid "IDS_SYS_MSG_LINK_EXTERIOR_DECAL"
+msgstr "Decal linked"
+
 msgid "IDS_SYS_MSG_LINK_MSKIN"
 msgstr "Camouflage linked"
 
@@ -139817,9 +140723,6 @@ msgstr "Player appointed as Division Commander"
 
 msgid "IDS_SYS_MSG_PRAISES_ACCEPTED"
 msgstr "Your emotion has been received!"
-
-msgid "IDS_SYS_MSG_PRAISES_RECEIVED"
-msgstr "You've received a reaction!"
 
 msgid "IDS_SYS_MSG_PREM_OFF"
 msgstr "Premium Account expired"
@@ -139906,7 +140809,7 @@ msgid "IDS_SYS_MSG_RECEIVED_ENSIGN"
 msgstr "Flag received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
-msgstr "Space tokens received"
+msgstr "Mysterious Shards received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
 msgstr "Summer Tokens received"
@@ -139940,6 +140843,9 @@ msgstr "Supply Vouchers received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EXP"
 msgstr "XP received"
+
+msgid "IDS_SYS_MSG_RECEIVED_EXTERIOR_DECAL"
+msgstr "Decals received"
 
 msgid "IDS_SYS_MSG_RECEIVED_FLAGS"
 msgstr "Signals received"
@@ -140255,6 +141161,9 @@ msgstr "Go to the \"Achievements\" screen"
 msgid "IDS_SYS_MSG_TRADED"
 msgstr "Ship received"
 
+msgid "IDS_SYS_MSG_TRAINING_ROOM_NO_OWNER"
+msgstr "Training room removed by the organizer"
+
 msgid "IDS_SYS_MSG_TRANFER_XP"
 msgstr "Convert XP"
 
@@ -140270,11 +141179,14 @@ msgstr "Convert XP"
 msgid "IDS_SYS_MSG_UNINSTALL_CREW"
 msgstr "Commander sent to the Reserve"
 
+msgid "IDS_SYS_MSG_UNINSTALL_EXTERIOR_DECAL"
+msgstr "Decal demounted"
+
 msgid "IDS_SYS_MSG_UNINSTALL_MODERNIZATION"
 msgstr "Upgrade demounted"
 
 msgid "IDS_SYS_MSG_UNINSTALL_PERMOFLAGE"
-msgstr "Permanent camouflage removed"
+msgstr "Permanent camouflage demounted"
 
 msgid "IDS_SYS_MSG_UNSET_ABILITY"
 msgstr "Consumable demounted"
@@ -140364,7 +141276,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_ENSIGN"
 msgstr "Flag removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
-msgstr "Space tokens removed"
+msgstr "Mysterious Shards removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
 msgstr "Summer Tokens written off"
@@ -140398,6 +141310,9 @@ msgstr "Supply Vouchers removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EXP"
 msgstr "XP removed"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EXTERIOR_DECAL"
+msgstr "Decals removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_FLAGS"
 msgstr "Signals removed"
@@ -140793,7 +141708,7 @@ msgid "IDS_TALENT_PFW405_RIBBONS_7"
 msgstr "Elemental Fury"
 
 msgid "IDS_TALENT_PFW405_RIBBONS_7_DESCRIPTION"
-msgstr "Triggered for each point capture, assistance in capture, slowing an airship, or assisting in slowing."
+msgstr "Triggered for each point capture, or assistance in capture."
 
 msgid "IDS_TALENT_PGW103_RIBBONS_1"
 msgstr "Resilient"
@@ -141200,42 +142115,6 @@ msgstr "Stage %(_step)d"
 msgid "IDS_TERRITORY_ARCHIVE_STEP_LAST"
 msgstr "Results"
 
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_ALBOM_0"
-msgstr "<p>During 1945 operations, Soviet submarines successfully operated in the southern Baltic from Finnish ports.</p><p class=\"p_spacing\"> </p><p>On January 30 and February 10, submarine S-13 under Captain 3rd Rank A.I. Marinesko conducted successful torpedo attacks near Stolpe Bank, sinking two major targets.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_ALBOM_1"
-msgstr "<p>During operations to capture Königsberg and Pillau and defeat enemy groupings, Red Banner Baltic Fleet forces completed diverse missions.</p><p class=\"p_spacing\"> </p><p>Railway artillery destroyed enemy fortifications.</p><p class=\"p_spacing\"> </p><p>Naval aviation struck targets in Frisches Haff, mined Königsberg Canal and approaches to Pillau.</p><p class=\"p_spacing\"> </p><p>Baltic Fleet tactical landings contributed to overall success.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_ALBOM_2"
-msgstr "<p>As of May 8, 1945, German sea evacuations of troops and civilians westward continued.</p><p class=\"p_spacing\"> </p><p>Landing operations commenced to occupy Bornholm Island and Baltic ports to disrupt German maritime traffic.</p><p class=\"p_spacing\"> </p><p>On May 9 morning, torpedo boats with landing parties intercepted several German vessels. Landings on Bornholm began negotiations for the German garrison's surrender.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_ALBOM_3"
-msgstr "<p>The Red Banner Baltic Fleet actively participated in East Prussian and East Pomeranian operations.</p><p class=\"p_spacing\"> </p><p>Ships, naval aviation and coastal artillery intercepted and destroyed enemy vessels, bombarded land defenses, conducted landings, transported troops, laid and cleared mines.</p><p class=\"p_spacing\"> </p><p>Baltic Fleet operational zone reached the Danish Straits in the western Baltic.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_BAG_0"
-msgstr "<p>Nerva Island near Vyborg Bay held strategic importance.</p><p class=\"p_spacing\"> </p><p>On the night of June 19-20, 1944, a Red Banner Baltic Fleet landing force successfully occupied the island.</p><p class=\"p_spacing\"> </p><p>Simultaneously, German destroyers approached the Björkö archipelago and were later spotted near Nerva Island.</p><p class=\"p_spacing\"> </p><p>Soviet torpedo boats under Captain 3rd Rank S.A. Osipov, tasked with defending the landing force on Nerva Island, attacked the German destroyers. Reports confirmed one enemy vessel sunk.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_BAG_1"
-msgstr "<p>The Björkö archipelago could become an enemy bridgehead for attacks against Leningrad Front's rear.</p><p class=\"p_spacing\"> </p><p>The heavily fortified islands were held by significant Finnish garrisons. Powerful coastal artillery and minefields prevented Soviet ships from entering Vyborg Bay.</p><p class=\"p_spacing\"> </p><p>Landing forces were ordered to clear the Björkö archipelago of enemy troops.</p><p class=\"p_spacing\"> </p><p>The initial objective was the least fortified island, Piisaari, whose capture would force enemy evacuation from other archipelago islands.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_BAG_2"
-msgstr "<p>Red Banner Baltic Fleet command became aware of increased German U-boat activity in the eastern Gulf of Finland.</p><p class=\"p_spacing\"> </p><p>Soviet ships suffered multiple attacks. On July 30, 1944, patrol boat MO-105 was sunk.</p><p class=\"p_spacing\"> </p><p>That evening, a smoke-screen boat visually detected a German submarine running shallow. Summoned patrol boat MO-103 destroyed it with depth charges.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_BAG_3"
-msgstr "<p>During summer 1944, the Red Banner Baltic Fleet participated in the Vyborg offensive against Finnish forces on the Karelian Isthmus.</p><p class=\"p_spacing\"> </p><p>Naval landings secured the Björkö archipelago and Vyborg Bay islands.</p><p class=\"p_spacing\"> </p><p>Fleet heavy artillery and aviation struck enemy defenses, ships, transports and bases.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_CHRISTMAS_TREE_0"
-msgstr "<p>Following their Leningrad defeat, the enemy strengthened minefields and patrols in Narva Bay, fearing flank attacks against their land positions.</p><p class=\"p_spacing\"> </p><p>From March 1944, Red Banner Baltic Fleet naval aviation regularly struck German patrol ships guarding minefields and their army's left flank.</p><p class=\"p_spacing\"> </p><p>Major success came July 20-21, 1944 when the enemy suffered heavy losses.</p><p class=\"p_spacing\"> </p><p>Naval operations in Narva Bay continued.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_CHRISTMAS_TREE_1"
-msgstr "<p>In early July 1944, a warship—believed to be Finnish coastal defense ship Väinämöinen—was spotted in Kotka harbor.</p><p class=\"p_spacing\"> </p><p>Red Banner Baltic Fleet aviation was tasked with sinking the enemy vessel.</p><p class=\"p_spacing\"> </p><p>The July 12 raid failed, but on July 16 bombs scored hits and the target began sinking. Enemy ship destruction was confirmed.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_CHRISTMAS_TREE_2"
-msgstr "<p>In late September 1944, landing operations began to capture the Moonsund Islands.</p><p class=\"p_spacing\"> </p><p>Vormsi Island fell September 27, Muhu Island by October 1 morning. After October 10, the enemy held only the Sõrve Peninsula on Saaremaa Island.</p><p class=\"p_spacing\"> </p><p>During fierce fighting, landings were supported by Red Banner Baltic Fleet ships, coastal artillery and naval aviation.</p><p class=\"p_spacing\"> </p><p>The enemy deployed heavy cruisers and destroyers. Despite this, the archipelago was fully cleared by November 24.</p>"
-
-msgid "IDS_TERRITORY_ARCHIVE_TEXT_CHRISTMAS_TREE_3"
-msgstr "<p>By late autumn 1944, most of the Baltic region was liberated.</p><p class=\"p_spacing\"> </p><p>Red Banner Baltic Fleet landings supported Red Army advances. Naval aviation inflicted significant enemy losses.</p><p class=\"p_spacing\"> </p><p>After the September 19, 1944 armistice with Finland, the Baltic Fleet gained access to Finnish bases and northern Gulf of Finland shipping lanes.</p>"
-
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_GLOBAL_0"
 msgstr "<p>By June 1941, the Northern Fleet consisted of 18 surface ships, 15 submarines, and 116 naval aircraft. Most of the ships were based in Polyarny, not far from Murmansk.</p><p class=\"p_spacing\"> </p><p>Even before the start of the war, Luftwaffe aircraft conducted reconnaissance over Soviet territory, so the enemy was aware of the location of many strategically important facilities and naval bases.</p><p class=\"p_spacing\"> </p><p>On June 22, German aviation carried out a bombing raid on the Polyarny area. Later, the Northern Fleet's sea lines of communication and airfields were attacked. On June 29, enemy troops launched an offensive in the Murmansk direction.</p>"
 
@@ -141267,19 +142146,19 @@ msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP02_3"
 msgstr "<p>In 1943, the Northern Fleet was significantly reinforced. At the same time, the enemy's Norwegian grouping of ships and aircraft also increased. The situation required the improvement of naval combat tactics.</p><p class=\"p_spacing\"> </p><p>The Northern Fleet continued to support the coastal flank of the 14th Army and supplied the troops by sea. Surface ships, aircraft, and submarines protected Soviet sea communications and operated on enemy supply lines.</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_0"
-msgstr "<p>From January 16 to 26, 1944, the Northern Fleet was tasked with conducting Operation RV-1 with the aim of destroying one or several enemy convoys on the Hammerfest — Kirkenes — Petsamo route.</p><p class=\"p_spacing\"> </p><p>The operation involved naval aviation, submarines, destroyers, torpedo boats, and coastal batteries. All these forces were to act in concert within their pre-assigned zones, guide each other toward the enemy, and deliver coordinated strikes against the convoys along their entire route.</p>"
+msgstr "<p>The Northern Fleet was assigned the task of conducting Operation RV-1 from January 16 to 26 with the aim of destroying one or more enemy convoys in the Hammerfest — Kirkenes — Petsamo route.</p><p class=\"p_spacing\"> </p><p>The operation involved naval aviation, submarines, destroyers, torpedo boats, and coastal batteries. All these forces were to act in concert within their pre-assigned zones, guide each other toward the enemy, and deliver coordinated strikes against the convoys along their entire route.</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_1"
 msgstr "<p>On September 29, the 14th Army of the Karelian Front was tasked with launching an offensive and clearing the Petsamo region of enemy forces.</p><p class=\"p_spacing\"> </p><p>To support the offensive, the command of the Northern Fleet planned Operation \"West,\" which involved actions in maritime and coastal directions.</p><p class=\"p_spacing\"> </p><p>In the coastal direction, the fleet's forces were to breach and destroy the enemy's defenses between the mainland and the Sredny Peninsula and support the ground forces by landing troops on the flanks and rear.</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_2"
-msgstr "<p>The main objective of the naval component of Operation \"West\" was to prevent the evacuation of German troops from Northern Finland to Norway via the ports of the Varanger Fjord. The execution of this plan again involved the joint actions of various naval forces in predetermined sectors.</p><p class=\"p_spacing\"> </p><p>Naval aviation operated along the line Kirkenes — Hammerfest; torpedo boats — in the area of the Varanger Fjord; submarines — from Vardø to the 20°00' meridian. Destroyers lay in wait for enemy convoys between Vardø and Nordkyn Cape.</p>"
+msgstr "<p>The main objective of the naval component of Operation \"West\" was to prevent the evacuation of German troops from Northern Finland to Norway through the ports of the Varangerfjord. The execution of this plan again involved the joint actions of various naval forces in predetermined sectors.</p><p class=\"p_spacing\"> </p><p>Naval aviation operated along the line Kirkenes — Hammerfest; torpedo boats — in the area of the Varanger Fjord; submarines — from Vardø to the 20°00' meridian. Destroyers lay in wait for enemy convoys between Vardø and Nordkyn Cape.</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_3"
 msgstr "<p>In 1944, through the joint efforts of the Northern Fleet and the Karelian Front, the Soviet Arctic was liberated. Germany's heavy industry ceased to receive valuable nickel and iron ore from the Petsamo region, and the German navy lost its bases in the Barents Sea.</p><p class=\"p_spacing\"> </p><p>After the defeat of the German army in the Arctic, the Northern Fleet continued to protect external and internal sea communications, as the enemy still penetrated Soviet waters.</p><p class=\"p_spacing\"> </p><p>The ship composition of the Northern Fleet increased. Its ranks were temporarily supplemented by the battleship Royal Sovereign and the cruiser Milwaukee, transferred by the Allies, which were renamed \"Arkhangelsk\" and \"Murmansk.\"</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP0_0"
-msgstr "<p>On July 5, the commander of the 52nd Rifle Division requested the commander of the Northern Fleet to assist the flank of the ground forces by landing troops on the southern shore of Bolshaya Zapadnaya Litsa Bay.</p><p class=\"p_spacing\"> </p><p>The operation began on the night of July 6. The ships carrying the landing force proceeded using a \"flow\" method—one by one—which ensured better concealment under the conditions of the polar day. Motorboats were used as landing craft, and the landing itself was conducted on an unprepared shore to avoid shelling at the pier.</p><p class=\"p_spacing\"> </p><p>The landing was successful: the landing force destroyed enemy groups and linked up with units of the rifle division.</p>"
+msgstr "<p>On July 5, the commander of the 52nd Rifle Division requested the commander of the Northern Fleet to assist the flank of the ground forces by landing troops on the southern shore of Bolshaya Zapadnaya Litsa Bay.</p><p class=\"p_spacing\"> </p><p>The operation began on the night of July 6. The ships carrying the landing force proceeded using a \"flow\" method—one by one—which ensured better concealment under the conditions of the polar day. Motorboats were used as landing craft, and the landing itself was conducted on an unprepared shore to avoid shelling at the pier.</p><p class=\"p_spacing\"> </p><p>The main objective of the operation was achieved: the landing force destroyed enemy groups and linked up with units of the rifle division.</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP0_1"
 msgstr "<p>The enemy's nearest seaport to the front line became the harbor of Liinakhamari. It was there that the supply transports for the German army were concentrated.</p><p class=\"p_spacing\"> </p><p>On August 21, 1941, despite the approaches to the port being covered by batteries and anti-submarine patrols, the submarine M-172 broke through into the Petsamonvuono fjord, after which it entered the harbor and attacked an enemy transport ship anchored in the roadstead.</p>"
@@ -141292,36 +142171,6 @@ msgstr "<p>By the autumn of 1941, the advance of the German-Finnish troops in th
 
 msgid "IDS_TERRITORY_MESSAGE_LEARN_MORE"
 msgstr "Read archive report"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_0"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_1"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_2"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_3"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_BAG_0"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_BAG_1"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHRISTMAS_TREE_0"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHRISTMAS_TREE_1"
-msgstr "Train Conductor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHRISTMAS_TREE_2"
-msgstr "Train Conductor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHRISTMAS_TREE_3"
-msgstr "Sailor"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL_0"
 msgstr "June 1941"
@@ -141376,48 +142225,6 @@ msgstr "November 25, 1941"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP0_3"
 msgstr "1941"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_0"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_1"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_2"
-msgstr "Train Conductor"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_3"
-msgstr "Sailor"
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_ALBOM_0"
-msgstr "An album from my service. I should arrange all the photos. Open it — and everyone is nearby again."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_ALBOM_1"
-msgstr "Funny to look at: young, green, but pride on their faces... Back then, everything seemed endless."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_ALBOM_2"
-msgstr "These guys kept me afloat. I wouldn't have managed without them. It's like I can hear their laughter..."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_ALBOM_3"
-msgstr "The album is full. It's like I've walked that path again. Looking at it — my heart tightens. But it's still warm."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_BAG_0"
-msgstr "Barely made it. Need to get settled: unpack the bag, warm up, come to my senses after service. Just a little more, and I'll finally be home. Hard to believe."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_BAG_1"
-msgstr "Well, that's it. Unpacked the bag, found a blanket and slippers. Cozier now. Only the road ahead."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_CHRISTMAS_TREE_0"
-msgstr "Something's missing here... Maybe look for a Christmas tree at the stop? And we'll decorate. New Year's is just around the corner, after all."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_CHRISTMAS_TREE_1"
-msgstr "The tree, like us, is a bit battered, but it's standing. At the next stop, I can help out, we have a couple of ornaments lying around in the vestibule."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_CHRISTMAS_TREE_2"
-msgstr "With the ornaments, our tree is almost like a city one! Just a little more, and we'll be celebrating the New Year with it properly."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_CHRISTMAS_TREE_3"
-msgstr "Well, we hung up the garlands with snowflakes — it even started to smell like the holidays. Almost like in childhood..."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_0"
 msgstr "On the night of June 22, German aircraft carried out a bombing raid on the area of Polyarny — the main base of the Soviet Northern Fleet — and in the following days, naval communications and airfields were attacked. On June 29, enemy forces launched an offensive in the Murmansk direction."
@@ -141475,48 +142282,6 @@ msgstr "A Soviet-British task force, consisting of a light cruiser and four dest
 msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP0_3"
 msgstr "The troops of the Karelian Front and the Northern Fleet managed to halt the advance of the German-Finnish army in the Arctic. The forces of the Soviet fleet are obstructing the maritime supply of enemy troops."
 
-msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_0"
-msgstr "It's a long journey. Should set the table, warm up with some tea."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_1"
-msgstr "Tangerines — the smell of the holidays. Reminds me of childhood immediately. Got out the cup holders, just need to pour the tea."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_2"
-msgstr "You can't do without boiling water! And tea is the best table decoration, especially on a train! Let's have a cookie, for the journey and for the meeting."
-
-msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_3"
-msgstr "So much on the table. Everyone contributed a little — and it turned into a feast for the whole carriage. But all this is for the festive dinner. Perhaps we'll play a game with the neighbors for now."
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_ALBOM_0"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_ALBOM_1"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_ALBOM_2"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_ALBOM_3"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_BAG_0"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_BAG_1"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_CHRISTMAS_TREE_0"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_CHRISTMAS_TREE_1"
-msgstr "Seryozha"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_CHRISTMAS_TREE_2"
-msgstr "Seryozha"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_CHRISTMAS_TREE_3"
-msgstr "Vladimir"
-
 msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL_0"
 msgstr "The Beginning of the War in the Arctic"
 
@@ -141571,36 +142336,6 @@ msgstr "Patrol off the coast of Norway"
 msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP0_3"
 msgstr "Results"
 
-msgid "IDS_TERRITORY_MESSAGE_TITLE_TABLE_0"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_TABLE_1"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_TABLE_2"
-msgstr "Seryozha"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_TABLE_3"
-msgstr "Vladimir"
-
-msgid "IDS_TERRITORY_TITLE_ALBOM"
-msgstr "Army Album"
-
-msgid "IDS_TERRITORY_TITLE_ALBOM_SHORT"
-msgstr "Army Album"
-
-msgid "IDS_TERRITORY_TITLE_BAG"
-msgstr "Travel Bag"
-
-msgid "IDS_TERRITORY_TITLE_BAG_SHORT"
-msgstr "Travel Bag"
-
-msgid "IDS_TERRITORY_TITLE_CHRISTMAS_TREE"
-msgstr "Christmas Tree"
-
-msgid "IDS_TERRITORY_TITLE_CHRISTMAS_TREE_SHORT"
-msgstr "Christmas Tree"
-
 msgid "IDS_TERRITORY_TITLE_GLOBAL_0_SHORT"
 msgstr "BWA"
 
@@ -141630,12 +142365,6 @@ msgstr "1944"
 
 msgid "IDS_TERRITORY_TITLE_MAP0_SHORT"
 msgstr "1941"
-
-msgid "IDS_TERRITORY_TITLE_TABLE"
-msgstr "Compartment Table"
-
-msgid "IDS_TERRITORY_TITLE_TABLE_SHORT"
-msgstr "Compartment Table"
 
 msgid "IDS_TEST_SAMPLE"
 msgstr "TEST SHIP"
@@ -142126,7 +142855,7 @@ msgid "IDS_TIPS_CRUISERS_DESCRIPTION"
 msgstr "<p>Good armor protection and powerful guns. Sufficient maneuverability enables these ships to dodge torpedoes from destroyers and avoid shells from battleships.</p><p class=\"p_spacing\"> </p><p>The duties expected of cruisers include fighting enemy destroyers and cruisers while providing artillery support and protecting allies with anti-aircraft fire.</p>"
 
 msgid "IDS_TIPS_DEEP_TORPEDES"
-msgstr "Deepwater (DT) Torpedoes"
+msgstr "Deepwater Torpedoes (DT)"
 
 msgid "IDS_TIPS_DEEP_TORPEDES_DESCRIPTION"
 msgstr "<p>Deepwater torpedoes can be selected by pressing [CMD_AMMO_SLOT_3].</p><p class=\"p_spacing\"> </p><p>They can only strike deep-draught ships and are ineffective against destroyers, but have low detectability.</p>"
@@ -142401,7 +143130,7 @@ msgid "IDS_TIPS_SUBMARINE_ENERGY_MANAGEMENT"
 msgstr "Dive Capacity"
 
 msgid "IDS_TIPS_SUBMARINE_ENERGY_MANAGEMENT_DESCRIPTION"
-msgstr "<p>Required to stay underwater.</p><p class=\"p_spacing\"> </p><p>When battery power runs out, the submarine is forced to surface.</p><p class=\"p_spacing\"> </p><p>Recharges on the surface. Not consumed at periscope depth.</p>"
+msgstr "<p>Required to stay underwater.</p><p class=\"p_spacing\"> </p><p>When dive capacity runs out, the submarine is forced to surface.</p><p class=\"p_spacing\"> </p><p>Recharges on the surface. Not consumed at periscope depth.</p>"
 
 msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY"
 msgstr "Launching torpedoes from depth"
@@ -143725,6 +144454,9 @@ msgstr "Airstrikes: Torpedo Bombers"
 msgid "IDS_TORPEDOES"
 msgstr "Torpedoes"
 
+msgid "IDS_TORPEDOES_ACOUSTIC"
+msgstr "Acoustic Torpedoes"
+
 msgid "IDS_TORPEDOES_AIRSUP"
 msgstr "Torpedoes"
 
@@ -143743,8 +144475,14 @@ msgstr "Deepwater torpedoes"
 msgid "IDS_TORPEDOES_LOST_TARGET"
 msgstr "Your torpedoes lost their target"
 
+msgid "IDS_TORPEDOES_NORMAL"
+msgstr "Torpedoes"
+
 msgid "IDS_TORPEDOES_SHOTS_HINT"
 msgstr "Number of torpedoes launched"
+
+msgid "IDS_TORPEDOES_THERMAL"
+msgstr "Thermal Torpedoes"
 
 msgid "IDS_TORPEDOS_RELEASED"
 msgstr "Torpedoes launched"
@@ -144489,6 +145227,9 @@ msgstr "Talent available"
 msgid "IDS_TTX_ELITE_CREW_CAN_UPGRADE_SKILL"
 msgstr "Skill can be enhanced"
 
+msgid "IDS_TTX_WIDGET_ARMOR_TAB"
+msgstr "ARMOR"
+
 msgid "IDS_TTX_WIDGET_COMMON_MOUSE_INSTRUCTION_ECOBOOST"
 msgstr "Go to economic bonuses setup"
 
@@ -144507,11 +145248,26 @@ msgstr "Upgrades"
 msgid "IDS_TTX_WIDGET_COMMON_TITLE_SIGNAL"
 msgstr "Signals"
 
+msgid "IDS_TTX_WIDGET_DAMAGE_SELECTED_PROJECTILE_HEADER"
+msgstr "Damage dealt by the selected projectile"
+
 msgid "IDS_TTX_WIDGET_HEADER"
 msgstr "Characteristics"
 
+msgid "IDS_TTX_WIDGET_POPULAR_THREATS_HEADER"
+msgstr "Shells"
+
+msgid "IDS_TTX_WIDGET_SELECTED_SHIP_HEADER"
+msgstr "Ship"
+
 msgid "IDS_TTX_WIDGET_SHIP_MOUSE_INSTRUCTION"
 msgstr "Go to ship"
+
+msgid "IDS_TTX_WIDGET_SHOT_DISTANCE_HEADER"
+msgstr "Range and firing angle"
+
+msgid "IDS_TTX_WIDGET_VULNERABILITY_TAB"
+msgstr "SHELLING"
 
 msgid "IDS_TUESDAY"
 msgstr "Tu"
@@ -144789,6 +145545,9 @@ msgstr "Side Plate"
 msgid "IDS_TURRETTOP"
 msgstr "Top Plate"
 
+msgid "IDS_TURRETTURRET"
+msgstr "Gun"
+
 msgid "IDS_TURRY"
 msgstr "Turry"
 
@@ -144969,7 +145728,7 @@ msgid "IDS_UNIFIED_BATTLE_OPTION_HAS_BATTLE_MODIFIERS"
 msgstr "Ship characteristics have been changed"
 
 msgid "IDS_UNINSTALL_ALL_ECONOMIC_BOOSTS_HINT"
-msgstr "Remove all bonuses mounted on this ship"
+msgstr "Demount all bonuses mounted on this ship"
 
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
 msgstr "Remove all"
@@ -145047,13 +145806,13 @@ msgid "IDS_UNLOCKS_14"
 msgstr "Install signals on your ship to improve its combat performance."
 
 msgid "IDS_UNLOCKS_15"
-msgstr "Customize the exteriors of your ships with camouflages and flags."
+msgstr "Customize the exteriors of your ships with camouflages, flags, and decals."
 
 msgid "IDS_UNLOCKS_17"
 msgstr "Research and purchase new ships."
 
 msgid "IDS_UNLOCKS_2015"
-msgstr "Customize the appearance of ships with camouflages and flags."
+msgstr "Customize the exteriors of your ships with camouflages, flags, and decals."
 
 msgid "IDS_UNLOCKS_22"
 msgstr "Accomplish Campaign missions on your journey to the ultimate reward."
@@ -145101,13 +145860,13 @@ msgid "IDS_UNLOCKS_DESCRIPTION_14"
 msgstr "<p>Signals allow you to increase your ship's combat performance.</p><p class=\"p_spacing\"> </p><p>Signals selected on a ship are deducted after each battle and are automatically remounted if available.</p><p class=\"p_spacing\"> </p><p>Signals can be purchased or obtained by participating in various events.</p><p class=\"p_spacing\"> </p><p>To mount signals, go to the 'Ship' tab, then to 'Upgrades.'</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_15"
-msgstr "<p>Camouflages and flags allow you to change the appearance of your ships.</p><p class=\"p_spacing\"> </p><p>Consumable camouflage mounted on a ship is deducted after each battle. Permanent camouflage is not consumed and does not require replenishment.</p><p class=\"p_spacing\"> </p><p>Camouflages can be obtained by participating in various events or purchased for silver or gold.</p><p class=\"p_spacing\"> </p><p>To manage a ship's appearance, go to the 'Ship' tab, then to 'Camouflage' or 'Flags.'</p>"
+msgstr "<p>Camouflages, flags and decals allow you to change the appearance of your ships.</p><p class=\"p_spacing\"> </p><p>Consumable camouflage mounted on a ship is deducted after each battle. Permanent camouflage is not consumed and does not require replenishment.</p><p class=\"p_spacing\"> </p><p>Decals are permanently bound to the ship of your choice and become available for installation on that ship.</p><p class=\"p_spacing\"> </p><p>Camouflages and decals can be obtained by participating in various events or purchased for silver or gold.</p><p class=\"p_spacing\"> </p><p>To manage a ship's appearance, go to the 'Ship' tab, then to 'Camouflage' or 'Flags.'</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_17"
 msgstr "<p>The game features ships of different nations and classes: versatile cruisers, stealthy destroyers, heavily armored battleships, aircraft carriers armed with fast and devastating aircraft. Choose your role in battle.</p><p class=\"p_spacing\"> </p><p>After each battle, you are awarded XP and silver for researching and purchasing ships. You can also research and purchase modules to improve ships.</p><p class=\"p_spacing\"> </p><p>New ships are available in the 'Development' tab. To manage modules, go to the 'Ship' tab, then—to 'Upgrades.'</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2015"
-msgstr "<p>Camouflages and flags allow you to change the appearance of your ships.</p><p class=\"p_spacing\"> </p><p>Consumable camouflages equipped on a ship are deducted after each battle. Permanent camouflages are not consumed and do not require replenishment.</p><p class=\"p_spacing\"> </p><p>Camouflages can be obtained by participating in various events or purchased for silver or gold.</p><p class=\"p_spacing\"> </p><p>To manage the appearance of your ship, go to the 'Ship' tab, then to 'Camouflage' or 'Flags'.</p>"
+msgstr "<p>Camouflages, flags and decals allow you to change the appearance of your ships.</p><p class=\"p_spacing\"> </p><p>Consumable camouflage mounted on a ship is deducted after each battle. Permanent camouflage is not consumed and does not require replenishment.</p><p class=\"p_spacing\"> </p><p>Decals are permanently bound to the ship of your choice and become available for installation on that ship.</p><p class=\"p_spacing\"> </p><p>Camouflages and decals can be obtained by participating in various events or purchased for silver or gold.</p><p class=\"p_spacing\"> </p><p>To manage a ship's appearance, go to the 'Ship' tab, then to 'Camouflage' or 'Flags.'</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_22"
 msgstr "<p>Complete missions in campaigns on your way to the main reward.</p><p class=\"p_spacing\"> </p><p>Missions consist of tasks that earn you stars when completed. Stars unlock access to subsequent missions.</p><p class=\"p_spacing\"> </p><p>Missing stars can be earned by repeating tasks.</p><p class=\"p_spacing\"> </p><p>You can complete up to three tasks simultaneously.</p><p class=\"p_spacing\"> </p><p>The campaigns section is located on the 'Combat Missions' screen.</p>"
@@ -145730,6 +146489,33 @@ msgstr "INCOMING"
 msgid "IDS_VOVA_SKRIPACH"
 msgstr "Uncle Vova and the Violinist"
 
+msgid "IDS_VULNERABILITY_RESET_CUSTOM_THREAT_BUTTON_NAME"
+msgstr "RESET"
+
+msgid "IDS_VULNERABILITY_SELECT_CUSTOM_THREAT_BUTTON_NAME"
+msgstr "SELECT SHIP"
+
+msgid "IDS_VULNERABILITY_SELECT_OTHER_CUSTOM_THREAT_BUTTON_NAME"
+msgstr "SELECT ANOTHER SHIP"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HEADER"
+msgstr "%(damage)s of maximum projectile damage"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_PARAMS_DAMAGE"
+msgstr "Damage"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_RIBBON_HEADER"
+msgstr "Ribbons when dealing such damage"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_STATUS_COLOR_DAMAGE_CRITICAL"
+msgstr "In battle, such damage is displayed in red numbers next to the affected ship."
+
+msgid "IDS_VULNERABILITY_TOOLTIP_STATUS_COLOR_DAMAGE_HIGH"
+msgstr "In battle, such damage is displayed in orange numbers next to the affected ship."
+
+msgid "IDS_VULNERABILITY_TOOLTIP_STATUS_COLOR_DAMAGE_MEDIUM"
+msgstr "In battle, such damage is displayed in yellow numbers next to the affected ship."
+
 msgid "IDS_V_GREMITSKIY"
 msgstr "Vladimir Gremitskiy"
 
@@ -146039,6 +146825,9 @@ msgstr "+%(value)s %"
 
 msgid "IDS_WHILE_WAITING_OUR"
 msgstr "While you wait, you can visit our"
+
+msgid "IDS_WILLIAM_MEYER_JR"
+msgstr "William Meyer Jr."
 
 msgid "IDS_WILLIE_NEUMANN"
 msgstr "Willie Neumann"
