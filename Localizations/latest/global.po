@@ -7574,9 +7574,6 @@ msgstr "You will be able to choose the Premium Pass rewards for already achieved
 msgid "IDS_BATTLEPASS_PAID_TYPE_PROMO_REWARDS_SINGLE"
 msgstr "You will receive all individual rewards of the Premium Pass for already achieved levels:"
 
-msgid "IDS_BATTLEPASS_PURCHASE_BUTTON"
-msgstr "Purchase"
-
 msgid "IDS_BATTLEPASS_PURCHASE_BUTTON_BONUSES"
 msgstr "Purchase bonuses"
 
@@ -7736,6 +7733,9 @@ msgstr "You do not have any seasonal bonuses"
 msgid "IDS_BATTLEPASS_REWARDS_CLAIM_AUTOMATIC"
 msgstr "Automatically"
 
+msgid "IDS_BATTLEPASS_REWARDS_CLAIM_BUTTON"
+msgstr "Claim"
+
 msgid "IDS_BATTLEPASS_REWARDS_CLAIM_BUY_BONUSES_TEXT"
 msgstr "If you buy seasonal bonuses, you will be awarded both rewards"
 
@@ -7759,9 +7759,6 @@ msgstr "Elite Commander's Manual"
 
 msgid "IDS_BATTLEPASS_STATUS_BUTTON_BOOST"
 msgstr "Buy levels"
-
-msgid "IDS_BATTLEPASS_STATUS_BUTTON_BOOST_TOOLTIP"
-msgstr "Progress boost is unavailable after reaching the final level"
 
 msgid "IDS_BATTLEPASS_STATUS_BUTTON_CLAIM_REWARDS"
 msgstr "Claim rewards"
@@ -10083,9 +10080,6 @@ msgstr "Filter by ship name"
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SHIPTYPE"
 msgstr "Filter by class"
 
-msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SPECIAL"
-msgstr "Filter by 'Special' category"
-
 msgid "IDS_CAROUSEL_BRAWLBATTLE_FILTER"
 msgstr "Filter ships suitable for the Brawl"
 
@@ -11476,9 +11470,6 @@ msgstr "Additional XP due to Clan bonus"
 
 msgid "IDS_CLAN_UNLOCKED_DIVISION"
 msgstr "Clanmates of the Division Commander can join your Division without an invitation."
-
-msgid "IDS_CLASS"
-msgstr "Class"
 
 msgid "IDS_CLASS_AA_GOOD"
 msgstr "High AA defense efficiency"
@@ -13341,9 +13332,6 @@ msgstr "Reset"
 
 msgid "IDS_COMPENDIUM_RESET_COMPLETE"
 msgstr "Settings reset"
-
-msgid "IDS_COMPENDIUM_UNIFIED_STATUS_PRIMARY"
-msgstr "The ship is primary"
 
 msgid "IDS_COMPENDIUM_UNIFIED_STATUS_SHIP_IN_GROUP"
 msgstr "Ship in group"
@@ -29511,20 +29499,11 @@ msgstr "If you enter a battle with your last standard or special bonuses, they w
 msgid "IDS_ECONOMIC_BOOSTS_INSTALL_BTN"
 msgstr "Install"
 
-msgid "IDS_ECONOMIC_BOOSTS_TTX_GO_TO_MODAL_WINDOW_TOOLTIP"
-msgstr "Go to the Economic Bonuses screen"
-
 msgid "IDS_ECONOMIC_BOOSTS_TTX_LABEL"
 msgstr "Economic Bonuses"
 
 msgid "IDS_ECONOMIC_BOOSTS_TTX_NOT_INSTALLED_HINT"
 msgstr "No bonuses mounted"
-
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_EXPENDABLE_CATEGORY_TOOLTIP"
-msgstr "Expendable"
-
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_OTHER_CATEGORY_TOOLTIP"
-msgstr "Other"
 
 msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_COMMON"
 msgstr "Standard"
@@ -29559,9 +29538,6 @@ msgstr "Permanent bonuses are active"
 msgid "IDS_ECONOMIC_BOOST_SUMMARY_PERMANENT_SECTION_TOOLTIP"
 msgstr "Permanent"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE"
-msgstr "Total Bonus"
-
 msgid "IDS_ECONOMIC_BOOST_TYPE_CREDITSFACTOR_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "Silver"
 
@@ -29582,18 +29558,6 @@ msgstr "Rare Expendable Bonus"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_4"
 msgstr "Elite expendable bonus"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_1"
-msgstr "Standard Bonus"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_2"
-msgstr "Special Bonus"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_3"
-msgstr "Rare Bonus"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_4"
-msgstr "Elite Bonus"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPFACTOR_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "Ship XP"
@@ -33968,7 +33932,7 @@ msgid "IDS_GUIDING_TIP_147_HEADER"
 msgstr "Replacement of upgrades"
 
 msgid "IDS_GUIDING_TIP_148_DESC"
-msgstr "Select an upgrade to see the ships it is installed on. You can demount the upgrade from any ship in the list and install it on the selected ship."
+msgstr "Hover over the upgrade to see the ships it is installed on. You can demount the upgrade from any ship in the list and install it on the selected ship."
 
 msgid "IDS_GUIDING_TIP_148_HEADER"
 msgstr "Upgrade Selection"
@@ -36065,12 +36029,6 @@ msgstr "Show submarines"
 msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_SUBMARINE_DISABLE"
 msgstr "Reset submarines"
 
-msgid "IDS_HINT_CHECKBOX_FILTER_ELITE"
-msgstr "Show Elite ships"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_ELITE_DISABLE"
-msgstr "Reset elite ships"
-
 msgid "IDS_HINT_CHECKBOX_FILTER_EXP_BONUS"
 msgstr "Show ships with a combat bonus for XP"
 
@@ -36233,17 +36191,8 @@ msgstr "Show U.S. ships"
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_USA_DISABLE"
 msgstr "Reset USA ships"
 
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_ELITE"
-msgstr "You do not have any Elite ships"
-
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_EXP_BONUS"
 msgstr "You do not have any ships with a combat XP bonus"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_NOT_ELITE"
-msgstr "You do not have any ships without Elite status"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_PREMIUM"
-msgstr "You do not have any Premium ships"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_PVE"
 msgstr "You do not have any suitable ships for the Operation"
@@ -36251,20 +36200,11 @@ msgstr "You do not have any suitable ships for the Operation"
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_RANKED"
 msgstr "You do not have any ships suitable for Ranked Battles"
 
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_RENTED"
-msgstr "You do not have any rented ships"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SELECTED_BY_USER"
-msgstr "You have not designated any ships as primary"
-
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_AVAILABLE"
 msgstr "You have no ships with available trials"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_IN_PROGRESS"
 msgstr "You have no ships with active trials"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SPECIAL"
-msgstr "You do not have any special ships"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_WITHOUT_COMMANDER"
 msgstr "You do not have any ships without a Commander"
@@ -36272,23 +36212,11 @@ msgstr "You do not have any ships without a Commander"
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_WITH_COMMANDER"
 msgstr "You do not have any ships with a Commander"
 
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_ELITE"
-msgstr "Show ships that do not have Elite status"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_ELITE_DISABLE"
-msgstr "Reset ships that have not achieved elite status"
-
 msgid "IDS_HINT_CHECKBOX_FILTER_PARAGON_BONUS"
 msgstr "Show ships with a combat bonus for Research Points"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_PARAGON_BONUS_DISABLE"
 msgstr "Reset ships with a battle bonus for research points"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_PREMIUM"
-msgstr "Show Premium ships"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_PREMIUM_DISABLE"
-msgstr "Reset premium ships"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_PVE"
 msgstr "Show suitable ships for the Operation"
@@ -36304,18 +36232,6 @@ msgstr "Reset ships eligible for Ranked Battles"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_RELINK_TO"
 msgstr "Move the ship to this group"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_RENTED"
-msgstr "Show rented ships"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_RENTED_DISABLE"
-msgstr "Reset rented ships"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_SELECTED_BY_USER"
-msgstr "Show primary ships"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_SELECTED_BY_USER_DISABLE"
-msgstr "Reset primary ships"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_SHIP_CLASS_EARLY_ACCESS"
 msgstr "Show early-access ships"
@@ -36388,12 +36304,6 @@ msgstr "Show ships with festive rewards"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_SNOWFLAKES_DISABLE"
 msgstr "Reset ships with festive rewards"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_SPECIAL"
-msgstr "Show Special ships"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_SPECIAL_DISABLE"
-msgstr "Reset special ships"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_UNLINK_FROM"
 msgstr "Remove ship from the group"
@@ -44293,9 +44203,6 @@ msgstr "Server: "
 msgid "IDS_NARONG_DUANTA"
 msgstr "Narong Duangta"
 
-msgid "IDS_NATION"
-msgstr "Nation"
-
 msgid "IDS_NATIONS"
 msgstr "Nations"
 
@@ -45973,9 +45880,6 @@ msgstr "Remove from Blacklist"
 
 msgid "IDS_NOT_IGNORE_PLAYER_HINT"
 msgstr "Unblock messages from this player"
-
-msgid "IDS_NOT_INSTALLED"
-msgstr "Not mounted"
 
 msgid "IDS_NOT_IN_DIVISION_FOR_CLAN_BATTLE"
 msgstr "To participate in Clan Battles, assemble a Division or join an already existing one."
@@ -104049,9 +103953,6 @@ msgstr "240 mm BB Model 1944"
 msgid "IDS_PRPA207_130MM_HE_55_NAVARIN"
 msgstr "130 mm OF Model 1911"
 
-msgid "IDS_PRPA207_130MM_HE_NAVARIN_ATBA"
-msgstr "OF-46"
-
 msgid "IDS_PRPA208_406MM_HE_SEVEROMORSK"
 msgstr "406 mm OF Model 1928"
 
@@ -125315,7 +125216,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_0_TITLE_FULL"
-msgstr " Ship"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Special Tier X ship"
@@ -125334,18 +125235,6 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Special Tier X ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Tier X"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Premium Tier VIII-IX ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Tier VIII-IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -129173,7 +129062,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL240_EARLYACCESS_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL240_EARLYACCESS_SLOT_0_TITLE_FULL"
-msgstr " "
+msgstr "Early Access ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL240_EARLYACCESS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Tier VIII ship"
@@ -132110,9 +131999,6 @@ msgstr "Armor Thickness"
 
 msgid "IDS_SHIP_ARMOUR_WHOLE_RANGE"
 msgstr "Total range of armor thickness"
-
-msgid "IDS_SHIP_BONUS"
-msgstr "Bonuses"
 
 msgid "IDS_SHIP_BRANCHES_FEATURE"
 msgstr "Features"
@@ -138600,9 +138486,6 @@ msgstr "Spain"
 msgid "IDS_SPAIN_SUBMARINE"
 msgstr "Spanish submarines"
 
-msgid "IDS_SPECIAL"
-msgstr "Special"
-
 msgid "IDS_SPECIAL_SHIPS"
 msgstr "Special ships"
 
@@ -140877,9 +140760,6 @@ msgstr "Campaign completed"
 
 msgid "IDS_SYS_MSG_CAMPAIGNS_CAMPAIGN_DURATION_CHANGED_PROLONGATED"
 msgstr "Campaign duration has been extended"
-
-msgid "IDS_SYS_MSG_CAMPAIGNS_CAMPAIGN_DURATION_CHANGED_PROLONGATED_NEW"
-msgstr "The campaign is available for completion"
 
 msgid "IDS_SYS_MSG_CAMPAIGNS_CAMPAIGN_DURATION_CHANGED_REDUCED"
 msgstr "Campaign duration has been reduced"
@@ -144625,12 +144505,6 @@ msgstr "Play"
 
 msgid "IDS_TOOLTIP_PREMSHOP"
 msgstr "Learn more about special offers and visit the Premium Shop to make a purchase."
-
-msgid "IDS_TOOLTIP_PRIMARY_SHIP"
-msgstr "Primary ship"
-
-msgid "IDS_TOOLTIP_PRIMARY_SHIP_DESCRIPTION"
-msgstr "Primary ships are displayed first in the carousel"
 
 msgid "IDS_TOOLTIP_PRIORITY_SECTOR"
 msgstr "Group of AA guns"
