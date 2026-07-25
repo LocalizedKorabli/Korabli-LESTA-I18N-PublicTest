@@ -6422,7 +6422,7 @@ msgid "IDS_AUBOYNEAU"
 msgstr "Philippe Auboyneau"
 
 msgid "IDS_AUBOYNEAU_DESC"
-msgstr "<p>Philippe Marie Joseph Raymond Auboyneau (1899–1961) — a naval officer and admiral of the French Navy.</p><p class=\"p_spacing\"> </p><p>During World War II, he led the Free French naval forces in the Pacific region and fought alongside Australian sailors against the Japanese fleet. By 1944, he simultaneously held several senior positions but left them to personally participate in the amphibious operation in Provence. After the war, Auboyneau held high positions in the armed forces and government of France. For his merits, he was awarded the Grand Cross of the Legion of Honour.</p>"
+msgstr "<p>Philippe Auboyneau (1899–1961) — a French naval commander, from 1957 — admiral.</p><p class=\"p_spacing\"> </p><p>From 1917 he served in the navy, holding command and staff positions in the French Navy in the Far East until the start of World War II. After the defeat of France in 1940, he joined General de Gaulle's Free French movement, was appointed commander of the destroyer Le Triomphant, and participated in battles against the Japanese fleet in the Pacific. From 1942, Auboyneau commanded all naval forces of Free France and was promoted to rear admiral. In 1944, he personally led a cruiser division during the Allied landings in southern France. In 1945, he became head of the French Navy in the Far East and was promoted to vice admiral. After the war, he served as Inspector General of the Navy, and from 1952 to 1960 commanded the fleet in the theaters of operations in Indochina and Algeria. Later, he held several high state positions.</p>"
 
 msgid "IDS_AUC1"
 msgstr "Theodor \"Trouble\" Murphy"
@@ -21056,7 +21056,7 @@ msgid "IDS_CUNNINGHAM"
 msgstr "Andrew Cunningham"
 
 msgid "IDS_CUNNINGHAM_DESC"
-msgstr "<p>Andrew Browne Cunningham (1883–1963) — English admiral, participant of the Anglo-Boer, First and Second World Wars.</p><p class=\"p_spacing\"> </p><p>In 1939 he was appointed commander of the Mediterranean Fleet and for three years successfully operated against Italian naval forces: attacked bases and destroyed enemy warships, defended convoys and supported allied landing operations. In 1943 Cunningham became First Sea Lord.</p>"
+msgstr "<p>Andrew Cunningham (1883–1963) was a British naval commander, from 1943 — Admiral of the Fleet.</p><p class=\"p_spacing\"> </p><p>He began service in the navy in 1897. During World War I, he distinguished himself as a destroyer commander. In 1929, he was appointed commander of the battleship Rodney. From 1932, he held flag officer positions, and met World War II as a vice admiral and Commander-in-Chief of the Mediterranean Fleet. Under his leadership, operations such as the attack on Taranto in 1940, the Battle of Cape Matapan in 1941, the escort of Malta convoys, as well as the Allied landings in North Africa in 1942, Sicily and Italy in 1943 were conducted. In September 1943, Cunningham accepted the surrender of the Italian navy. After that, he was appointed First Sea Lord of the British Admiralty and until the end of the war carried out strategic command of the Royal Navy. He retired in 1946.</p>"
 
 msgid "IDS_CURRENCIES_OPERATION_AFTER"
 msgstr "After transaction"
@@ -21422,7 +21422,7 @@ msgid "IDS_CURRENCY_SHIPCOIN10_GET_DESCRIPTION"
 msgstr "You can get it for participating in events."
 
 msgid "IDS_CURRENCY_SHIPCOIN10_SPEND_DESCRIPTION"
-msgstr "Can be used to research and purchase any tier X ship in the \"Tech Tree\" section."
+msgstr "Can be used to obtain any researchable Tier X ship in the \"Tech Tree\" section."
 
 msgid "IDS_CURRENCY_SHIPCOIN7"
 msgstr "Tier VII Ship Warrant"
@@ -21431,7 +21431,7 @@ msgid "IDS_CURRENCY_SHIPCOIN7_GET_DESCRIPTION"
 msgstr "You can get it for participating in events."
 
 msgid "IDS_CURRENCY_SHIPCOIN7_SPEND_DESCRIPTION"
-msgstr "Can be used to research and purchase any tier VII ship in the \"Tech Tree\" section."
+msgstr "Can be used to obtain any researchable Tier VII ship in the \"Tech Tree\" section."
 
 msgid "IDS_CURRENCY_SHIPCOIN8"
 msgstr "Tier VIII Ship Warrant"
@@ -21440,7 +21440,7 @@ msgid "IDS_CURRENCY_SHIPCOIN8_GET_DESCRIPTION"
 msgstr "You can get it for participating in events."
 
 msgid "IDS_CURRENCY_SHIPCOIN8_SPEND_DESCRIPTION"
-msgstr "Can be used to research and purchase any tier VIII ship in the \"Tech Tree\" section."
+msgstr "Can be used to obtain any researchable Tier VIII ship in the \"Tech Tree\" section."
 
 msgid "IDS_CURRENCY_SHIPCOIN9"
 msgstr "Tier IX Ship Warrant"
@@ -21449,7 +21449,7 @@ msgid "IDS_CURRENCY_SHIPCOIN9_GET_DESCRIPTION"
 msgstr "You can get it for participating in events."
 
 msgid "IDS_CURRENCY_SHIPCOIN9_SPEND_DESCRIPTION"
-msgstr "Can be used to research and purchase any tier IX ship in the \"Tech Tree\" section."
+msgstr "Can be used to obtain any researchable Tier IX ship in the \"Tech Tree\" section."
 
 msgid "IDS_CURRENCY_SHIPCOIN_GET_DESCRIPTION"
 msgstr "You can get it for participating in events."
@@ -21461,7 +21461,7 @@ msgid "IDS_CURRENCY_SHIPCOIN_MOUSE_INSTRUCTION"
 msgstr "Purchase Ship Warrant"
 
 msgid "IDS_CURRENCY_SHIPCOIN_SPEND_DESCRIPTION"
-msgstr "Can be used to research and purchase ship of the corresponding tier in the \"Tech Tree\" section."
+msgstr "Can be used to obtain any researchable ship of the corresponding tier in the \"Tech Tree\" section."
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT"
 msgstr ""
@@ -22844,7 +22844,7 @@ msgid "IDS_DE_RUYTER"
 msgstr "Michiel de Ruyter"
 
 msgid "IDS_DE_RUYTER_DESC"
-msgstr "<p>Michiel Adriaenszoon de Ruyter (1607–1676) was a Dutch admiral, commander of the fleet during the first three Anglo-Dutch wars.</p><p class=\"p_spacing\"> </p><p>He won a series of major victories and went down in history as one of the outstanding naval commanders of his time. His strategic successes contributed to the development of line tactics in naval combat, which changed the history of naval battles. The admiral's name was and continues to be borne by several ships of the Royal Netherlands Navy.</p>"
+msgstr "<p>Michiel de Ruyter (1607–1676) — Dutch naval commander and national hero.</p><p class=\"p_spacing\"> </p><p>He went to sea at the age of 11, rising from cabin boy to captain. He distinguished himself in the battles of the First Anglo-Dutch War (1652–1654), becoming an admiral. During the Second Anglo-Dutch War (1665–1667), he served as commander of the Dutch fleet and in 1666 won the Four Days' Battle in the English Channel, and in 1667 carried out a successful raid on Chatham at the mouth of the Thames, destroying British shipyards and fleet. During the Third Anglo-Dutch War (1672–1674), he defeated the Anglo-French fleet at the Battle of Solebay in 1672 — one of the largest battles of the sailing era — as well as in the Battles of Schooneveld and Texel in 1673. In 1676, de Ruyter essentially fought two draws against superior French squadrons at Stromboli and Augusta, but in the latter battle was mortally wounded by a cannonball.</p>"
 
 msgid "IDS_DE_SEREBRENNIKOV"
 msgstr "Pyotr Serebrennikov"
@@ -34073,7 +34073,7 @@ msgid "IDS_FRIEDRICHBONTE"
 msgstr "Friedrich Bonte"
 
 msgid "IDS_FRIEDRICHBONTE_DESC"
-msgstr "<p>Friedrich Bonte (1896–1940) — Commodore of the Kriegsmarine, World War I veteran, Knight of the Iron Cross.</p><p class=\"p_spacing\"> </p><p>In the autumn of 1939, he was appointed commander of the Kriegsmarine destroyers. During the Norwegian operation in April 1940, he led the flotilla in the Battle of Narvik, accomplishing the task of capturing the strategically important port. The day after the capture of Narvik, he was killed in action against British destroyers.</p>"
+msgstr "<p>Friedrich Bonte (1896–1940) — German naval officer, from 1940 — commodore.</p><p class=\"p_spacing\"> </p><p>He began service in the navy in 1914. During the First World War, he took part in combat operations as a crew member of the Imperial German Navy's battlecruisers. In 1919, he participated in the scuttling by German crews of the ships of the High Seas Fleet, which had surrendered and were interned by the British at Scapa Flow. He continued his service in the German Navy and by the start of the Second World War held the rank of Kapitän zur See (captain 1st rank), commanding the 2nd Destroyer Flotilla. In October 1939, he was appointed Commander of Destroyers of the Kriegsmarine. During the Norwegian campaign of 1940, Bonte commanded a battle group of 10 destroyers that landed troops at the port of Narvik on April 9. The next day, the group was attacked by British destroyers: the flagship Z-21 Wilhelm Heidkamp was torpedoed, and Bonte died along with the ship.</p>"
 
 msgid "IDS_FROM_COMMANDERS"
 msgstr "From Commanders"
@@ -37654,7 +37654,7 @@ msgid "IDS_HORACEHOOD"
 msgstr "Horace Hood"
 
 msgid "IDS_HORACEHOOD_DESC"
-msgstr "<p>Horace Lambert Alexander Hood (1870–1916) — Rear Admiral of the Royal Navy of Great Britain.</p><p class=\"p_spacing\"> </p><p>He came from a noble family that gave the British Empire several admirals. As a young officer, he distinguished himself in a number of military campaigns in Africa. During the First World War, as head of the Dover Patrol, he fought against German submarines and later commanded a squadron of battlecruisers. He died during the Battle of Jutland.</p>"
+msgstr "<p>Horace Hood (1870–1916) — viscount, British naval officer, from 1913 — rear admiral.</p><p class=\"p_spacing\"> </p><p>He came from a family of great British naval commanders of the sailing era of the 18th century. He began service in the navy at age 12. In 1898, he distinguished himself commanding a gunboat on the Nile in battles against Sudanese rebels. In 1904, at the head of a detachment of sailors and infantrymen, he showed personal bravery in battles against Somali rebels. At the beginning of the First World War, he commanded a squadron of monitors that successfully supported the coastal flank of Allied forces in the Dover Strait. From May 1915, he commanded the 3rd Battlecruiser Squadron of the Grand Fleet. In the Battle of Jutland on 30 May 1916, Hood's squadron was in the vanguard of the main forces. Its flagship, the battlecruiser Invincible, received a hit in the main caliber magazine and sank. Horace Hood died together with his ship.</p>"
 
 msgid "IDS_HORSE_POWER"
 msgstr "hp"
@@ -37829,7 +37829,7 @@ msgid "IDS_IJUINMATSUJI"
 msgstr "Matsuji Ijūin"
 
 msgid "IDS_IJUINMATSUJI_DESC"
-msgstr "<p>Matsuji Ijūin (1893–1944) — commander of the Imperial Japanese Navy. Posthumously promoted to vice admiral.</p><p class=\"p_spacing\"> </p><p>In the initial period of World War II in the Pacific, he commanded the cruiser Atago and the battleship Kongō. At the head of a destroyer squadron, he participated in the struggle for the Solomon Islands, defeated the Americans in the Battle of Vella Lavella in October 1943. He was killed in action off Saipan in May 1944. </p>"
+msgstr "<p>Matsuji Ijūin (1893–1944) — a Japanese naval officer, posthumously promoted to vice admiral.</p><p class=\"p_spacing\"> </p><p>The son of Fleet Marshal Goro Ijūin, he graduated from the Naval Academy in 1915. By December 1941, he held the rank of captain (1st rank) and commanded the cruiser Atago. In June 1942, he participated in the Battle of Midway, and from December commanded the battleship Kongo. In July 1943, he was appointed commander of the 3rd Destroyer Flotilla, leading successful night battles against the American fleet near Vella Lavella Island in the Solomon Islands archipelago. On November 1, 1943, Matsuji Ijūin was promoted to rear admiral. The very next day, his flagship — the cruiser Sendai — was sunk in the Battle of Bougainville, and Ijūin himself was rescued by a submarine. Later, he held a staff position, and from April 1944 commanded the 1st Escort Fleet. On May 2, 1944, Matsuji Ijūin was killed on the escort vessel Iki, torpedoed by a submarine.</p>"
 
 msgid "IDS_IKEDAMAMORU"
 msgstr "Ikeda Mamoru"
@@ -38685,13 +38685,13 @@ msgid "IDS_JASON_TUMANOFF"
 msgstr "Yazon Tumanoff"
 
 msgid "IDS_JASON_TUMANOFF_DESC"
-msgstr "<p>Yazon Konstantinovich Tumanov (1883–1955) — prince, Russian and Paraguayan naval officer, captain 1st rank.</p><p class=\"p_spacing\"> </p><p>During the Russo-Japanese War, he served on the battleship Oryol and was severely wounded at the Battle of Tsushima. During the First World War, he commanded the destroyer Zhivuchiy on the Black Sea and was awarded all combat orders up to the Order of St. George. After the October Revolution and the start of the Civil War, he sided with the White movement and in 1924 emigrated to South America. In the early 1930s, he took part in the Chaco War between Paraguay and Bolivia as an advisor to the Paraguayan river forces. In subsequent years, Yazon Konstantinovich lived in the capital of Paraguay — Asunción, supported the development of the local Russian community, and also became known as the author of memoirs and essays about service in the Russian and Paraguayan navies.</p>"
+msgstr "<p>Yazon Konstantinovich Tumanov (1883–1955) — a prince, Russian and Paraguayan naval officer, captain of the 1st rank.</p><p class=\"p_spacing\"> </p><p>During the Russo-Japanese War, he served on the battleship \"Oryol\", was seriously wounded in the Battle of Tsushima. During World War I, he commanded the destroyer \"Zhivuchy\", served as head of the operational department of the Black Sea Fleet headquarters, and was awarded four combat orders. He participated in the Civil War on the side of the Whites, emigrated, and in 1924 moved to South America. In 1932-1935, he took part in the Chaco War between Paraguay and Bolivia, distinguishing himself as an organizer of the Paraguayan river combat forces. Yazon Konstantinovich lived in the capital of Paraguay, Asunción, supported the development of the local Russian community, and left a book of memoirs about his service in the Russian and Paraguayan navies.</p>"
 
 msgid "IDS_JENKINS"
 msgstr "Leroy Jenkins"
 
 msgid "IDS_JENKINS_DESC"
-msgstr "<p>Leroy Jenkins (1934–2025) — American sailor, whose life turned out to be closely connected with the destroyer USS Kidd.</p><p class=\"p_spacing\"> </p><p>In 1955, he was drafted into the US Army, graduated from the US Navy Training Center in San Diego, and in 1957 served on the USS Kidd. After completing his service, Jenkins left the US Navy and returned to civilian life. Many years later, he found himself aboard the ship again — but this time as a museum employee.</p>"
+msgstr "<p>Leroy Jenkins (1934–2025) — American sailor whose life was closely tied to the destroyer USS Kidd.</p><p class=\"p_spacing\"> </p><p>In 1955, he was drafted into the US Navy, graduated from the naval training center in San Diego, and in 1957 served on the USS Kidd. After completing his service, Jenkins returned to civilian life. Years later, he found himself aboard the ship again, but this time as a museum employee.</p>"
 
 msgid "IDS_JG_MEPHISTEUFEL_H18"
 msgstr "J.G. Mephisteufel"
@@ -39079,7 +39079,7 @@ msgid "IDS_KUZNETSOV"
 msgstr "Nikolay Kuznetsov"
 
 msgid "IDS_KUZNETSOV_DESC"
-msgstr "<p>Nikolai Gerasimovich Kuznetsov (1904–1974) — Admiral of the Fleet of the Soviet Union, People's Commissar of the Navy of the USSR.</p><p class=\"p_spacing\"> </p><p>Thanks to the decisive actions of Nikolai Gerasimovich, the Soviet fleet was put on combat alert and managed to avoid major losses after Germany's surprise attack on the USSR. Kuznetsov successfully commanded the fleet during the Great Patriotic War, constantly visiting ships and fronts. In 1945, he was awarded the title of Hero of the Soviet Union.</p>"
+msgstr "<p>Nikolai Gerasimovich Kuznetsov (1904–1974) — Soviet naval commander, from 1955 — Admiral of the Fleet of the Soviet Union.</p><p class=\"p_spacing\"> </p><p>He began his service in the navy in 1919. In 1926, he graduated from the Frunze Naval School in Leningrad. From 1933, he commanded the cruiser \"Krasny Kavkaz\" on the Black Sea Fleet, and in 1936–1937, he participated in the Spanish Civil War. In 1938, he was appointed commander of the Pacific Fleet, and in 1939 — People's Commissar of the Navy of the USSR. Kuznetsov made a great contribution to strengthening the Soviet fleet before the beginning of the Great Patriotic War, and during the war he successfully directed the construction and use of the Navy. In 1944, Kuznetsov was promoted to Admiral of the Fleet, and in 1945 he was awarded the title of Hero of the Soviet Union. From 1946 to 1948 and from 1953 to 1955, he held the post of Commander-in-Chief of the Navy, and in 1951–1953 he was Minister of the Navy of the USSR. From 1956 — retired.</p>"
 
 msgid "IDS_K_TYPE_SUBTEST"
 msgstr "Semyon Rybakov"
@@ -39243,7 +39243,7 @@ msgid "IDS_LEO_GRADWELL"
 msgstr "Leo Gradwell"
 
 msgid "IDS_LEO_GRADWELL_DESC"
-msgstr "<p>Joseph Leo Anthony Gradwell (1899–1969) — commander of an anti-submarine vessel, lawyer and magistrate. An Oxford graduate who spoke six languages, in wartime he was a resourceful sailor.</p><p class=\"p_spacing\"> </p><p>In July 1942, Lieutenant of the Royal Naval Reserve Leo Gradwell took under the protection of his small armed trawler three transports from the scattered convoy PQ-17 and led them along the edge of the Arctic ice to Novaya Zemlya, and then to Arkhangelsk, managing to avoid encounter with German submarines and aircraft. For this feat, Gradwell was awarded the Distinguished Service Cross.</p>"
+msgstr "<p>Leo Gradwell (1899–1969) was a British naval officer, by civilian profession a lawyer.</p><p class=\"p_spacing\"> </p><p>He graduated from Oxford University and spoke six languages. During World War I, he served as a midshipman in the Navy, after which he was demobilized. Returning to civilian life, he worked as a lawyer and was fond of sailing. With the outbreak of World War II, he re-entered service, was commissioned as a lieutenant in the Royal Naval Volunteer Reserve. In 1942, he transferred to active service and was appointed commander of the converted trawler Ayrshire, which had been turned into a patrol vessel. As part of the escort of Arctic convoy PQ-17, Gradwell saved three transports from the scattered convoy and from July 4 to July 25 led them along the edge of the Arctic ice to Novaya Zemlya, and then to Arkhangelsk, managing to avoid attacks from enemy aircraft and submarines. For this feat, he was awarded the Distinguished Service Cross. After the war, he returned to legal practice.</p>"
 
 msgid "IDS_LEPRECHAUN"
 msgstr "Seán McMurphy"
@@ -41232,7 +41232,7 @@ msgid "IDS_LUTJENS"
 msgstr "Günther Lütjens"
 
 msgid "IDS_LUTJENS_DESC"
-msgstr "<p>Johann Günther Lütjens (1889–1941) — admiral of the Kriegsmarine, who served in the German navy for over 30 years.</p><p class=\"p_spacing\"> </p><p>During the Second World War, he was the organizer of a number of raider operations of the German fleet. In 1941, he commanded a formation consisting of the battleship Bismarck and the heavy cruiser Prinz Eugen during Operation Rhine Exercise, the goal of which was to destroy British convoys. On May 27, 1941, Lütjens died together with the battleship Bismarck in its last battle.</p>"
+msgstr "<p>Günther Lütjens (1889–1941) was a German naval officer, from 1940 an admiral.</p><p class=\"p_spacing\"> </p><p>He began his naval service in 1907. During World War I, he distinguished himself as a destroyer commander. After the war, he continued his service, and from 1937, holding the rank of rear admiral, he commanded reconnaissance forces comprising destroyers and cruisers. At the start of World War II, Lütjens directed the operations of German warships off the coasts of Poland, Great Britain, and Norway, for which he was promoted to vice admiral and subsequently appointed commander of surface forces. In January 1941, under his leadership, the battleships Scharnhorst and Gneisenau conducted a successful raid in the Atlantic, attacking enemy shipping lanes. In May of that year, Lütjens sailed into the North Atlantic with the battleship Bismarck and the cruiser Prinz Eugen. On May 24, in the Battle of the Denmark Strait, Bismarck sank the British battlecruiser Hood, and on May 27, Lütjens perished with the battleship in its final battle.</p>"
 
 msgid "IDS_L_O_C_A_L_I_Z_E_D_K_O_R_A_B_L_I"
 msgstr "Copyright © 2024–2026 LocalizedKorabli"
@@ -41793,7 +41793,7 @@ msgid "IDS_MAKAROV"
 msgstr "Stepan Makarov"
 
 msgid "IDS_MAKAROV_DESC"
-msgstr "<p>Stepan Osipovich Makarov (1849–1904) was an outstanding naval commander, theorist of naval warfare, scientist, and inventor.</p><p class=\"p_spacing\"> </p><p>During the Russo-Turkish War of 1877–1878, he commanded the steamship \"Grand Duke Constantine\" and successfully attacked Turkish ships using mine boats. In the 1890s, he became the developer of the project for Russia's first sea icebreaker \"Yermak,\" on which he later made two Arctic voyages, reaching the shores of Spitsbergen, Novaya Zemlya, and Franz Josef Land. In 1904, while commanding the 1st Pacific Squadron during the Russo-Japanese War, Makarov perished along with his flagship battleship \"Petropavlovsk.\" The admiral was awarded many honors, including the Order of St. George, 4th degree, and the badge for members of the Imperial Suite.</p>"
+msgstr "<p>Stepan Osipovich Makarov (1849–1904) — Russian naval commander, naval theorist, and scientist. From 1896 — Vice-Admiral.</p><p class=\"p_spacing\"> </p><p>In 1865, he graduated from the Navigation School of Navigators. During the Russo-Turkish War of 1877–1878, he commanded a mine boat carrier — the steamer \"Grand Duke Konstantin\" — and for the first time in history carried out a successful torpedo attack. He developed the theory of ship unsinkability. In the 1890s, he commanded squadrons in the Baltic, the Mediterranean Sea, and the Far East. In 1899–1901, on the world's first icebreaker \"Yermak\", built at his suggestion, he conducted three Arctic expeditions. With the start of the Russo-Japanese War, he was appointed commander of the 1st Pacific Squadron in Port Arthur and successfully directed its actions. On April 13, 1904, Stepan Osipovich died together with the battleship \"Petropavlovsk\", which was blown up by a mine.</p>"
 
 msgid "IDS_MAKE_TRAINING_ROOM_CLOSED"
 msgstr "Closed room"
@@ -108850,10 +108850,10 @@ msgid "IDS_PRUD920_DB_SEVEROMORSK"
 msgstr "Sukhoi Su-2"
 
 msgid "IDS_PRUE001_ENGINE_12000"
-msgstr "Propulsion: 12,000 hp"
+msgstr "Propulsion: 12,000 hp"
 
 msgid "IDS_PRUE011_C1_ENG_STOCK"
-msgstr "Propulsion: 20,000 hp"
+msgstr "Propulsion: 20,000 hp"
 
 msgid "IDS_PRUE101_ENGINE_11600_DIANA"
 msgstr "Propulsion: 11,600 hp"
@@ -131869,10 +131869,10 @@ msgid "IDS_RVR_ELSWICK"
 msgstr "Edward Elswick"
 
 msgid "IDS_SAGAS_ARCHIVE_MW_EPISODE_LABEL_NUM"
-msgstr "Episode %(_value)s"
+msgstr "Chapter %(_value)s"
 
 msgid "IDS_SAGAS_MODAL_WINDOW_HEADER_ARCHIVE"
-msgstr "Completed Episodes"
+msgstr "All Chapters of the Story"
 
 msgid "IDS_SAGAS_MODAL_WINDOW_HEADER_JOURNEY"
 msgstr "Tasks"
@@ -131947,7 +131947,7 @@ msgid "IDS_SAGA_FINAL_DESCRIPTION"
 msgstr "You can view completed chapters in the story archive."
 
 msgid "IDS_SAGA_FINAL_ETERIA_FINAL_STATS_TIME_DESCRIPTION"
-msgstr "The 'Guardians of Etheria: Ice & Steam' event has concluded."
+msgstr "The 'Guardians of Etheria: Ice & Steam' event has ended."
 
 msgid "IDS_SAGA_FINAL_STATS_REACHED_TITLE"
 msgstr "Event Completed"
@@ -132034,7 +132034,7 @@ msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_JOURNEY_MOUSE_INSTRUCTION"
 msgstr "Continue execution"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_STORY_DESCRIPTION"
-msgstr "Most recently unlocked chapter"
+msgstr "Current chapter"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_STORY_HEADER"
 msgstr "Story"
@@ -142118,7 +142118,7 @@ msgid "IDS_SWIRSKI"
 msgstr "Jerzy Świrski"
 
 msgid "IDS_SWIRSKI_DESC"
-msgstr "<p>Jerzy Włodzimierz (Georgy Vladimirovich) Świrski (1882–1959) — a Russian and Polish naval and state figure, vice admiral of the Polish Navy.</p><p class=\"p_spacing\"> </p><p>During World War I, he served in the Black Sea Fleet and in 1917 received the rank of captain 1st rank. In 1919, he emigrated to Warsaw. Świrski was one of the founders of the navy of the Republic of Poland, and in 1922 became its first commander. During World War II, he received the rank of vice admiral, effectively served as commander of the Polish Navy, and was awarded the Order of the Bath.</p>"
+msgstr "<p>Jerzy Włodzimierz (George Vladimirovich) Świrski (1882–1959) — a Russian and Polish naval officer, from 1941 — vice-admiral of the Polish Navy.</p><p class=\"p_spacing\"> </p><p>In 1902 he graduated from the Naval Cadet Corps in St. Petersburg and served in the Black Sea Fleet. During World War I, he served as the fleet's flag navigator, and in 1917 he was promoted to captain of the 1st rank for distinction. From 1919, Świrski was in Warsaw, where he became the first commander of the fleet of the Polish Republic, and later — head of the Naval Department of the Ministry of Military Affairs. In 1931 he received the rank of rear admiral. After the defeat of Poland in September 1939, he held the same position in the Polish government-in-exile in the West. During World War II, Świrski effectively commanded the Polish Navy, which fought as part of the Royal Navy, and was awarded the highest British Order of the Bath. After the war, he lived in London.</p>"
 
 msgid "IDS_SWITCH_CAMERA"
 msgstr "Change position"
@@ -144596,7 +144596,7 @@ msgid "IDS_THEODORECHANDLER"
 msgstr "Theodore E. Chandler"
 
 msgid "IDS_THEODORECHANDLER_DESC"
-msgstr "<p>Theodore Edson Chandler (1894–1945) — Rear Admiral, United States Navy.</p><p class=\"p_spacing\"> </p><p>During World War II, commanding the cruiser Omaha, he hunted German blockade runners in the Atlantic. In 1944, commanding a cruiser division, Chandler participated in the Allied landings in France, and later, commanding a battleship division, he took part in the Battle of Leyte Gulf. On January 6, 1945, the rear admiral was mortally wounded on the bridge of his ship during a kamikaze attack.</p>"
+msgstr "<p>Theodore Chandler (1894–1945) — American naval officer, from 1944 — Rear Admiral.</p><p class=\"p_spacing\"> </p><p>Chandler came from a family of hereditary naval officers. In 1915 he graduated from the Naval Academy in Annapolis. In 1941, with the rank of captain (captain 1st rank), he was appointed commander of the cruiser Omaha and operated in the Atlantic. From April 1943 he headed the U.S. naval forces in the southern Caribbean Sea, which were fighting submarines. In July 1944 he was assigned as commander of a cruiser division that supported the Allied landing operation in southern France. He then commanded a battleship division in the Pacific, took part in the Battle of Surigao Strait, and from December 1944 served as commander of a cruiser division. On January 5, 1945, during a landing operation in the Philippines, Theodore Chandler was mortally wounded on his flagship — the cruiser Louisville during a kamikaze attack.</p>"
 
 msgid "IDS_THE_WAITING_TIME_IN_A_COOPERATIVE_BATTLE_IS_FIXED"
 msgstr "Guaranteed matchmaking within 30 seconds"
@@ -145772,7 +145772,7 @@ msgid "IDS_TOGO"
 msgstr "Tōgō Heihachirō"
 
 msgid "IDS_TOGO_DESC"
-msgstr "<p>Tōgō Heihachirō (1847–1934) — a Japanese naval commander, awarded all the highest orders of the empire, member of the Supreme Military Council under the Emperor, Marshal of the Navy, Marquis.</p><p class=\"p_spacing\"> </p><p>During the Russo-Japanese War, he was the Commander-in-Chief of the Combined Fleet and the commander of the 1st Squadron. Under his leadership, the Imperial Navy won the Battle of Tsushima. In 1914–1921, Tōgō Heihachirō oversaw the education of the heir to the Japanese throne, Prince Hirohito.</p>"
+msgstr "<p>Tōgō Heihachirō (1848–1934) — a Japanese fleet commander, who from 1913 held the honorary title of Marshal Admiral.</p><p class=\"p_spacing\"> </p><p>He received his naval education in Great Britain in the 1870s. Commanding the cruiser Naniwa, he distinguished himself in the First Sino-Japanese War of 1894–1895 and was promoted to rear admiral. During the Russo-Japanese War, he was appointed commander-in-chief of the Combined Fleet of Japan with the rank of admiral. Acting successfully against the 1st Pacific Squadron off Port Arthur, he achieved dominance at sea, then won a victory over the 2nd Squadron in the Battle of Tsushima. In 1905–1909, Tōgō Heihachirō served as Chief of the Imperial Japanese Navy General Staff, member of the Supreme War Council of the Empire, and was awarded all of Japan's highest orders. In 1913 he retired and until 1924 was one of the educators of the future Emperor, Prince Hirohito.</p>"
 
 msgid "IDS_TOKEN_TARGET_TYPE_BATTLEPASS"
 msgstr "Battle Pass"
@@ -147397,7 +147397,7 @@ msgid "IDS_TRUBETSKOY"
 msgstr "Vladimir Trubetskoy"
 
 msgid "IDS_TRUBETSKOY_DESC"
-msgstr "<p>Vladimir Vladimirovich Trubetskoy (1868–1931) — Prince, Rear Admiral of the Russian Imperial Navy.</p><p class=\"p_spacing\"> </p><p>During the war with Japan, he commanded one of the first Russian submarines. During the First World War, he fought against the Turkish fleet in the Black Sea, headed a destroyer division, and then commanded the battleship \"Imperatritsa Mariya\". For his distinctions in battle, he was awarded the Order of St. George and the British Order of the Bath.</p>"
+msgstr "<p>Vladimir Vladimirovich Trubetskoy (1868–1931) — prince, Russian naval officer, from 1916 — rear admiral.</p><p class=\"p_spacing\"> </p><p>In 1891, he graduated from the Naval Cadet Corps. During the Russo-Japanese War, he commanded one of the first Russian submarines, \"Som,\" in Vladivostok. By the beginning of World War I, he held the rank of captain 1st rank and commanded a destroyer division in the Black Sea Fleet. In a naval battle on October 29, 1914, near Sevastopol, he led a torpedo attack on the German battlecruiser Goeben. In 1915–1916, he commanded a division of Derzky-class destroyers and was awarded the Golden Weapon of St. George and the Order of St. George, 4th degree, for operations off the Turkish coast. In 1916, he was appointed commander of the fleet's flagship battleship \"Imperatritsa Maria\" and later became chief of the Black Sea Mine Brigade. After the revolution and the Civil War, he emigrated and lived in Paris.</p>"
 
 msgid "IDS_TRUS"
 msgstr "Trus"
